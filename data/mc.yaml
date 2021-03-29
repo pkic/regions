@@ -1,0 +1,140 @@
+name: Monaco
+iso3166-1: MC
+complete: false
+regions:
+    
+
+    # Fontvieille
+    - codes:
+        iso3166-2: MC-FO
+      names:
+        - name: Fontvieille
+          sources: [iso3166-2]
+    
+
+    # Jardin Exotique
+    - codes:
+        iso3166-2: MC-JE
+      names:
+        - name: Jardin Exotique
+          sources: [iso3166-2]
+    
+
+    # La Colle
+    - codes:
+        iso3166-2: MC-CL
+      names:
+        - name: La Colle
+          sources: [iso3166-2]
+    
+
+    # La Condamine
+    - codes:
+        iso3166-2: MC-CO
+      names:
+        - name: La Condamine
+          sources: [iso3166-2]
+    
+
+    # La Gare
+    - codes:
+        iso3166-2: MC-GA
+      names:
+        - name: La Gare
+          sources: [iso3166-2]
+    
+
+    # La Source
+    - codes:
+        iso3166-2: MC-SO
+      names:
+        - name: La Source
+          sources: [iso3166-2]
+    
+
+    # Larvotto
+    - codes:
+        iso3166-2: MC-LA
+      names:
+        - name: Larvotto
+          sources: [iso3166-2]
+    
+
+    # Malbousquet
+    - codes:
+        iso3166-2: MC-MA
+      names:
+        - name: Malbousquet
+          sources: [iso3166-2]
+    
+
+    # Monaco-Ville
+    - codes:
+        iso3166-2: MC-MO
+      names:
+        - name: Monaco-Ville
+          sources: [iso3166-2]
+    
+
+    # Moneghetti
+    - codes:
+        iso3166-2: MC-MG
+      names:
+        - name: Moneghetti
+          sources: [iso3166-2]
+    
+
+    # Monte-Carlo
+    - codes:
+        iso3166-2: MC-MC
+      names:
+        - name: Monte-Carlo
+          sources: [iso3166-2]
+    
+
+    # Moulins
+    - codes:
+        iso3166-2: MC-MU
+      names:
+        - name: Moulins
+          sources: [iso3166-2]
+    
+
+    # Port-Hercule
+    - codes:
+        iso3166-2: MC-PH
+      names:
+        - name: Port-Hercule
+          sources: [iso3166-2]
+    
+
+    # Saint-Roman
+    - codes:
+        iso3166-2: MC-SR
+      names:
+        - name: Saint-Roman
+          sources: [iso3166-2]
+    
+
+    # Sainte-Dévote
+    - codes:
+        iso3166-2: MC-SD
+      names:
+        - name: Sainte-Dévote
+          sources: [iso3166-2]
+    
+
+    # Spélugues
+    - codes:
+        iso3166-2: MC-SP
+      names:
+        - name: Spélugues
+          sources: [iso3166-2]
+    
+
+    # Vallon de la Rousse
+    - codes:
+        iso3166-2: MC-VR
+      names:
+        - name: Vallon de la Rousse
+          sources: [iso3166-2]

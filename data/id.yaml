@@ -1,0 +1,321 @@
+iso3166-1: ID
+complete: false
+regions:
+    
+
+    # Aceh
+    - codes:
+        iso3166-2: ID-AC
+      names:
+        - name: Aceh
+          sources: [iso3166-2]
+    
+
+    # Bali
+    - codes:
+        iso3166-2: ID-BA
+      names:
+        - name: Bali
+          sources: [iso3166-2]
+    
+
+    # Banten
+    - codes:
+        iso3166-2: ID-BT
+      names:
+        - name: Banten
+          sources: [iso3166-2]
+    
+
+    # Bengkulu
+    - codes:
+        iso3166-2: ID-BE
+      names:
+        - name: Bengkulu
+          sources: [iso3166-2]
+    
+
+    # Gorontalo
+    - codes:
+        iso3166-2: ID-GO
+      names:
+        - name: Gorontalo
+          sources: [iso3166-2]
+    
+
+    # Jakarta Raya
+    - codes:
+        iso3166-2: ID-JK
+      names:
+        - name: DKI Jakarta; DKI
+          sources: [iso3166-2]
+        - name: Jakarta Raya
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jambi
+    - codes:
+        iso3166-2: ID-JA
+      names:
+        - name: Jambi
+          sources: [iso3166-2]
+    
+
+    # Jawa
+    - codes:
+        iso3166-2: ID-JW
+      names:
+        - name: Jawa
+          sources: [iso3166-2]
+    
+
+    # Jawa Barat
+    - codes:
+        iso3166-2: ID-JB
+      names:
+        - name: Jawa Barat
+          sources: [iso3166-2]
+    
+
+    # Jawa Tengah
+    - codes:
+        iso3166-2: ID-JT
+      names:
+        - name: Jawa Tengah
+          sources: [iso3166-2]
+    
+
+    # Jawa Timur
+    - codes:
+        iso3166-2: ID-JI
+      names:
+        - name: Jawa Timur
+          sources: [iso3166-2]
+    
+
+    # Kalimantan
+    - codes:
+        iso3166-2: ID-KA
+      names:
+        - name: Kalimantan
+          sources: [iso3166-2]
+    
+
+    # Kalimantan Barat
+    - codes:
+        iso3166-2: ID-KB
+      names:
+        - name: Kalimantan Barat
+          sources: [iso3166-2]
+    
+
+    # Kalimantan Selatan
+    - codes:
+        iso3166-2: ID-KS
+      names:
+        - name: Kalimantan Selatan
+          sources: [iso3166-2]
+    
+
+    # Kalimantan Tengah
+    - codes:
+        iso3166-2: ID-KT
+      names:
+        - name: Kalimantan Tengah
+          sources: [iso3166-2]
+    
+
+    # Kalimantan Timur
+    - codes:
+        iso3166-2: ID-KI
+      names:
+        - name: Kalimantan Timur
+          sources: [iso3166-2]
+    
+
+    # Kalimantan Utara
+    - codes:
+        iso3166-2: ID-KU
+      names:
+        - name: Kalimantan Utara
+          sources: [iso3166-2]
+    
+
+    # Kepulauan Bangka Belitung
+    - codes:
+        iso3166-2: ID-BB
+      names:
+        - name: Kepulauan Bangka Belitung
+          sources: [iso3166-2]
+    
+
+    # Kepulauan Riau
+    - codes:
+        iso3166-2: ID-KR
+      names:
+        - name: Kepulauan Riau
+          sources: [iso3166-2]
+    
+
+    # Lampung
+    - codes:
+        iso3166-2: ID-LA
+      names:
+        - name: Lampung
+          sources: [iso3166-2]
+    
+
+    # Maluku
+    - codes:
+        iso3166-2: ID-ML
+      names:
+        - name: Maluku
+          sources: [iso3166-2]
+    
+
+    # Maluku Utara
+    - codes:
+        iso3166-2: ID-MU
+      names:
+        - name: Maluku Utara
+          sources: [iso3166-2]
+    
+
+    # Nusa Tenggara
+    - codes:
+        iso3166-2: ID-NU
+      names:
+        - name: Nusa Tenggara
+          sources: [iso3166-2]
+    
+
+    # Nusa Tenggara Barat
+    - codes:
+        iso3166-2: ID-NB
+      names:
+        - name: Nusa Tenggara Barat
+          sources: [iso3166-2]
+    
+
+    # Nusa Tenggara Timur
+    - codes:
+        iso3166-2: ID-NT
+      names:
+        - name: Nusa Tenggara Timur
+          sources: [iso3166-2]
+    
+
+    # Papua
+    - codes:
+        iso3166-2: ID-PP
+      names:
+        - name: Papua
+          sources: [iso3166-2]
+    
+
+    # Papua Barat
+    - codes:
+        iso3166-2: ID-PB
+      names:
+        - name: Papua Barat
+          sources: [iso3166-2]
+    
+
+    # Riau
+    - codes:
+        iso3166-2: ID-RI
+      names:
+        - name: Riau
+          sources: [iso3166-2]
+    
+
+    # Sulawesi
+    - codes:
+        iso3166-2: ID-SL
+      names:
+        - name: Sulawesi
+          sources: [iso3166-2]
+    
+
+    # Sulawesi Barat
+    - codes:
+        iso3166-2: ID-SR
+      names:
+        - name: Sulawesi Barat
+          sources: [iso3166-2]
+    
+
+    # Sulawesi Selatan
+    - codes:
+        iso3166-2: ID-SN
+      names:
+        - name: Sulawesi Selatan
+          sources: [iso3166-2]
+    
+
+    # Sulawesi Tengah
+    - codes:
+        iso3166-2: ID-ST
+      names:
+        - name: Sulawesi Tengah
+          sources: [iso3166-2]
+    
+
+    # Sulawesi Tenggara
+    - codes:
+        iso3166-2: ID-SG
+      names:
+        - name: Sulawesi Tenggara
+          sources: [iso3166-2]
+    
+
+    # Sulawesi Utara
+    - codes:
+        iso3166-2: ID-SA
+      names:
+        - name: Sulawesi Utara
+          sources: [iso3166-2]
+    
+
+    # Sumatera
+    - codes:
+        iso3166-2: ID-SM
+      names:
+        - name: Sumatera
+          sources: [iso3166-2]
+    
+
+    # Sumatera Barat
+    - codes:
+        iso3166-2: ID-SB
+      names:
+        - name: Sumatera Barat
+          sources: [iso3166-2]
+    
+
+    # Sumatera Selatan
+    - codes:
+        iso3166-2: ID-SS
+      names:
+        - name: Sumatera Selatan
+          sources: [iso3166-2]
+    
+
+    # Sumatera Utara
+    - codes:
+        iso3166-2: ID-SU
+      names:
+        - name: Sumatera Utara
+          sources: [iso3166-2]
+    
+
+    # Yogyakarta
+    - codes:
+        iso3166-2: ID-YO
+      names:
+        - name: DI Yogya; DIY
+          sources: [iso3166-2]
+        - name: Yogyakarta
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,1943 @@
+name: Italy
+iso3166-1: IT
+complete: false
+regions:
+    
+
+    # Abruzzi
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5075
+        iso3166-2: IT-65
+      names:
+        - name: Abbruzzo
+          languages: [mt]
+          sources: [euvoc]
+        - name: Abrucai
+          languages: [lt]
+          sources: [euvoc]
+        - name: Abruci
+          languages: [lv, sl]
+          sources: [euvoc]
+        - name: Abruco
+          languages: [sq]
+          sources: [euvoc]
+        - name: Abruzja
+          languages: [pl]
+          sources: [euvoc]
+        - name: Abruzos
+          languages: [es, pt]
+          sources: [euvoc]
+        - name: Abruzzen
+          languages: [de]
+          sources: [euvoc]
+        - name: Abruzzes
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Abruzzi
+          languages: [cs, da, en, fi, nl, ro, sk]
+          sources: [euvoc]
+        - name: Abruzzo
+          languages: [et, hr, it, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Abruzzók
+          languages: [hu]
+          sources: [euvoc]
+        - name: Αβρουζία
+          languages: [el]
+          sources: [euvoc]
+        - name: Абруци
+          languages: [bg]
+          sources: [euvoc]
+        - name: Абруцо
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Agrigento
+    - codes:
+        iso3166-2: IT-AG
+      names:
+        - name: Agrigento
+          sources: [iso3166-2]
+    
+
+    # Alessandria
+    - codes:
+        iso3166-2: IT-AL
+      names:
+        - name: Alessandria
+          sources: [iso3166-2]
+    
+
+    # Ancona
+    - codes:
+        iso3166-2: IT-AN
+      names:
+        - name: Ancona
+          sources: [iso3166-2]
+    
+
+    # Valle d'Aosta
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4640
+        iso3166-2: IT-23
+      names:
+        - name: Aostanlaakso
+          languages: [fi]
+          sources: [euvoc]
+        - name: Aostas ieleja
+          languages: [lv]
+          sources: [euvoc]
+        - name: Aostatal
+          languages: [de]
+          sources: [euvoc]
+        - name: Aostos Slėnis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Dolina Aosty
+          languages: [pl]
+          sources: [euvoc]
+        - name: Val d'Aosta
+          languages: [nl]
+          sources: [euvoc]
+        - name: Val d'Aoste
+          languages: [fr]
+          sources: [euvoc, iso3166-2]
+        - name: Vale d'Aosta
+          languages: [sq]
+          sources: [euvoc]
+        - name: Valea Aostei
+          languages: [ro]
+          sources: [euvoc]
+        - name: Valle d'Aosta
+          languages: [cs, da, en, et, hr, hu, it, mt, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Valle de Aosta
+          languages: [es]
+          sources: [euvoc]
+        - name: dolina Aoste
+          languages: [sl]
+          sources: [euvoc]
+        - name: vale de Aosta
+          languages: [pt]
+          sources: [euvoc]
+        - name: Κοιλάδα Αόστης
+          languages: [el]
+          sources: [euvoc]
+        - name: Вал Д'Аоста
+          languages: [sr]
+          sources: [euvoc]
+        - name: Вале д' Аоста
+          languages: [bg]
+          sources: [euvoc]
+        - name: Долина Аоста
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Apulia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2570
+        iso3166-2: IT-75
+      names:
+        - name: Apulia
+          languages: [en, es, fi, hu, pl, ro]
+          sources: [euvoc]
+        - name: Apulie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Apulien
+          languages: [de, sv]
+          sources: [euvoc]
+        - name: Apulija
+          languages: [hr, lt, sl]
+          sources: [euvoc]
+        - name: Apuulia
+          languages: [et]
+          sources: [euvoc]
+        - name: Apúlia
+          languages: [mt, sk]
+          sources: [euvoc]
+        - name: Apūlija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Pouilles
+          languages: [fr]
+          sources: [euvoc]
+        - name: Puglia
+          languages: [da, it, nl]
+          sources: [euvoc, iso3166-2]
+        - name: Pulja
+          languages: [sq]
+          sources: [euvoc]
+        - name: Púglia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Απουλία
+          languages: [el]
+          sources: [euvoc]
+        - name: Апулија
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Пулия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Arezzo
+    - codes:
+        iso3166-2: IT-AR
+      names:
+        - name: Arezzo
+          sources: [iso3166-2]
+    
+
+    # Ascoli Piceno
+    - codes:
+        iso3166-2: IT-AP
+      names:
+        - name: Ascoli Piceno
+          sources: [iso3166-2]
+    
+
+    # Asti
+    - codes:
+        iso3166-2: IT-AT
+      names:
+        - name: Asti
+          sources: [iso3166-2]
+    
+
+    # Autonomous Bolzano
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5246
+      names:
+        - name: Autonome Bolzano
+          languages: [nl]
+          sources: [euvoc]
+        - name: Autonomna Bolzano
+          languages: [hr]
+          sources: [euvoc]
+        - name: Autonomous Bolzano
+          languages: [en]
+          sources: [euvoc]
+        - name: Autonomă Bolzano
+          languages: [ro]
+          sources: [euvoc]
+        - name: Bolcāno autonomā
+          languages: [lv]
+          sources: [euvoc]
+        - name: Bolzano autonominė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Bolzano autonoomne
+          languages: [et]
+          sources: [euvoc]
+        - name: Bolzano autonóm
+          languages: [hu]
+          sources: [euvoc]
+        - name: Bolzanon itsehallinto
+          languages: [fi]
+          sources: [euvoc]
+        - name: Den Selvstændige Bolzano
+          languages: [da]
+          sources: [euvoc]
+        - name: Krahina Autonome e Bolcanos
+          languages: [sq]
+          sources: [euvoc]
+        - name: autonoma di Bolzano
+          languages: [it]
+          sources: [euvoc]
+        - name: autonome Bozen
+          languages: [de]
+          sources: [euvoc]
+        - name: autonome de Bolzano
+          languages: [fr]
+          sources: [euvoc]
+        - name: autonomiczna prowincja Bolzano
+          languages: [pl]
+          sources: [euvoc]
+        - name: autonomní Bolzáno
+          languages: [cs]
+          sources: [euvoc]
+        - name: autonómna Bolzano
+          languages: [sk]
+          sources: [euvoc]
+        - name: autónoma de Bolzano
+          languages: [es, pt]
+          sources: [euvoc]
+        - name: avtonomna Bolzano
+          languages: [sl]
+          sources: [euvoc]
+        - name: den självstyrandeen Bolzano
+          languages: [sv]
+          sources: [euvoc]
+        - name: il awtonoma ta’ Bolzano
+          languages: [mt]
+          sources: [euvoc]
+        - name: Αυτόνομη Μπολτζάνο
+          languages: [el]
+          sources: [euvoc]
+        - name: Автономна Болцано
+          languages: [bg]
+          sources: [euvoc]
+        - name: Автономна Покраина Болцано
+          languages: [mk]
+          sources: [euvoc]
+        - name: Аутономна покрајина Болцано
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Autonomous Trento
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5247
+      names:
+        - name: Autonome Trento
+          languages: [nl]
+          sources: [euvoc]
+        - name: Autonomna Trento
+          languages: [hr]
+          sources: [euvoc]
+        - name: Autonomous Trento
+          languages: [en]
+          sources: [euvoc]
+        - name: Autonomă Trento
+          languages: [ro]
+          sources: [euvoc]
+        - name: Den Selvstændige Trento
+          languages: [da]
+          sources: [euvoc]
+        - name: Krahina Autonome e Trentos
+          languages: [sq]
+          sources: [euvoc]
+        - name: Trento autonominė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Trento autonomā
+          languages: [lv]
+          sources: [euvoc]
+        - name: Trento autonoomne
+          languages: [et]
+          sources: [euvoc]
+        - name: Trento autonóm
+          languages: [hu]
+          sources: [euvoc]
+        - name: Trenton itsehallinto
+          languages: [fi]
+          sources: [euvoc]
+        - name: autonoma di Trento
+          languages: [it]
+          sources: [euvoc]
+        - name: autonome Trient
+          languages: [de]
+          sources: [euvoc]
+        - name: autonome de Trente
+          languages: [fr]
+          sources: [euvoc]
+        - name: autonomiczna prowincja Trydent
+          languages: [pl]
+          sources: [euvoc]
+        - name: autonomní Trident
+          languages: [cs]
+          sources: [euvoc]
+        - name: autonómna Trento
+          languages: [sk]
+          sources: [euvoc]
+        - name: autónoma de Trento
+          languages: [es, pt]
+          sources: [euvoc]
+        - name: avtonomna Trento
+          languages: [sl]
+          sources: [euvoc]
+        - name: den självstyrandeen Trento
+          languages: [sv]
+          sources: [euvoc]
+        - name: il awtonoma ta’ Trento
+          languages: [mt]
+          sources: [euvoc]
+        - name: Αυτόνομη Τρέντο
+          languages: [el]
+          sources: [euvoc]
+        - name: Автономна Покраина Тренто
+          languages: [mk]
+          sources: [euvoc]
+        - name: Автономна Тренто
+          languages: [bg]
+          sources: [euvoc]
+        - name: Аутономна покрајина Тренто
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Avellino
+    - codes:
+        iso3166-2: IT-AV
+      names:
+        - name: Avellino
+          sources: [iso3166-2]
+    
+
+    # Bari
+    - codes:
+        iso3166-2: IT-BA
+      names:
+        - name: Bari
+          sources: [iso3166-2]
+    
+
+    # Barletta-Andria-Trani
+    - codes:
+        iso3166-2: IT-BT
+      names:
+        - name: Barletta-Andria-Trani
+          sources: [iso3166-2]
+    
+
+    # Basilicata
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4823
+        iso3166-2: IT-77
+      names:
+        - name: Basilicata
+          languages: [cs, da, de, en, es, et, fi, hr, hu, it, mt, nl, pl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Basilicate
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Bazilikata
+          languages: [lt, lv, sl, sq]
+          sources: [euvoc]
+        - name: Βασιλικάτα
+          languages: [el]
+          sources: [euvoc]
+        - name: Базиликата
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Belluno
+    - codes:
+        iso3166-2: IT-BL
+      names:
+        - name: Belluno
+          sources: [iso3166-2]
+    
+
+    # Benevento
+    - codes:
+        iso3166-2: IT-BN
+      names:
+        - name: Benevento
+          sources: [iso3166-2]
+    
+
+    # Veneto
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4660
+        iso3166-2: IT-34
+      names:
+        - name: Benečija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Benátsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Venecia
+          languages: [es]
+          sources: [euvoc]
+        - name: Venecija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Veneti
+          languages: [sq]
+          sources: [euvoc]
+        - name: Venetien
+          languages: [de]
+          sources: [euvoc]
+        - name: Venetië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Veneto
+          languages: [da, en, et, fi, hr, hu, it, lv, mt, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Veneția
+          languages: [ro]
+          sources: [euvoc]
+        - name: Venécia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Vénétie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Wenecja Euganejska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Βένετο
+          languages: [el]
+          sources: [euvoc]
+        - name: Венето
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Bergamo
+    - codes:
+        iso3166-2: IT-BG
+      names:
+        - name: Bergamo
+          sources: [iso3166-2]
+    
+
+    # Biella
+    - codes:
+        iso3166-2: IT-BI
+      names:
+        - name: Biella
+          sources: [iso3166-2]
+    
+
+    # Bologna
+    - codes:
+        iso3166-2: IT-BO
+      names:
+        - name: Bologna
+          sources: [iso3166-2]
+    
+
+    # Bolzano
+    - codes:
+        iso3166-2: IT-BZ
+      names:
+        - name: Bolzano
+          sources: [iso3166-2]
+        - name: Bozen
+          sources: [iso3166-2]
+    
+
+    # Brescia
+    - codes:
+        iso3166-2: IT-BS
+      names:
+        - name: Brescia
+          sources: [iso3166-2]
+    
+
+    # Brindisi
+    - codes:
+        iso3166-2: IT-BR
+      names:
+        - name: Brindisi
+          sources: [iso3166-2]
+    
+
+    # Cagliari
+    - codes:
+        iso3166-2: IT-CA
+      names:
+        - name: Cagliari
+          sources: [iso3166-2]
+    
+
+    # Calabria
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5091
+        iso3166-2: IT-78
+      names:
+        - name: Calabre
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Calabria
+          languages: [en, es, et, fi, hu, it, mt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Calabrien
+          languages: [da]
+          sources: [euvoc]
+        - name: Calabrië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Calábria
+          languages: [pt]
+          sources: [euvoc]
+        - name: Kalabria
+          languages: [pl, sq]
+          sources: [euvoc]
+        - name: Kalabrien
+          languages: [de]
+          sources: [euvoc]
+        - name: Kalabrija
+          languages: [hr, lt, lv, sl]
+          sources: [euvoc]
+        - name: Kalábria
+          languages: [sk]
+          sources: [euvoc]
+        - name: Kalábrie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Καλαβρία
+          languages: [el]
+          sources: [euvoc]
+        - name: Калабрия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Калабрија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Caltanissetta
+    - codes:
+        iso3166-2: IT-CL
+      names:
+        - name: Caltanissetta
+          sources: [iso3166-2]
+    
+
+    # Campania
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5098
+        iso3166-2: IT-72
+      names:
+        - name: Campania
+          languages: [en, es, et, fi, hu, it, mt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Campanie
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Campanien
+          languages: [da]
+          sources: [euvoc]
+        - name: Campanië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Campânia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Kampania
+          languages: [pl, sq]
+          sources: [euvoc]
+        - name: Kampanien
+          languages: [de]
+          sources: [euvoc]
+        - name: Kampanija
+          languages: [hr, lt, sl]
+          sources: [euvoc]
+        - name: Kampánia
+          languages: [sk]
+          sources: [euvoc]
+        - name: Kampánie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Kampānija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Καμπανία
+          languages: [el]
+          sources: [euvoc]
+        - name: Кампания
+          languages: [bg]
+          sources: [euvoc]
+        - name: Кампанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Campobasso
+    - codes:
+        iso3166-2: IT-CB
+      names:
+        - name: Campobasso
+          sources: [iso3166-2]
+    
+
+    # Caserta
+    - codes:
+        iso3166-2: IT-CE
+      names:
+        - name: Caserta
+          sources: [iso3166-2]
+    
+
+    # Catania
+    - codes:
+        iso3166-2: IT-CT
+      names:
+        - name: Catania
+          sources: [iso3166-2]
+    
+
+    # Catanzaro
+    - codes:
+        iso3166-2: IT-CZ
+      names:
+        - name: Catanzaro
+          sources: [iso3166-2]
+    
+
+    # Sardinia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3891
+        iso3166-2: IT-88
+      names:
+        - name: Cerdeña
+          languages: [es]
+          sources: [euvoc]
+        - name: Sardaigne
+          languages: [fr]
+          sources: [euvoc]
+        - name: Sardegna
+          languages: [it]
+          sources: [euvoc, iso3166-2]
+        - name: Sardenha
+          languages: [pt]
+          sources: [euvoc]
+        - name: Sardenja
+          languages: [mt, sq]
+          sources: [euvoc]
+        - name: Sardiinia
+          languages: [et]
+          sources: [euvoc]
+        - name: Sardinia
+          languages: [en, fi, ro]
+          sources: [euvoc]
+        - name: Sardinie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sardinien
+          languages: [da, de, sv]
+          sources: [euvoc]
+        - name: Sardinija
+          languages: [hr, lt, sl]
+          sources: [euvoc]
+        - name: Sardinië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Sardynia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Sardínia
+          languages: [sk]
+          sources: [euvoc]
+        - name: Sardīnija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Szardínia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Σαρδηνία
+          languages: [el]
+          sources: [euvoc]
+        - name: Сардиния
+          languages: [bg]
+          sources: [euvoc]
+        - name: Сардинија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Chieti
+    - codes:
+        iso3166-2: IT-CH
+      names:
+        - name: Chieti
+          sources: [iso3166-2]
+    
+
+    # Como
+    - codes:
+        iso3166-2: IT-CO
+      names:
+        - name: Como
+          sources: [iso3166-2]
+    
+
+    # Cosenza
+    - codes:
+        iso3166-2: IT-CS
+      names:
+        - name: Cosenza
+          sources: [iso3166-2]
+    
+
+    # Cremona
+    - codes:
+        iso3166-2: IT-CR
+      names:
+        - name: Cremona
+          sources: [iso3166-2]
+    
+
+    # Crotone
+    - codes:
+        iso3166-2: IT-KR
+      names:
+        - name: Crotone
+          sources: [iso3166-2]
+    
+
+    # Cuneo
+    - codes:
+        iso3166-2: IT-CN
+      names:
+        - name: Cuneo
+          sources: [iso3166-2]
+    
+
+    # Emilia-Romagna
+    - codes:
+        euvoc: http://eurovoc.europa.eu/725
+        iso3166-2: IT-45
+      names:
+        - name: Emilia Romagna
+          languages: [et]
+          sources: [euvoc]
+        - name: Emilia-Romagna
+          languages: [cs, da, de, en, fi, hr, hu, it, nl, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Emilia-Romania
+          languages: [pl]
+          sources: [euvoc]
+        - name: Emilia-Romanja
+          languages: [sq]
+          sources: [euvoc]
+        - name: Emilia-Romaña
+          languages: [es]
+          sources: [euvoc]
+        - name: Emilija-Romanija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Emilija-Romanja
+          languages: [sl]
+          sources: [euvoc]
+        - name: Emilja-Romanja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Emília-Romanha
+          languages: [pt]
+          sources: [euvoc]
+        - name: Emīlija Romanja
+          languages: [lv]
+          sources: [euvoc]
+        - name: Émilie-Romagne
+          languages: [fr]
+          sources: [euvoc]
+        - name: Αιμιλία-Ρωμανία
+          languages: [el]
+          sources: [euvoc]
+        - name: Емилиа-Ромања
+          languages: [sr]
+          sources: [euvoc]
+        - name: Емилия - Романя
+          languages: [bg]
+          sources: [euvoc]
+        - name: Емилија-Ромања
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Enna
+    - codes:
+        iso3166-2: IT-EN
+      names:
+        - name: Enna
+          sources: [iso3166-2]
+    
+
+    # Fermo
+    - codes:
+        iso3166-2: IT-FM
+      names:
+        - name: Fermo
+          sources: [iso3166-2]
+    
+
+    # Ferrara
+    - codes:
+        iso3166-2: IT-FE
+      names:
+        - name: Ferrara
+          sources: [iso3166-2]
+    
+
+    # Firenze
+    - codes:
+        iso3166-2: IT-FI
+      names:
+        - name: Firenze
+          sources: [iso3166-2]
+    
+
+    # Foggia
+    - codes:
+        iso3166-2: IT-FG
+      names:
+        - name: Foggia
+          sources: [iso3166-2]
+    
+
+    # Forlì-Cesena
+    - codes:
+        iso3166-2: IT-FC
+      names:
+        - name: Forlì-Cesena
+          sources: [iso3166-2]
+    
+
+    # Friuli-Venezia Giulia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1100
+      names:
+        - name: Friaul-Julisch-Venetien
+          languages: [de]
+          sources: [euvoc]
+        - name: Frijuli-Venezja Ġulja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Frioul-Vénétie Julienne
+          languages: [fr]
+          sources: [euvoc]
+        - name: Friul-Venecia Julia
+          languages: [es]
+          sources: [euvoc]
+        - name: Friuli-Venecia Xhulia
+          languages: [sq]
+          sources: [euvoc]
+        - name: Friuli-Venetsia Giulia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Friuli-Venezia Giulia
+          languages: [da, en, et, hu, it, nl, pt, ro, sk, sv]
+          sources: [euvoc]
+        - name: Friuli-Venēcija Džūlija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Friuli-Wenecja Julijska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Friulis-Venecija-Džulija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Furlanija-Julijskaina
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Furlansko-Julské Benátsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Φρίουλι-Ιουλιανή Βενετία
+          languages: [el]
+          sources: [euvoc]
+        - name: Фриули - Венеция - Джулия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Фриули-Венеција Џулија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Фријули-Венеција Ђулија
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Friuli Venezia Giulia
+    - codes:
+        iso3166-2: IT-36
+      names:
+        - name: Friuli Venezia Giulia
+          sources: [iso3166-2]
+    
+
+    # Frosinone
+    - codes:
+        iso3166-2: IT-FR
+      names:
+        - name: Frosinone
+          sources: [iso3166-2]
+    
+
+    # Genova
+    - codes:
+        iso3166-2: IT-GE
+      names:
+        - name: Genova
+          sources: [iso3166-2]
+    
+
+    # Gorizia
+    - codes:
+        iso3166-2: IT-GO
+      names:
+        - name: Gorizia
+          sources: [iso3166-2]
+    
+
+    # Grosseto
+    - codes:
+        iso3166-2: IT-GR
+      names:
+        - name: Grosseto
+          sources: [iso3166-2]
+    
+
+    # Imperia
+    - codes:
+        iso3166-2: IT-IM
+      names:
+        - name: Imperia
+          sources: [iso3166-2]
+    
+
+    # Isernia
+    - codes:
+        iso3166-2: IT-IS
+      names:
+        - name: Isernia
+          sources: [iso3166-2]
+    
+
+    # Trentino-Alto Adige
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4568
+        iso3166-2: IT-32
+      names:
+        - name: Južni Tirol
+          languages: [hr]
+          sources: [euvoc]
+        - name: Trentin-Haut-Adige
+          languages: [fr]
+          sources: [euvoc]
+        - name: Trentinas-Alto Adidžė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Trentino Alto Adige
+          languages: [nl]
+          sources: [euvoc]
+        - name: Trentino-Alto Adige
+          languages: [da, en, et, hu, it, mt, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Trentino-Alto Adigio
+          languages: [es]
+          sources: [euvoc]
+        - name: Trentino-Alto Adixhe
+          languages: [sq]
+          sources: [euvoc]
+        - name: Trentino-Alto-Adige
+          languages: [fi]
+          sources: [euvoc]
+        - name: Trentino-Südtirol
+          languages: [de]
+          sources: [euvoc, iso3166-2]
+        - name: Trentino-Zgornje Poadižje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Trentīno-Alto Adidže
+          languages: [lv]
+          sources: [euvoc]
+        - name: Tridentsko-Horná Adiža
+          languages: [sk]
+          sources: [euvoc]
+        - name: Tridentsko-Horní Adiže
+          languages: [cs]
+          sources: [euvoc]
+        - name: Trydent-Górna Adyga
+          languages: [pl]
+          sources: [euvoc]
+        - name: Τρεντίνο-Άνω Αδίγης
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужен Тирол
+          languages: [mk]
+          sources: [euvoc]
+        - name: Трентино - Алто - Адидже
+          languages: [bg]
+          sources: [euvoc]
+        - name: Трентино-Алто Адиђе
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # L'Aquila
+    - codes:
+        iso3166-2: IT-AQ
+      names:
+        - name: L'Aquila
+          sources: [iso3166-2]
+    
+
+    # La Spezia
+    - codes:
+        iso3166-2: IT-SP
+      names:
+        - name: La Spezia
+          sources: [iso3166-2]
+    
+
+    # Latium
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1586
+        iso3166-2: IT-62
+      names:
+        - name: Lacij
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Lacijus
+          languages: [lt]
+          sources: [euvoc]
+        - name: Lacio
+          languages: [es, lv]
+          sources: [euvoc]
+        - name: Lacjum
+          languages: [pl]
+          sources: [euvoc]
+        - name: Latio
+          languages: [sv]
+          sources: [euvoc]
+        - name: Latium
+          languages: [cs, da, de, en, fi, fr, sk]
+          sources: [euvoc]
+        - name: Latiumi
+          languages: [sq]
+          sources: [euvoc]
+        - name: Lazio
+          languages: [et, hu, it, nl, ro]
+          sources: [euvoc, iso3166-2]
+        - name: Lazjo
+          languages: [mt]
+          sources: [euvoc]
+        - name: Lácio
+          languages: [pt]
+          sources: [euvoc]
+        - name: Λάτιο
+          languages: [el]
+          sources: [euvoc]
+        - name: Лацио
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Marches
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1813
+        iso3166-2: IT-57
+      names:
+        - name: Las Marcas
+          languages: [es]
+          sources: [euvoc]
+        - name: Marche
+          languages: [cs, da, et, fi, hu, it, mt, nl, pl, pt, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Marches
+          languages: [en, fr]
+          sources: [euvoc]
+        - name: Marke
+          languages: [hr, lv, sl]
+          sources: [euvoc]
+        - name: Marken
+          languages: [de]
+          sources: [euvoc]
+        - name: Market
+          languages: [sq]
+          sources: [euvoc]
+        - name: Markė
+          languages: [lt]
+          sources: [euvoc]
+        - name: a Marche
+          languages: [ro]
+          sources: [euvoc]
+        - name: Μάρκε
+          languages: [el]
+          sources: [euvoc]
+        - name: Марке
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Latina
+    - codes:
+        iso3166-2: IT-LT
+      names:
+        - name: Latina
+          sources: [iso3166-2]
+    
+
+    # Lecce
+    - codes:
+        iso3166-2: IT-LE
+      names:
+        - name: Lecce
+          sources: [iso3166-2]
+    
+
+    # Lecco
+    - codes:
+        iso3166-2: IT-LC
+      names:
+        - name: Lecco
+          sources: [iso3166-2]
+    
+
+    # Liguria
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1659
+        iso3166-2: IT-42
+      names:
+        - name: Liguria
+          languages: [en, es, fi, hu, it, pl, ro, sq]
+          sources: [euvoc, iso3166-2]
+        - name: Ligurie
+          languages: [cs, fr]
+          sources: [euvoc]
+        - name: Ligurien
+          languages: [da, de, sv]
+          sources: [euvoc]
+        - name: Ligurija
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Ligurië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Ligurja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Liguuria
+          languages: [et]
+          sources: [euvoc]
+        - name: Ligúria
+          languages: [pt, sk]
+          sources: [euvoc]
+        - name: Ligūrija
+          languages: [lt, lv]
+          sources: [euvoc]
+        - name: Λιγυρία
+          languages: [el]
+          sources: [euvoc]
+        - name: Лигурия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Лигурија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Livorno
+    - codes:
+        iso3166-2: IT-LI
+      names:
+        - name: Livorno
+          sources: [iso3166-2]
+    
+
+    # Lodi
+    - codes:
+        iso3166-2: IT-LO
+      names:
+        - name: Lodi
+          sources: [iso3166-2]
+    
+
+    # Lombardy
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1701
+        iso3166-2: IT-25
+      names:
+        - name: Lombardei
+          languages: [de]
+          sources: [euvoc]
+        - name: Lombardia
+          languages: [et, fi, hu, it, pl, pt, ro, sk, sq]
+          sources: [euvoc, iso3166-2]
+        - name: Lombardie
+          languages: [cs, fr]
+          sources: [euvoc]
+        - name: Lombardiet
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Lombardija
+          languages: [hr, lt, lv, mt, sl]
+          sources: [euvoc]
+        - name: Lombardije
+          languages: [nl]
+          sources: [euvoc]
+        - name: Lombardy
+          languages: [en]
+          sources: [euvoc]
+        - name: Lombardía
+          languages: [es]
+          sources: [euvoc]
+        - name: Λομβαρδία
+          languages: [el]
+          sources: [euvoc]
+        - name: Ломбардия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Ломбардија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Lucca
+    - codes:
+        iso3166-2: IT-LU
+      names:
+        - name: Lucca
+          sources: [iso3166-2]
+    
+
+    # Macerata
+    - codes:
+        iso3166-2: IT-MC
+      names:
+        - name: Macerata
+          sources: [iso3166-2]
+    
+
+    # Mantova
+    - codes:
+        iso3166-2: IT-MN
+      names:
+        - name: Mantova
+          sources: [iso3166-2]
+    
+
+    # Massa-Carrara
+    - codes:
+        iso3166-2: IT-MS
+      names:
+        - name: Massa-Carrara
+          sources: [iso3166-2]
+    
+
+    # Matera
+    - codes:
+        iso3166-2: IT-MT
+      names:
+        - name: Matera
+          sources: [iso3166-2]
+    
+
+    # Messina
+    - codes:
+        iso3166-2: IT-ME
+      names:
+        - name: Messina
+          sources: [iso3166-2]
+    
+
+    # Milano
+    - codes:
+        iso3166-2: IT-MI
+      names:
+        - name: Milano
+          sources: [iso3166-2]
+    
+
+    # Modena
+    - codes:
+        iso3166-2: IT-MO
+      names:
+        - name: Modena
+          sources: [iso3166-2]
+    
+
+    # Molise
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1960
+        iso3166-2: IT-67
+      names:
+        - name: Molise
+          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Molize
+          languages: [lv, sq]
+          sources: [euvoc]
+        - name: Molizė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Μολίζε
+          languages: [el]
+          sources: [euvoc]
+        - name: Молизе
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Monza e Brianza
+    - codes:
+        iso3166-2: IT-MB
+      names:
+        - name: Monza e Brianza
+          sources: [iso3166-2]
+    
+
+    # Napoli
+    - codes:
+        iso3166-2: IT-NA
+      names:
+        - name: Napoli
+          sources: [iso3166-2]
+    
+
+    # Novara
+    - codes:
+        iso3166-2: IT-NO
+      names:
+        - name: Novara
+          sources: [iso3166-2]
+    
+
+    # Nuoro
+    - codes:
+        iso3166-2: IT-NU
+      names:
+        - name: Nuoro
+          sources: [iso3166-2]
+    
+
+    # Umbria
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2139
+        iso3166-2: IT-55
+      names:
+        - name: Ombrie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Umbria
+          languages: [en, et, fi, hu, it, pl, ro, sk, sq]
+          sources: [euvoc, iso3166-2]
+        - name: Umbrie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Umbrien
+          languages: [da, de, sv]
+          sources: [euvoc]
+        - name: Umbrija
+          languages: [hr, lt, lv, mt, sl]
+          sources: [euvoc]
+        - name: Umbrië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Umbría
+          languages: [es]
+          sources: [euvoc]
+        - name: Úmbria
+          languages: [pt]
+          sources: [euvoc]
+        - name: Ουμβρία
+          languages: [el]
+          sources: [euvoc]
+        - name: Умбрия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Умбрија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Oristano
+    - codes:
+        iso3166-2: IT-OR
+      names:
+        - name: Oristano
+          sources: [iso3166-2]
+    
+
+    # Padova
+    - codes:
+        iso3166-2: IT-PD
+      names:
+        - name: Padova
+          sources: [iso3166-2]
+    
+
+    # Palermo
+    - codes:
+        iso3166-2: IT-PA
+      names:
+        - name: Palermo
+          sources: [iso3166-2]
+    
+
+    # Parma
+    - codes:
+        iso3166-2: IT-PR
+      names:
+        - name: Parma
+          sources: [iso3166-2]
+    
+
+    # Pavia
+    - codes:
+        iso3166-2: IT-PV
+      names:
+        - name: Pavia
+          sources: [iso3166-2]
+    
+
+    # Perugia
+    - codes:
+        iso3166-2: IT-PG
+      names:
+        - name: Perugia
+          sources: [iso3166-2]
+    
+
+    # Pesaro e Urbino
+    - codes:
+        iso3166-2: IT-PU
+      names:
+        - name: Pesaro e Urbino
+          sources: [iso3166-2]
+    
+
+    # Pescara
+    - codes:
+        iso3166-2: IT-PE
+      names:
+        - name: Pescara
+          sources: [iso3166-2]
+    
+
+    # Piacenza
+    - codes:
+        iso3166-2: IT-PC
+      names:
+        - name: Piacenza
+          sources: [iso3166-2]
+    
+
+    # Piedmont
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2379
+        iso3166-2: IT-21
+      names:
+        - name: Piamonte
+          languages: [es]
+          sources: [euvoc]
+        - name: Piedmont
+          languages: [en]
+          sources: [euvoc]
+        - name: Piemont
+          languages: [cs, de, pl, ro, sk, sl]
+          sources: [euvoc]
+        - name: Piemonte
+          languages: [da, et, fi, hu, it, nl, pt, sq, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Pijemont
+          languages: [hr]
+          sources: [euvoc]
+        - name: Piémont
+          languages: [fr]
+          sources: [euvoc]
+        - name: Pjemonta
+          languages: [lv]
+          sources: [euvoc]
+        - name: Pjemontas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pjemonte
+          languages: [mt]
+          sources: [euvoc]
+        - name: Πεδεμόντιο
+          languages: [el]
+          sources: [euvoc]
+        - name: Пиемонт
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Пијемонт
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Pisa
+    - codes:
+        iso3166-2: IT-PI
+      names:
+        - name: Pisa
+          sources: [iso3166-2]
+    
+
+    # Pistoia
+    - codes:
+        iso3166-2: IT-PT
+      names:
+        - name: Pistoia
+          sources: [iso3166-2]
+    
+
+    # Pordenone
+    - codes:
+        iso3166-2: IT-PN
+      names:
+        - name: Pordenone
+          sources: [iso3166-2]
+    
+
+    # Potenza
+    - codes:
+        iso3166-2: IT-PZ
+      names:
+        - name: Potenza
+          sources: [iso3166-2]
+    
+
+    # Prato
+    - codes:
+        iso3166-2: IT-PO
+      names:
+        - name: Prato
+          sources: [iso3166-2]
+    
+
+    # Ragusa
+    - codes:
+        iso3166-2: IT-RG
+      names:
+        - name: Ragusa
+          sources: [iso3166-2]
+    
+
+    # Ravenna
+    - codes:
+        iso3166-2: IT-RA
+      names:
+        - name: Ravenna
+          sources: [iso3166-2]
+    
+
+    # Reggio Calabria
+    - codes:
+        iso3166-2: IT-RC
+      names:
+        - name: Reggio Calabria
+          sources: [iso3166-2]
+    
+
+    # Reggio Emilia
+    - codes:
+        iso3166-2: IT-RE
+      names:
+        - name: Reggio Emilia
+          sources: [iso3166-2]
+    
+
+    # Rieti
+    - codes:
+        iso3166-2: IT-RI
+      names:
+        - name: Rieti
+          sources: [iso3166-2]
+    
+
+    # Rimini
+    - codes:
+        iso3166-2: IT-RN
+      names:
+        - name: Rimini
+          sources: [iso3166-2]
+    
+
+    # Roma
+    - codes:
+        iso3166-2: IT-RM
+      names:
+        - name: Roma
+          sources: [iso3166-2]
+    
+
+    # Rovigo
+    - codes:
+        iso3166-2: IT-RO
+      names:
+        - name: Rovigo
+          sources: [iso3166-2]
+    
+
+    # Salerno
+    - codes:
+        iso3166-2: IT-SA
+      names:
+        - name: Salerno
+          sources: [iso3166-2]
+    
+
+    # Sassari
+    - codes:
+        iso3166-2: IT-SS
+      names:
+        - name: Sassari
+          sources: [iso3166-2]
+    
+
+    # Savona
+    - codes:
+        iso3166-2: IT-SV
+      names:
+        - name: Savona
+          sources: [iso3166-2]
+    
+
+    # Sicily
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4155
+        iso3166-2: IT-82
+      names:
+        - name: Sicile
+          languages: [fr]
+          sources: [euvoc]
+        - name: Sicilia
+          languages: [es, it, ro]
+          sources: [euvoc, iso3166-2]
+        - name: Sicilien
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Sicilija
+          languages: [hr, lt, sl]
+          sources: [euvoc]
+        - name: Sicilië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Sicily
+          languages: [en]
+          sources: [euvoc]
+        - name: Sicília
+          languages: [pt, sk]
+          sources: [euvoc]
+        - name: Sicílie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sicīlija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Sisilia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Sitsiilia
+          languages: [et]
+          sources: [euvoc]
+        - name: Sizilien
+          languages: [de]
+          sources: [euvoc]
+        - name: Siçilia
+          languages: [sq]
+          sources: [euvoc]
+        - name: Sycylia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Szicília
+          languages: [hu]
+          sources: [euvoc]
+        - name: is-Siċilja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Σικελία
+          languages: [el]
+          sources: [euvoc]
+        - name: Сицилия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Сицилија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Siena
+    - codes:
+        iso3166-2: IT-SI
+      names:
+        - name: Siena
+          sources: [iso3166-2]
+    
+
+    # Siracusa
+    - codes:
+        iso3166-2: IT-SR
+      names:
+        - name: Siracusa
+          sources: [iso3166-2]
+    
+
+    # Sondrio
+    - codes:
+        iso3166-2: IT-SO
+      names:
+        - name: Sondrio
+          sources: [iso3166-2]
+    
+
+    # Sud Sardegna
+    - codes:
+        iso3166-2: IT-SU
+      names:
+        - name: Sud Sardegna
+          sources: [iso3166-2]
+    
+
+    # Taranto
+    - codes:
+        iso3166-2: IT-TA
+      names:
+        - name: Taranto
+          sources: [iso3166-2]
+    
+
+    # Teramo
+    - codes:
+        iso3166-2: IT-TE
+      names:
+        - name: Teramo
+          sources: [iso3166-2]
+    
+
+    # Terni
+    - codes:
+        iso3166-2: IT-TR
+      names:
+        - name: Terni
+          sources: [iso3166-2]
+    
+
+    # Torino
+    - codes:
+        iso3166-2: IT-TO
+      names:
+        - name: Torino
+          sources: [iso3166-2]
+    
+
+    # Tuscany
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4468
+        iso3166-2: IT-52
+      names:
+        - name: Toscana
+          languages: [da, es, et, fi, hu, it, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Toscane
+          languages: [fr, nl]
+          sources: [euvoc]
+        - name: Toscânia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Toskana
+          languages: [de, hr, lt, mt, sl, sq]
+          sources: [euvoc]
+        - name: Toskania
+          languages: [pl]
+          sources: [euvoc]
+        - name: Toskánsko
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Toskāna
+          languages: [lv]
+          sources: [euvoc]
+        - name: Tuscany
+          languages: [en]
+          sources: [euvoc]
+        - name: Τοσκάνη
+          languages: [el]
+          sources: [euvoc]
+        - name: Тоскана
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Trapani
+    - codes:
+        iso3166-2: IT-TP
+      names:
+        - name: Trapani
+          sources: [iso3166-2]
+    
+
+    # Trento
+    - codes:
+        iso3166-2: IT-TN
+      names:
+        - name: Trento
+          sources: [iso3166-2]
+    
+
+    # Treviso
+    - codes:
+        iso3166-2: IT-TV
+      names:
+        - name: Treviso
+          sources: [iso3166-2]
+    
+
+    # Trieste
+    - codes:
+        iso3166-2: IT-TS
+      names:
+        - name: Trieste
+          sources: [iso3166-2]
+    
+
+    # Udine
+    - codes:
+        iso3166-2: IT-UD
+      names:
+        - name: Udine
+          sources: [iso3166-2]
+    
+
+    # Varese
+    - codes:
+        iso3166-2: IT-VA
+      names:
+        - name: Varese
+          sources: [iso3166-2]
+    
+
+    # Venezia
+    - codes:
+        iso3166-2: IT-VE
+      names:
+        - name: Venezia
+          sources: [iso3166-2]
+    
+
+    # Verbano-Cusio-Ossola
+    - codes:
+        iso3166-2: IT-VB
+      names:
+        - name: Verbano-Cusio-Ossola
+          sources: [iso3166-2]
+    
+
+    # Vercelli
+    - codes:
+        iso3166-2: IT-VC
+      names:
+        - name: Vercelli
+          sources: [iso3166-2]
+    
+
+    # Verona
+    - codes:
+        iso3166-2: IT-VR
+      names:
+        - name: Verona
+          sources: [iso3166-2]
+    
+
+    # Vibo Valentia
+    - codes:
+        iso3166-2: IT-VV
+      names:
+        - name: Vibo Valentia
+          sources: [iso3166-2]
+    
+
+    # Vicenza
+    - codes:
+        iso3166-2: IT-VI
+      names:
+        - name: Vicenza
+          sources: [iso3166-2]
+    
+
+    # Viterbo
+    - codes:
+        iso3166-2: IT-VT
+      names:
+        - name: Viterbo
+          sources: [iso3166-2]

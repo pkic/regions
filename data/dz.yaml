@@ -1,0 +1,387 @@
+iso3166-1: DZ
+complete: false
+regions:
+    
+
+    # Adrar
+    - codes:
+        iso3166-2: DZ-01
+      names:
+        - name: Adrar
+          sources: [iso3166-2]
+    
+
+    # Alger
+    - codes:
+        iso3166-2: DZ-16
+      names:
+        - name: Alger
+          sources: [iso3166-2]
+    
+
+    # Annaba
+    - codes:
+        iso3166-2: DZ-23
+      names:
+        - name: Annaba
+          sources: [iso3166-2]
+    
+
+    # Aïn Defla
+    - codes:
+        iso3166-2: DZ-44
+      names:
+        - name: Aïn Defla
+          sources: [iso3166-2]
+    
+
+    # Aïn Témouchent
+    - codes:
+        iso3166-2: DZ-46
+      names:
+        - name: Aïn Témouchent
+          sources: [iso3166-2]
+    
+
+    # Batna
+    - codes:
+        iso3166-2: DZ-05
+      names:
+        - name: Batna
+          sources: [iso3166-2]
+    
+
+    # Biskra
+    - codes:
+        iso3166-2: DZ-07
+      names:
+        - name: Biskra
+          sources: [iso3166-2]
+    
+
+    # Blida
+    - codes:
+        iso3166-2: DZ-09
+      names:
+        - name: Blida
+          sources: [iso3166-2]
+    
+
+    # Bordj Bou Arréridj
+    - codes:
+        iso3166-2: DZ-34
+      names:
+        - name: Bordj Bou Arréridj
+          sources: [iso3166-2]
+    
+
+    # Bouira
+    - codes:
+        iso3166-2: DZ-10
+      names:
+        - name: Bouira
+          sources: [iso3166-2]
+    
+
+    # Boumerdès
+    - codes:
+        iso3166-2: DZ-35
+      names:
+        - name: Boumerdès
+          sources: [iso3166-2]
+    
+
+    # Béchar
+    - codes:
+        iso3166-2: DZ-08
+      names:
+        - name: Béchar
+          sources: [iso3166-2]
+    
+
+    # Béjaïa
+    - codes:
+        iso3166-2: DZ-06
+      names:
+        - name: Béjaïa
+          sources: [iso3166-2]
+    
+
+    # Chlef
+    - codes:
+        iso3166-2: DZ-02
+      names:
+        - name: Chlef
+          sources: [iso3166-2]
+    
+
+    # Constantine
+    - codes:
+        iso3166-2: DZ-25
+      names:
+        - name: Constantine
+          sources: [iso3166-2]
+    
+
+    # Djelfa
+    - codes:
+        iso3166-2: DZ-17
+      names:
+        - name: Djelfa
+          sources: [iso3166-2]
+    
+
+    # El Bayadh
+    - codes:
+        iso3166-2: DZ-32
+      names:
+        - name: El Bayadh
+          sources: [iso3166-2]
+    
+
+    # El Oued
+    - codes:
+        iso3166-2: DZ-39
+      names:
+        - name: El Oued
+          sources: [iso3166-2]
+    
+
+    # El Tarf
+    - codes:
+        iso3166-2: DZ-36
+      names:
+        - name: El Tarf
+          sources: [iso3166-2]
+    
+
+    # Ghardaïa
+    - codes:
+        iso3166-2: DZ-47
+      names:
+        - name: Ghardaïa
+          sources: [iso3166-2]
+    
+
+    # Guelma
+    - codes:
+        iso3166-2: DZ-24
+      names:
+        - name: Guelma
+          sources: [iso3166-2]
+    
+
+    # Illizi
+    - codes:
+        iso3166-2: DZ-33
+      names:
+        - name: Illizi
+          sources: [iso3166-2]
+    
+
+    # Jijel
+    - codes:
+        iso3166-2: DZ-18
+      names:
+        - name: Jijel
+          sources: [iso3166-2]
+    
+
+    # Khenchela
+    - codes:
+        iso3166-2: DZ-40
+      names:
+        - name: Khenchela
+          sources: [iso3166-2]
+    
+
+    # Laghouat
+    - codes:
+        iso3166-2: DZ-03
+      names:
+        - name: Laghouat
+          sources: [iso3166-2]
+    
+
+    # M'sila
+    - codes:
+        iso3166-2: DZ-28
+      names:
+        - name: M'sila
+          sources: [iso3166-2]
+    
+
+    # Mascara
+    - codes:
+        iso3166-2: DZ-29
+      names:
+        - name: Mascara
+          sources: [iso3166-2]
+    
+
+    # Mila
+    - codes:
+        iso3166-2: DZ-43
+      names:
+        - name: Mila
+          sources: [iso3166-2]
+    
+
+    # Mostaganem
+    - codes:
+        iso3166-2: DZ-27
+      names:
+        - name: Mostaganem
+          sources: [iso3166-2]
+    
+
+    # Médéa
+    - codes:
+        iso3166-2: DZ-26
+      names:
+        - name: Médéa
+          sources: [iso3166-2]
+    
+
+    # Naama
+    - codes:
+        iso3166-2: DZ-45
+      names:
+        - name: Naama
+          sources: [iso3166-2]
+    
+
+    # Oran
+    - codes:
+        iso3166-2: DZ-31
+      names:
+        - name: Oran
+          sources: [iso3166-2]
+    
+
+    # Ouargla
+    - codes:
+        iso3166-2: DZ-30
+      names:
+        - name: Ouargla
+          sources: [iso3166-2]
+    
+
+    # Oum el Bouaghi
+    - codes:
+        iso3166-2: DZ-04
+      names:
+        - name: Oum el Bouaghi
+          sources: [iso3166-2]
+    
+
+    # Relizane
+    - codes:
+        iso3166-2: DZ-48
+      names:
+        - name: Relizane
+          sources: [iso3166-2]
+    
+
+    # Saïda
+    - codes:
+        iso3166-2: DZ-20
+      names:
+        - name: Saïda
+          sources: [iso3166-2]
+    
+
+    # Sidi Bel Abbès
+    - codes:
+        iso3166-2: DZ-22
+      names:
+        - name: Sidi Bel Abbès
+          sources: [iso3166-2]
+    
+
+    # Skikda
+    - codes:
+        iso3166-2: DZ-21
+      names:
+        - name: Skikda
+          sources: [iso3166-2]
+    
+
+    # Souk Ahras
+    - codes:
+        iso3166-2: DZ-41
+      names:
+        - name: Souk Ahras
+          sources: [iso3166-2]
+    
+
+    # Sétif
+    - codes:
+        iso3166-2: DZ-19
+      names:
+        - name: Sétif
+          sources: [iso3166-2]
+    
+
+    # Tamanrasset
+    - codes:
+        iso3166-2: DZ-11
+      names:
+        - name: Tamanrasset
+          sources: [iso3166-2]
+    
+
+    # Tiaret
+    - codes:
+        iso3166-2: DZ-14
+      names:
+        - name: Tiaret
+          sources: [iso3166-2]
+    
+
+    # Tindouf
+    - codes:
+        iso3166-2: DZ-37
+      names:
+        - name: Tindouf
+          sources: [iso3166-2]
+    
+
+    # Tipaza
+    - codes:
+        iso3166-2: DZ-42
+      names:
+        - name: Tipaza
+          sources: [iso3166-2]
+    
+
+    # Tissemsilt
+    - codes:
+        iso3166-2: DZ-38
+      names:
+        - name: Tissemsilt
+          sources: [iso3166-2]
+    
+
+    # Tizi Ouzou
+    - codes:
+        iso3166-2: DZ-15
+      names:
+        - name: Tizi Ouzou
+          sources: [iso3166-2]
+    
+
+    # Tlemcen
+    - codes:
+        iso3166-2: DZ-13
+      names:
+        - name: Tlemcen
+          sources: [iso3166-2]
+    
+
+    # Tébessa
+    - codes:
+        iso3166-2: DZ-12
+      names:
+        - name: Tébessa
+          sources: [iso3166-2]

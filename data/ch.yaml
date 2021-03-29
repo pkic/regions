@@ -1,0 +1,222 @@
+name: Switzerland
+iso3166-1: CH
+complete: false
+regions:
+    
+
+    # Aargau
+    - codes:
+        iso3166-2: CH-AG
+      names:
+        - name: Aargau
+          sources: [iso3166-2]
+    
+
+    # Appenzell Ausserrhoden
+    - codes:
+        iso3166-2: CH-AR
+      names:
+        - name: Appenzell Ausserrhoden
+          sources: [iso3166-2]
+    
+
+    # Appenzell Innerrhoden
+    - codes:
+        iso3166-2: CH-AI
+      names:
+        - name: Appenzell Innerrhoden
+          sources: [iso3166-2]
+    
+
+    # Basel-Landschaft
+    - codes:
+        iso3166-2: CH-BL
+      names:
+        - name: Basel-Landschaft
+          sources: [iso3166-2]
+    
+
+    # Basel-Stadt
+    - codes:
+        iso3166-2: CH-BS
+      names:
+        - name: Basel-Stadt
+          sources: [iso3166-2]
+    
+
+    # Bern
+    - codes:
+        iso3166-2: CH-BE
+      names:
+        - name: Bern
+          sources: [iso3166-2]
+        - name: Berne
+          sources: [iso3166-2]
+    
+
+    # Freiburg
+    - codes:
+        iso3166-2: CH-FR
+      names:
+        - name: Freiburg
+          sources: [iso3166-2]
+        - name: Fribourg
+          sources: [iso3166-2]
+    
+
+    # Genève
+    - codes:
+        iso3166-2: CH-GE
+      names:
+        - name: Genève
+          sources: [iso3166-2]
+    
+
+    # Glarus
+    - codes:
+        iso3166-2: CH-GL
+      names:
+        - name: Glarus
+          sources: [iso3166-2]
+    
+
+    # Graubünden
+    - codes:
+        iso3166-2: CH-GR
+      names:
+        - name: Graubünden
+          sources: [iso3166-2]
+        - name: Grigioni
+          sources: [iso3166-2]
+        - name: Grischun
+          sources: [iso3166-2]
+    
+
+    # Jura
+    - codes:
+        iso3166-2: CH-JU
+      names:
+        - name: Jura
+          sources: [iso3166-2]
+    
+
+    # Luzern
+    - codes:
+        iso3166-2: CH-LU
+      names:
+        - name: Luzern
+          sources: [iso3166-2]
+    
+
+    # Neuchâtel
+    - codes:
+        iso3166-2: CH-NE
+      names:
+        - name: Neuchâtel
+          sources: [iso3166-2]
+    
+
+    # Nidwalden
+    - codes:
+        iso3166-2: CH-NW
+      names:
+        - name: Nidwalden
+          sources: [iso3166-2]
+    
+
+    # Obwalden
+    - codes:
+        iso3166-2: CH-OW
+      names:
+        - name: Obwalden
+          sources: [iso3166-2]
+    
+
+    # Sankt Gallen
+    - codes:
+        iso3166-2: CH-SG
+      names:
+        - name: Sankt Gallen
+          sources: [iso3166-2]
+    
+
+    # Schaffhausen
+    - codes:
+        iso3166-2: CH-SH
+      names:
+        - name: Schaffhausen
+          sources: [iso3166-2]
+    
+
+    # Schwyz
+    - codes:
+        iso3166-2: CH-SZ
+      names:
+        - name: Schwyz
+          sources: [iso3166-2]
+    
+
+    # Solothurn
+    - codes:
+        iso3166-2: CH-SO
+      names:
+        - name: Solothurn
+          sources: [iso3166-2]
+    
+
+    # Thurgau
+    - codes:
+        iso3166-2: CH-TG
+      names:
+        - name: Thurgau
+          sources: [iso3166-2]
+    
+
+    # Ticino
+    - codes:
+        iso3166-2: CH-TI
+      names:
+        - name: Ticino
+          sources: [iso3166-2]
+    
+
+    # Uri
+    - codes:
+        iso3166-2: CH-UR
+      names:
+        - name: Uri
+          sources: [iso3166-2]
+    
+
+    # Vaud
+    - codes:
+        iso3166-2: CH-VD
+      names:
+        - name: Vaud
+          sources: [iso3166-2]
+    
+
+    # Valais
+    - codes:
+        iso3166-2: CH-VS
+      names:
+        - name: Valais
+          sources: [iso3166-2]
+        - name: Wallis
+          sources: [iso3166-2]
+    
+
+    # Zug
+    - codes:
+        iso3166-2: CH-ZG
+      names:
+        - name: Zug
+          sources: [iso3166-2]
+    
+
+    # Zürich
+    - codes:
+        iso3166-2: CH-ZH
+      names:
+        - name: Zürich
+          sources: [iso3166-2]

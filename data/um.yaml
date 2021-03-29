@@ -1,0 +1,75 @@
+iso3166-1: UM
+complete: false
+regions:
+    
+
+    # Baker Island
+    - codes:
+        iso3166-2: UM-81
+      names:
+        - name: Baker Island
+          sources: [iso3166-2]
+    
+
+    # Howland Island
+    - codes:
+        iso3166-2: UM-84
+      names:
+        - name: Howland Island
+          sources: [iso3166-2]
+    
+
+    # Jarvis Island
+    - codes:
+        iso3166-2: UM-86
+      names:
+        - name: Jarvis Island
+          sources: [iso3166-2]
+    
+
+    # Johnston Atoll
+    - codes:
+        iso3166-2: UM-67
+      names:
+        - name: Johnston Atoll
+          sources: [iso3166-2]
+    
+
+    # Kingman Reef
+    - codes:
+        iso3166-2: UM-89
+      names:
+        - name: Kingman Reef
+          sources: [iso3166-2]
+    
+
+    # Midway Islands
+    - codes:
+        iso3166-2: UM-71
+      names:
+        - name: Midway Islands
+          sources: [iso3166-2]
+    
+
+    # Navassa Island
+    - codes:
+        iso3166-2: UM-76
+      names:
+        - name: Navassa Island
+          sources: [iso3166-2]
+    
+
+    # Palmyra Atoll
+    - codes:
+        iso3166-2: UM-95
+      names:
+        - name: Palmyra Atoll
+          sources: [iso3166-2]
+    
+
+    # Wake Island
+    - codes:
+        iso3166-2: UM-79
+      names:
+        - name: Wake Island
+          sources: [iso3166-2]

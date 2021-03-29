@@ -1,0 +1,131 @@
+iso3166-1: PW
+complete: false
+regions:
+    
+
+    # Aimeliik
+    - codes:
+        iso3166-2: PW-002
+      names:
+        - name: Aimeliik
+          sources: [iso3166-2]
+    
+
+    # Airai
+    - codes:
+        iso3166-2: PW-004
+      names:
+        - name: Airai
+          sources: [iso3166-2]
+    
+
+    # Angaur
+    - codes:
+        iso3166-2: PW-010
+      names:
+        - name: Angaur
+          sources: [iso3166-2]
+    
+
+    # Hatohobei
+    - codes:
+        iso3166-2: PW-050
+      names:
+        - name: Hatohobei
+          sources: [iso3166-2]
+    
+
+    # Kayangel
+    - codes:
+        iso3166-2: PW-100
+      names:
+        - name: Kayangel
+          sources: [iso3166-2]
+    
+
+    # Koror
+    - codes:
+        iso3166-2: PW-150
+      names:
+        - name: Koror
+          sources: [iso3166-2]
+    
+
+    # Melekeok
+    - codes:
+        iso3166-2: PW-212
+      names:
+        - name: Melekeok
+          sources: [iso3166-2]
+    
+
+    # Ngaraard
+    - codes:
+        iso3166-2: PW-214
+      names:
+        - name: Ngaraard
+          sources: [iso3166-2]
+    
+
+    # Ngarchelong
+    - codes:
+        iso3166-2: PW-218
+      names:
+        - name: Ngarchelong
+          sources: [iso3166-2]
+    
+
+    # Ngardmau
+    - codes:
+        iso3166-2: PW-222
+      names:
+        - name: Ngardmau
+          sources: [iso3166-2]
+    
+
+    # Ngatpang
+    - codes:
+        iso3166-2: PW-224
+      names:
+        - name: Ngatpang
+          sources: [iso3166-2]
+    
+
+    # Ngchesar
+    - codes:
+        iso3166-2: PW-226
+      names:
+        - name: Ngchesar
+          sources: [iso3166-2]
+    
+
+    # Ngeremlengui
+    - codes:
+        iso3166-2: PW-227
+      names:
+        - name: Ngeremlengui
+          sources: [iso3166-2]
+    
+
+    # Ngiwal
+    - codes:
+        iso3166-2: PW-228
+      names:
+        - name: Ngiwal
+          sources: [iso3166-2]
+    
+
+    # Peleliu
+    - codes:
+        iso3166-2: PW-350
+      names:
+        - name: Peleliu
+          sources: [iso3166-2]
+    
+
+    # Sonsorol
+    - codes:
+        iso3166-2: PW-370
+      names:
+        - name: Sonsorol
+          sources: [iso3166-2]

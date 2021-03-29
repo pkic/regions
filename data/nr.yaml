@@ -1,0 +1,118 @@
+iso3166-1: NR
+complete: false
+regions:
+    
+
+    # Aiwo
+    - codes:
+        iso3166-2: NR-01
+      names:
+        - name: Aiwo
+          sources: [iso3166-2]
+    
+
+    # Anabar
+    - codes:
+        iso3166-2: NR-02
+      names:
+        - name: Anabar
+          sources: [iso3166-2]
+    
+
+    # Anetan
+    - codes:
+        iso3166-2: NR-03
+      names:
+        - name: Anetan
+          sources: [iso3166-2]
+    
+
+    # Anibare
+    - codes:
+        iso3166-2: NR-04
+      names:
+        - name: Anibare
+          sources: [iso3166-2]
+    
+
+    # Baitsi
+    - codes:
+        iso3166-2: NR-05
+      names:
+        - name: Baiti
+          sources: [iso3166-2]
+        - name: Baitsi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Boe
+    - codes:
+        iso3166-2: NR-06
+      names:
+        - name: Boe
+          sources: [iso3166-2]
+    
+
+    # Buada
+    - codes:
+        iso3166-2: NR-07
+      names:
+        - name: Buada
+          sources: [iso3166-2]
+    
+
+    # Denigomodu
+    - codes:
+        iso3166-2: NR-08
+      names:
+        - name: Denigomodu
+          sources: [iso3166-2]
+    
+
+    # Ewa
+    - codes:
+        iso3166-2: NR-09
+      names:
+        - name: Ewa
+          sources: [iso3166-2]
+    
+
+    # Ijuw
+    - codes:
+        iso3166-2: NR-10
+      names:
+        - name: Ijuw
+          sources: [iso3166-2]
+    
+
+    # Meneng
+    - codes:
+        iso3166-2: NR-11
+      names:
+        - name: Meneng
+          sources: [iso3166-2]
+    
+
+    # Nibok
+    - codes:
+        iso3166-2: NR-12
+      names:
+        - name: Nibok
+          sources: [iso3166-2]
+    
+
+    # Uaboe
+    - codes:
+        iso3166-2: NR-13
+      names:
+        - name: Uaboe
+          sources: [iso3166-2]
+    
+
+    # Yaren
+    - codes:
+        iso3166-2: NR-14
+      names:
+        - name: Yaren
+          sources: [iso3166-2]

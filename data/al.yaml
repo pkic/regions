@@ -1,0 +1,100 @@
+name: Albania
+iso3166-1: AL
+complete: false
+regions:
+    
+
+    # Berat
+    - codes:
+        iso3166-2: AL-01
+      names:
+        - name: Berat
+          sources: [iso3166-2]
+    
+
+    # Dibër
+    - codes:
+        iso3166-2: AL-09
+      names:
+        - name: Dibër
+          sources: [iso3166-2]
+    
+
+    # Durrës
+    - codes:
+        iso3166-2: AL-02
+      names:
+        - name: Durrës
+          sources: [iso3166-2]
+    
+
+    # Elbasan
+    - codes:
+        iso3166-2: AL-03
+      names:
+        - name: Elbasan
+          sources: [iso3166-2]
+    
+
+    # Fier
+    - codes:
+        iso3166-2: AL-04
+      names:
+        - name: Fier
+          sources: [iso3166-2]
+    
+
+    # Gjirokastër
+    - codes:
+        iso3166-2: AL-05
+      names:
+        - name: Gjirokastër
+          sources: [iso3166-2]
+    
+
+    # Korçë
+    - codes:
+        iso3166-2: AL-06
+      names:
+        - name: Korçë
+          sources: [iso3166-2]
+    
+
+    # Kukës
+    - codes:
+        iso3166-2: AL-07
+      names:
+        - name: Kukës
+          sources: [iso3166-2]
+    
+
+    # Lezhë
+    - codes:
+        iso3166-2: AL-08
+      names:
+        - name: Lezhë
+          sources: [iso3166-2]
+    
+
+    # Shkodër
+    - codes:
+        iso3166-2: AL-10
+      names:
+        - name: Shkodër
+          sources: [iso3166-2]
+    
+
+    # Tiranë
+    - codes:
+        iso3166-2: AL-11
+      names:
+        - name: Tiranë
+          sources: [iso3166-2]
+    
+
+    # Vlorë
+    - codes:
+        iso3166-2: AL-12
+      names:
+        - name: Vlorë
+          sources: [iso3166-2]

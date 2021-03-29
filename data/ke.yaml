@@ -1,0 +1,371 @@
+iso3166-1: KE
+complete: false
+regions:
+    
+
+    - codes:
+        iso3166-2: KE-39
+    
+
+    # Baringo
+    - codes:
+        iso3166-2: KE-01
+      names:
+        - name: Baringo
+          sources: [iso3166-2]
+    
+
+    # Bomet
+    - codes:
+        iso3166-2: KE-02
+      names:
+        - name: Bomet
+          sources: [iso3166-2]
+    
+
+    # Bungoma
+    - codes:
+        iso3166-2: KE-03
+      names:
+        - name: Bungoma
+          sources: [iso3166-2]
+    
+
+    # Busia
+    - codes:
+        iso3166-2: KE-04
+      names:
+        - name: Busia
+          sources: [iso3166-2]
+    
+
+    # Embu
+    - codes:
+        iso3166-2: KE-06
+      names:
+        - name: Embu
+          sources: [iso3166-2]
+    
+
+    # Garissa
+    - codes:
+        iso3166-2: KE-07
+      names:
+        - name: Garissa
+          sources: [iso3166-2]
+    
+
+    # Homa Bay
+    - codes:
+        iso3166-2: KE-08
+      names:
+        - name: Homa Bay
+          sources: [iso3166-2]
+    
+
+    # Isiolo
+    - codes:
+        iso3166-2: KE-09
+      names:
+        - name: Isiolo
+          sources: [iso3166-2]
+    
+
+    # Kajiado
+    - codes:
+        iso3166-2: KE-10
+      names:
+        - name: Kajiado
+          sources: [iso3166-2]
+    
+
+    # Kakamega
+    - codes:
+        iso3166-2: KE-11
+      names:
+        - name: Kakamega
+          sources: [iso3166-2]
+    
+
+    # Kericho
+    - codes:
+        iso3166-2: KE-12
+      names:
+        - name: Kericho
+          sources: [iso3166-2]
+    
+
+    # Kiambu
+    - codes:
+        iso3166-2: KE-13
+      names:
+        - name: Kiambu
+          sources: [iso3166-2]
+    
+
+    # Kilifi
+    - codes:
+        iso3166-2: KE-14
+      names:
+        - name: Kilifi
+          sources: [iso3166-2]
+    
+
+    # Kirinyaga
+    - codes:
+        iso3166-2: KE-15
+      names:
+        - name: Kirinyaga
+          sources: [iso3166-2]
+    
+
+    # Kisii
+    - codes:
+        iso3166-2: KE-16
+      names:
+        - name: Kisii
+          sources: [iso3166-2]
+    
+
+    # Kisumu
+    - codes:
+        iso3166-2: KE-17
+      names:
+        - name: Kisumu
+          sources: [iso3166-2]
+    
+
+    # Kitui
+    - codes:
+        iso3166-2: KE-18
+      names:
+        - name: Kitui
+          sources: [iso3166-2]
+    
+
+    # Kwale
+    - codes:
+        iso3166-2: KE-19
+      names:
+        - name: Kwale
+          sources: [iso3166-2]
+    
+
+    # Laikipia
+    - codes:
+        iso3166-2: KE-20
+      names:
+        - name: Laikipia
+          sources: [iso3166-2]
+    
+
+    # Lamu
+    - codes:
+        iso3166-2: KE-21
+      names:
+        - name: Lamu
+          sources: [iso3166-2]
+    
+
+    # Machakos
+    - codes:
+        iso3166-2: KE-22
+      names:
+        - name: Machakos
+          sources: [iso3166-2]
+    
+
+    # Makueni
+    - codes:
+        iso3166-2: KE-23
+      names:
+        - name: Makueni
+          sources: [iso3166-2]
+    
+
+    # Mandera
+    - codes:
+        iso3166-2: KE-24
+      names:
+        - name: Mandera
+          sources: [iso3166-2]
+    
+
+    # Marsabit
+    - codes:
+        iso3166-2: KE-25
+      names:
+        - name: Marsabit
+          sources: [iso3166-2]
+    
+
+    # Meru
+    - codes:
+        iso3166-2: KE-26
+      names:
+        - name: Meru
+          sources: [iso3166-2]
+    
+
+    # Migori
+    - codes:
+        iso3166-2: KE-27
+      names:
+        - name: Migori
+          sources: [iso3166-2]
+    
+
+    # Mombasa
+    - codes:
+        iso3166-2: KE-28
+      names:
+        - name: Mombasa
+          sources: [iso3166-2]
+    
+
+    # Murang'a
+    - codes:
+        iso3166-2: KE-29
+      names:
+        - name: Murang'a
+          sources: [iso3166-2]
+    
+
+    # Nairobi City
+    - codes:
+        iso3166-2: KE-30
+      names:
+        - name: Nairobi City
+          sources: [iso3166-2]
+    
+
+    # Nakuru
+    - codes:
+        iso3166-2: KE-31
+      names:
+        - name: Nakuru
+          sources: [iso3166-2]
+    
+
+    # Nandi
+    - codes:
+        iso3166-2: KE-32
+      names:
+        - name: Nandi
+          sources: [iso3166-2]
+    
+
+    # Narok
+    - codes:
+        iso3166-2: KE-33
+      names:
+        - name: Narok
+          sources: [iso3166-2]
+    
+
+    # Nyamira
+    - codes:
+        iso3166-2: KE-34
+      names:
+        - name: Nyamira
+          sources: [iso3166-2]
+    
+
+    # Nyandarua
+    - codes:
+        iso3166-2: KE-35
+      names:
+        - name: Nyandarua
+          sources: [iso3166-2]
+    
+
+    - codes:
+        iso3166-2: KE-05
+    
+
+    # Nyeri
+    - codes:
+        iso3166-2: KE-36
+      names:
+        - name: Nyeri
+          sources: [iso3166-2]
+    
+
+    # Samburu
+    - codes:
+        iso3166-2: KE-37
+      names:
+        - name: Samburu
+          sources: [iso3166-2]
+    
+
+    # Siaya
+    - codes:
+        iso3166-2: KE-38
+      names:
+        - name: Siaya
+          sources: [iso3166-2]
+    
+
+    # Tana River
+    - codes:
+        iso3166-2: KE-40
+      names:
+        - name: Tana River
+          sources: [iso3166-2]
+    
+
+    # Tharaka-Nithi
+    - codes:
+        iso3166-2: KE-41
+      names:
+        - name: Tharaka-Nithi
+          sources: [iso3166-2]
+    
+
+    # Trans Nzoia
+    - codes:
+        iso3166-2: KE-42
+      names:
+        - name: Trans Nzoia
+          sources: [iso3166-2]
+    
+
+    # Turkana
+    - codes:
+        iso3166-2: KE-43
+      names:
+        - name: Turkana
+          sources: [iso3166-2]
+    
+
+    # Uasin Gishu
+    - codes:
+        iso3166-2: KE-44
+      names:
+        - name: Uasin Gishu
+          sources: [iso3166-2]
+    
+
+    # Vihiga
+    - codes:
+        iso3166-2: KE-45
+      names:
+        - name: Vihiga
+          sources: [iso3166-2]
+    
+
+    # Wajir
+    - codes:
+        iso3166-2: KE-46
+      names:
+        - name: Wajir
+          sources: [iso3166-2]
+    
+
+    # West Pokot
+    - codes:
+        iso3166-2: KE-47
+      names:
+        - name: West Pokot
+          sources: [iso3166-2]

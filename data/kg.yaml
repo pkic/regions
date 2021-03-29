@@ -1,0 +1,111 @@
+iso3166-1: KG
+complete: false
+regions:
+    
+
+    # Batken
+    - codes:
+        iso3166-2: KG-B
+      names:
+        - name: Batken
+          sources: [iso3166-2]
+        - name: Batkenskaja oblast'
+          sources: [iso3166-2]
+        - name: Batkenskaya oblast'
+          sources: [iso3166-2]
+    
+
+    # Chuyskaya oblast'
+    - codes:
+        iso3166-2: KG-C
+      names:
+        - name: Chuyskaya oblast'
+          sources: [iso3166-2]
+        - name: Chüy
+          sources: [iso3166-2]
+        - name: Čujskaja oblast'
+          sources: [iso3166-2]
+    
+
+    # Dzhalal-Abadskaya oblast'
+    - codes:
+        iso3166-2: KG-J
+      names:
+        - name: Dzhalal-Abadskaya oblast'
+          sources: [iso3166-2]
+        - name: Džalal-Abadskaja oblast'
+          sources: [iso3166-2]
+        - name: Jalal-Abad
+          sources: [iso3166-2]
+    
+
+    # Bishkek Shaary
+    - codes:
+        iso3166-2: KG-GB
+      names:
+        - name: Bishkek Shaary
+          sources: [iso3166-2]
+        - name: Gorod Bishkek
+          sources: [iso3166-2]
+        - name: Gorod Biškek
+          sources: [iso3166-2]
+    
+
+    # Gorod Osh
+    - codes:
+        iso3166-2: KG-GO
+      names:
+        - name: Gorod Osh
+          sources: [iso3166-2]
+        - name: Gorod Oš
+          sources: [iso3166-2]
+        - name: Osh Shaary
+          sources: [iso3166-2]
+    
+
+    # Issyk-Kul'skaja oblast'
+    - codes:
+        iso3166-2: KG-Y
+      names:
+        - name: Issyk-Kul'skaja oblast'
+          sources: [iso3166-2]
+        - name: Issyk-Kul'skaya oblast'
+          sources: [iso3166-2]
+        - name: Ysyk-Köl
+          sources: [iso3166-2]
+    
+
+    # Naryn
+    - codes:
+        iso3166-2: KG-N
+      names:
+        - name: Naryn
+          sources: [iso3166-2]
+        - name: Narynskaja oblast'
+          sources: [iso3166-2]
+        - name: Narynskaya oblast'
+          sources: [iso3166-2]
+    
+
+    # Osh
+    - codes:
+        iso3166-2: KG-O
+      names:
+        - name: Osh
+          sources: [iso3166-2]
+        - name: Oshskaya oblast'
+          sources: [iso3166-2]
+        - name: Ošskaja oblast'
+          sources: [iso3166-2]
+    
+
+    # Talas
+    - codes:
+        iso3166-2: KG-T
+      names:
+        - name: Talas
+          sources: [iso3166-2]
+        - name: Talasskaja oblast'
+          sources: [iso3166-2]
+        - name: Talasskaya oblast'
+          sources: [iso3166-2]

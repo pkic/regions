@@ -1,0 +1,236 @@
+iso3166-1: TD
+complete: false
+regions:
+    
+
+    # Al Baţḩā’
+    - codes:
+        iso3166-2: TD-BA
+      names:
+        - name: Al Baţḩā’
+          sources: [iso3166-2]
+        - name: Batha
+          sources: [iso3166-2]
+    
+
+    # Bahr el Ghazal
+    - codes:
+        iso3166-2: TD-BG
+      names:
+        - name: Bahr el Ghazal
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Barh-el-Ghazal
+          sources: [iso3166-2]
+        - name: Baḩr al Ghazāl
+          sources: [iso3166-2]
+    
+
+    # Borkou
+    - codes:
+        iso3166-2: TD-BO
+      names:
+        - name: Borkou
+          sources: [iso3166-2]
+        - name: Būrkū
+          sources: [iso3166-2]
+    
+
+    # Ennedi-Ouest
+    - codes:
+        iso3166-2: TD-EO
+      names:
+        - name: Ennedi-Ouest
+          sources: [iso3166-2]
+        - name: Inīdī al Gharbī
+          sources: [iso3166-2]
+    
+
+    # Ennedi-Est
+    - codes:
+        iso3166-2: TD-EE
+      names:
+        - name: Ennedi-Est
+          sources: [iso3166-2]
+        - name: Inīdī ash Sharqī
+          sources: [iso3166-2]
+    
+
+    # Kanem
+    - codes:
+        iso3166-2: TD-KA
+      names:
+        - name: Kanem
+          sources: [iso3166-2]
+        - name: Kānim
+          sources: [iso3166-2]
+    
+
+    # Al Buḩayrah
+    - codes:
+        iso3166-2: TD-LC
+      names:
+        - name: Al Buḩayrah
+          sources: [iso3166-2]
+        - name: Lac
+          sources: [iso3166-2]
+    
+
+    # Logone-Occidental
+    - codes:
+        iso3166-2: TD-LO
+      names:
+        - name: Logone-Occidental
+          sources: [iso3166-2]
+        - name: Lūghūn al Gharbī
+          sources: [iso3166-2]
+    
+
+    # Logone-Oriental
+    - codes:
+        iso3166-2: TD-LR
+      names:
+        - name: Logone-Oriental
+          sources: [iso3166-2]
+        - name: Lūghūn ash Sharqī
+          sources: [iso3166-2]
+    
+
+    # Mandoul
+    - codes:
+        iso3166-2: TD-MA
+      names:
+        - name: Mandoul
+          sources: [iso3166-2]
+        - name: Māndūl
+          sources: [iso3166-2]
+    
+
+    # Mayo-Kebbi-Est
+    - codes:
+        iso3166-2: TD-ME
+      names:
+        - name: Mayo-Kebbi-Est
+          sources: [iso3166-2]
+        - name: Māyū Kībbī ash Sharqī
+          sources: [iso3166-2]
+    
+
+    # Mayo-Kebbi-Ouest
+    - codes:
+        iso3166-2: TD-MO
+      names:
+        - name: Mayo-Kebbi-Ouest
+          sources: [iso3166-2]
+        - name: Māyū Kībbī al Gharbī
+          sources: [iso3166-2]
+    
+
+    # Moyen-Chari
+    - codes:
+        iso3166-2: TD-MC
+      names:
+        - name: Moyen-Chari
+          sources: [iso3166-2]
+        - name: Shārī al Awsaţ
+          sources: [iso3166-2]
+    
+
+    # Ouaddaï
+    - codes:
+        iso3166-2: TD-OD
+      names:
+        - name: Ouaddaï
+          sources: [iso3166-2]
+        - name: Waddāy
+          sources: [iso3166-2]
+    
+
+    # Guéra
+    - codes:
+        iso3166-2: TD-GR
+      names:
+        - name: Guéra
+          sources: [iso3166-2]
+        - name: Qīrā
+          sources: [iso3166-2]
+    
+
+    # Salamat
+    - codes:
+        iso3166-2: TD-SA
+      names:
+        - name: Salamat
+          sources: [iso3166-2]
+        - name: Salāmāt
+          sources: [iso3166-2]
+    
+
+    # Chari-Baguirmi
+    - codes:
+        iso3166-2: TD-CB
+      names:
+        - name: Chari-Baguirmi
+          sources: [iso3166-2]
+        - name: Shārī Bāqirmī
+          sources: [iso3166-2]
+    
+
+    # Sila
+    - codes:
+        iso3166-2: TD-SI
+      names:
+        - name: Sila
+          sources: [iso3166-2]
+        - name: Sīlā
+          sources: [iso3166-2]
+    
+
+    # Tibastī
+    - codes:
+        iso3166-2: TD-TI
+      names:
+        - name: Tibastī
+          sources: [iso3166-2]
+        - name: Tibesti
+          sources: [iso3166-2]
+    
+
+    # Tandjilé
+    - codes:
+        iso3166-2: TD-TA
+      names:
+        - name: Tandjilé
+          sources: [iso3166-2]
+        - name: Tānjīlī
+          sources: [iso3166-2]
+    
+
+    # Madīnat Injamīnā
+    - codes:
+        iso3166-2: TD-ND
+      names:
+        - name: Madīnat Injamīnā
+          sources: [iso3166-2]
+        - name: Ville de Ndjamena
+          sources: [iso3166-2]
+    
+
+    # Wadi Fira
+    - codes:
+        iso3166-2: TD-WF
+      names:
+        - name: Wadi Fira
+          sources: [iso3166-2]
+        - name: Wādī Fīrā’
+          sources: [iso3166-2]
+    
+
+    # Hadjer Lamis
+    - codes:
+        iso3166-2: TD-HL
+      names:
+        - name: Hadjer Lamis
+          sources: [iso3166-2]
+        - name: Ḩajjar Lamīs
+          sources: [iso3166-2]

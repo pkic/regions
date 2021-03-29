@@ -1,0 +1,275 @@
+iso3166-1: GN
+complete: false
+regions:
+    
+
+    # Beyla
+    - codes:
+        iso3166-2: GN-BE
+      names:
+        - name: Beyla
+          sources: [iso3166-2]
+    
+
+    # Boffa
+    - codes:
+        iso3166-2: GN-BF
+      names:
+        - name: Boffa
+          sources: [iso3166-2]
+    
+
+    # Boké
+    - codes:
+        iso3166-2: GN-BK
+      names:
+        - name: Boké
+          sources: [iso3166-2]
+    
+
+    # Conakry
+    - codes:
+        iso3166-2: GN-C
+      names:
+        - name: Conakry
+          sources: [iso3166-2]
+    
+
+    # Coyah
+    - codes:
+        iso3166-2: GN-CO
+      names:
+        - name: Coyah
+          sources: [iso3166-2]
+    
+
+    # Dabola
+    - codes:
+        iso3166-2: GN-DB
+      names:
+        - name: Dabola
+          sources: [iso3166-2]
+    
+
+    # Dalaba
+    - codes:
+        iso3166-2: GN-DL
+      names:
+        - name: Dalaba
+          sources: [iso3166-2]
+    
+
+    # Dinguiraye
+    - codes:
+        iso3166-2: GN-DI
+      names:
+        - name: Dinguiraye
+          sources: [iso3166-2]
+    
+
+    # Dubréka
+    - codes:
+        iso3166-2: GN-DU
+      names:
+        - name: Dubréka
+          sources: [iso3166-2]
+    
+
+    # Faranah
+    - codes:
+        iso3166-2: GN-FA
+      names:
+        - name: Faranah
+          sources: [iso3166-2]
+    
+
+    # Forécariah
+    - codes:
+        iso3166-2: GN-FO
+      names:
+        - name: Forécariah
+          sources: [iso3166-2]
+    
+
+    # Fria
+    - codes:
+        iso3166-2: GN-FR
+      names:
+        - name: Fria
+          sources: [iso3166-2]
+    
+
+    # Gaoual
+    - codes:
+        iso3166-2: GN-GA
+      names:
+        - name: Gaoual
+          sources: [iso3166-2]
+    
+
+    # Guékédou
+    - codes:
+        iso3166-2: GN-GU
+      names:
+        - name: Guékédou
+          sources: [iso3166-2]
+    
+
+    # Kankan
+    - codes:
+        iso3166-2: GN-KA
+      names:
+        - name: Kankan
+          sources: [iso3166-2]
+    
+
+    # Kindia
+    - codes:
+        iso3166-2: GN-KD
+      names:
+        - name: Kindia
+          sources: [iso3166-2]
+    
+
+    # Kissidougou
+    - codes:
+        iso3166-2: GN-KS
+      names:
+        - name: Kissidougou
+          sources: [iso3166-2]
+    
+
+    # Koubia
+    - codes:
+        iso3166-2: GN-KB
+      names:
+        - name: Koubia
+          sources: [iso3166-2]
+    
+
+    # Koundara
+    - codes:
+        iso3166-2: GN-KN
+      names:
+        - name: Koundara
+          sources: [iso3166-2]
+    
+
+    # Kouroussa
+    - codes:
+        iso3166-2: GN-KO
+      names:
+        - name: Kouroussa
+          sources: [iso3166-2]
+    
+
+    # Kérouané
+    - codes:
+        iso3166-2: GN-KE
+      names:
+        - name: Kérouané
+          sources: [iso3166-2]
+    
+
+    # Labé
+    - codes:
+        iso3166-2: GN-LA
+      names:
+        - name: Labé
+          sources: [iso3166-2]
+    
+
+    # Lola
+    - codes:
+        iso3166-2: GN-LO
+      names:
+        - name: Lola
+          sources: [iso3166-2]
+    
+
+    # Lélouma
+    - codes:
+        iso3166-2: GN-LE
+      names:
+        - name: Lélouma
+          sources: [iso3166-2]
+    
+
+    # Macenta
+    - codes:
+        iso3166-2: GN-MC
+      names:
+        - name: Macenta
+          sources: [iso3166-2]
+    
+
+    # Mali
+    - codes:
+        iso3166-2: GN-ML
+      names:
+        - name: Mali
+          sources: [iso3166-2]
+    
+
+    # Mamou
+    - codes:
+        iso3166-2: GN-MM
+      names:
+        - name: Mamou
+          sources: [iso3166-2]
+    
+
+    # Mandiana
+    - codes:
+        iso3166-2: GN-MD
+      names:
+        - name: Mandiana
+          sources: [iso3166-2]
+    
+
+    # Nzérékoré
+    - codes:
+        iso3166-2: GN-NZ
+      names:
+        - name: Nzérékoré
+          sources: [iso3166-2]
+    
+
+    # Pita
+    - codes:
+        iso3166-2: GN-PI
+      names:
+        - name: Pita
+          sources: [iso3166-2]
+    
+
+    # Siguiri
+    - codes:
+        iso3166-2: GN-SI
+      names:
+        - name: Siguiri
+          sources: [iso3166-2]
+    
+
+    # Tougué
+    - codes:
+        iso3166-2: GN-TO
+      names:
+        - name: Tougué
+          sources: [iso3166-2]
+    
+
+    # Télimélé
+    - codes:
+        iso3166-2: GN-TE
+      names:
+        - name: Télimélé
+          sources: [iso3166-2]
+    
+
+    # Yomou
+    - codes:
+        iso3166-2: GN-YO
+      names:
+        - name: Yomou
+          sources: [iso3166-2]

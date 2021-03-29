@@ -1,0 +1,562 @@
+name: Malta
+iso3166-1: MT
+complete: false
+regions:
+    
+
+    # Attard
+    - codes:
+        iso3166-2: MT-01
+      names:
+        - name: Attard
+          sources: [iso3166-2]
+    
+
+    # Balzan
+    - codes:
+        iso3166-2: MT-02
+      names:
+        - name: Balzan
+          sources: [iso3166-2]
+    
+
+    # Birgu
+    - codes:
+        iso3166-2: MT-03
+      names:
+        - name: Birgu
+          sources: [iso3166-2]
+    
+
+    # Birkirkara
+    - codes:
+        iso3166-2: MT-04
+      names:
+        - name: Birkirkara
+          sources: [iso3166-2]
+    
+
+    # Birżebbuġa
+    - codes:
+        iso3166-2: MT-05
+      names:
+        - name: Birżebbuġa
+          sources: [iso3166-2]
+    
+
+    # Bormla
+    - codes:
+        iso3166-2: MT-06
+      names:
+        - name: Bormla
+          sources: [iso3166-2]
+    
+
+    # Dingli
+    - codes:
+        iso3166-2: MT-07
+      names:
+        - name: Dingli
+          sources: [iso3166-2]
+    
+
+    # Fgura
+    - codes:
+        iso3166-2: MT-08
+      names:
+        - name: Fgura
+          sources: [iso3166-2]
+    
+
+    # Floriana
+    - codes:
+        iso3166-2: MT-09
+      names:
+        - name: Floriana
+          sources: [iso3166-2]
+    
+
+    # Fontana
+    - codes:
+        iso3166-2: MT-10
+      names:
+        - name: Fontana
+          sources: [iso3166-2]
+    
+
+    # Gudja
+    - codes:
+        iso3166-2: MT-11
+      names:
+        - name: Gudja
+          sources: [iso3166-2]
+    
+
+    # Għajnsielem
+    - codes:
+        iso3166-2: MT-13
+      names:
+        - name: Għajnsielem
+          sources: [iso3166-2]
+    
+
+    # Għarb
+    - codes:
+        iso3166-2: MT-14
+      names:
+        - name: Għarb
+          sources: [iso3166-2]
+    
+
+    # Għargħur
+    - codes:
+        iso3166-2: MT-15
+      names:
+        - name: Għargħur
+          sources: [iso3166-2]
+    
+
+    # Għasri
+    - codes:
+        iso3166-2: MT-16
+      names:
+        - name: Għasri
+          sources: [iso3166-2]
+    
+
+    # Għaxaq
+    - codes:
+        iso3166-2: MT-17
+      names:
+        - name: Għaxaq
+          sources: [iso3166-2]
+    
+
+    # Gżira
+    - codes:
+        iso3166-2: MT-12
+      names:
+        - name: Gżira
+          sources: [iso3166-2]
+    
+
+    # Iklin
+    - codes:
+        iso3166-2: MT-19
+      names:
+        - name: Iklin
+          sources: [iso3166-2]
+    
+
+    # Isla
+    - codes:
+        iso3166-2: MT-20
+      names:
+        - name: Isla
+          sources: [iso3166-2]
+    
+
+    # Kalkara
+    - codes:
+        iso3166-2: MT-21
+      names:
+        - name: Kalkara
+          sources: [iso3166-2]
+    
+
+    # Kerċem
+    - codes:
+        iso3166-2: MT-22
+      names:
+        - name: Kerċem
+          sources: [iso3166-2]
+    
+
+    # Kirkop
+    - codes:
+        iso3166-2: MT-23
+      names:
+        - name: Kirkop
+          sources: [iso3166-2]
+    
+
+    # Lija
+    - codes:
+        iso3166-2: MT-24
+      names:
+        - name: Lija
+          sources: [iso3166-2]
+    
+
+    # Luqa
+    - codes:
+        iso3166-2: MT-25
+      names:
+        - name: Luqa
+          sources: [iso3166-2]
+    
+
+    # Marsa
+    - codes:
+        iso3166-2: MT-26
+      names:
+        - name: Marsa
+          sources: [iso3166-2]
+    
+
+    # Marsaskala
+    - codes:
+        iso3166-2: MT-27
+      names:
+        - name: Marsaskala
+          sources: [iso3166-2]
+    
+
+    # Marsaxlokk
+    - codes:
+        iso3166-2: MT-28
+      names:
+        - name: Marsaxlokk
+          sources: [iso3166-2]
+    
+
+    # Mdina
+    - codes:
+        iso3166-2: MT-29
+      names:
+        - name: Mdina
+          sources: [iso3166-2]
+    
+
+    # Mellieħa
+    - codes:
+        iso3166-2: MT-30
+      names:
+        - name: Mellieħa
+          sources: [iso3166-2]
+    
+
+    # Mosta
+    - codes:
+        iso3166-2: MT-32
+      names:
+        - name: Mosta
+          sources: [iso3166-2]
+    
+
+    # Mqabba
+    - codes:
+        iso3166-2: MT-33
+      names:
+        - name: Mqabba
+          sources: [iso3166-2]
+    
+
+    # Msida
+    - codes:
+        iso3166-2: MT-34
+      names:
+        - name: Msida
+          sources: [iso3166-2]
+    
+
+    # Mtarfa
+    - codes:
+        iso3166-2: MT-35
+      names:
+        - name: Mtarfa
+          sources: [iso3166-2]
+    
+
+    # Munxar
+    - codes:
+        iso3166-2: MT-36
+      names:
+        - name: Munxar
+          sources: [iso3166-2]
+    
+
+    # Mġarr
+    - codes:
+        iso3166-2: MT-31
+      names:
+        - name: Mġarr
+          sources: [iso3166-2]
+    
+
+    # Nadur
+    - codes:
+        iso3166-2: MT-37
+      names:
+        - name: Nadur
+          sources: [iso3166-2]
+    
+
+    # Naxxar
+    - codes:
+        iso3166-2: MT-38
+      names:
+        - name: Naxxar
+          sources: [iso3166-2]
+    
+
+    # Paola
+    - codes:
+        iso3166-2: MT-39
+      names:
+        - name: Paola
+          sources: [iso3166-2]
+    
+
+    # Pembroke
+    - codes:
+        iso3166-2: MT-40
+      names:
+        - name: Pembroke
+          sources: [iso3166-2]
+    
+
+    # Pietà
+    - codes:
+        iso3166-2: MT-41
+      names:
+        - name: Pietà
+          sources: [iso3166-2]
+    
+
+    # Qala
+    - codes:
+        iso3166-2: MT-42
+      names:
+        - name: Qala
+          sources: [iso3166-2]
+    
+
+    # Qormi
+    - codes:
+        iso3166-2: MT-43
+      names:
+        - name: Qormi
+          sources: [iso3166-2]
+    
+
+    # Qrendi
+    - codes:
+        iso3166-2: MT-44
+      names:
+        - name: Qrendi
+          sources: [iso3166-2]
+    
+
+    # Rabat Gozo
+    - codes:
+        iso3166-2: MT-45
+      names:
+        - name: Rabat Gozo
+          sources: [iso3166-2]
+        - name: Rabat Għawdex
+          sources: [iso3166-2]
+    
+
+    # Rabat Malta
+    - codes:
+        iso3166-2: MT-46
+      names:
+        - name: Rabat Malta
+          sources: [iso3166-2]
+    
+
+    # Safi
+    - codes:
+        iso3166-2: MT-47
+      names:
+        - name: Safi
+          sources: [iso3166-2]
+    
+
+    # Saint Julian's
+    - codes:
+        iso3166-2: MT-48
+      names:
+        - name: Saint Julian's
+          sources: [iso3166-2]
+        - name: San Ġiljan
+          sources: [iso3166-2]
+    
+
+    # Saint Lawrence
+    - codes:
+        iso3166-2: MT-50
+      names:
+        - name: Saint Lawrence
+          sources: [iso3166-2]
+        - name: San Lawrenz
+          sources: [iso3166-2]
+    
+
+    # Saint Paul's Bay
+    - codes:
+        iso3166-2: MT-51
+      names:
+        - name: Saint Paul's Bay
+          sources: [iso3166-2]
+        - name: San Pawl il-Baħar
+          sources: [iso3166-2]
+    
+
+    # Saint John
+    - codes:
+        iso3166-2: MT-49
+      names:
+        - name: Saint John
+          sources: [iso3166-2]
+        - name: San Ġwann
+          sources: [iso3166-2]
+    
+
+    # Sannat
+    - codes:
+        iso3166-2: MT-52
+      names:
+        - name: Sannat
+          sources: [iso3166-2]
+    
+
+    # Saint Lucia's
+    - codes:
+        iso3166-2: MT-53
+      names:
+        - name: Saint Lucia's
+          sources: [iso3166-2]
+        - name: Santa Luċija
+          sources: [iso3166-2]
+    
+
+    # Santa Venera
+    - codes:
+        iso3166-2: MT-54
+      names:
+        - name: Santa Venera
+          sources: [iso3166-2]
+    
+
+    # Siġġiewi
+    - codes:
+        iso3166-2: MT-55
+      names:
+        - name: Siġġiewi
+          sources: [iso3166-2]
+    
+
+    # Sliema
+    - codes:
+        iso3166-2: MT-56
+      names:
+        - name: Sliema
+          sources: [iso3166-2]
+    
+
+    # Swieqi
+    - codes:
+        iso3166-2: MT-57
+      names:
+        - name: Swieqi
+          sources: [iso3166-2]
+    
+
+    # Ta' Xbiex
+    - codes:
+        iso3166-2: MT-58
+      names:
+        - name: Ta' Xbiex
+          sources: [iso3166-2]
+    
+
+    # Tarxien
+    - codes:
+        iso3166-2: MT-59
+      names:
+        - name: Tarxien
+          sources: [iso3166-2]
+    
+
+    # Valletta
+    - codes:
+        iso3166-2: MT-60
+      names:
+        - name: Valletta
+          sources: [iso3166-2]
+    
+
+    # Xagħra
+    - codes:
+        iso3166-2: MT-61
+      names:
+        - name: Xagħra
+          sources: [iso3166-2]
+    
+
+    # Xewkija
+    - codes:
+        iso3166-2: MT-62
+      names:
+        - name: Xewkija
+          sources: [iso3166-2]
+    
+
+    # Xgħajra
+    - codes:
+        iso3166-2: MT-63
+      names:
+        - name: Xgħajra
+          sources: [iso3166-2]
+    
+
+    # Ħamrun
+    - codes:
+        iso3166-2: MT-18
+      names:
+        - name: Ħamrun
+          sources: [iso3166-2]
+    
+
+    # Żabbar
+    - codes:
+        iso3166-2: MT-64
+      names:
+        - name: Żabbar
+          sources: [iso3166-2]
+    
+
+    # Żebbuġ Gozo
+    - codes:
+        iso3166-2: MT-65
+      names:
+        - name: Żebbuġ Gozo
+          sources: [iso3166-2]
+        - name: Żebbuġ Għawdex
+          sources: [iso3166-2]
+    
+
+    # Żebbuġ Malta
+    - codes:
+        iso3166-2: MT-66
+      names:
+        - name: Żebbuġ Malta
+          sources: [iso3166-2]
+    
+
+    # Żejtun
+    - codes:
+        iso3166-2: MT-67
+      names:
+        - name: Żejtun
+          sources: [iso3166-2]
+    
+
+    # Żurrieq
+    - codes:
+        iso3166-2: MT-68
+      names:
+        - name: Żurrieq
+          sources: [iso3166-2]

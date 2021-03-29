@@ -1,0 +1,67 @@
+iso3166-1: AG
+complete: false
+regions:
+    
+
+    # Barbuda
+    - codes:
+        iso3166-2: AG-10
+      names:
+        - name: Barbuda
+          sources: [iso3166-2]
+    
+
+    # Redonda
+    - codes:
+        iso3166-2: AG-11
+      names:
+        - name: Redonda
+          sources: [iso3166-2]
+    
+
+    # Saint George
+    - codes:
+        iso3166-2: AG-03
+      names:
+        - name: Saint George
+          sources: [iso3166-2]
+    
+
+    # Saint John
+    - codes:
+        iso3166-2: AG-04
+      names:
+        - name: Saint John
+          sources: [iso3166-2]
+    
+
+    # Saint Mary
+    - codes:
+        iso3166-2: AG-05
+      names:
+        - name: Saint Mary
+          sources: [iso3166-2]
+    
+
+    # Saint Paul
+    - codes:
+        iso3166-2: AG-06
+      names:
+        - name: Saint Paul
+          sources: [iso3166-2]
+    
+
+    # Saint Peter
+    - codes:
+        iso3166-2: AG-07
+      names:
+        - name: Saint Peter
+          sources: [iso3166-2]
+    
+
+    # Saint Philip
+    - codes:
+        iso3166-2: AG-08
+      names:
+        - name: Saint Philip
+          sources: [iso3166-2]

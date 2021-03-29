@@ -1,0 +1,163 @@
+iso3166-1: TW
+complete: false
+regions:
+    
+
+    # Changhua
+    - codes:
+        iso3166-2: TW-CHA
+      names:
+        - name: Changhua
+          sources: [iso3166-2]
+    
+
+    # Chiayi
+    - codes:
+        iso3166-2: TW-CYQ
+      names:
+        - name: Chiayi
+          sources: [iso3166-2]
+    
+
+    # Hsinchu
+    - codes:
+        iso3166-2: TW-HSZ
+      names:
+        - name: Hsinchu
+          sources: [iso3166-2]
+    
+
+    # Hualien
+    - codes:
+        iso3166-2: TW-HUA
+      names:
+        - name: Hualien
+          sources: [iso3166-2]
+    
+
+    # Kaohsiung
+    - codes:
+        iso3166-2: TW-KHH
+      names:
+        - name: Kaohsiung
+          sources: [iso3166-2]
+    
+
+    # Keelung
+    - codes:
+        iso3166-2: TW-KEE
+      names:
+        - name: Keelung
+          sources: [iso3166-2]
+    
+
+    # Kinmen
+    - codes:
+        iso3166-2: TW-KIN
+      names:
+        - name: Kinmen
+          sources: [iso3166-2]
+    
+
+    # Lienchiang
+    - codes:
+        iso3166-2: TW-LIE
+      names:
+        - name: Lienchiang
+          sources: [iso3166-2]
+    
+
+    # Miaoli
+    - codes:
+        iso3166-2: TW-MIA
+      names:
+        - name: Miaoli
+          sources: [iso3166-2]
+    
+
+    # Nantou
+    - codes:
+        iso3166-2: TW-NAN
+      names:
+        - name: Nantou
+          sources: [iso3166-2]
+    
+
+    # New Taipei
+    - codes:
+        iso3166-2: TW-NWT
+      names:
+        - name: New Taipei
+          sources: [iso3166-2]
+    
+
+    # Penghu
+    - codes:
+        iso3166-2: TW-PEN
+      names:
+        - name: Penghu
+          sources: [iso3166-2]
+    
+
+    # Pingtung
+    - codes:
+        iso3166-2: TW-PIF
+      names:
+        - name: Pingtung
+          sources: [iso3166-2]
+    
+
+    # Taichung
+    - codes:
+        iso3166-2: TW-TXG
+      names:
+        - name: Taichung
+          sources: [iso3166-2]
+    
+
+    # Tainan
+    - codes:
+        iso3166-2: TW-TNN
+      names:
+        - name: Tainan
+          sources: [iso3166-2]
+    
+
+    # Taipei
+    - codes:
+        iso3166-2: TW-TPE
+      names:
+        - name: Taipei
+          sources: [iso3166-2]
+    
+
+    # Taitung
+    - codes:
+        iso3166-2: TW-TTT
+      names:
+        - name: Taitung
+          sources: [iso3166-2]
+    
+
+    # Taoyuan
+    - codes:
+        iso3166-2: TW-TAO
+      names:
+        - name: Taoyuan
+          sources: [iso3166-2]
+    
+
+    # Yilan
+    - codes:
+        iso3166-2: TW-ILA
+      names:
+        - name: Yilan
+          sources: [iso3166-2]
+    
+
+    # Yunlin
+    - codes:
+        iso3166-2: TW-YUN
+      names:
+        - name: Yunlin
+          sources: [iso3166-2]

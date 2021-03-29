@@ -1,0 +1,27 @@
+iso3166-1: KI
+complete: false
+regions:
+    
+
+    # Gilbert Islands
+    - codes:
+        iso3166-2: KI-G
+      names:
+        - name: Gilbert Islands
+          sources: [iso3166-2]
+    
+
+    # Line Islands
+    - codes:
+        iso3166-2: KI-L
+      names:
+        - name: Line Islands
+          sources: [iso3166-2]
+    
+
+    # Phoenix Islands
+    - codes:
+        iso3166-2: KI-P
+      names:
+        - name: Phoenix Islands
+          sources: [iso3166-2]

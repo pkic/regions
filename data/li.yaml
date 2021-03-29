@@ -1,0 +1,92 @@
+name: Liechtenstein
+iso3166-1: LI
+complete: false
+regions:
+    
+
+    # Balzers
+    - codes:
+        iso3166-2: LI-01
+      names:
+        - name: Balzers
+          sources: [iso3166-2]
+    
+
+    # Eschen
+    - codes:
+        iso3166-2: LI-02
+      names:
+        - name: Eschen
+          sources: [iso3166-2]
+    
+
+    # Gamprin
+    - codes:
+        iso3166-2: LI-03
+      names:
+        - name: Gamprin
+          sources: [iso3166-2]
+    
+
+    # Mauren
+    - codes:
+        iso3166-2: LI-04
+      names:
+        - name: Mauren
+          sources: [iso3166-2]
+    
+
+    # Planken
+    - codes:
+        iso3166-2: LI-05
+      names:
+        - name: Planken
+          sources: [iso3166-2]
+    
+
+    # Ruggell
+    - codes:
+        iso3166-2: LI-06
+      names:
+        - name: Ruggell
+          sources: [iso3166-2]
+    
+
+    # Schaan
+    - codes:
+        iso3166-2: LI-07
+      names:
+        - name: Schaan
+          sources: [iso3166-2]
+    
+
+    # Schellenberg
+    - codes:
+        iso3166-2: LI-08
+      names:
+        - name: Schellenberg
+          sources: [iso3166-2]
+    
+
+    # Triesen
+    - codes:
+        iso3166-2: LI-09
+      names:
+        - name: Triesen
+          sources: [iso3166-2]
+    
+
+    # Triesenberg
+    - codes:
+        iso3166-2: LI-10
+      names:
+        - name: Triesenberg
+          sources: [iso3166-2]
+    
+
+    # Vaduz
+    - codes:
+        iso3166-2: LI-11
+      names:
+        - name: Vaduz
+          sources: [iso3166-2]

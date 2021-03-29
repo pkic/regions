@@ -1,0 +1,77 @@
+iso3166-1: AE
+complete: false
+regions:
+    
+
+    # Abū Z̧aby
+    - codes:
+        iso3166-2: AE-AZ
+      names:
+        - name: Abu Dhabi
+          sources: [iso3166-2]
+        - name: Abū Z̧aby
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Al Fujayrah
+    - codes:
+        iso3166-2: AE-FU
+      names:
+        - name: Al Fujayrah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Fujairah
+          sources: [iso3166-2]
+    
+
+    # Ash Shāriqah
+    - codes:
+        iso3166-2: AE-SH
+      names:
+        - name: Ash Shāriqah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Sharjah
+          sources: [iso3166-2]
+    
+
+    # Dubayy
+    - codes:
+        iso3166-2: AE-DU
+      names:
+        - name: Dubai
+          sources: [iso3166-2]
+        - name: Dubayy
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ra’s al Khaymah
+    - codes:
+        iso3166-2: AE-RK
+      names:
+        - name: Ras Al Khaimah
+          sources: [iso3166-2]
+        - name: Ra’s al Khaymah
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Umm al Qaywayn
+    - codes:
+        iso3166-2: AE-UQ
+      names:
+        - name: Umm Al Quwain
+          sources: [iso3166-2]
+        - name: Umm al Qaywayn
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # ‘Ajmān
+    - codes:
+        iso3166-2: AE-AJ
+      names:
+        - name: ‘Ajmān
+          sources: [iso3166-2]

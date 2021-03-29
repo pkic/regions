@@ -1,0 +1,288 @@
+iso3166-1: PE
+complete: false
+regions:
+    
+
+    # Amarumayu
+    - codes:
+        iso3166-2: PE-AMA
+      names:
+        - name: Amarumayu
+          sources: [iso3166-2]
+        - name: Amasunu
+          sources: [iso3166-2]
+        - name: Amazonas
+          sources: [iso3166-2]
+    
+
+    # Ancash
+    - codes:
+        iso3166-2: PE-ANC
+      names:
+        - name: Ancash
+          sources: [iso3166-2]
+        - name: Ankashu
+          sources: [iso3166-2]
+        - name: Anqash
+          sources: [iso3166-2]
+    
+
+    # Apurimaq
+    - codes:
+        iso3166-2: PE-APU
+      names:
+        - name: Apurimaq
+          sources: [iso3166-2]
+        - name: Apurímac
+          sources: [iso3166-2]
+    
+
+    # Arequipa
+    - codes:
+        iso3166-2: PE-ARE
+      names:
+        - name: Arequipa
+          sources: [iso3166-2]
+        - name: Arikipa
+          sources: [iso3166-2]
+        - name: Ariqipa
+          sources: [iso3166-2]
+    
+
+    # Ayacucho
+    - codes:
+        iso3166-2: PE-AYA
+      names:
+        - name: Ayacucho
+          sources: [iso3166-2]
+        - name: Ayakuchu
+          sources: [iso3166-2]
+        - name: Ayaquchu
+          sources: [iso3166-2]
+    
+
+    # El Callao
+    - codes:
+        iso3166-2: PE-CAL
+      names:
+        - name: El Callao
+          sources: [iso3166-2]
+        - name: Kallao
+          sources: [iso3166-2]
+        - name: Qallaw
+          sources: [iso3166-2]
+    
+
+    # Huánuco
+    - codes:
+        iso3166-2: PE-HUC
+      names:
+        - name: Huánuco
+          sources: [iso3166-2]
+        - name: Wanuku
+          sources: [iso3166-2]
+    
+
+    # Ica
+    - codes:
+        iso3166-2: PE-ICA
+      names:
+        - name: Ica
+          sources: [iso3166-2]
+        - name: Ika
+          sources: [iso3166-2]
+    
+
+    # Hunin
+    - codes:
+        iso3166-2: PE-JUN
+      names:
+        - name: Hunin
+          sources: [iso3166-2]
+        - name: Junin
+          sources: [iso3166-2]
+        - name: Junín
+          sources: [iso3166-2]
+    
+
+    # La Libertad
+    - codes:
+        iso3166-2: PE-LAL
+      names:
+        - name: La Libertad
+          sources: [iso3166-2]
+        - name: Qispi kay
+          sources: [iso3166-2]
+    
+
+    # Lambayeque
+    - codes:
+        iso3166-2: PE-LAM
+      names:
+        - name: Lambayeque
+          sources: [iso3166-2]
+        - name: Lampalliqi
+          sources: [iso3166-2]
+    
+
+    # Lima
+    - codes:
+        iso3166-2: PE-LIM
+      names:
+        - name: Lima
+          sources: [iso3166-2]
+    
+
+    # Lima hatun llaqta
+    - codes:
+        iso3166-2: PE-LMA
+      names:
+        - name: Lima hatun llaqta
+          sources: [iso3166-2]
+        - name: Lima llaqta suyu
+          sources: [iso3166-2]
+        - name: Municipalidad Metropolitana de Lima
+          sources: [iso3166-2]
+    
+
+    # Loreto
+    - codes:
+        iso3166-2: PE-LOR
+      names:
+        - name: Loreto
+          sources: [iso3166-2]
+        - name: Luritu
+          sources: [iso3166-2]
+    
+
+    # Madre de Dios
+    - codes:
+        iso3166-2: PE-MDD
+      names:
+        - name: Madre de Dios
+          sources: [iso3166-2]
+        - name: Mayutata
+          sources: [iso3166-2]
+    
+
+    # Moquegua
+    - codes:
+        iso3166-2: PE-MOQ
+      names:
+        - name: Moquegua
+          sources: [iso3166-2]
+        - name: Moqwegwa
+          sources: [iso3166-2]
+        - name: Muqiwa
+          sources: [iso3166-2]
+    
+
+    # Pasco
+    - codes:
+        iso3166-2: PE-PAS
+      names:
+        - name: Pasco
+          sources: [iso3166-2]
+        - name: Pasqu
+          sources: [iso3166-2]
+    
+
+    # Piura
+    - codes:
+        iso3166-2: PE-PIU
+      names:
+        - name: Piura
+          sources: [iso3166-2]
+        - name: Piwra
+          sources: [iso3166-2]
+    
+
+    # Puno
+    - codes:
+        iso3166-2: PE-PUN
+      names:
+        - name: Puno
+          sources: [iso3166-2]
+        - name: Punu
+          sources: [iso3166-2]
+    
+
+    # Cajamarca
+    - codes:
+        iso3166-2: PE-CAJ
+      names:
+        - name: Cajamarca
+          sources: [iso3166-2]
+        - name: Kashamarka
+          sources: [iso3166-2]
+        - name: Qajamarka
+          sources: [iso3166-2]
+    
+
+    # Cusco
+    - codes:
+        iso3166-2: PE-CUS
+      names:
+        - name: Cusco
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Cuzco
+          sources: [iso3166-2]
+        - name: Kusku
+          sources: [iso3166-2]
+        - name: Qusqu
+          sources: [iso3166-2]
+    
+
+    # San Martin
+    - codes:
+        iso3166-2: PE-SAM
+      names:
+        - name: San Martin
+          sources: [iso3166-2]
+        - name: San Martín
+          sources: [iso3166-2]
+    
+
+    # Tacna
+    - codes:
+        iso3166-2: PE-TAC
+      names:
+        - name: Tacna
+          sources: [iso3166-2]
+        - name: Takna
+          sources: [iso3166-2]
+        - name: Taqna
+          sources: [iso3166-2]
+    
+
+    # Tumbes
+    - codes:
+        iso3166-2: PE-TUM
+      names:
+        - name: Tumbes
+          sources: [iso3166-2]
+        - name: Tumpis
+          sources: [iso3166-2]
+    
+
+    # Ucayali
+    - codes:
+        iso3166-2: PE-UCA
+      names:
+        - name: Ucayali
+          sources: [iso3166-2]
+        - name: Ukayali
+          sources: [iso3166-2]
+    
+
+    # Huancavelica
+    - codes:
+        iso3166-2: PE-HUV
+      names:
+        - name: Huancavelica
+          sources: [iso3166-2]
+        - name: Wankawelika
+          sources: [iso3166-2]
+        - name: Wankawillka
+          sources: [iso3166-2]

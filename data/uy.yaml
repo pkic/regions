@@ -1,0 +1,155 @@
+iso3166-1: UY
+complete: false
+regions:
+    
+
+    # Artigas
+    - codes:
+        iso3166-2: UY-AR
+      names:
+        - name: Artigas
+          sources: [iso3166-2]
+    
+
+    # Canelones
+    - codes:
+        iso3166-2: UY-CA
+      names:
+        - name: Canelones
+          sources: [iso3166-2]
+    
+
+    # Cerro Largo
+    - codes:
+        iso3166-2: UY-CL
+      names:
+        - name: Cerro Largo
+          sources: [iso3166-2]
+    
+
+    # Colonia
+    - codes:
+        iso3166-2: UY-CO
+      names:
+        - name: Colonia
+          sources: [iso3166-2]
+    
+
+    # Durazno
+    - codes:
+        iso3166-2: UY-DU
+      names:
+        - name: Durazno
+          sources: [iso3166-2]
+    
+
+    # Flores
+    - codes:
+        iso3166-2: UY-FS
+      names:
+        - name: Flores
+          sources: [iso3166-2]
+    
+
+    # Florida
+    - codes:
+        iso3166-2: UY-FD
+      names:
+        - name: Florida
+          sources: [iso3166-2]
+    
+
+    # Lavalleja
+    - codes:
+        iso3166-2: UY-LA
+      names:
+        - name: Lavalleja
+          sources: [iso3166-2]
+    
+
+    # Maldonado
+    - codes:
+        iso3166-2: UY-MA
+      names:
+        - name: Maldonado
+          sources: [iso3166-2]
+    
+
+    # Montevideo
+    - codes:
+        iso3166-2: UY-MO
+      names:
+        - name: Montevideo
+          sources: [iso3166-2]
+    
+
+    # Paysandú
+    - codes:
+        iso3166-2: UY-PA
+      names:
+        - name: Paysandú
+          sources: [iso3166-2]
+    
+
+    # Rivera
+    - codes:
+        iso3166-2: UY-RV
+      names:
+        - name: Rivera
+          sources: [iso3166-2]
+    
+
+    # Rocha
+    - codes:
+        iso3166-2: UY-RO
+      names:
+        - name: Rocha
+          sources: [iso3166-2]
+    
+
+    # Río Negro
+    - codes:
+        iso3166-2: UY-RN
+      names:
+        - name: Río Negro
+          sources: [iso3166-2]
+    
+
+    # Salto
+    - codes:
+        iso3166-2: UY-SA
+      names:
+        - name: Salto
+          sources: [iso3166-2]
+    
+
+    # San José
+    - codes:
+        iso3166-2: UY-SJ
+      names:
+        - name: San José
+          sources: [iso3166-2]
+    
+
+    # Soriano
+    - codes:
+        iso3166-2: UY-SO
+      names:
+        - name: Soriano
+          sources: [iso3166-2]
+    
+
+    # Tacuarembó
+    - codes:
+        iso3166-2: UY-TA
+      names:
+        - name: Tacuarembó
+          sources: [iso3166-2]
+    
+
+    # Treinta y Tres
+    - codes:
+        iso3166-2: UY-TT
+      names:
+        - name: Treinta y Tres
+          sources: [iso3166-2]

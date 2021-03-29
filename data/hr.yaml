@@ -1,0 +1,2209 @@
+name: Croatia
+iso3166-1: HR
+complete: false
+regions:
+    
+
+    # Adriatic Croatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_46e54685
+      names:
+        - name: Adriai Horvátország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Adriatic Croatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Adriatisch-Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Adriatisches Kroatien
+          languages: [de]
+          sources: [euvoc]
+        - name: Chorwacja adriatycka
+          languages: [pl]
+          sources: [euvoc]
+        - name: Croacia adriática
+          languages: [es]
+          sources: [euvoc]
+        - name: Croatie adriatique
+          languages: [fr]
+          sources: [euvoc]
+        - name: Croazia adriatica
+          languages: [it]
+          sources: [euvoc]
+        - name: Croația Adriatică
+          languages: [ro]
+          sources: [euvoc]
+        - name: Croácia Adriática
+          languages: [pt]
+          sources: [euvoc]
+        - name: Horvaatia Aadria-äärne osa
+          languages: [et]
+          sources: [euvoc]
+        - name: Jaderské Chorvatsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Jadranska Hrvatska
+          languages: [da, ga, hr, mt, sq, sr]
+          sources: [euvoc]
+        - name: Jadranska Hrvaška
+          languages: [sl]
+          sources: [euvoc]
+        - name: Jadranské Chorvátsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Kroatialle kuuluvat Adrianmeren saaret
+          languages: [fi]
+          sources: [euvoc]
+        - name: Kroatijos Adrijos pakrantėsas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Kroatiska kustlandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Piejūras Horvātija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Αδριατική Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јадранска Хрватска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Адриатическа Хърватия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Highland Croatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_e6d358a0
+      names:
+        - name: Alta Croacia
+          languages: [es]
+          sources: [euvoc]
+        - name: Alta Croácia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Aukštutinė Kroatija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Croazia montana
+          languages: [it]
+          sources: [euvoc]
+        - name: Gorska Hrvatska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Gorska Hrvaška
+          languages: [sl]
+          sources: [euvoc]
+        - name: Highland Croatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Highlands de Croatie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Horské Chorvatsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Horské Chorvátsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Horvaatia mägiala
+          languages: [et]
+          sources: [euvoc]
+        - name: Horvát Felföld
+          languages: [hu]
+          sources: [euvoc]
+        - name: Irl-muntanji tal-Kroazja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kalnu Horvātija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Kroatian vuoristoseutu
+          languages: [fi]
+          sources: [euvoc]
+        - name: Kroatisch hoogland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Kroatiska höglandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Obszar górski Chorwacji
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zona muntoasă din Croația
+          languages: [ro]
+          sources: [euvoc]
+        - name: det kroatiske højland
+          languages: [da]
+          sources: [euvoc]
+        - name: kroatisches Hochland
+          languages: [de]
+          sources: [euvoc]
+        - name: Ορεινή Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Планинска Хърватия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Eastern Croatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_de77a2c0
+      names:
+        - name: Austrumhorvātija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Chorwacja Wschodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Croacia Oriental
+          languages: [es]
+          sources: [euvoc]
+        - name: Croatie orientale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Croazia orientale
+          languages: [it]
+          sources: [euvoc]
+        - name: Croácia Oriental
+          languages: [pt]
+          sources: [euvoc]
+        - name: Eastern Croatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Estul Croației
+          languages: [ro]
+          sources: [euvoc]
+        - name: Ida-Horvaatia
+          languages: [et]
+          sources: [euvoc]
+        - name: Il-Kroazja tal-Lvant
+          languages: [mt]
+          sources: [euvoc]
+        - name: Istočna Hrvatska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Itä-Kroatia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Kelet-Horvátország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Oost-Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Ostkroatien
+          languages: [de]
+          sources: [euvoc]
+        - name: Rytų Kroatija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vzhodna Hrvaška
+          languages: [sl]
+          sources: [euvoc]
+        - name: Východné Chorvátsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Východní Chorvatsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Östra Kroatien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Østkroatien
+          languages: [da]
+          sources: [euvoc]
+        - name: Ανατολική Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Източна Хърватия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # City of Zagreb
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_d3db05e6
+        iso3166-2: HR-21
+      names:
+        - name: Bashkia Zagreb
+          languages: [sq]
+          sources: [euvoc]
+        - name: Belt ta' Zagreb
+          languages: [mt]
+          sources: [euvoc]
+        - name: Cidade de Zagrebe
+          languages: [pt]
+          sources: [euvoc]
+        - name: Città di Zagabria
+          languages: [it]
+          sources: [euvoc]
+        - name: City of Zagreb
+          languages: [en]
+          sources: [euvoc]
+        - name: Ciudad de Zagreb
+          languages: [es]
+          sources: [euvoc]
+        - name: Grad Zagreb
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Mesto Zagreb
+          languages: [sl]
+          sources: [euvoc]
+        - name: Orașul Zagreb
+          languages: [ro]
+          sources: [euvoc]
+        - name: Stad Zagreb
+          languages: [nl]
+          sources: [euvoc]
+        - name: Stadt Zagreb
+          languages: [de]
+          sources: [euvoc]
+        - name: Ságrab
+          languages: [ga]
+          sources: [euvoc]
+        - name: Ville de Zagreb
+          languages: [fr]
+          sources: [euvoc]
+        - name: Zagreb by
+          languages: [da]
+          sources: [euvoc]
+        - name: Zagreb stad
+          languages: [sv]
+          sources: [euvoc]
+        - name: Zagreba
+          languages: [lv]
+          sources: [euvoc]
+        - name: Zagrebi linn
+          languages: [et]
+          sources: [euvoc]
+        - name: Zagrebin kaupunki
+          languages: [fi]
+          sources: [euvoc]
+        - name: Zagrebo miestas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zagrzeb
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zágráb város
+          languages: [hu]
+          sources: [euvoc]
+        - name: Záhreb
+          languages: [sk]
+          sources: [euvoc]
+        - name: Záhřeb
+          languages: [cs]
+          sources: [euvoc]
+        - name: Δήμος του Ζάγκρεμπ
+          languages: [el]
+          sources: [euvoc]
+        - name: Загреб
+          languages: [sr]
+          sources: [euvoc]
+        - name: град Загреб
+          languages: [bg, mk]
+          sources: [euvoc]
+    
+
+    # County of Bjelovar-Bilogora
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_ec0f4970
+        iso3166-2: HR-07
+      names:
+        - name: Belovár-Bilogora megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Bijelovarsko-bilogorska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Bjelovar-Bilogora
+          languages: [nl]
+          sources: [euvoc]
+        - name: Bjelovar-Bilogoran
+          languages: [fi]
+          sources: [euvoc]
+        - name: Bjelovar-Bilogoras län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Bjelovaras-Bilogoras županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Bjelovari-Bilogora maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Bjelovaro-Bilogoros apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Bjelovarsko-bilogorska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Bjelovarsko-bilogorská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Cantonul Bjelovar-Bilogora
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Bjelovar-Bilogora
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Bjelovar-Bilogora
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Bjelovar-Bilogora
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Bjelovar-Bilogora
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Bjelovar-Bilogora
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Bjelovar-Bilogora
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Bjelovar-Bilogora
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Bjelovar-Bilogora
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Bjelovar-Bilogora
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania bielowarsko-bilogorska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Bjelovar-Bilogora
+          languages: [el]
+          sources: [euvoc]
+        - name: Беловар-Билорога
+          languages: [bg]
+          sources: [euvoc]
+        - name: Бјеловарско-билогорска жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Brod-Posavina
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_070e15e7
+        iso3166-2: HR-12
+      names:
+        - name: Brod-Posavina
+          languages: [nl]
+          sources: [euvoc]
+        - name: Brod-Posavinan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Brod-Posavinas län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Brodas-Posavinas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Brodi-Posavina maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Brodo-Posavinos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Brodsko-posavinská župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Brodsko-posavska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Brodsko-posávská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Bród-Szávamente megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Cantonul Brod-Posavina
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Brod-Posavina
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Brod-Posavina
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Brod-Posavina
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Brod-Posavina
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Brod-Posavina
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Brod-Posavina
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Brod-Posavina
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Brod-Posavina
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Brod-Posavina
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania brodzko-posawska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Brod-Posavina
+          languages: [el]
+          sources: [euvoc]
+        - name: Бродско-посавска жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: брод-Посавина
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # County of Dubrovnik-Neretva
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_e300778f
+        iso3166-2: HR-19
+      names:
+        - name: Cantonul Dubrovnik-Neretva
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Dubrovnik-Neretva
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Dubrovnik-Neretva
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Dubrovnik-Neretva
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Dubrovnik-Neretva
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Dubrovnik-Neretva
+          languages: [pt]
+          sources: [euvoc]
+        - name: Dubrovačko-neretvanska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Dubrovnicko-neretvanská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Dubrovnik-Neretva
+          languages: [nl]
+          sources: [euvoc]
+        - name: Dubrovnik-Neretva megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Dubrovnik-Neretvan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Dubrovnik-Neretvas län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Dubrovnikas-Neretvas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dubrovniki-Neretva maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Dubrovniko-Neretvos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Dubrovniško-neretvanska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Gespanschaft Dubrovnik-Neretva
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Dubrovnik-Neretva
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Dubrovnik-Neretva
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Dubrovnik-Neretva
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania dubrownicko-neretwiańska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Dubrovnik-Neretva
+          languages: [el]
+          sources: [euvoc]
+        - name: Дубровачко-неретванска жупанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Дубровник-Неретва
+          languages: [bg]
+          sources: [euvoc]
+        - name: Дубровничко-неретванска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # County of Istra
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_7a080afd
+        iso3166-2: HR-18
+      names:
+        - name: Cantonul Istra
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté d'Istrie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Istra
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea dell'Istria
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Istra
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Ístria
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Istrien
+          languages: [de]
+          sources: [euvoc]
+        - name: Istarska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Istra
+          languages: [nl]
+          sources: [euvoc]
+        - name: Istra maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Istran
+          languages: [fi]
+          sources: [euvoc]
+        - name: Istras županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Istriens län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Istrijská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Istros apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Istrska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Isztria megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Kontea ta' Istra
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Istra
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Istra
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania istryjska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα της Istra
+          languages: [el]
+          sources: [euvoc]
+        - name: Истарска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Истрия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # County of Karlovac
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_412ed48a
+        iso3166-2: HR-04
+      names:
+        - name: Cantonul Karlovac
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Karlovac
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Karlovac
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Karlovac
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Karlovac
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Karlovac
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Karlovac
+          languages: [de]
+          sources: [euvoc]
+        - name: Karlovac
+          languages: [nl]
+          sources: [euvoc]
+        - name: Karlovacas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Karlovaci maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Karlovacin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Karlovacká župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Karlovaco apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Karlovacs län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Karlovačka županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Karlovška županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Kontea ta' Karlovac
+          languages: [mt]
+          sources: [euvoc]
+        - name: Károlyváros megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Qarku Karlovac
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Karlovac
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania karlowacka
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Karlovac
+          languages: [el]
+          sources: [euvoc]
+        - name: Карловац
+          languages: [bg]
+          sources: [euvoc]
+        - name: Карловачка жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Koprivnica-Križevci
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_f9143718
+        iso3166-2: HR-06
+      names:
+        - name: Cantonul Koprivnica-Križevci
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Koprivnica-Križevci
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Koprivnica-Križevci
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Koprivnica-Križevci
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Koprivnica-Križevci
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Koprivnica-Križevci
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Koprivnica-Križevci
+          languages: [de]
+          sources: [euvoc]
+        - name: Kapronca-Körös megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Kontea ta' Koprivnica-Križevci
+          languages: [mt]
+          sources: [euvoc]
+        - name: Koprivnica-Križevci
+          languages: [nl]
+          sources: [euvoc]
+        - name: Koprivnica-Križevci maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Koprivnica-Križevcin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Koprivnica-Križevcis län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Koprivnicas-Križevcu županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Koprivnicko-križevecká župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Koprivnicos-Križevcų apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Koprivničko-križevačka županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Koprivniško-križevska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Qarku Koprivnica-Krizhevci
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Koprivnica-Križevci
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania kopriwnicko-kriżewczyńska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα της Koprivnica-Križevci
+          languages: [el]
+          sources: [euvoc]
+        - name: Копривница-Крижевци
+          languages: [bg]
+          sources: [euvoc]
+        - name: Копривничко-крижевачка жупанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Копривничко-крижевска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # County of Krapina-Zagorje
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_dffba30e
+        iso3166-2: HR-02
+      names:
+        - name: Cantonul Krapina-Zagorje
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Krapina-Zagorje
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Krapina-Zagorje
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Krapina-Zagorje
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Krapina-Zagorje
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Krapina-Zagorje
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Krapina-Zagorje
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Krapina-Zagorje
+          languages: [mt]
+          sources: [euvoc]
+        - name: Krapina-Zagorje
+          languages: [nl]
+          sources: [euvoc]
+        - name: Krapina-Zagorje maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Krapina-Zagorje megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Krapina-Zagorjen
+          languages: [fi]
+          sources: [euvoc]
+        - name: Krapina-Zagorjes län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Krapinas-Zagorjes županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Krapinos-Zagorjės apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Krapinsko-zagorska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Krapinsko-zagorská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Qarku Krapina-Zagorje
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Krapina-Zagorje
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania krapińsko-zagorska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα της Krapina-Zagorje
+          languages: [el]
+          sources: [euvoc]
+        - name: Крапина-Загоре
+          languages: [bg]
+          sources: [euvoc]
+        - name: Крапинско-загорска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Lika-Senj
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_eb3ada47
+        iso3166-2: HR-09
+      names:
+        - name: Cantonul Lika-Senj
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Lika-Senj
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Lika-Senj
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Lika-Senj
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Lika-Senj
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Lika-Senj
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Lika-Senj
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Lika-Senj
+          languages: [mt]
+          sources: [euvoc]
+        - name: Licko-senjská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Lika-Senj
+          languages: [nl]
+          sources: [euvoc]
+        - name: Lika-Senji maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Lika-Senjin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Lika-Senjs län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Lika-Zengg megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Likas-Seņas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Likos-Senio apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ličko-senjska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Liško-senjska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Qarku Lika-Senj
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Lika-Senj
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania licko-seńska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Lika-Senj
+          languages: [el]
+          sources: [euvoc]
+        - name: Лика-Сен
+          languages: [bg]
+          sources: [euvoc]
+        - name: Личко-сењска жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Međimurje
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_e4bfb3bb
+        iso3166-2: HR-20
+      names:
+        - name: Cantonul Međimurje
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Međimurje
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Međimurje
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Međimurje
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Međimurje
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Međimurje
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Međimurje
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Međimurje
+          languages: [mt]
+          sources: [euvoc]
+        - name: Medimurská župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Medžimurjes županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Medžimurjės apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Medžimurska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Mezimuřská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Međimurje
+          languages: [nl]
+          sources: [euvoc]
+        - name: Međimurje maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Međimurjen
+          languages: [fi]
+          sources: [euvoc]
+        - name: Međimurjes län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Međimurska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Muraköz megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Qarku Megjimurje
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Međimurje
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania medzimurska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Međimurje
+          languages: [el]
+          sources: [euvoc]
+        - name: Меджимурие
+          languages: [bg]
+          sources: [euvoc]
+        - name: Међимурска жупанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Меѓумурска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # County of Osijek-Baranja
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_cf9e250b
+        iso3166-2: HR-14
+      names:
+        - name: Cantonul Osijek-Baranja
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Osijek-Baranja
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Osijek-Baranja
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Osijek-Baranja
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Osijek-Baranja
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Osijek-Baranja
+          languages: [pt]
+          sources: [euvoc]
+        - name: Eszék-Baranya megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Gespanschaft Osijek-Baranja
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Osijek-Baranja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Osijecko-baranjská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Osijek-Baranja
+          languages: [nl]
+          sources: [euvoc]
+        - name: Osijek-Baranjan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Osijek-Baranjas län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Osijekas-Baraņas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Osijeki-Baranja maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Osijeko-Baranios apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Osječko-baranjska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Osješko-baranjska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Qarku Osijek-Baranja
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Osijek-Baranja
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania osijecko-barańska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Osijek-Baranja
+          languages: [el]
+          sources: [euvoc]
+        - name: Осиек-Бараня
+          languages: [bg]
+          sources: [euvoc]
+        - name: Осиечко-барањска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Осјечко-барањска жупанија
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # County of Požega-Slavonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_095c8a84
+        iso3166-2: HR-11
+      names:
+        - name: Cantonul Požega-Slavonia
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Požega-Slavonia
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Požega-Eslavonia
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Požega-Slavonia
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Požega-Slavonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Požega-Slavonia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Požega-Slawonien
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Požega-Slavonia
+          languages: [mt]
+          sources: [euvoc]
+        - name: Pozsega-Szlavónia megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Požega-Slavonia
+          languages: [nl]
+          sources: [euvoc]
+        - name: Požega-Slavonian
+          languages: [fi]
+          sources: [euvoc]
+        - name: Požega-Slavoniens län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Požega-Slavoonia maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Požegas-Slavonijas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Požegos-Slavonijos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Požeško-slavonska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Požežsko-slavonská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Požežsko-slavónska župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Qarku Pozhega-Slavonia
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Požega-Slavonia
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania pożedzko-slawońska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα της Požega-Slavonia
+          languages: [el]
+          sources: [euvoc]
+        - name: Пожега-Славония
+          languages: [bg]
+          sources: [euvoc]
+        - name: Пожешко-славонска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Primorje-Gorski Kotar
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_b4cffbee
+        iso3166-2: HR-08
+      names:
+        - name: Cantonul Primorje-Gorski Kotar
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Primorje-Gorski Kotar
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Primorje-Gorski Kotar
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Primorje-Gorski Kotar
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Primorje-Gorski Kotar
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Primorje-Gorski Kotar
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Primorje-Gorski kotar
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Primorje-Gorski Kotar
+          languages: [mt]
+          sources: [euvoc]
+        - name: Piejūras-Kalnu županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Primorje-Gora maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Primorje-Gorski Kotar
+          languages: [nl]
+          sources: [euvoc]
+        - name: Primorje-Gorski Kotarin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Primorje-Gorski Kotars län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Primorjės-Kalnų Kotaro apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Primorsko-goranska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Primorsko-gorskokotarská župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Přímořsko-gorskokotarská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Qarku Primorje-Gorski Kotar
+          languages: [sq]
+          sources: [euvoc]
+        - name: Tengermellék-Hegy megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: en Primorje-Gorski Kotar
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania primorsko-gorska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Primorje-Gorski Kotar
+          languages: [el]
+          sources: [euvoc]
+        - name: Приморие-Горски котар
+          languages: [bg]
+          sources: [euvoc]
+        - name: Приморско-горанска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Sisak-Moslavina
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_049691c5
+        iso3166-2: HR-03
+      names:
+        - name: Cantonul Sisak-Moslavina
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Sisak-Moslavina
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Sisak-Moslavina
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Sisak-Moslavina
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Sisak-Moslavina
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Sisak-Moslavina
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Sisak-Moslavina
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Sisak-Moslavina
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Sisak-Moslavina
+          languages: [sq]
+          sources: [euvoc]
+        - name: Sisacko-moslavinská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Sisak-Moslavina
+          languages: [nl]
+          sources: [euvoc]
+        - name: Sisak-Moslavinan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Sisak-Moslavinas län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Sisakas-Moslavinas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Sisaki-Moslavina maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Sisako-Moslavinos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Sisačko-moslavačka županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Sisaško-moslavaška županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Sziszek-Moslavina megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: en Sisak-Moslavina
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania sisacko-moslawińska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Sisak-Moslavina
+          languages: [el]
+          sources: [euvoc]
+        - name: Сисак-Мославина
+          languages: [bg]
+          sources: [euvoc]
+        - name: Сисачко-мославачка жупанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Сисачко-мославинска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # County of Split-Dalmatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_14e0ae65
+        iso3166-2: HR-17
+      names:
+        - name: Cantonul Split-Dalmația
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Split-Dalmatie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Split-Dalmacia
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Spalato-Dalmazia
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Split-Dalmatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Split-Dalmácia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Split-Dalmatien
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Split-Dalmazja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Split-Dalmaci
+          languages: [sq]
+          sources: [euvoc]
+        - name: Split-Dalmatia
+          languages: [nl]
+          sources: [euvoc]
+        - name: Split-Dalmatian
+          languages: [fi]
+          sources: [euvoc]
+        - name: Split-Dalmatiens län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Split-Dalmácia megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Splitas-Dalmācijas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Spliti-Dalmaatsia maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Splito-Dalmatijos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Splitsko-dalmatinska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Splitsko-dalmatská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Splitsko-dalmátska župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: en Split-Dalmatia
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania splicko-dalmatyńska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Split-Dalmatia
+          languages: [el]
+          sources: [euvoc]
+        - name: Сплит-Далмация
+          languages: [bg]
+          sources: [euvoc]
+        - name: Сплитско-далматинска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Varaždin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_82778b62
+        iso3166-2: HR-05
+      names:
+        - name: Cantonul Varaždin
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Varaždin
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Varaždin
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Varaždin
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Varaždin
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Varaždin
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Varaždin
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Varaždin
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Varazhdin
+          languages: [sq]
+          sources: [euvoc]
+        - name: Varasd megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Varaždin
+          languages: [nl]
+          sources: [euvoc]
+        - name: Varaždinas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Varaždini maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Varaždinin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Varaždino apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Varaždins län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Varaždinska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Varaždinská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: en Varaždin
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania varażdińska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Varaždin
+          languages: [el]
+          sources: [euvoc]
+        - name: Вараждин
+          languages: [bg]
+          sources: [euvoc]
+        - name: Вараждинска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Virovitica-Podravina
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_496cee2d
+        iso3166-2: HR-10
+      names:
+        - name: Cantonul Virovitica-Podravina
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Virovitica-Podravina
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Virovitica-Podravina
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Virovitica-Podravina
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Virovitica-Podravina
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Virovitica-Podravina
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Virovitica-Podravina
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Virovitica-Podravina
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Virovitica-Podravina
+          languages: [sq]
+          sources: [euvoc]
+        - name: Verőce-Drávamente megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Virovitica-Podravina
+          languages: [nl]
+          sources: [euvoc]
+        - name: Virovitica-Podravina maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Virovitica-Podravinan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Virovitica-Podravinas län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Viroviticas-Podravinas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Viroviticko-podravinská župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Viroviticko-podrávská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Viroviticos-Podravinos apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Virovitičko-podravska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Virovitiško-podravska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: en Virovitica-Podravina
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania virowiticko-podrawska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα της Virovitica-Podravina
+          languages: [el]
+          sources: [euvoc]
+        - name: Вировитица-Подравина
+          languages: [bg]
+          sources: [euvoc]
+        - name: Вировитичко-подравска жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Vukovar-Srije
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_a5c15adc
+        iso3166-2: HR-16
+      names:
+        - name: Cantonul Vukovar-Srije
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Vukovar-Srije
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Vukovar-Srije
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Vukovar-Srije
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Vukovar-Srije
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Vukovar-Srije
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Vukovar-Srijem
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Vukovar-Srije
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Vukovar-Srije
+          languages: [sq]
+          sources: [euvoc]
+        - name: Vukovar-Srije
+          languages: [nl]
+          sources: [euvoc]
+        - name: Vukovar-Srijems län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Vukovar-Srijen
+          languages: [fi]
+          sources: [euvoc]
+        - name: Vukovaras-Srijemas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Vukovari-Srijemi maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Vukovaro-Srijemo apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vukovarsko-sremska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Vukovarsko-sremská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: Vukovarsko-srijecká župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Vukovarsko-srijemska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Vukovár-Szerém megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: en Vukovar-Srije
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania vukowarsko-srijemska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Vukovar-Srije
+          languages: [el]
+          sources: [euvoc]
+        - name: Вуковар-Срием
+          languages: [bg]
+          sources: [euvoc]
+        - name: Вуковарско-сремска жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Zadar
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_fee7acae
+        iso3166-2: HR-13
+      names:
+        - name: Cantonul Zadar
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Zadar
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Zadar
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Zara
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Zadar
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Zadar
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Zadar
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Zadar
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Zar
+          languages: [sq]
+          sources: [euvoc]
+        - name: Zadar
+          languages: [nl]
+          sources: [euvoc]
+        - name: Zadaras županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Zadari maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Zadarin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Zadaro apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zadars län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Zadarska županija
+          languages: [hr, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Zadarská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Zára megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: en Zadar
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania zadarska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Zadar
+          languages: [el]
+          sources: [euvoc]
+        - name: Задар
+          languages: [bg]
+          sources: [euvoc]
+        - name: Задарска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # County of Zagreb
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_23635024
+        iso3166-2: HR-01
+      names:
+        - name: Cantonul Zagreb
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Zagreb
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Zagreb
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Zagabria
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Zagreb
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Zagrebe
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Zagreb
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Zagreb
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Zagreb
+          languages: [sq]
+          sources: [euvoc]
+        - name: Zagreb
+          languages: [nl]
+          sources: [euvoc]
+        - name: Zagrebas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Zagrebačka županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: Zagrebi maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Zagrebin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Zagrebo apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zagrebs län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Zagrebška županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Zágráb megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Záhrebská župa
+          languages: [sk]
+          sources: [euvoc]
+        - name: Záhřebská župa
+          languages: [cs]
+          sources: [euvoc]
+        - name: en Zagreb
+          languages: [da]
+          sources: [euvoc]
+        - name: żupania zagrzebska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Zagreb
+          languages: [el]
+          sources: [euvoc]
+        - name: Загреб
+          languages: [bg]
+          sources: [euvoc]
+        - name: Загребачка жупанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Загрепска Жупанија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # County of Šibenik-Knin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_7d7c383b
+        iso3166-2: HR-15
+      names:
+        - name: Cantonul Šibenik-Knin
+          languages: [ro]
+          sources: [euvoc]
+        - name: Comté de Šibenik-Knin
+          languages: [fr]
+          sources: [euvoc]
+        - name: Condado de Šibenik-Knin
+          languages: [es]
+          sources: [euvoc]
+        - name: Contea di Šibenik-Knin
+          languages: [it]
+          sources: [euvoc]
+        - name: County of Šibenik-Knin
+          languages: [en]
+          sources: [euvoc]
+        - name: Distrito de Šibenik-Knin
+          languages: [pt]
+          sources: [euvoc]
+        - name: Gespanschaft Šibenik-Knin
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontea ta' Šibenik-Knin
+          languages: [mt]
+          sources: [euvoc]
+        - name: Qarku Shibenik-Knin
+          languages: [sq]
+          sources: [euvoc]
+        - name: en Šibenik-Knin
+          languages: [da]
+          sources: [euvoc]
+        - name: Šibenicko-kninská župa
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Šibenik-Knin
+          languages: [nl]
+          sources: [euvoc]
+        - name: Šibenik-Knin megye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šibenik-Kninin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Šibenik-Knins län
+          languages: [sv]
+          sources: [euvoc]
+        - name: Šibenikas-Kninas županija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Šibeniki-Knini maakond
+          languages: [et]
+          sources: [euvoc]
+        - name: Šibeniko-Knino apskritis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Šibeniško-kninska županija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Šibensko-kninska županija
+          languages: [hr]
+          sources: [euvoc, iso3166-2]
+        - name: żupania szybenicko-knińska
+          languages: [pl]
+          sources: [euvoc]
+        - name: Διαμέρισμα του Šibenik-Knin
+          languages: [el]
+          sources: [euvoc]
+        - name: Шибеник-Книн
+          languages: [bg]
+          sources: [euvoc]
+        - name: Шибенско-книнска Жупанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Continental Croatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_d4ca9a6c
+      names:
+        - name: Celinska Hrvaška
+          languages: [sl]
+          sources: [euvoc]
+        - name: Chorwacja kontynentalna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Continentaal-Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Continental Croatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Croacia continental
+          languages: [es]
+          sources: [euvoc]
+        - name: Croatie continentale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Croazia continentale
+          languages: [it]
+          sources: [euvoc]
+        - name: Croația Continentală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Croácia Continental
+          languages: [pt]
+          sources: [euvoc]
+        - name: Horvaatia sisemaa-osa
+          languages: [et]
+          sources: [euvoc]
+        - name: Kontinentala Kroatien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Kontinentalkroatien
+          languages: [de]
+          sources: [euvoc]
+        - name: Kontinentalna Hrvatska
+          languages: [da, ga, hr, mt, sq]
+          sources: [euvoc]
+        - name: Kontinentálne Chorvátsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Kontinentální Chorvatsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Kontinentālā Horvātija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Szárazföldi Horvátország
+          languages: [hu]
+          sources: [euvoc]
+        - name: manner-Kroatia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Žemyninė Kroatija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ηπειρωτική Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Континентална Хрватска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Континентална Хърватия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Central Croatia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_d3974887
+      names:
+        - name: Centraal-Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Croatia
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Kroatien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centralkroatien
+          languages: [da]
+          sources: [euvoc]
+        - name: Centrul Croației
+          languages: [ro]
+          sources: [euvoc]
+        - name: Chorwacja Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Croacia Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Croatie centrale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Croazia centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Croácia Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Il-Kroazja Ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kesk-Horvaatia
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Kroatia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Horvátország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Osrednja Hrvaška
+          languages: [sl]
+          sources: [euvoc]
+        - name: Središnja Hrvatska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Chorvátsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Chorvatsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Vidurio Kroatija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vidushorvātija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Zentralkroatien
+          languages: [de]
+          sources: [euvoc]
+        - name: Κεντρική Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Централна Хърватия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Southern Croatian Littoral
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_4b33c289
+      names:
+        - name: Costa Meridional Croata
+          languages: [es]
+          sources: [euvoc]
+        - name: Croácia Litoral Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Délhorvát tengerpart
+          languages: [hu]
+          sources: [euvoc]
+        - name: Etelä-Kroatian rannikkoseutu
+          languages: [fi]
+          sources: [euvoc]
+        - name: Horvātijas Dienvidpiejūra
+          languages: [lv]
+          sources: [euvoc]
+        - name: Iż-żona kostali tan-Nofsinhar tal-Kroazja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jižní chorvatské přímoří
+          languages: [cs]
+          sources: [euvoc]
+        - name: Južno hrvatsko primorje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Južno hrvaško primorje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Južné chorvátske prímorie
+          languages: [sk]
+          sources: [euvoc]
+        - name: Litoralul croat de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Littoral méridional croate
+          languages: [fr]
+          sources: [euvoc]
+        - name: Lõuna-Horvaatia rannikuala
+          languages: [et]
+          sources: [euvoc]
+        - name: Pietinis Kroatijos Pajūris
+          languages: [lt]
+          sources: [euvoc]
+        - name: Południowe wybrzeże Chorwacji
+          languages: [pl]
+          sources: [euvoc]
+        - name: Southern Croatian Littoral
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra kroatiska kustlandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Zuidelijke kust van Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: det sydkroatiske kyst
+          languages: [da]
+          sources: [euvoc]
+        - name: litorale croato meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: südliches kroatisches Küstenland
+          languages: [de]
+          sources: [euvoc]
+        - name: Νότια παράκτια Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Южно хърватско приморие
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Northern Croatian Littoral
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_c5c9cfc7
+      names:
+        - name: Costa Septentrional Croata
+          languages: [es]
+          sources: [euvoc]
+        - name: Croácia Litoral Norte
+          languages: [pt]
+          sources: [euvoc]
+        - name: Horvātijas Ziemeļpiejūra
+          languages: [lv]
+          sources: [euvoc]
+        - name: Iż-żona kostali tat-Tramuntana tal-Kroazja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Litoralul croat de Nord
+          languages: [ro]
+          sources: [euvoc]
+        - name: Littoral septentrional croate
+          languages: [fr]
+          sources: [euvoc]
+        - name: Noordelijke kust van Kroatië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Norra kroatiska kustlandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Northern Croatian Littoral
+          languages: [en]
+          sources: [euvoc]
+        - name: Pohjois-Kroatian rannikkoseutu
+          languages: [fi]
+          sources: [euvoc]
+        - name: Północne wybrzeże Chorwacji
+          languages: [pl]
+          sources: [euvoc]
+        - name: Põhja-Horvaatia rannikuala
+          languages: [et]
+          sources: [euvoc]
+        - name: Severno hrvaško primorje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severné chorvátske prímorie
+          languages: [sk]
+          sources: [euvoc]
+        - name: Severní chorvatské přímoří
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sjeverno hrvatsko primorje
+          languages: [hr]
+          sources: [euvoc]
+        - name: det nordkroatiske kyst
+          languages: [da]
+          sources: [euvoc]
+        - name: litorale croato settentrionale
+          languages: [it]
+          sources: [euvoc]
+        - name: nördliches kroatisches Küstenland
+          languages: [de]
+          sources: [euvoc]
+        - name: Északhorvát tengerpart
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurinis Kroatijos Pajūris
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρεια παράκτια Κροατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Северно хърватско приморие
+          languages: [bg]
+          sources: [euvoc]

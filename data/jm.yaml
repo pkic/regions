@@ -1,0 +1,115 @@
+iso3166-1: JM
+complete: false
+regions:
+    
+
+    # Clarendon
+    - codes:
+        iso3166-2: JM-13
+      names:
+        - name: Clarendon
+          sources: [iso3166-2]
+    
+
+    # Hanover
+    - codes:
+        iso3166-2: JM-09
+      names:
+        - name: Hanover
+          sources: [iso3166-2]
+    
+
+    # Kingston
+    - codes:
+        iso3166-2: JM-01
+      names:
+        - name: Kingston
+          sources: [iso3166-2]
+    
+
+    # Manchester
+    - codes:
+        iso3166-2: JM-12
+      names:
+        - name: Manchester
+          sources: [iso3166-2]
+    
+
+    # Portland
+    - codes:
+        iso3166-2: JM-04
+      names:
+        - name: Portland
+          sources: [iso3166-2]
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: JM-02
+      names:
+        - name: Saint Andrew
+          sources: [iso3166-2]
+    
+
+    # Saint Ann
+    - codes:
+        iso3166-2: JM-06
+      names:
+        - name: Saint Ann
+          sources: [iso3166-2]
+    
+
+    # Saint Catherine
+    - codes:
+        iso3166-2: JM-14
+      names:
+        - name: Saint Catherine
+          sources: [iso3166-2]
+    
+
+    # Saint Elizabeth
+    - codes:
+        iso3166-2: JM-11
+      names:
+        - name: Saint Elizabeth
+          sources: [iso3166-2]
+    
+
+    # Saint James
+    - codes:
+        iso3166-2: JM-08
+      names:
+        - name: Saint James
+          sources: [iso3166-2]
+    
+
+    # Saint Mary
+    - codes:
+        iso3166-2: JM-05
+      names:
+        - name: Saint Mary
+          sources: [iso3166-2]
+    
+
+    # Saint Thomas
+    - codes:
+        iso3166-2: JM-03
+      names:
+        - name: Saint Thomas
+          sources: [iso3166-2]
+    
+
+    # Trelawny
+    - codes:
+        iso3166-2: JM-07
+      names:
+        - name: Trelawny
+          sources: [iso3166-2]
+    
+
+    # Westmoreland
+    - codes:
+        iso3166-2: JM-10
+      names:
+        - name: Westmoreland
+          sources: [iso3166-2]

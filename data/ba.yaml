@@ -1,0 +1,28 @@
+name: Bosnia and Herzegovina
+iso3166-1: BA
+complete: false
+regions:
+    
+
+    # Brčko distrikt
+    - codes:
+        iso3166-2: BA-BRC
+      names:
+        - name: Brčko distrikt
+          sources: [iso3166-2]
+    
+
+    # Federacija Bosne i Hercegovine
+    - codes:
+        iso3166-2: BA-BIH
+      names:
+        - name: Federacija Bosne i Hercegovine
+          sources: [iso3166-2]
+    
+
+    # Republika Srpska
+    - codes:
+        iso3166-2: BA-SRP
+      names:
+        - name: Republika Srpska
+          sources: [iso3166-2]

@@ -1,0 +1,83 @@
+iso3166-1: LC
+complete: false
+regions:
+    
+
+    # Anse la Raye
+    - codes:
+        iso3166-2: LC-01
+      names:
+        - name: Anse la Raye
+          sources: [iso3166-2]
+    
+
+    # Canaries
+    - codes:
+        iso3166-2: LC-12
+      names:
+        - name: Canaries
+          sources: [iso3166-2]
+    
+
+    # Castries
+    - codes:
+        iso3166-2: LC-02
+      names:
+        - name: Castries
+          sources: [iso3166-2]
+    
+
+    # Choiseul
+    - codes:
+        iso3166-2: LC-03
+      names:
+        - name: Choiseul
+          sources: [iso3166-2]
+    
+
+    # Dennery
+    - codes:
+        iso3166-2: LC-05
+      names:
+        - name: Dennery
+          sources: [iso3166-2]
+    
+
+    # Gros Islet
+    - codes:
+        iso3166-2: LC-06
+      names:
+        - name: Gros Islet
+          sources: [iso3166-2]
+    
+
+    # Laborie
+    - codes:
+        iso3166-2: LC-07
+      names:
+        - name: Laborie
+          sources: [iso3166-2]
+    
+
+    # Micoud
+    - codes:
+        iso3166-2: LC-08
+      names:
+        - name: Micoud
+          sources: [iso3166-2]
+    
+
+    # Soufrière
+    - codes:
+        iso3166-2: LC-10
+      names:
+        - name: Soufrière
+          sources: [iso3166-2]
+    
+
+    # Vieux Fort
+    - codes:
+        iso3166-2: LC-11
+      names:
+        - name: Vieux Fort
+          sources: [iso3166-2]

@@ -1,0 +1,83 @@
+iso3166-1: ZM
+complete: false
+regions:
+    
+
+    # Central
+    - codes:
+        iso3166-2: ZM-02
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Copperbelt
+    - codes:
+        iso3166-2: ZM-08
+      names:
+        - name: Copperbelt
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: ZM-03
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+    
+
+    # Luapula
+    - codes:
+        iso3166-2: ZM-04
+      names:
+        - name: Luapula
+          sources: [iso3166-2]
+    
+
+    # Lusaka
+    - codes:
+        iso3166-2: ZM-09
+      names:
+        - name: Lusaka
+          sources: [iso3166-2]
+    
+
+    # Muchinga
+    - codes:
+        iso3166-2: ZM-10
+      names:
+        - name: Muchinga
+          sources: [iso3166-2]
+    
+
+    # North-Western
+    - codes:
+        iso3166-2: ZM-06
+      names:
+        - name: North-Western
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: ZM-05
+      names:
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: ZM-07
+      names:
+        - name: Southern
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: ZM-01
+      names:
+        - name: Western
+          sources: [iso3166-2]

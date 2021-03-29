@@ -1,0 +1,60 @@
+name: Andorra
+iso3166-1: AD
+complete: false
+regions:
+    
+
+    # Andorra la Vella
+    - codes:
+        iso3166-2: AD-07
+      names:
+        - name: Andorra la Vella
+          sources: [iso3166-2]
+    
+
+    # Canillo
+    - codes:
+        iso3166-2: AD-02
+      names:
+        - name: Canillo
+          sources: [iso3166-2]
+    
+
+    # Encamp
+    - codes:
+        iso3166-2: AD-03
+      names:
+        - name: Encamp
+          sources: [iso3166-2]
+    
+
+    # Escaldes-Engordany
+    - codes:
+        iso3166-2: AD-08
+      names:
+        - name: Escaldes-Engordany
+          sources: [iso3166-2]
+    
+
+    # La Massana
+    - codes:
+        iso3166-2: AD-04
+      names:
+        - name: La Massana
+          sources: [iso3166-2]
+    
+
+    # Ordino
+    - codes:
+        iso3166-2: AD-05
+      names:
+        - name: Ordino
+          sources: [iso3166-2]
+    
+
+    # Sant Julià de Lòria
+    - codes:
+        iso3166-2: AD-06
+      names:
+        - name: Sant Julià de Lòria
+          sources: [iso3166-2]

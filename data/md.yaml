@@ -1,0 +1,300 @@
+name: Moldova
+iso3166-1: MD
+complete: false
+regions:
+    
+
+    # Anenii Noi
+    - codes:
+        iso3166-2: MD-AN
+      names:
+        - name: Anenii Noi
+          sources: [iso3166-2]
+    
+
+    # Basarabeasca
+    - codes:
+        iso3166-2: MD-BS
+      names:
+        - name: Basarabeasca
+          sources: [iso3166-2]
+    
+
+    # Bender
+    - codes:
+        iso3166-2: MD-BD
+      names:
+        - name: Bender
+          sources: [iso3166-2]
+    
+
+    # Briceni
+    - codes:
+        iso3166-2: MD-BR
+      names:
+        - name: Briceni
+          sources: [iso3166-2]
+    
+
+    # Bălți
+    - codes:
+        iso3166-2: MD-BA
+      names:
+        - name: Bălți
+          sources: [iso3166-2]
+    
+
+    # Cahul
+    - codes:
+        iso3166-2: MD-CA
+      names:
+        - name: Cahul
+          sources: [iso3166-2]
+    
+
+    # Cantemir
+    - codes:
+        iso3166-2: MD-CT
+      names:
+        - name: Cantemir
+          sources: [iso3166-2]
+    
+
+    # Chișinău
+    - codes:
+        iso3166-2: MD-CU
+      names:
+        - name: Chișinău
+          sources: [iso3166-2]
+    
+
+    # Cimișlia
+    - codes:
+        iso3166-2: MD-CM
+      names:
+        - name: Cimișlia
+          sources: [iso3166-2]
+    
+
+    # Criuleni
+    - codes:
+        iso3166-2: MD-CR
+      names:
+        - name: Criuleni
+          sources: [iso3166-2]
+    
+
+    # Călărași
+    - codes:
+        iso3166-2: MD-CL
+      names:
+        - name: Călărași
+          sources: [iso3166-2]
+    
+
+    # Căușeni
+    - codes:
+        iso3166-2: MD-CS
+      names:
+        - name: Căușeni
+          sources: [iso3166-2]
+    
+
+    # Dondușeni
+    - codes:
+        iso3166-2: MD-DO
+      names:
+        - name: Dondușeni
+          sources: [iso3166-2]
+    
+
+    # Drochia
+    - codes:
+        iso3166-2: MD-DR
+      names:
+        - name: Drochia
+          sources: [iso3166-2]
+    
+
+    # Dubăsari
+    - codes:
+        iso3166-2: MD-DU
+      names:
+        - name: Dubăsari
+          sources: [iso3166-2]
+    
+
+    # Edineț
+    - codes:
+        iso3166-2: MD-ED
+      names:
+        - name: Edineț
+          sources: [iso3166-2]
+    
+
+    # Florești
+    - codes:
+        iso3166-2: MD-FL
+      names:
+        - name: Florești
+          sources: [iso3166-2]
+    
+
+    # Fălești
+    - codes:
+        iso3166-2: MD-FA
+      names:
+        - name: Fălești
+          sources: [iso3166-2]
+    
+
+    # Glodeni
+    - codes:
+        iso3166-2: MD-GL
+      names:
+        - name: Glodeni
+          sources: [iso3166-2]
+    
+
+    # Găgăuzia, Unitatea teritorială autonomă
+    - codes:
+        iso3166-2: MD-GA
+      names:
+        - name: Găgăuzia, Unitatea teritorială autonomă
+          sources: [iso3166-2]
+    
+
+    # Hîncești
+    - codes:
+        iso3166-2: MD-HI
+      names:
+        - name: Hîncești
+          sources: [iso3166-2]
+    
+
+    # Ialoveni
+    - codes:
+        iso3166-2: MD-IA
+      names:
+        - name: Ialoveni
+          sources: [iso3166-2]
+    
+
+    # Leova
+    - codes:
+        iso3166-2: MD-LE
+      names:
+        - name: Leova
+          sources: [iso3166-2]
+    
+
+    # Nisporeni
+    - codes:
+        iso3166-2: MD-NI
+      names:
+        - name: Nisporeni
+          sources: [iso3166-2]
+    
+
+    # Ocnița
+    - codes:
+        iso3166-2: MD-OC
+      names:
+        - name: Ocnița
+          sources: [iso3166-2]
+    
+
+    # Orhei
+    - codes:
+        iso3166-2: MD-OR
+      names:
+        - name: Orhei
+          sources: [iso3166-2]
+    
+
+    # Rezina
+    - codes:
+        iso3166-2: MD-RE
+      names:
+        - name: Rezina
+          sources: [iso3166-2]
+    
+
+    # Rîșcani
+    - codes:
+        iso3166-2: MD-RI
+      names:
+        - name: Rîșcani
+          sources: [iso3166-2]
+    
+
+    # Soroca
+    - codes:
+        iso3166-2: MD-SO
+      names:
+        - name: Soroca
+          sources: [iso3166-2]
+    
+
+    # Strășeni
+    - codes:
+        iso3166-2: MD-ST
+      names:
+        - name: Strășeni
+          sources: [iso3166-2]
+    
+
+    # Stînga Nistrului, unitatea teritorială din
+    - codes:
+        iso3166-2: MD-SN
+      names:
+        - name: Stînga Nistrului, unitatea teritorială din
+          sources: [iso3166-2]
+    
+
+    # Sîngerei
+    - codes:
+        iso3166-2: MD-SI
+      names:
+        - name: Sîngerei
+          sources: [iso3166-2]
+    
+
+    # Taraclia
+    - codes:
+        iso3166-2: MD-TA
+      names:
+        - name: Taraclia
+          sources: [iso3166-2]
+    
+
+    # Telenești
+    - codes:
+        iso3166-2: MD-TE
+      names:
+        - name: Telenești
+          sources: [iso3166-2]
+    
+
+    # Ungheni
+    - codes:
+        iso3166-2: MD-UN
+      names:
+        - name: Ungheni
+          sources: [iso3166-2]
+    
+
+    # Șoldănești
+    - codes:
+        iso3166-2: MD-SD
+      names:
+        - name: Șoldănești
+          sources: [iso3166-2]
+    
+
+    # Ștefan Vodă
+    - codes:
+        iso3166-2: MD-SV
+      names:
+        - name: Ștefan Vodă
+          sources: [iso3166-2]

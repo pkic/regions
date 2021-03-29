@@ -1,0 +1,131 @@
+iso3166-1: KN
+complete: false
+regions:
+    
+
+    # Christ Church Nichola Town
+    - codes:
+        iso3166-2: KN-01
+      names:
+        - name: Christ Church Nichola Town
+          sources: [iso3166-2]
+    
+
+    # Nevis
+    - codes:
+        iso3166-2: KN-N
+      names:
+        - name: Nevis
+          sources: [iso3166-2]
+    
+
+    # Saint Anne Sandy Point
+    - codes:
+        iso3166-2: KN-02
+      names:
+        - name: Saint Anne Sandy Point
+          sources: [iso3166-2]
+    
+
+    # Saint George Basseterre
+    - codes:
+        iso3166-2: KN-03
+      names:
+        - name: Saint George Basseterre
+          sources: [iso3166-2]
+    
+
+    # Saint George Gingerland
+    - codes:
+        iso3166-2: KN-04
+      names:
+        - name: Saint George Gingerland
+          sources: [iso3166-2]
+    
+
+    # Saint James Windward
+    - codes:
+        iso3166-2: KN-05
+      names:
+        - name: Saint James Windward
+          sources: [iso3166-2]
+    
+
+    # Saint John Capisterre
+    - codes:
+        iso3166-2: KN-06
+      names:
+        - name: Saint John Capisterre
+          sources: [iso3166-2]
+    
+
+    # Saint John Figtree
+    - codes:
+        iso3166-2: KN-07
+      names:
+        - name: Saint John Figtree
+          sources: [iso3166-2]
+    
+
+    # Saint Kitts
+    - codes:
+        iso3166-2: KN-K
+      names:
+        - name: Saint Kitts
+          sources: [iso3166-2]
+    
+
+    # Saint Mary Cayon
+    - codes:
+        iso3166-2: KN-08
+      names:
+        - name: Saint Mary Cayon
+          sources: [iso3166-2]
+    
+
+    # Saint Paul Capisterre
+    - codes:
+        iso3166-2: KN-09
+      names:
+        - name: Saint Paul Capisterre
+          sources: [iso3166-2]
+    
+
+    # Saint Paul Charlestown
+    - codes:
+        iso3166-2: KN-10
+      names:
+        - name: Saint Paul Charlestown
+          sources: [iso3166-2]
+    
+
+    # Saint Peter Basseterre
+    - codes:
+        iso3166-2: KN-11
+      names:
+        - name: Saint Peter Basseterre
+          sources: [iso3166-2]
+    
+
+    # Saint Thomas Lowland
+    - codes:
+        iso3166-2: KN-12
+      names:
+        - name: Saint Thomas Lowland
+          sources: [iso3166-2]
+    
+
+    # Saint Thomas Middle Island
+    - codes:
+        iso3166-2: KN-13
+      names:
+        - name: Saint Thomas Middle Island
+          sources: [iso3166-2]
+    
+
+    # Trinity Palmetto Point
+    - codes:
+        iso3166-2: KN-15
+      names:
+        - name: Trinity Palmetto Point
+          sources: [iso3166-2]

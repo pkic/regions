@@ -1,0 +1,702 @@
+iso3166-1: MA
+complete: false
+regions:
+    
+
+    # Agadir-Ida-Ou-Tanane
+    - codes:
+        iso3166-2: MA-AGD
+      names:
+        - name: Agadir-Ida-Ou-Tanane
+          sources: [iso3166-2]
+    
+
+    # Al Haouz
+    - codes:
+        iso3166-2: MA-HAO
+      names:
+        - name: Al Haouz
+          sources: [iso3166-2]
+    
+
+    # Al Hoceïma
+    - codes:
+        iso3166-2: MA-HOC
+      names:
+        - name: Al Hoceïma
+          sources: [iso3166-2]
+    
+
+    # Aousserd
+    - codes:
+        iso3166-2: MA-AOU
+      names:
+        - name: Aousserd
+          sources: [iso3166-2]
+    
+
+    # Assa-Zag
+    - codes:
+        iso3166-2: MA-ASZ
+      names:
+        - name: Assa-Zag
+          sources: [iso3166-2]
+    
+
+    # Azilal
+    - codes:
+        iso3166-2: MA-AZI
+      names:
+        - name: Azilal
+          sources: [iso3166-2]
+    
+
+    # Benslimane
+    - codes:
+        iso3166-2: MA-BES
+      names:
+        - name: Benslimane
+          sources: [iso3166-2]
+    
+
+    # Berkane
+    - codes:
+        iso3166-2: MA-BER
+      names:
+        - name: Berkane
+          sources: [iso3166-2]
+    
+
+    # Berrechid
+    - codes:
+        iso3166-2: MA-BRR
+      names:
+        - name: Berrechid
+          sources: [iso3166-2]
+    
+
+    # Boujdour
+    - codes:
+        iso3166-2: MA-BOD
+      names:
+        - name: Boujdour
+          sources: [iso3166-2]
+    
+
+    # Boulemane
+    - codes:
+        iso3166-2: MA-BOM
+      names:
+        - name: Boulemane
+          sources: [iso3166-2]
+    
+
+    # Béni Mellal
+    - codes:
+        iso3166-2: MA-BEM
+      names:
+        - name: Béni Mellal
+          sources: [iso3166-2]
+    
+
+    # Béni Mellal-Khénifra
+    - codes:
+        iso3166-2: MA-05
+      names:
+        - name: Béni Mellal-Khénifra
+          sources: [iso3166-2]
+    
+
+    # Casablanca
+    - codes:
+        iso3166-2: MA-CAS
+      names:
+        - name: Casablanca
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Dar el Beïda
+          sources: [iso3166-2]
+    
+
+    # Casablanca-Settat
+    - codes:
+        iso3166-2: MA-06
+      names:
+        - name: Casablanca-Settat
+          sources: [iso3166-2]
+    
+
+    # Chefchaouen
+    - codes:
+        iso3166-2: MA-CHE
+      names:
+        - name: Chefchaouen
+          sources: [iso3166-2]
+    
+
+    # Chichaoua
+    - codes:
+        iso3166-2: MA-CHI
+      names:
+        - name: Chichaoua
+          sources: [iso3166-2]
+    
+
+    # Chtouka-Ait Baha
+    - codes:
+        iso3166-2: MA-CHT
+      names:
+        - name: Chtouka-Ait Baha
+          sources: [iso3166-2]
+    
+
+    # Dakhla-Oued Ed-Dahab
+    - codes:
+        iso3166-2: MA-12
+      names:
+        - name: Dakhla-Oued Ed-Dahab
+          sources: [iso3166-2]
+    
+
+    # Driouch
+    - codes:
+        iso3166-2: MA-DRI
+      names:
+        - name: Driouch
+          sources: [iso3166-2]
+    
+
+    # Drâa-Tafilalet
+    - codes:
+        iso3166-2: MA-08
+      names:
+        - name: Drâa-Tafilalet
+          sources: [iso3166-2]
+    
+
+    # El Hajeb
+    - codes:
+        iso3166-2: MA-HAJ
+      names:
+        - name: El Hajeb
+          sources: [iso3166-2]
+    
+
+    # El Jadida
+    - codes:
+        iso3166-2: MA-JDI
+      names:
+        - name: El Jadida
+          sources: [iso3166-2]
+    
+
+    # El Kelâa des Sraghna
+    - codes:
+        iso3166-2: MA-KES
+      names:
+        - name: El Kelâa des Sraghna
+          sources: [iso3166-2]
+    
+
+    # Errachidia
+    - codes:
+        iso3166-2: MA-ERR
+      names:
+        - name: Errachidia
+          sources: [iso3166-2]
+    
+
+    # Es-Semara
+    - codes:
+        iso3166-2: MA-ESM
+      names:
+        - name: Es-Semara
+          sources: [iso3166-2]
+    
+
+    # Essaouira
+    - codes:
+        iso3166-2: MA-ESI
+      names:
+        - name: Essaouira
+          sources: [iso3166-2]
+    
+
+    # Fahs-Anjra
+    - codes:
+        iso3166-2: MA-FAH
+      names:
+        - name: Fahs-Anjra
+          sources: [iso3166-2]
+    
+
+    # Figuig
+    - codes:
+        iso3166-2: MA-FIG
+      names:
+        - name: Figuig
+          sources: [iso3166-2]
+    
+
+    # Fquih Ben Salah
+    - codes:
+        iso3166-2: MA-FQH
+      names:
+        - name: Fquih Ben Salah
+          sources: [iso3166-2]
+    
+
+    # Fès
+    - codes:
+        iso3166-2: MA-FES
+      names:
+        - name: Fès
+          sources: [iso3166-2]
+    
+
+    # Fès-Meknès
+    - codes:
+        iso3166-2: MA-03
+      names:
+        - name: Fès-Meknès
+          sources: [iso3166-2]
+    
+
+    # Guelmim
+    - codes:
+        iso3166-2: MA-GUE
+      names:
+        - name: Guelmim
+          sources: [iso3166-2]
+    
+
+    # Guelmim-Oued Noun
+    - codes:
+        iso3166-2: MA-10
+      names:
+        - name: Guelmim-Oued Noun
+          sources: [iso3166-2]
+    
+
+    # Guercif
+    - codes:
+        iso3166-2: MA-GUF
+      names:
+        - name: Guercif
+          sources: [iso3166-2]
+    
+
+    # Ifrane
+    - codes:
+        iso3166-2: MA-IFR
+      names:
+        - name: Ifrane
+          sources: [iso3166-2]
+    
+
+    # Inezgane-Ait Melloul
+    - codes:
+        iso3166-2: MA-INE
+      names:
+        - name: Inezgane-Ait Melloul
+          sources: [iso3166-2]
+    
+
+    # Jerada
+    - codes:
+        iso3166-2: MA-JRA
+      names:
+        - name: Jerada
+          sources: [iso3166-2]
+    
+
+    # Khouribga
+    - codes:
+        iso3166-2: MA-KHO
+      names:
+        - name: Khouribga
+          sources: [iso3166-2]
+    
+
+    # Khémisset
+    - codes:
+        iso3166-2: MA-KHE
+      names:
+        - name: Khémisset
+          sources: [iso3166-2]
+    
+
+    # Khénifra
+    - codes:
+        iso3166-2: MA-KHN
+      names:
+        - name: Khénifra
+          sources: [iso3166-2]
+    
+
+    # Kénitra
+    - codes:
+        iso3166-2: MA-KEN
+      names:
+        - name: Kénitra
+          sources: [iso3166-2]
+    
+
+    # L'Oriental
+    - codes:
+        iso3166-2: MA-02
+      names:
+        - name: L'Oriental
+          sources: [iso3166-2]
+    
+
+    # Larache
+    - codes:
+        iso3166-2: MA-LAR
+      names:
+        - name: Larache
+          sources: [iso3166-2]
+    
+
+    # Laâyoune
+    - codes:
+        iso3166-2: MA-LAA
+      names:
+        - name: Laâyoune
+          sources: [iso3166-2]
+    
+
+    # Laâyoune-Sakia El Hamra
+    - codes:
+        iso3166-2: MA-11
+      names:
+        - name: Laâyoune-Sakia El Hamra
+          sources: [iso3166-2]
+    
+
+    # Marrakech
+    - codes:
+        iso3166-2: MA-MAR
+      names:
+        - name: Marrakech
+          sources: [iso3166-2]
+    
+
+    # Marrakech-Safi
+    - codes:
+        iso3166-2: MA-07
+      names:
+        - name: Marrakech-Safi
+          sources: [iso3166-2]
+    
+
+    # Meknès
+    - codes:
+        iso3166-2: MA-MEK
+      names:
+        - name: Meknès
+          sources: [iso3166-2]
+    
+
+    # Midelt
+    - codes:
+        iso3166-2: MA-MID
+      names:
+        - name: Midelt
+          sources: [iso3166-2]
+    
+
+    # Mohammadia
+    - codes:
+        iso3166-2: MA-MOH
+      names:
+        - name: Mohammadia
+          sources: [iso3166-2]
+    
+
+    # Moulay Yacoub
+    - codes:
+        iso3166-2: MA-MOU
+      names:
+        - name: Moulay Yacoub
+          sources: [iso3166-2]
+    
+
+    # Médiouna
+    - codes:
+        iso3166-2: MA-MED
+      names:
+        - name: Médiouna
+          sources: [iso3166-2]
+    
+
+    # M’diq-Fnideq
+    - codes:
+        iso3166-2: MA-MDF
+      names:
+        - name: M’diq-Fnideq
+          sources: [iso3166-2]
+    
+
+    # Nador
+    - codes:
+        iso3166-2: MA-NAD
+      names:
+        - name: Nador
+          sources: [iso3166-2]
+    
+
+    # Nouaceur
+    - codes:
+        iso3166-2: MA-NOU
+      names:
+        - name: Nouaceur
+          sources: [iso3166-2]
+    
+
+    # Ouarzazate
+    - codes:
+        iso3166-2: MA-OUA
+      names:
+        - name: Ouarzazate
+          sources: [iso3166-2]
+    
+
+    # Oued Ed-Dahab
+    - codes:
+        iso3166-2: MA-OUD
+      names:
+        - name: Oued Ed-Dahab
+          sources: [iso3166-2]
+    
+
+    # Ouezzane
+    - codes:
+        iso3166-2: MA-OUZ
+      names:
+        - name: Ouezzane
+          sources: [iso3166-2]
+    
+
+    # Oujda-Angad
+    - codes:
+        iso3166-2: MA-OUJ
+      names:
+        - name: Oujda-Angad
+          sources: [iso3166-2]
+    
+
+    # Rabat
+    - codes:
+        iso3166-2: MA-RAB
+      names:
+        - name: Rabat
+          sources: [iso3166-2]
+    
+
+    # Rabat-Salé-Kénitra
+    - codes:
+        iso3166-2: MA-04
+      names:
+        - name: Rabat-Salé-Kénitra
+          sources: [iso3166-2]
+    
+
+    # Rehamna
+    - codes:
+        iso3166-2: MA-REH
+      names:
+        - name: Rehamna
+          sources: [iso3166-2]
+    
+
+    # Safi
+    - codes:
+        iso3166-2: MA-SAF
+      names:
+        - name: Safi
+          sources: [iso3166-2]
+    
+
+    # Salé
+    - codes:
+        iso3166-2: MA-SAL
+      names:
+        - name: Salé
+          sources: [iso3166-2]
+    
+
+    # Sefrou
+    - codes:
+        iso3166-2: MA-SEF
+      names:
+        - name: Sefrou
+          sources: [iso3166-2]
+    
+
+    # Settat
+    - codes:
+        iso3166-2: MA-SET
+      names:
+        - name: Settat
+          sources: [iso3166-2]
+    
+
+    # Sidi Bennour
+    - codes:
+        iso3166-2: MA-SIB
+      names:
+        - name: Sidi Bennour
+          sources: [iso3166-2]
+    
+
+    # Sidi Ifni
+    - codes:
+        iso3166-2: MA-SIF
+      names:
+        - name: Sidi Ifni
+          sources: [iso3166-2]
+    
+
+    # Sidi Kacem
+    - codes:
+        iso3166-2: MA-SIK
+      names:
+        - name: Sidi Kacem
+          sources: [iso3166-2]
+    
+
+    # Sidi Slimane
+    - codes:
+        iso3166-2: MA-SIL
+      names:
+        - name: Sidi Slimane
+          sources: [iso3166-2]
+    
+
+    # Skhirate-Témara
+    - codes:
+        iso3166-2: MA-SKH
+      names:
+        - name: Skhirate-Témara
+          sources: [iso3166-2]
+    
+
+    # Souss-Massa
+    - codes:
+        iso3166-2: MA-09
+      names:
+        - name: Souss-Massa
+          sources: [iso3166-2]
+    
+
+    # Tan-Tan
+    - codes:
+        iso3166-2: MA-TNT
+      names:
+        - name: Tan-Tan
+          sources: [iso3166-2]
+    
+
+    # Tanger-Assilah
+    - codes:
+        iso3166-2: MA-TNG
+      names:
+        - name: Tanger-Assilah
+          sources: [iso3166-2]
+    
+
+    # Tanger-Tétouan-Al Hoceïma
+    - codes:
+        iso3166-2: MA-01
+      names:
+        - name: Tanger-Tétouan-Al Hoceïma
+          sources: [iso3166-2]
+    
+
+    # Taounate
+    - codes:
+        iso3166-2: MA-TAO
+      names:
+        - name: Taounate
+          sources: [iso3166-2]
+    
+
+    # Taourirt
+    - codes:
+        iso3166-2: MA-TAI
+      names:
+        - name: Taourirt
+          sources: [iso3166-2]
+    
+
+    # Tarfaya
+    - codes:
+        iso3166-2: MA-TAF
+      names:
+        - name: Tarfaya
+          sources: [iso3166-2]
+    
+
+    # Taroudannt
+    - codes:
+        iso3166-2: MA-TAR
+      names:
+        - name: Taroudannt
+          sources: [iso3166-2]
+    
+
+    # Tata
+    - codes:
+        iso3166-2: MA-TAT
+      names:
+        - name: Tata
+          sources: [iso3166-2]
+    
+
+    # Taza
+    - codes:
+        iso3166-2: MA-TAZ
+      names:
+        - name: Taza
+          sources: [iso3166-2]
+    
+
+    # Tinghir
+    - codes:
+        iso3166-2: MA-TIN
+      names:
+        - name: Tinghir
+          sources: [iso3166-2]
+    
+
+    # Tiznit
+    - codes:
+        iso3166-2: MA-TIZ
+      names:
+        - name: Tiznit
+          sources: [iso3166-2]
+    
+
+    # Tétouan
+    - codes:
+        iso3166-2: MA-TET
+      names:
+        - name: Tétouan
+          sources: [iso3166-2]
+    
+
+    # Youssoufia
+    - codes:
+        iso3166-2: MA-YUS
+      names:
+        - name: Youssoufia
+          sources: [iso3166-2]
+    
+
+    # Zagora
+    - codes:
+        iso3166-2: MA-ZAG
+      names:
+        - name: Zagora
+          sources: [iso3166-2]

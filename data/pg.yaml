@@ -1,0 +1,179 @@
+iso3166-1: PG
+complete: false
+regions:
+    
+
+    # Bougainville
+    - codes:
+        iso3166-2: PG-NSB
+      names:
+        - name: Bougainville
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: PG-CPM
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Chimbu
+    - codes:
+        iso3166-2: PG-CPK
+      names:
+        - name: Chimbu
+          sources: [iso3166-2]
+    
+
+    # East New Britain
+    - codes:
+        iso3166-2: PG-EBR
+      names:
+        - name: East New Britain
+          sources: [iso3166-2]
+    
+
+    # East Sepik
+    - codes:
+        iso3166-2: PG-ESW
+      names:
+        - name: East Sepik
+          sources: [iso3166-2]
+    
+
+    # Eastern Highlands
+    - codes:
+        iso3166-2: PG-EHG
+      names:
+        - name: Eastern Highlands
+          sources: [iso3166-2]
+    
+
+    # Enga
+    - codes:
+        iso3166-2: PG-EPW
+      names:
+        - name: Enga
+          sources: [iso3166-2]
+    
+
+    # Gulf
+    - codes:
+        iso3166-2: PG-GPK
+      names:
+        - name: Gulf
+          sources: [iso3166-2]
+    
+
+    # Hela
+    - codes:
+        iso3166-2: PG-HLA
+      names:
+        - name: Hela
+          sources: [iso3166-2]
+    
+
+    # Jiwaka
+    - codes:
+        iso3166-2: PG-JWK
+      names:
+        - name: Jiwaka
+          sources: [iso3166-2]
+    
+
+    # Madang
+    - codes:
+        iso3166-2: PG-MPM
+      names:
+        - name: Madang
+          sources: [iso3166-2]
+    
+
+    # Manus
+    - codes:
+        iso3166-2: PG-MRL
+      names:
+        - name: Manus
+          sources: [iso3166-2]
+    
+
+    # Milne Bay
+    - codes:
+        iso3166-2: PG-MBA
+      names:
+        - name: Milne Bay
+          sources: [iso3166-2]
+    
+
+    # Morobe
+    - codes:
+        iso3166-2: PG-MPL
+      names:
+        - name: Morobe
+          sources: [iso3166-2]
+    
+
+    # National District
+    - codes:
+        iso3166-2: PG-NCD
+      names:
+        - name: National District
+          sources: [iso3166-2]
+    
+
+    # New Ireland
+    - codes:
+        iso3166-2: PG-NIK
+      names:
+        - name: New Ireland
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: PG-NPP
+      names:
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Southern Highlands
+    - codes:
+        iso3166-2: PG-SHM
+      names:
+        - name: Southern Highlands
+          sources: [iso3166-2]
+    
+
+    # West New Britain
+    - codes:
+        iso3166-2: PG-WBK
+      names:
+        - name: West New Britain
+          sources: [iso3166-2]
+    
+
+    # West Sepik
+    - codes:
+        iso3166-2: PG-SAN
+      names:
+        - name: West Sepik
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: PG-WPD
+      names:
+        - name: Western
+          sources: [iso3166-2]
+    
+
+    # Western Highlands
+    - codes:
+        iso3166-2: PG-WHM
+      names:
+        - name: Western Highlands
+          sources: [iso3166-2]

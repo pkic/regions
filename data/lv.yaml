@@ -1,0 +1,1343 @@
+name: Latvia
+iso3166-1: LV
+complete: false
+regions:
+    
+
+    # Aglonas
+    - codes:
+        iso3166-2: LV-001
+      names:
+        - name: Aglona
+          sources: [iso3166-2]
+        - name: Aglonas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Aizkraukles
+    - codes:
+        iso3166-2: LV-002
+      names:
+        - name: Aizkraukle
+          sources: [iso3166-2]
+        - name: Aizkraukles
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Aizputes
+    - codes:
+        iso3166-2: LV-003
+      names:
+        - name: Aizpute
+          sources: [iso3166-2]
+        - name: Aizputes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Aknīstes
+    - codes:
+        iso3166-2: LV-004
+      names:
+        - name: Aknīste
+          sources: [iso3166-2]
+        - name: Aknīstes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Alojas
+    - codes:
+        iso3166-2: LV-005
+      names:
+        - name: Aloja
+          sources: [iso3166-2]
+        - name: Alojas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Alsungas
+    - codes:
+        iso3166-2: LV-006
+      names:
+        - name: Alsunga
+          sources: [iso3166-2]
+        - name: Alsungas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Alūksnes
+    - codes:
+        iso3166-2: LV-007
+      names:
+        - name: Alūksne
+          sources: [iso3166-2]
+        - name: Alūksnes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Amatas
+    - codes:
+        iso3166-2: LV-008
+      names:
+        - name: Amata
+          sources: [iso3166-2]
+        - name: Amatas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Apes
+    - codes:
+        iso3166-2: LV-009
+      names:
+        - name: Ape
+          sources: [iso3166-2]
+        - name: Apes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Auces
+    - codes:
+        iso3166-2: LV-010
+      names:
+        - name: Auce
+          sources: [iso3166-2]
+        - name: Auces
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Babītes
+    - codes:
+        iso3166-2: LV-012
+      names:
+        - name: Babīte
+          sources: [iso3166-2]
+        - name: Babītes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Baldones
+    - codes:
+        iso3166-2: LV-013
+      names:
+        - name: Baldone
+          sources: [iso3166-2]
+        - name: Baldones
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Baltinavas
+    - codes:
+        iso3166-2: LV-014
+      names:
+        - name: Baltinava
+          sources: [iso3166-2]
+        - name: Baltinavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Balvu
+    - codes:
+        iso3166-2: LV-015
+      names:
+        - name: Balvi
+          sources: [iso3166-2]
+        - name: Balvu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bauskas
+    - codes:
+        iso3166-2: LV-016
+      names:
+        - name: Bauska
+          sources: [iso3166-2]
+        - name: Bauskas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Beverīnas
+    - codes:
+        iso3166-2: LV-017
+      names:
+        - name: Beverīna
+          sources: [iso3166-2]
+        - name: Beverīnas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Brocēnu
+    - codes:
+        iso3166-2: LV-018
+      names:
+        - name: Brocēni
+          sources: [iso3166-2]
+        - name: Brocēnu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Burtnieku
+    - codes:
+        iso3166-2: LV-019
+      names:
+        - name: Burtnieki
+          sources: [iso3166-2]
+        - name: Burtnieku
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Carnikavas
+    - codes:
+        iso3166-2: LV-020
+      names:
+        - name: Carnikava
+          sources: [iso3166-2]
+        - name: Carnikavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cesvaines
+    - codes:
+        iso3166-2: LV-021
+      names:
+        - name: Cesvaine
+          sources: [iso3166-2]
+        - name: Cesvaines
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ciblas
+    - codes:
+        iso3166-2: LV-023
+      names:
+        - name: Cibla
+          sources: [iso3166-2]
+        - name: Ciblas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cēsu
+    - codes:
+        iso3166-2: LV-022
+      names:
+        - name: Cēsis
+          sources: [iso3166-2]
+        - name: Cēsu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dagdas
+    - codes:
+        iso3166-2: LV-024
+      names:
+        - name: Dagda
+          sources: [iso3166-2]
+        - name: Dagdas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Daugavpils
+    - codes:
+        iso3166-2: LV-DGV
+      names:
+        - name: Daugavpils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dobeles
+    - codes:
+        iso3166-2: LV-026
+      names:
+        - name: Dobele
+          sources: [iso3166-2]
+        - name: Dobeles
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dundagas
+    - codes:
+        iso3166-2: LV-027
+      names:
+        - name: Dundaga
+          sources: [iso3166-2]
+        - name: Dundagas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Durbes
+    - codes:
+        iso3166-2: LV-028
+      names:
+        - name: Durbe
+          sources: [iso3166-2]
+        - name: Durbes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Engures
+    - codes:
+        iso3166-2: LV-029
+      names:
+        - name: Engure
+          sources: [iso3166-2]
+        - name: Engures
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Garkalnes
+    - codes:
+        iso3166-2: LV-031
+      names:
+        - name: Garkalne
+          sources: [iso3166-2]
+        - name: Garkalnes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grobiņas
+    - codes:
+        iso3166-2: LV-032
+      names:
+        - name: Grobiņa
+          sources: [iso3166-2]
+        - name: Grobiņas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gulbenes
+    - codes:
+        iso3166-2: LV-033
+      names:
+        - name: Gulbene
+          sources: [iso3166-2]
+        - name: Gulbenes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Iecavas
+    - codes:
+        iso3166-2: LV-034
+      names:
+        - name: Iecava
+          sources: [iso3166-2]
+        - name: Iecavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ikšķiles
+    - codes:
+        iso3166-2: LV-035
+      names:
+        - name: Ikšķile
+          sources: [iso3166-2]
+        - name: Ikšķiles
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ilūkstes
+    - codes:
+        iso3166-2: LV-036
+      names:
+        - name: Ilūkste
+          sources: [iso3166-2]
+        - name: Ilūkstes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Inčukalna
+    - codes:
+        iso3166-2: LV-037
+      names:
+        - name: Inčukalna
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Inčukalns
+          sources: [iso3166-2]
+    
+
+    # Jaunjelgavas
+    - codes:
+        iso3166-2: LV-038
+      names:
+        - name: Jaunjelgava
+          sources: [iso3166-2]
+        - name: Jaunjelgavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jaunpiebalgas
+    - codes:
+        iso3166-2: LV-039
+      names:
+        - name: Jaunpiebalga
+          sources: [iso3166-2]
+        - name: Jaunpiebalgas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jaunpils
+    - codes:
+        iso3166-2: LV-040
+      names:
+        - name: Jaunpils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jelgavas
+    - codes:
+        iso3166-2: LV-JEL
+      names:
+        - name: Jelgava
+          sources: [iso3166-2]
+        - name: Jelgavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jēkabpils
+    - codes:
+        iso3166-2: LV-JKB
+      names:
+        - name: Jēkabpils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jūrmala
+    - codes:
+        iso3166-2: LV-JUR
+      names:
+        - name: Jūrmala
+          sources: [iso3166-2]
+    
+
+    # Kandavas
+    - codes:
+        iso3166-2: LV-043
+      names:
+        - name: Kandava
+          sources: [iso3166-2]
+        - name: Kandavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kocēnu
+    - codes:
+        iso3166-2: LV-045
+      names:
+        - name: Kocēni
+          sources: [iso3166-2]
+        - name: Kocēnu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kokneses
+    - codes:
+        iso3166-2: LV-046
+      names:
+        - name: Koknese
+          sources: [iso3166-2]
+        - name: Kokneses
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Krimuldas
+    - codes:
+        iso3166-2: LV-048
+      names:
+        - name: Krimulda
+          sources: [iso3166-2]
+        - name: Krimuldas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Krustpils
+    - codes:
+        iso3166-2: LV-049
+      names:
+        - name: Krustpils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Krāslavas
+    - codes:
+        iso3166-2: LV-047
+      names:
+        - name: Krāslava
+          sources: [iso3166-2]
+        - name: Krāslavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kuldīgas
+    - codes:
+        iso3166-2: LV-050
+      names:
+        - name: Kuldīga
+          sources: [iso3166-2]
+        - name: Kuldīgas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kurzeme
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7866
+      names:
+        - name: Kuramaa
+          languages: [et]
+          sources: [euvoc]
+        - name: Kurlandia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Kurzeme
+          languages: [cs, da, de, el, en, es, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Kurzemi
+          languages: [sq]
+          sources: [euvoc]
+        - name: Kuržemė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Курземе
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Kārsavas
+    - codes:
+        iso3166-2: LV-044
+      names:
+        - name: Kārsava
+          sources: [iso3166-2]
+        - name: Kārsavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Latgale
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7862
+      names:
+        - name: Latgala
+          languages: [lt]
+          sources: [euvoc]
+        - name: Latgale
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Latgali
+          languages: [sq]
+          sources: [euvoc]
+        - name: Łatgalia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Латгале
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Lielvārdes
+    - codes:
+        iso3166-2: LV-053
+      names:
+        - name: Lielvārde
+          sources: [iso3166-2]
+        - name: Lielvārdes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Liepāja
+    - codes:
+        iso3166-2: LV-LPX
+      names:
+        - name: Liepāja
+          sources: [iso3166-2]
+    
+
+    # Limbažu
+    - codes:
+        iso3166-2: LV-054
+      names:
+        - name: Limbaži
+          sources: [iso3166-2]
+        - name: Limbažu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vidzeme
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7865
+      names:
+        - name: Liwonia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Vidzeme
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Vidžemė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vixema
+          languages: [sq]
+          sources: [euvoc]
+        - name: Видземе
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Lubānas
+    - codes:
+        iso3166-2: LV-057
+      names:
+        - name: Lubāna
+          sources: [iso3166-2]
+        - name: Lubānas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ludzas
+    - codes:
+        iso3166-2: LV-058
+      names:
+        - name: Ludza
+          sources: [iso3166-2]
+        - name: Ludzas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Līgatnes
+    - codes:
+        iso3166-2: LV-055
+      names:
+        - name: Līgatne
+          sources: [iso3166-2]
+        - name: Līgatnes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Līvānu
+    - codes:
+        iso3166-2: LV-056
+      names:
+        - name: Līvāni
+          sources: [iso3166-2]
+        - name: Līvānu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Madonas
+    - codes:
+        iso3166-2: LV-059
+      names:
+        - name: Madona
+          sources: [iso3166-2]
+        - name: Madonas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mazsalacas
+    - codes:
+        iso3166-2: LV-060
+      names:
+        - name: Mazsalaca
+          sources: [iso3166-2]
+        - name: Mazsalacas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mālpils
+    - codes:
+        iso3166-2: LV-061
+      names:
+        - name: Mālpils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mārupes
+    - codes:
+        iso3166-2: LV-062
+      names:
+        - name: Mārupe
+          sources: [iso3166-2]
+        - name: Mārupes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mērsraga
+    - codes:
+        iso3166-2: LV-063
+      names:
+        - name: Mērsraga
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mērsrags
+          sources: [iso3166-2]
+    
+
+    # Naukšēnu
+    - codes:
+        iso3166-2: LV-064
+      names:
+        - name: Naukšēni
+          sources: [iso3166-2]
+        - name: Naukšēnu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Neretas
+    - codes:
+        iso3166-2: LV-065
+      names:
+        - name: Nereta
+          sources: [iso3166-2]
+        - name: Neretas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nīcas
+    - codes:
+        iso3166-2: LV-066
+      names:
+        - name: Nīca
+          sources: [iso3166-2]
+        - name: Nīcas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ogres
+    - codes:
+        iso3166-2: LV-067
+      names:
+        - name: Ogre
+          sources: [iso3166-2]
+        - name: Ogres
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Olaines
+    - codes:
+        iso3166-2: LV-068
+      names:
+        - name: Olaine
+          sources: [iso3166-2]
+        - name: Olaines
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ozolnieku
+    - codes:
+        iso3166-2: LV-069
+      names:
+        - name: Ozolnieki
+          sources: [iso3166-2]
+        - name: Ozolnieku
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Preiļu
+    - codes:
+        iso3166-2: LV-073
+      names:
+        - name: Preiļi
+          sources: [iso3166-2]
+        - name: Preiļu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Priekules
+    - codes:
+        iso3166-2: LV-074
+      names:
+        - name: Priekule
+          sources: [iso3166-2]
+        - name: Priekules
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Priekuļu
+    - codes:
+        iso3166-2: LV-075
+      names:
+        - name: Priekuļi
+          sources: [iso3166-2]
+        - name: Priekuļu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pārgaujas
+    - codes:
+        iso3166-2: LV-070
+      names:
+        - name: Pārgauja
+          sources: [iso3166-2]
+        - name: Pārgaujas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pāvilostas
+    - codes:
+        iso3166-2: LV-071
+      names:
+        - name: Pāvilosta
+          sources: [iso3166-2]
+        - name: Pāvilostas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pļaviņu
+    - codes:
+        iso3166-2: LV-072
+      names:
+        - name: Pļaviņas
+          sources: [iso3166-2]
+        - name: Pļaviņu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Raunas
+    - codes:
+        iso3166-2: LV-076
+      names:
+        - name: Rauna
+          sources: [iso3166-2]
+        - name: Raunas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Riebiņu
+    - codes:
+        iso3166-2: LV-078
+      names:
+        - name: Riebiņi
+          sources: [iso3166-2]
+        - name: Riebiņu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Riga
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7864
+        iso3166-2: LV-RIX
+      names:
+        - name: Riga
+          languages: [cs, da, de, en, fr, hr, hu, it, mt, nl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Riia
+          languages: [et]
+          sources: [euvoc]
+        - name: Riika
+          languages: [fi]
+          sources: [euvoc]
+        - name: Ryga
+          languages: [pl]
+          sources: [euvoc]
+        - name: Rygosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ríge
+          languages: [ga]
+          sources: [euvoc]
+        - name: Rīga
+          languages: [es, lv]
+          sources: [euvoc, iso3166-2]
+        - name: Ρίγα
+          languages: [el]
+          sources: [euvoc]
+        - name: Рига
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Rojas
+    - codes:
+        iso3166-2: LV-079
+      names:
+        - name: Roja
+          sources: [iso3166-2]
+        - name: Rojas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ropažu
+    - codes:
+        iso3166-2: LV-080
+      names:
+        - name: Ropaži
+          sources: [iso3166-2]
+        - name: Ropažu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rucavas
+    - codes:
+        iso3166-2: LV-081
+      names:
+        - name: Rucava
+          sources: [iso3166-2]
+        - name: Rucavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rugāju
+    - codes:
+        iso3166-2: LV-082
+      names:
+        - name: Rugāji
+          sources: [iso3166-2]
+        - name: Rugāju
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rundāles
+    - codes:
+        iso3166-2: LV-083
+      names:
+        - name: Rundāle
+          sources: [iso3166-2]
+        - name: Rundāles
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rēzeknes
+    - codes:
+        iso3166-2: LV-REZ
+      names:
+        - name: Rēzekne
+          sources: [iso3166-2]
+        - name: Rēzeknes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rūjienas
+    - codes:
+        iso3166-2: LV-084
+      names:
+        - name: Rūjiena
+          sources: [iso3166-2]
+        - name: Rūjienas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Salacgrīvas
+    - codes:
+        iso3166-2: LV-086
+      names:
+        - name: Salacgrīva
+          sources: [iso3166-2]
+        - name: Salacgrīvas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Salas
+    - codes:
+        iso3166-2: LV-085
+      names:
+        - name: Sala
+          sources: [iso3166-2]
+        - name: Salas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Salaspils
+    - codes:
+        iso3166-2: LV-087
+      names:
+        - name: Salaspils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saldus
+    - codes:
+        iso3166-2: LV-088
+      names:
+        - name: Saldus
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saulkrastu
+    - codes:
+        iso3166-2: LV-089
+      names:
+        - name: Saulkrasti
+          sources: [iso3166-2]
+        - name: Saulkrastu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Zemgale
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7867
+      names:
+        - name: Semgallen
+          languages: [nl]
+          sources: [euvoc]
+        - name: Semigalia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zemgale
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Žiemgala
+          languages: [lt]
+          sources: [euvoc]
+        - name: Земгале
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Siguldas
+    - codes:
+        iso3166-2: LV-091
+      names:
+        - name: Sigulda
+          sources: [iso3166-2]
+        - name: Siguldas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Skrundas
+    - codes:
+        iso3166-2: LV-093
+      names:
+        - name: Skrunda
+          sources: [iso3166-2]
+        - name: Skrundas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Skrīveru
+    - codes:
+        iso3166-2: LV-092
+      names:
+        - name: Skrīveri
+          sources: [iso3166-2]
+        - name: Skrīveru
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Smiltenes
+    - codes:
+        iso3166-2: LV-094
+      names:
+        - name: Smiltene
+          sources: [iso3166-2]
+        - name: Smiltenes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stopiņu
+    - codes:
+        iso3166-2: LV-095
+      names:
+        - name: Stopiņi
+          sources: [iso3166-2]
+        - name: Stopiņu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Strenču
+    - codes:
+        iso3166-2: LV-096
+      names:
+        - name: Strenči
+          sources: [iso3166-2]
+        - name: Strenču
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sējas
+    - codes:
+        iso3166-2: LV-090
+      names:
+        - name: Sēja
+          sources: [iso3166-2]
+        - name: Sējas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Talsu
+    - codes:
+        iso3166-2: LV-097
+      names:
+        - name: Talsi
+          sources: [iso3166-2]
+        - name: Talsu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tukuma
+    - codes:
+        iso3166-2: LV-099
+      names:
+        - name: Tukuma
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tukums
+          sources: [iso3166-2]
+    
+
+    # Tērvetes
+    - codes:
+        iso3166-2: LV-098
+      names:
+        - name: Tērvete
+          sources: [iso3166-2]
+        - name: Tērvetes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vaiņodes
+    - codes:
+        iso3166-2: LV-100
+      names:
+        - name: Vaiņode
+          sources: [iso3166-2]
+        - name: Vaiņodes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Valkas
+    - codes:
+        iso3166-2: LV-101
+      names:
+        - name: Valka
+          sources: [iso3166-2]
+        - name: Valkas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Valmiera
+    - codes:
+        iso3166-2: LV-VMR
+      names:
+        - name: Valmiera
+          sources: [iso3166-2]
+    
+
+    # Varakļānu
+    - codes:
+        iso3166-2: LV-102
+      names:
+        - name: Varakļāni
+          sources: [iso3166-2]
+        - name: Varakļānu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vecpiebalgas
+    - codes:
+        iso3166-2: LV-104
+      names:
+        - name: Vecpiebalga
+          sources: [iso3166-2]
+        - name: Vecpiebalgas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vecumnieku
+    - codes:
+        iso3166-2: LV-105
+      names:
+        - name: Vecumnieki
+          sources: [iso3166-2]
+        - name: Vecumnieku
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ventspils
+    - codes:
+        iso3166-2: LV-VEN
+      names:
+        - name: Ventspils
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Viesītes
+    - codes:
+        iso3166-2: LV-107
+      names:
+        - name: Viesīte
+          sources: [iso3166-2]
+        - name: Viesītes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Viļakas
+    - codes:
+        iso3166-2: LV-108
+      names:
+        - name: Viļaka
+          sources: [iso3166-2]
+        - name: Viļakas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Viļānu
+    - codes:
+        iso3166-2: LV-109
+      names:
+        - name: Viļāni
+          sources: [iso3166-2]
+        - name: Viļānu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vārkavas
+    - codes:
+        iso3166-2: LV-103
+      names:
+        - name: Vārkava
+          sources: [iso3166-2]
+        - name: Vārkavas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Zilupes
+    - codes:
+        iso3166-2: LV-110
+      names:
+        - name: Zilupe
+          sources: [iso3166-2]
+        - name: Zilupes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ādažu
+    - codes:
+        iso3166-2: LV-011
+      names:
+        - name: Ādaži
+          sources: [iso3166-2]
+        - name: Ādažu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ērgļu
+    - codes:
+        iso3166-2: LV-030
+      names:
+        - name: Ērgļi
+          sources: [iso3166-2]
+        - name: Ērgļu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ķeguma
+    - codes:
+        iso3166-2: LV-051
+      names:
+        - name: Ķeguma
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ķegums
+          sources: [iso3166-2]
+    
+
+    # Ķekavas
+    - codes:
+        iso3166-2: LV-052
+      names:
+        - name: Ķekava
+          sources: [iso3166-2]
+        - name: Ķekavas
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,179 @@
+iso3166-1: LY
+complete: false
+regions:
+    
+
+    # Al Buţnān
+    - codes:
+        iso3166-2: LY-BU
+      names:
+        - name: Al Buţnān
+          sources: [iso3166-2]
+    
+
+    # Al Jabal al Akhḑar
+    - codes:
+        iso3166-2: LY-JA
+      names:
+        - name: Al Jabal al Akhḑar
+          sources: [iso3166-2]
+    
+
+    # Al Jabal al Gharbī
+    - codes:
+        iso3166-2: LY-JG
+      names:
+        - name: Al Jabal al Gharbī
+          sources: [iso3166-2]
+    
+
+    # Al Jafārah
+    - codes:
+        iso3166-2: LY-JI
+      names:
+        - name: Al Jafārah
+          sources: [iso3166-2]
+    
+
+    # Al Jufrah
+    - codes:
+        iso3166-2: LY-JU
+      names:
+        - name: Al Jufrah
+          sources: [iso3166-2]
+    
+
+    # Al Kufrah
+    - codes:
+        iso3166-2: LY-KF
+      names:
+        - name: Al Kufrah
+          sources: [iso3166-2]
+    
+
+    # Al Marj
+    - codes:
+        iso3166-2: LY-MJ
+      names:
+        - name: Al Marj
+          sources: [iso3166-2]
+    
+
+    # Al Marqab
+    - codes:
+        iso3166-2: LY-MB
+      names:
+        - name: Al Marqab
+          sources: [iso3166-2]
+    
+
+    # Al Wāḩāt
+    - codes:
+        iso3166-2: LY-WA
+      names:
+        - name: Al Wāḩāt
+          sources: [iso3166-2]
+    
+
+    # An Nuqāţ al Khams
+    - codes:
+        iso3166-2: LY-NQ
+      names:
+        - name: An Nuqāţ al Khams
+          sources: [iso3166-2]
+    
+
+    # Az Zāwiyah
+    - codes:
+        iso3166-2: LY-ZA
+      names:
+        - name: Az Zāwiyah
+          sources: [iso3166-2]
+    
+
+    # Banghāzī
+    - codes:
+        iso3166-2: LY-BA
+      names:
+        - name: Banghāzī
+          sources: [iso3166-2]
+    
+
+    # Darnah
+    - codes:
+        iso3166-2: LY-DR
+      names:
+        - name: Darnah
+          sources: [iso3166-2]
+    
+
+    # Ghāt
+    - codes:
+        iso3166-2: LY-GT
+      names:
+        - name: Ghāt
+          sources: [iso3166-2]
+    
+
+    # Mişrātah
+    - codes:
+        iso3166-2: LY-MI
+      names:
+        - name: Mişrātah
+          sources: [iso3166-2]
+    
+
+    # Murzuq
+    - codes:
+        iso3166-2: LY-MQ
+      names:
+        - name: Murzuq
+          sources: [iso3166-2]
+    
+
+    # Nālūt
+    - codes:
+        iso3166-2: LY-NL
+      names:
+        - name: Nālūt
+          sources: [iso3166-2]
+    
+
+    # Sabhā
+    - codes:
+        iso3166-2: LY-SB
+      names:
+        - name: Sabhā
+          sources: [iso3166-2]
+    
+
+    # Surt
+    - codes:
+        iso3166-2: LY-SR
+      names:
+        - name: Surt
+          sources: [iso3166-2]
+    
+
+    # Wādī al Ḩayāt
+    - codes:
+        iso3166-2: LY-WD
+      names:
+        - name: Wādī al Ḩayāt
+          sources: [iso3166-2]
+    
+
+    # Wādī ash Shāţi’
+    - codes:
+        iso3166-2: LY-WS
+      names:
+        - name: Wādī ash Shāţi’
+          sources: [iso3166-2]
+    
+
+    # Ţarābulus
+    - codes:
+        iso3166-2: LY-TB
+      names:
+        - name: Ţarābulus
+          sources: [iso3166-2]

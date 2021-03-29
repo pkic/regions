@@ -1,0 +1,97 @@
+iso3166-1: CM
+complete: false
+regions:
+    
+
+    # Adamaoua
+    - codes:
+        iso3166-2: CM-AD
+      names:
+        - name: Adamaoua
+          sources: [iso3166-2]
+    
+
+    # Centre
+    - codes:
+        iso3166-2: CM-CE
+      names:
+        - name: Centre
+          sources: [iso3166-2]
+    
+
+    # East
+    - codes:
+        iso3166-2: CM-ES
+      names:
+        - name: East
+          sources: [iso3166-2]
+        - name: Est
+          sources: [iso3166-2]
+    
+
+    # Extrême-Nord
+    - codes:
+        iso3166-2: CM-EN
+      names:
+        - name: Extrême-Nord
+          sources: [iso3166-2]
+        - name: Far North
+          sources: [iso3166-2]
+    
+
+    # Littoral
+    - codes:
+        iso3166-2: CM-LT
+      names:
+        - name: Littoral
+          sources: [iso3166-2]
+    
+
+    # Nord-Ouest
+    - codes:
+        iso3166-2: CM-NW
+      names:
+        - name: Nord-Ouest
+          sources: [iso3166-2]
+        - name: North-West
+          sources: [iso3166-2]
+    
+
+    # Nord
+    - codes:
+        iso3166-2: CM-NO
+      names:
+        - name: Nord
+          sources: [iso3166-2]
+        - name: North
+          sources: [iso3166-2]
+    
+
+    # Ouest
+    - codes:
+        iso3166-2: CM-OU
+      names:
+        - name: Ouest
+          sources: [iso3166-2]
+        - name: West
+          sources: [iso3166-2]
+    
+
+    # South
+    - codes:
+        iso3166-2: CM-SU
+      names:
+        - name: South
+          sources: [iso3166-2]
+        - name: Sud
+          sources: [iso3166-2]
+    
+
+    # South-West
+    - codes:
+        iso3166-2: CM-SW
+      names:
+        - name: South-West
+          sources: [iso3166-2]
+        - name: Sud-Ouest
+          sources: [iso3166-2]

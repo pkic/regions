@@ -1,0 +1,98 @@
+name: Belarus
+iso3166-1: BY
+complete: false
+regions:
+    
+
+    # Bresckaja voblasć
+    - codes:
+        iso3166-2: BY-BR
+      names:
+        - name: Bresckaja voblasć
+          sources: [iso3166-2]
+        - name: Brestskaja oblast'
+          sources: [iso3166-2]
+        - name: Brestskaya oblast'
+          sources: [iso3166-2]
+        - name: Brestskaya voblasts'
+          sources: [iso3166-2]
+    
+
+    # Gorod Minsk
+    - codes:
+        iso3166-2: BY-HM
+      names:
+        - name: Gorod Minsk
+          sources: [iso3166-2]
+        - name: Horad Minsk
+          sources: [iso3166-2]
+    
+
+    # Grodnenskaja oblast'
+    - codes:
+        iso3166-2: BY-HR
+      names:
+        - name: Grodnenskaja oblast'
+          sources: [iso3166-2]
+        - name: Grodnenskaya oblast'
+          sources: [iso3166-2]
+        - name: Hrodzienskaja voblasć
+          sources: [iso3166-2]
+        - name: Hrodzyenskaya voblasts'
+          sources: [iso3166-2]
+    
+
+    # Gomel'skaja oblast'
+    - codes:
+        iso3166-2: BY-HO
+      names:
+        - name: Gomel'skaja oblast'
+          sources: [iso3166-2]
+        - name: Gomel'skaya oblast'
+          sources: [iso3166-2]
+        - name: Homieĺskaja voblasć
+          sources: [iso3166-2]
+        - name: Homyel'skaya voblasts'
+          sources: [iso3166-2]
+    
+
+    # Mahilioŭskaja voblasć
+    - codes:
+        iso3166-2: BY-MA
+      names:
+        - name: Mahilioŭskaja voblasć
+          sources: [iso3166-2]
+        - name: Mahilyowskaya voblasts'
+          sources: [iso3166-2]
+        - name: Mogilevskaja oblast'
+          sources: [iso3166-2]
+        - name: Mogilevskaya oblast'
+          sources: [iso3166-2]
+    
+
+    # Minskaja oblast'
+    - codes:
+        iso3166-2: BY-MI
+      names:
+        - name: Minskaja oblast'
+          sources: [iso3166-2]
+        - name: Minskaja voblasć
+          sources: [iso3166-2]
+        - name: Minskaya oblast'
+          sources: [iso3166-2]
+        - name: Minskaya voblasts'
+          sources: [iso3166-2]
+    
+
+    # Viciebskaja voblasć
+    - codes:
+        iso3166-2: BY-VI
+      names:
+        - name: Viciebskaja voblasć
+          sources: [iso3166-2]
+        - name: Vitebskaja oblast'
+          sources: [iso3166-2]
+        - name: Vitebskaya oblast'
+          sources: [iso3166-2]
+        - name: Vitsyebskaya voblasts'
+          sources: [iso3166-2]

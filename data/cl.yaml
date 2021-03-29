@@ -1,0 +1,137 @@
+iso3166-1: CL
+complete: false
+regions:
+    
+
+    # Aisén del General Carlos Ibañez del Campo
+    - codes:
+        iso3166-2: CL-AI
+      names:
+        - name: Aisén del General Carlos Ibañez del Campo
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Aysén, Aisén
+          sources: [iso3166-2]
+    
+
+    # Antofagasta
+    - codes:
+        iso3166-2: CL-AN
+      names:
+        - name: Antofagasta
+          sources: [iso3166-2]
+    
+
+    # Arica y Parinacota
+    - codes:
+        iso3166-2: CL-AP
+      names:
+        - name: Arica y Parinacota
+          sources: [iso3166-2]
+    
+
+    # Atacama
+    - codes:
+        iso3166-2: CL-AT
+      names:
+        - name: Atacama
+          sources: [iso3166-2]
+    
+
+    # Biobío
+    - codes:
+        iso3166-2: CL-BI
+      names:
+        - name: Biobío
+          sources: [iso3166-2]
+    
+
+    # Coquimbo
+    - codes:
+        iso3166-2: CL-CO
+      names:
+        - name: Coquimbo
+          sources: [iso3166-2]
+    
+
+    # La Araucanía
+    - codes:
+        iso3166-2: CL-AR
+      names:
+        - name: La Araucanía
+          sources: [iso3166-2]
+    
+
+    # Libertador General Bernardo O'Higgins
+    - codes:
+        iso3166-2: CL-LI
+      names:
+        - name: Libertador General Bernardo O'Higgins
+          languages: [en]
+          sources: [iso3166-2]
+        - name: O'Higgins
+          sources: [iso3166-2]
+    
+
+    # Los Lagos
+    - codes:
+        iso3166-2: CL-LL
+      names:
+        - name: Los Lagos
+          sources: [iso3166-2]
+    
+
+    # Los Ríos
+    - codes:
+        iso3166-2: CL-LR
+      names:
+        - name: Los Ríos
+          sources: [iso3166-2]
+    
+
+    # Magallanes
+    - codes:
+        iso3166-2: CL-MA
+      names:
+        - name: Magallanes
+          sources: [iso3166-2]
+    
+
+    # Maule
+    - codes:
+        iso3166-2: CL-ML
+      names:
+        - name: Maule
+          sources: [iso3166-2]
+    
+
+    # Tarapacá
+    - codes:
+        iso3166-2: CL-TA
+      names:
+        - name: Tarapacá
+          sources: [iso3166-2]
+    
+
+    # Valparaíso
+    - codes:
+        iso3166-2: CL-VS
+      names:
+        - name: Valparaíso
+          sources: [iso3166-2]
+    
+
+    # n Metropolitana de Santiago
+    - codes:
+        iso3166-2: CL-RM
+      names:
+        - name: n Metropolitana de Santiago
+          sources: [iso3166-2]
+    
+
+    # Ñuble
+    - codes:
+        iso3166-2: CL-NB
+      names:
+        - name: Ñuble
+          sources: [iso3166-2]

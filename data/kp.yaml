@@ -1,0 +1,126 @@
+iso3166-1: KP
+complete: false
+regions:
+    
+
+    # Hamgyǒng-namdo
+    - codes:
+        iso3166-2: KP-08
+      names:
+        - name: Hamgyǒng-namdo
+          sources: [iso3166-2]
+        - name: Hamkyeongnamto
+          sources: [iso3166-2]
+    
+
+    # Hamgyǒng-bukto
+    - codes:
+        iso3166-2: KP-09
+      names:
+        - name: Hamgyǒng-bukto
+          sources: [iso3166-2]
+        - name: Hamkyeongpukto
+          sources: [iso3166-2]
+    
+
+    # Hwanghae-namdo
+    - codes:
+        iso3166-2: KP-05
+      names:
+        - name: Hwanghae-namdo
+          sources: [iso3166-2]
+        - name: Hwanghainamto
+          sources: [iso3166-2]
+    
+
+    # Hwanghae-bukto
+    - codes:
+        iso3166-2: KP-06
+      names:
+        - name: Hwanghae-bukto
+          sources: [iso3166-2]
+        - name: Hwanghaipukto
+          sources: [iso3166-2]
+    
+
+    # Chagang-do
+    - codes:
+        iso3166-2: KP-04
+      names:
+        - name: Chagang-do
+          sources: [iso3166-2]
+        - name: Jakangto
+          sources: [iso3166-2]
+    
+
+    # Kangweonto
+    - codes:
+        iso3166-2: KP-07
+      names:
+        - name: Kangweonto
+          sources: [iso3166-2]
+        - name: Kangwǒn-do
+          sources: [iso3166-2]
+    
+
+    # Nampho
+    - codes:
+        iso3166-2: KP-14
+      names:
+        - name: Nampho
+          sources: [iso3166-2]
+        - name: Namp’o
+          sources: [iso3166-2]
+    
+
+    # P'yǒngyang
+    - codes:
+        iso3166-2: KP-01
+      names:
+        - name: P'yǒngyang
+          sources: [iso3166-2]
+        - name: Phyeongyang
+          sources: [iso3166-2]
+    
+
+    # P'yǒngan-namdo
+    - codes:
+        iso3166-2: KP-02
+      names:
+        - name: P'yǒngan-namdo
+          sources: [iso3166-2]
+        - name: Phyeongannamto
+          sources: [iso3166-2]
+    
+
+    # P'yǒngan-bukto
+    - codes:
+        iso3166-2: KP-03
+      names:
+        - name: P'yǒngan-bukto
+          sources: [iso3166-2]
+        - name: Phyeonganpukto
+          sources: [iso3166-2]
+    
+
+    # Rasǒn
+    - codes:
+        iso3166-2: KP-13
+      names:
+        - name: Najin Sǒnbong
+          sources: [iso3166-2]
+        - name: Raseon
+          sources: [iso3166-2]
+        - name: Rasǒn
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ryanggang-do
+    - codes:
+        iso3166-2: KP-10
+      names:
+        - name: Ryanggang-do
+          sources: [iso3166-2]
+        - name: Ryangkangto
+          sources: [iso3166-2]

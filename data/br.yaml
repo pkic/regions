@@ -1,0 +1,219 @@
+iso3166-1: BR
+complete: false
+regions:
+    
+
+    # Acre
+    - codes:
+        iso3166-2: BR-AC
+      names:
+        - name: Acre
+          sources: [iso3166-2]
+    
+
+    # Alagoas
+    - codes:
+        iso3166-2: BR-AL
+      names:
+        - name: Alagoas
+          sources: [iso3166-2]
+    
+
+    # Amapá
+    - codes:
+        iso3166-2: BR-AP
+      names:
+        - name: Amapá
+          sources: [iso3166-2]
+    
+
+    # Amazonas
+    - codes:
+        iso3166-2: BR-AM
+      names:
+        - name: Amazonas
+          sources: [iso3166-2]
+    
+
+    # Bahia
+    - codes:
+        iso3166-2: BR-BA
+      names:
+        - name: Bahia
+          sources: [iso3166-2]
+    
+
+    # Ceará
+    - codes:
+        iso3166-2: BR-CE
+      names:
+        - name: Ceará
+          sources: [iso3166-2]
+    
+
+    # Distrito Federal
+    - codes:
+        iso3166-2: BR-DF
+      names:
+        - name: Distrito Federal
+          sources: [iso3166-2]
+    
+
+    # Espírito Santo
+    - codes:
+        iso3166-2: BR-ES
+      names:
+        - name: Espírito Santo
+          sources: [iso3166-2]
+    
+
+    # Goiás
+    - codes:
+        iso3166-2: BR-GO
+      names:
+        - name: Goiás
+          sources: [iso3166-2]
+    
+
+    # Maranhão
+    - codes:
+        iso3166-2: BR-MA
+      names:
+        - name: Maranhão
+          sources: [iso3166-2]
+    
+
+    # Mato Grosso
+    - codes:
+        iso3166-2: BR-MT
+      names:
+        - name: Mato Grosso
+          sources: [iso3166-2]
+    
+
+    # Mato Grosso do Sul
+    - codes:
+        iso3166-2: BR-MS
+      names:
+        - name: Mato Grosso do Sul
+          sources: [iso3166-2]
+    
+
+    # Minas Gerais
+    - codes:
+        iso3166-2: BR-MG
+      names:
+        - name: Minas Gerais
+          sources: [iso3166-2]
+    
+
+    # Paraná
+    - codes:
+        iso3166-2: BR-PR
+      names:
+        - name: Paraná
+          sources: [iso3166-2]
+    
+
+    # Paraíba
+    - codes:
+        iso3166-2: BR-PB
+      names:
+        - name: Paraíba
+          sources: [iso3166-2]
+    
+
+    # Pará
+    - codes:
+        iso3166-2: BR-PA
+      names:
+        - name: Pará
+          sources: [iso3166-2]
+    
+
+    # Pernambuco
+    - codes:
+        iso3166-2: BR-PE
+      names:
+        - name: Pernambuco
+          sources: [iso3166-2]
+    
+
+    # Piauí
+    - codes:
+        iso3166-2: BR-PI
+      names:
+        - name: Piauí
+          sources: [iso3166-2]
+    
+
+    # Rio Grande do Norte
+    - codes:
+        iso3166-2: BR-RN
+      names:
+        - name: Rio Grande do Norte
+          sources: [iso3166-2]
+    
+
+    # Rio Grande do Sul
+    - codes:
+        iso3166-2: BR-RS
+      names:
+        - name: Rio Grande do Sul
+          sources: [iso3166-2]
+    
+
+    # Rio de Janeiro
+    - codes:
+        iso3166-2: BR-RJ
+      names:
+        - name: Rio de Janeiro
+          sources: [iso3166-2]
+    
+
+    # Rondônia
+    - codes:
+        iso3166-2: BR-RO
+      names:
+        - name: Rondônia
+          sources: [iso3166-2]
+    
+
+    # Roraima
+    - codes:
+        iso3166-2: BR-RR
+      names:
+        - name: Roraima
+          sources: [iso3166-2]
+    
+
+    # Santa Catarina
+    - codes:
+        iso3166-2: BR-SC
+      names:
+        - name: Santa Catarina
+          sources: [iso3166-2]
+    
+
+    # Sergipe
+    - codes:
+        iso3166-2: BR-SE
+      names:
+        - name: Sergipe
+          sources: [iso3166-2]
+    
+
+    # São Paulo
+    - codes:
+        iso3166-2: BR-SP
+      names:
+        - name: São Paulo
+          sources: [iso3166-2]
+    
+
+    # Tocantins
+    - codes:
+        iso3166-2: BR-TO
+      names:
+        - name: Tocantins
+          sources: [iso3166-2]

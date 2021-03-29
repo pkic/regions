@@ -1,0 +1,63 @@
+iso3166-1: RW
+complete: false
+regions:
+    
+
+    # Amajyepfo
+    - codes:
+        iso3166-2: RW-05
+      names:
+        - name: Amajyepfo
+          sources: [iso3166-2]
+        - name: Southern
+          sources: [iso3166-2]
+        - name: Sud
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: RW-02
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+        - name: Est
+          sources: [iso3166-2]
+        - name: Iburasirazuba
+          sources: [iso3166-2]
+    
+
+    # Amajyaruguru
+    - codes:
+        iso3166-2: RW-03
+      names:
+        - name: Amajyaruguru
+          sources: [iso3166-2]
+        - name: Nord
+          sources: [iso3166-2]
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # City of Kigali
+    - codes:
+        iso3166-2: RW-01
+      names:
+        - name: City of Kigali
+          sources: [iso3166-2]
+        - name: Umujyi wa Kigali
+          sources: [iso3166-2]
+        - name: Ville de Kigali
+          sources: [iso3166-2]
+    
+
+    # Iburengerazuba
+    - codes:
+        iso3166-2: RW-04
+      names:
+        - name: Iburengerazuba
+          sources: [iso3166-2]
+        - name: Ouest
+          sources: [iso3166-2]
+        - name: Western
+          sources: [iso3166-2]

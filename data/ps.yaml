@@ -1,0 +1,163 @@
+iso3166-1: PS
+complete: false
+regions:
+    
+
+    # Bayt Laḩm
+    - codes:
+        iso3166-2: PS-BTH
+      names:
+        - name: Bayt Laḩm
+          sources: [iso3166-2]
+        - name: Bethlehem
+          sources: [iso3166-2]
+    
+
+    # Dayr al Balaḩ
+    - codes:
+        iso3166-2: PS-DEB
+      names:
+        - name: Dayr al Balaḩ
+          sources: [iso3166-2]
+        - name: Deir El Balah
+          sources: [iso3166-2]
+    
+
+    # Gaza
+    - codes:
+        iso3166-2: PS-GZA
+      names:
+        - name: Gaza
+          sources: [iso3166-2]
+        - name: Ghazzah
+          sources: [iso3166-2]
+    
+
+    # Al Khalīl
+    - codes:
+        iso3166-2: PS-HBN
+      names:
+        - name: Al Khalīl
+          sources: [iso3166-2]
+        - name: Hebron
+          sources: [iso3166-2]
+    
+
+    # Janīn
+    - codes:
+        iso3166-2: PS-JEN
+      names:
+        - name: Janīn
+          sources: [iso3166-2]
+        - name: Jenin
+          sources: [iso3166-2]
+    
+
+    # Arīḩā wal Aghwār
+    - codes:
+        iso3166-2: PS-JRH
+      names:
+        - name: Arīḩā wal Aghwār
+          sources: [iso3166-2]
+        - name: Jericho and Al Aghwar
+          sources: [iso3166-2]
+    
+
+    # Al Quds
+    - codes:
+        iso3166-2: PS-JEM
+      names:
+        - name: Al Quds
+          sources: [iso3166-2]
+        - name: Jerusalem
+          sources: [iso3166-2]
+    
+
+    # Khan Yunis
+    - codes:
+        iso3166-2: PS-KYS
+      names:
+        - name: Khan Yunis
+          sources: [iso3166-2]
+        - name: Khān Yūnis
+          sources: [iso3166-2]
+    
+
+    # North Gaza
+    - codes:
+        iso3166-2: PS-NGZ
+      names:
+        - name: North Gaza
+          sources: [iso3166-2]
+        - name: Shamāl Ghazzah
+          sources: [iso3166-2]
+    
+
+    # Nablus
+    - codes:
+        iso3166-2: PS-NBS
+      names:
+        - name: Nablus
+          sources: [iso3166-2]
+        - name: Nāblus
+          sources: [iso3166-2]
+    
+
+    # Qalqilya
+    - codes:
+        iso3166-2: PS-QQA
+      names:
+        - name: Qalqilya
+          sources: [iso3166-2]
+        - name: Qalqīlyah
+          sources: [iso3166-2]
+    
+
+    # Rafah
+    - codes:
+        iso3166-2: PS-RFH
+      names:
+        - name: Rafah
+          sources: [iso3166-2]
+        - name: Rafaḩ
+          sources: [iso3166-2]
+    
+
+    # Ramallah
+    - codes:
+        iso3166-2: PS-RBH
+      names:
+        - name: Ramallah
+          sources: [iso3166-2]
+        - name: Rām Allāh wal Bīrah
+          sources: [iso3166-2]
+    
+
+    # Salfit
+    - codes:
+        iso3166-2: PS-SLT
+      names:
+        - name: Salfit
+          sources: [iso3166-2]
+        - name: Salfīt
+          sources: [iso3166-2]
+    
+
+    # Tubas
+    - codes:
+        iso3166-2: PS-TBS
+      names:
+        - name: Tubas
+          sources: [iso3166-2]
+        - name: Ţūbās
+          sources: [iso3166-2]
+    
+
+    # Tulkarm
+    - codes:
+        iso3166-2: PS-TKM
+      names:
+        - name: Tulkarm
+          sources: [iso3166-2]
+        - name: Ţūlkarm
+          sources: [iso3166-2]

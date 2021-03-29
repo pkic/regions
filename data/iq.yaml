@@ -1,0 +1,153 @@
+iso3166-1: IQ
+complete: false
+regions:
+    
+
+    # Al Anbār
+    - codes:
+        iso3166-2: IQ-AN
+      names:
+        - name: Al Anbār
+          sources: [iso3166-2]
+    
+
+    # Al Başrah
+    - codes:
+        iso3166-2: IQ-BA
+      names:
+        - name: Al Başrah
+          sources: [iso3166-2]
+    
+
+    # Al Muthanná
+    - codes:
+        iso3166-2: IQ-MU
+      names:
+        - name: Al Muthanná
+          sources: [iso3166-2]
+    
+
+    # Al Qādisīyah
+    - codes:
+        iso3166-2: IQ-QA
+      names:
+        - name: Al Qādisīyah
+          sources: [iso3166-2]
+    
+
+    # An Najaf
+    - codes:
+        iso3166-2: IQ-NA
+      names:
+        - name: An Najaf
+          sources: [iso3166-2]
+    
+
+    # As Sulaymānīyah
+    - codes:
+        iso3166-2: IQ-SU
+      names:
+        - name: As Sulaymānīyah
+          sources: [iso3166-2]
+        - name: Slêmanî
+          sources: [iso3166-2]
+    
+
+    # Baghdād
+    - codes:
+        iso3166-2: IQ-BG
+      names:
+        - name: Baghdād
+          sources: [iso3166-2]
+    
+
+    # Bābil
+    - codes:
+        iso3166-2: IQ-BB
+      names:
+        - name: Bābil
+          sources: [iso3166-2]
+    
+
+    # Dhī Qār
+    - codes:
+        iso3166-2: IQ-DQ
+      names:
+        - name: Dhī Qār
+          sources: [iso3166-2]
+    
+
+    # Dahūk
+    - codes:
+        iso3166-2: IQ-DA
+      names:
+        - name: Dahūk
+          sources: [iso3166-2]
+        - name: Dihok
+          sources: [iso3166-2]
+    
+
+    # Diyālá
+    - codes:
+        iso3166-2: IQ-DI
+      names:
+        - name: Diyālá
+          sources: [iso3166-2]
+    
+
+    # Arbīl
+    - codes:
+        iso3166-2: IQ-AR
+      names:
+        - name: Arbīl
+          sources: [iso3166-2]
+        - name: Hewlêr
+          sources: [iso3166-2]
+    
+
+    # Karbalā’
+    - codes:
+        iso3166-2: IQ-KA
+      names:
+        - name: Karbalā’
+          sources: [iso3166-2]
+    
+
+    # Kirkūk
+    - codes:
+        iso3166-2: IQ-KI
+      names:
+        - name: Kirkūk
+          sources: [iso3166-2]
+    
+
+    # Maysān
+    - codes:
+        iso3166-2: IQ-MA
+      names:
+        - name: Maysān
+          sources: [iso3166-2]
+    
+
+    # Nīnawá
+    - codes:
+        iso3166-2: IQ-NI
+      names:
+        - name: Nīnawá
+          sources: [iso3166-2]
+    
+
+    # Wāsiţ
+    - codes:
+        iso3166-2: IQ-WA
+      names:
+        - name: Wāsiţ
+          sources: [iso3166-2]
+    
+
+    # Şalāḩ ad Dīn
+    - codes:
+        iso3166-2: IQ-SD
+      names:
+        - name: Şalāḩ ad Dīn
+          sources: [iso3166-2]

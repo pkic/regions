@@ -1,0 +1,179 @@
+iso3166-1: YE
+complete: false
+regions:
+    
+
+    # Abyan
+    - codes:
+        iso3166-2: YE-AB
+      names:
+        - name: Abyan
+          sources: [iso3166-2]
+    
+
+    # Al Bayḑā’
+    - codes:
+        iso3166-2: YE-BA
+      names:
+        - name: Al Bayḑā’
+          sources: [iso3166-2]
+    
+
+    # Al Jawf
+    - codes:
+        iso3166-2: YE-JA
+      names:
+        - name: Al Jawf
+          sources: [iso3166-2]
+    
+
+    # Al Mahrah
+    - codes:
+        iso3166-2: YE-MR
+      names:
+        - name: Al Mahrah
+          sources: [iso3166-2]
+    
+
+    # Al Maḩwīt
+    - codes:
+        iso3166-2: YE-MW
+      names:
+        - name: Al Maḩwīt
+          sources: [iso3166-2]
+    
+
+    # Al Ḩudaydah
+    - codes:
+        iso3166-2: YE-HU
+      names:
+        - name: Al Ḩudaydah
+          sources: [iso3166-2]
+    
+
+    # Amānat al ‘Āşimah
+    - codes:
+        iso3166-2: YE-SA
+      names:
+        - name: Amānat al ‘Āşimah
+          sources: [iso3166-2]
+    
+
+    # Arkhabīl Suquţrá
+    - codes:
+        iso3166-2: YE-SU
+      names:
+        - name: Arkhabīl Suquţrá
+          sources: [iso3166-2]
+    
+
+    # Aḑ Ḑāli‘
+    - codes:
+        iso3166-2: YE-DA
+      names:
+        - name: Aḑ Ḑāli‘
+          sources: [iso3166-2]
+    
+
+    # Dhamār
+    - codes:
+        iso3166-2: YE-DH
+      names:
+        - name: Dhamār
+          sources: [iso3166-2]
+    
+
+    # Ibb
+    - codes:
+        iso3166-2: YE-IB
+      names:
+        - name: Ibb
+          sources: [iso3166-2]
+    
+
+    # Laḩij
+    - codes:
+        iso3166-2: YE-LA
+      names:
+        - name: Laḩij
+          sources: [iso3166-2]
+    
+
+    # Ma’rib
+    - codes:
+        iso3166-2: YE-MA
+      names:
+        - name: Ma’rib
+          sources: [iso3166-2]
+    
+
+    # Raymah
+    - codes:
+        iso3166-2: YE-RA
+      names:
+        - name: Raymah
+          sources: [iso3166-2]
+    
+
+    # Shabwah
+    - codes:
+        iso3166-2: YE-SH
+      names:
+        - name: Shabwah
+          sources: [iso3166-2]
+    
+
+    # Tāʻizz
+    - codes:
+        iso3166-2: YE-TA
+      names:
+        - name: Tāʻizz
+          sources: [iso3166-2]
+    
+
+    # Şanʻā’
+    - codes:
+        iso3166-2: YE-SN
+      names:
+        - name: Şanʻā’
+          sources: [iso3166-2]
+    
+
+    # Şāʻdah
+    - codes:
+        iso3166-2: YE-SD
+      names:
+        - name: Şāʻdah
+          sources: [iso3166-2]
+    
+
+    # Ḩajjah
+    - codes:
+        iso3166-2: YE-HJ
+      names:
+        - name: Ḩajjah
+          sources: [iso3166-2]
+    
+
+    # Ḩaḑramawt
+    - codes:
+        iso3166-2: YE-HD
+      names:
+        - name: Ḩaḑramawt
+          sources: [iso3166-2]
+    
+
+    # ‘Adan
+    - codes:
+        iso3166-2: YE-AD
+      names:
+        - name: ‘Adan
+          sources: [iso3166-2]
+    
+
+    # ‘Amrān
+    - codes:
+        iso3166-2: YE-AM
+      names:
+        - name: ‘Amrān
+          sources: [iso3166-2]

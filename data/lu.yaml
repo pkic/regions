@@ -1,0 +1,132 @@
+name: Luxembourg
+iso3166-1: LU
+complete: false
+regions:
+    
+
+    # Clerf
+    - codes:
+        iso3166-2: LU-CL
+      names:
+        - name: Clerf
+          sources: [iso3166-2]
+        - name: Clervaux
+          sources: [iso3166-2]
+        - name: Klierf
+          sources: [iso3166-2]
+    
+
+    # Diekirch
+    - codes:
+        iso3166-2: LU-DI
+      names:
+        - name: Diekirch
+          sources: [iso3166-2]
+        - name: Diekrech
+          sources: [iso3166-2]
+    
+
+    # Echternach
+    - codes:
+        iso3166-2: LU-EC
+      names:
+        - name: Echternach
+          sources: [iso3166-2]
+        - name: Iechternach
+          sources: [iso3166-2]
+    
+
+    # Esch an der Alzette
+    - codes:
+        iso3166-2: LU-ES
+      names:
+        - name: Esch an der Alzette
+          sources: [iso3166-2]
+        - name: Esch-Uelzecht
+          sources: [iso3166-2]
+        - name: Esch-sur-Alzette
+          sources: [iso3166-2]
+    
+
+    # Grevenmacher
+    - codes:
+        iso3166-2: LU-GR
+      names:
+        - name: Grevenmacher
+          sources: [iso3166-2]
+        - name: Gréivemaacher
+          sources: [iso3166-2]
+    
+
+    # Capellen
+    - codes:
+        iso3166-2: LU-CA
+      names:
+        - name: Capellen
+          sources: [iso3166-2]
+        - name: Kapellen
+          sources: [iso3166-2]
+    
+
+    # Luxembourg
+    - codes:
+        iso3166-2: LU-LU
+      names:
+        - name: Luxembourg
+          sources: [iso3166-2]
+        - name: Luxemburg
+          sources: [iso3166-2]
+        - name: Lëtzebuerg
+          sources: [iso3166-2]
+    
+
+    # Mersch
+    - codes:
+        iso3166-2: LU-ME
+      names:
+        - name: Mersch
+          sources: [iso3166-2]
+        - name: Miersch
+          sources: [iso3166-2]
+    
+
+    # Redange
+    - codes:
+        iso3166-2: LU-RD
+      names:
+        - name: Redange
+          sources: [iso3166-2]
+        - name: Redingen
+          sources: [iso3166-2]
+        - name: Réiden-Atert
+          sources: [iso3166-2]
+    
+
+    # Remich
+    - codes:
+        iso3166-2: LU-RM
+      names:
+        - name: Remich
+          sources: [iso3166-2]
+        - name: Réimech
+          sources: [iso3166-2]
+    
+
+    # Veianen
+    - codes:
+        iso3166-2: LU-VD
+      names:
+        - name: Veianen
+          sources: [iso3166-2]
+        - name: Vianden
+          sources: [iso3166-2]
+    
+
+    # Wiltz
+    - codes:
+        iso3166-2: LU-WI
+      names:
+        - name: Wiltz
+          sources: [iso3166-2]
+        - name: Wolz
+          sources: [iso3166-2]

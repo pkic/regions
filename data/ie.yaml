@@ -1,0 +1,396 @@
+name: Ireland
+iso3166-1: IE
+complete: false
+regions:
+    
+
+    # Ulster-Donegal
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5947
+      names:
+        - name: Alster-Donegali
+          languages: [sq]
+          sources: [euvoc]
+        - name: Alsteris-Donegalis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Donegola
+          languages: [lv]
+          sources: [euvoc]
+        - name: Ulster-Donegal
+          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Όλστερ-Ντόνεγκαλ
+          languages: [el]
+          sources: [euvoc]
+        - name: Алстер-Донегал
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Ълстър - Донегал
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # An Cabhán
+    - codes:
+        iso3166-2: IE-CN
+      names:
+        - name: An Cabhán
+          sources: [iso3166-2]
+        - name: Cavan
+          sources: [iso3166-2]
+    
+
+    # An Clár
+    - codes:
+        iso3166-2: IE-CE
+      names:
+        - name: An Clár
+          sources: [iso3166-2]
+        - name: Clare
+          sources: [iso3166-2]
+    
+
+    # Baile Átha Cliath
+    - codes:
+        iso3166-2: IE-D
+      names:
+        - name: Baile Átha Cliath
+          sources: [iso3166-2]
+        - name: Dublin
+          sources: [iso3166-2]
+    
+
+    # Carlow
+    - codes:
+        iso3166-2: IE-CW
+      names:
+        - name: Carlow
+          sources: [iso3166-2]
+        - name: Ceatharlach
+          sources: [iso3166-2]
+    
+
+    # Ciarraí
+    - codes:
+        iso3166-2: IE-KY
+      names:
+        - name: Ciarraí
+          sources: [iso3166-2]
+        - name: Kerry
+          sources: [iso3166-2]
+    
+
+    # Cill Chainnigh
+    - codes:
+        iso3166-2: IE-KK
+      names:
+        - name: Cill Chainnigh
+          sources: [iso3166-2]
+        - name: Kilkenny
+          sources: [iso3166-2]
+    
+
+    # Cill Mhantáin
+    - codes:
+        iso3166-2: IE-WW
+      names:
+        - name: Cill Mhantáin
+          sources: [iso3166-2]
+        - name: Wicklow
+          sources: [iso3166-2]
+    
+
+    # Connacht
+    - codes:
+        euvoc: http://eurovoc.europa.eu/113
+        iso3166-2: IE-C
+      names:
+        - name: Connacht
+          languages: [cs, da, de, en, et, fi, fr, hr, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Connaught
+          languages: [es, hu]
+          sources: [euvoc, iso3166-2]
+        - name: Konachtas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Konahta
+          languages: [lv]
+          sources: [euvoc]
+        - name: Konahti
+          languages: [sq]
+          sources: [euvoc]
+        - name: Κόνναχτ
+          languages: [el]
+          sources: [euvoc]
+        - name: Конахт
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Конокт
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Corcaigh
+    - codes:
+        iso3166-2: IE-CO
+      names:
+        - name: Corcaigh
+          sources: [iso3166-2]
+        - name: Cork
+          sources: [iso3166-2]
+    
+
+    # Donegal
+    - codes:
+        iso3166-2: IE-DL
+      names:
+        - name: Donegal
+          sources: [iso3166-2]
+        - name: Dún na nGall
+          sources: [iso3166-2]
+    
+
+    # Gaillimh
+    - codes:
+        iso3166-2: IE-G
+      names:
+        - name: Gaillimh
+          sources: [iso3166-2]
+        - name: Galway
+          sources: [iso3166-2]
+    
+
+    # Cill Dara
+    - codes:
+        iso3166-2: IE-KE
+      names:
+        - name: Cill Dara
+          sources: [iso3166-2]
+        - name: Kildare
+          sources: [iso3166-2]
+    
+
+    # Laois
+    - codes:
+        iso3166-2: IE-LS
+      names:
+        - name: Laois
+          sources: [iso3166-2]
+    
+
+    # Leinster
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1610
+        iso3166-2: IE-L
+      names:
+        - name: Laighin
+          sources: [iso3166-2]
+        - name: Leinster
+          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Lenstera
+          languages: [lv]
+          sources: [euvoc]
+        - name: Lensteri
+          languages: [sq]
+          sources: [euvoc]
+        - name: Lensteris
+          languages: [lt]
+          sources: [euvoc]
+        - name: Λένστερ
+          languages: [el]
+          sources: [euvoc]
+        - name: Ленстер
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Ленстър
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Leitrim
+    - codes:
+        iso3166-2: IE-LM
+      names:
+        - name: Leitrim
+          sources: [iso3166-2]
+        - name: Liatroim
+          sources: [iso3166-2]
+    
+
+    # An Longfort
+    - codes:
+        iso3166-2: IE-LD
+      names:
+        - name: An Longfort
+          sources: [iso3166-2]
+        - name: Longford
+          sources: [iso3166-2]
+    
+
+    # Louth
+    - codes:
+        iso3166-2: IE-LH
+      names:
+        - name: Louth
+          sources: [iso3166-2]
+        - name: Lú
+          sources: [iso3166-2]
+    
+
+    # Limerick
+    - codes:
+        iso3166-2: IE-LK
+      names:
+        - name: Limerick
+          sources: [iso3166-2]
+        - name: Luimneach
+          sources: [iso3166-2]
+    
+
+    # Maigh Eo
+    - codes:
+        iso3166-2: IE-MO
+      names:
+        - name: Maigh Eo
+          sources: [iso3166-2]
+        - name: Mayo
+          sources: [iso3166-2]
+    
+
+    # Munster
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2021
+        iso3166-2: IE-M
+      names:
+        - name: An Mhumhain
+          sources: [iso3166-2]
+        - name: Mansteris
+          languages: [lt]
+          sources: [euvoc]
+        - name: Minstere
+          languages: [lv]
+          sources: [euvoc]
+        - name: Munster
+          languages: [cs, da, de, en, es, et, fi, fr, hr, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Munsteri
+          languages: [sq]
+          sources: [euvoc]
+        - name: Münster
+          languages: [hu]
+          sources: [euvoc]
+        - name: Μάνστερ
+          languages: [el]
+          sources: [euvoc]
+        - name: Манстър
+          languages: [bg]
+          sources: [euvoc]
+        - name: Минстер
+          languages: [sr]
+          sources: [euvoc]
+        - name: Мунстер
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # An Mhí
+    - codes:
+        iso3166-2: IE-MH
+      names:
+        - name: An Mhí
+          sources: [iso3166-2]
+        - name: Meath
+          sources: [iso3166-2]
+    
+
+    # Monaghan
+    - codes:
+        iso3166-2: IE-MN
+      names:
+        - name: Monaghan
+          sources: [iso3166-2]
+        - name: Muineachán
+          sources: [iso3166-2]
+    
+
+    # Offaly
+    - codes:
+        iso3166-2: IE-OY
+      names:
+        - name: Offaly
+          sources: [iso3166-2]
+        - name: Uíbh Fhailí
+          sources: [iso3166-2]
+    
+
+    # Ros Comáin
+    - codes:
+        iso3166-2: IE-RN
+      names:
+        - name: Ros Comáin
+          sources: [iso3166-2]
+        - name: Roscommon
+          sources: [iso3166-2]
+    
+
+    # Sligeach
+    - codes:
+        iso3166-2: IE-SO
+      names:
+        - name: Sligeach
+          sources: [iso3166-2]
+        - name: Sligo
+          sources: [iso3166-2]
+    
+
+    # Tiobraid Árann
+    - codes:
+        iso3166-2: IE-TA
+      names:
+        - name: Tiobraid Árann
+          sources: [iso3166-2]
+        - name: Tipperary
+          sources: [iso3166-2]
+    
+
+    # Ulaidh
+    - codes:
+        iso3166-2: IE-U
+      names:
+        - name: Ulaidh
+          sources: [iso3166-2]
+        - name: Ulster
+          sources: [iso3166-2]
+    
+
+    # Port Láirge
+    - codes:
+        iso3166-2: IE-WD
+      names:
+        - name: Port Láirge
+          sources: [iso3166-2]
+        - name: Waterford
+          sources: [iso3166-2]
+    
+
+    # An Iarmhí
+    - codes:
+        iso3166-2: IE-WH
+      names:
+        - name: An Iarmhí
+          sources: [iso3166-2]
+        - name: Westmeath
+          sources: [iso3166-2]
+    
+
+    # Loch Garman
+    - codes:
+        iso3166-2: IE-WX
+      names:
+        - name: Loch Garman
+          sources: [iso3166-2]
+        - name: Wexford
+          sources: [iso3166-2]

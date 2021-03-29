@@ -1,0 +1,198 @@
+name: Kazakhstan
+iso3166-1: KZ
+complete: false
+regions:
+    
+
+    # Akmolinskaja oblast'
+    - codes:
+        iso3166-2: KZ-AKM
+      names:
+        - name: Akmolinskaja oblast'
+          sources: [iso3166-2]
+        - name: Akmolinskaya oblast'
+          sources: [iso3166-2]
+        - name: Aqmola oblysy
+          sources: [iso3166-2]
+    
+
+    # Aktjubinskaja oblast'
+    - codes:
+        iso3166-2: KZ-AKT
+      names:
+        - name: Aktjubinskaja oblast'
+          sources: [iso3166-2]
+        - name: Aktyubinskaya oblast'
+          sources: [iso3166-2]
+        - name: Aqtöbe oblysy
+          sources: [iso3166-2]
+    
+
+    # Almaty
+    - codes:
+        iso3166-2: KZ-ALA
+      names:
+        - name: Almaty
+          sources: [iso3166-2]
+    
+
+    # Almatinskaja oblast'
+    - codes:
+        iso3166-2: KZ-ALM
+      names:
+        - name: Almatinskaja oblast'
+          sources: [iso3166-2]
+        - name: Almatinskaya oblast'
+          sources: [iso3166-2]
+        - name: Almaty oblysy
+          sources: [iso3166-2]
+    
+
+    # Atyrauskaja oblast'
+    - codes:
+        iso3166-2: KZ-ATY
+      names:
+        - name: Atyrauskaja oblast'
+          sources: [iso3166-2]
+        - name: Atyrauskaya oblast'
+          sources: [iso3166-2]
+        - name: Atyraū oblysy
+          sources: [iso3166-2]
+    
+
+    # Batys Qazaqstan oblysy
+    - codes:
+        iso3166-2: KZ-ZAP
+      names:
+        - name: Batys Qazaqstan oblysy
+          sources: [iso3166-2]
+        - name: Zapadno-Kazahstanskaja oblast'
+          sources: [iso3166-2]
+        - name: Zapadno-Kazakhstanskaya oblast'
+          sources: [iso3166-2]
+    
+
+    # Karagandinskaja oblast'
+    - codes:
+        iso3166-2: KZ-KAR
+      names:
+        - name: Karagandinskaja oblast'
+          sources: [iso3166-2]
+        - name: Karagandinskaya oblast'
+          sources: [iso3166-2]
+        - name: Qaraghandy oblysy
+          sources: [iso3166-2]
+    
+
+    # Kostanajskaja oblast'
+    - codes:
+        iso3166-2: KZ-KUS
+      names:
+        - name: Kostanajskaja oblast'
+          sources: [iso3166-2]
+        - name: Kostanayskaya oblast'
+          sources: [iso3166-2]
+        - name: Qostanay oblysy
+          sources: [iso3166-2]
+    
+
+    # Kyzylordinskaja oblast'
+    - codes:
+        iso3166-2: KZ-KZY
+      names:
+        - name: Kyzylordinskaja oblast'
+          sources: [iso3166-2]
+        - name: Kyzylordinskaya oblast'
+          sources: [iso3166-2]
+        - name: Qyzylorda oblysy
+          sources: [iso3166-2]
+    
+
+    # Mangghystaū oblysy
+    - codes:
+        iso3166-2: KZ-MAN
+      names:
+        - name: Mangghystaū oblysy
+          sources: [iso3166-2]
+        - name: Mangistauskaya oblast'
+          sources: [iso3166-2]
+        - name: Mangystauskaja oblast'
+          sources: [iso3166-2]
+    
+
+    # Nur-Sultan
+    - codes:
+        iso3166-2: KZ-AST
+      names:
+        - name: Nur-Sultan
+          sources: [iso3166-2]
+    
+
+    # Pavlodar oblysy
+    - codes:
+        iso3166-2: KZ-PAV
+      names:
+        - name: Pavlodar oblysy
+          sources: [iso3166-2]
+        - name: Pavlodarskaja oblast'
+          sources: [iso3166-2]
+        - name: Pavlodarskaya oblast'
+          sources: [iso3166-2]
+    
+
+    # Severo-Kazahstanskaja oblast'
+    - codes:
+        iso3166-2: KZ-SEV
+      names:
+        - name: Severo-Kazahstanskaja oblast'
+          sources: [iso3166-2]
+        - name: Severo-Kazakhstanskaya oblast'
+          sources: [iso3166-2]
+        - name: Soltüstik Qazaqstan oblysy
+          sources: [iso3166-2]
+    
+
+    # Shyghys Qazaqstan oblysy
+    - codes:
+        iso3166-2: KZ-VOS
+      names:
+        - name: Shyghys Qazaqstan oblysy
+          sources: [iso3166-2]
+        - name: Vostochno-Kazakhstanskaya oblast'
+          sources: [iso3166-2]
+        - name: Vostočno-Kazahstanskaja oblast'
+          sources: [iso3166-2]
+    
+
+    # Shymkent
+    - codes:
+        iso3166-2: KZ-SHY
+      names:
+        - name: Shymkent
+          sources: [iso3166-2]
+        - name: Šimkent
+          sources: [iso3166-2]
+    
+
+    # Turkestankaya oblast'
+    - codes:
+        iso3166-2: KZ-YUZ
+      names:
+        - name: Turkestankaya oblast'
+          sources: [iso3166-2]
+        - name: Turkestanskaja oblast'
+          sources: [iso3166-2]
+        - name: Türkistan oblysy
+          sources: [iso3166-2]
+    
+
+    # Zhambyl oblysy
+    - codes:
+        iso3166-2: KZ-ZHA
+      names:
+        - name: Zhambyl oblysy
+          sources: [iso3166-2]
+        - name: Zhambylskaya oblast'
+          sources: [iso3166-2]
+        - name: Žambylskaja oblast'
+          sources: [iso3166-2]

@@ -1,0 +1,189 @@
+iso3166-1: SD
+complete: false
+regions:
+    
+
+    # Al Baḩr al Aḩmar
+    - codes:
+        iso3166-2: SD-RS
+      names:
+        - name: Al Baḩr al Aḩmar
+          sources: [iso3166-2]
+        - name: Red Sea
+          sources: [iso3166-2]
+    
+
+    # Al Kharţūm
+    - codes:
+        iso3166-2: SD-KH
+      names:
+        - name: Al Kharţūm
+          sources: [iso3166-2]
+        - name: Khartoum
+          sources: [iso3166-2]
+    
+
+    # An Nīl al Abyaḑ
+    - codes:
+        iso3166-2: SD-NW
+      names:
+        - name: An Nīl al Abyaḑ
+          sources: [iso3166-2]
+        - name: White Nile
+          sources: [iso3166-2]
+    
+
+    # An Nīl al Azraq
+    - codes:
+        iso3166-2: SD-NB
+      names:
+        - name: An Nīl al Azraq
+          sources: [iso3166-2]
+        - name: Blue Nile
+          sources: [iso3166-2]
+    
+
+    # East Darfur
+    - codes:
+        iso3166-2: SD-DE
+      names:
+        - name: East Darfur
+          sources: [iso3166-2]
+        - name: Sharq Dārfūr
+          sources: [iso3166-2]
+    
+
+    # Al Qaḑārif
+    - codes:
+        iso3166-2: SD-GD
+      names:
+        - name: Al Qaḑārif
+          sources: [iso3166-2]
+        - name: Gedaref
+          sources: [iso3166-2]
+    
+
+    # Al Jazīrah
+    - codes:
+        iso3166-2: SD-GZ
+      names:
+        - name: Al Jazīrah
+          sources: [iso3166-2]
+        - name: Gezira
+          sources: [iso3166-2]
+    
+
+    # Janūb Kurdufān
+    - codes:
+        iso3166-2: SD-KS
+      names:
+        - name: Janūb Kurdufān
+          sources: [iso3166-2]
+        - name: South Kordofan
+          sources: [iso3166-2]
+    
+
+    # Kassala
+    - codes:
+        iso3166-2: SD-KA
+      names:
+        - name: Kassala
+          sources: [iso3166-2]
+        - name: Kassalā
+          sources: [iso3166-2]
+    
+
+    # Nahr an Nīl
+    - codes:
+        iso3166-2: SD-NR
+      names:
+        - name: Nahr an Nīl
+          sources: [iso3166-2]
+        - name: River Nile
+          sources: [iso3166-2]
+    
+
+    # North Darfur
+    - codes:
+        iso3166-2: SD-DN
+      names:
+        - name: North Darfur
+          sources: [iso3166-2]
+        - name: Shamāl Dārfūr
+          sources: [iso3166-2]
+    
+
+    # North Kordofan
+    - codes:
+        iso3166-2: SD-KN
+      names:
+        - name: North Kordofan
+          sources: [iso3166-2]
+        - name: Shamāl Kurdufān
+          sources: [iso3166-2]
+    
+
+    # Ash Shamālīyah
+    - codes:
+        iso3166-2: SD-NO
+      names:
+        - name: Ash Shamālīyah
+          sources: [iso3166-2]
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Sennar
+    - codes:
+        iso3166-2: SD-SI
+      names:
+        - name: Sennar
+          sources: [iso3166-2]
+        - name: Sinnār
+          sources: [iso3166-2]
+    
+
+    # Janūb Dārfūr
+    - codes:
+        iso3166-2: SD-DS
+      names:
+        - name: Janūb Dārfūr
+          sources: [iso3166-2]
+        - name: South Darfur
+          sources: [iso3166-2]
+    
+
+    # Central Darfur
+    - codes:
+        iso3166-2: SD-DC
+      names:
+        - name: Central Darfur
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Wasaţ Dārfūr
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Zalingei
+          sources: [iso3166-2]
+        - name: Zālinjay
+          sources: [iso3166-2]
+    
+
+    # Gharb Dārfūr
+    - codes:
+        iso3166-2: SD-DW
+      names:
+        - name: Gharb Dārfūr
+          sources: [iso3166-2]
+        - name: West Darfur
+          sources: [iso3166-2]
+    
+
+    # Gharb Kurdufān
+    - codes:
+        iso3166-2: SD-GK
+      names:
+        - name: Gharb Kurdufān
+          sources: [iso3166-2]
+        - name: West Kordofan
+          sources: [iso3166-2]

@@ -1,0 +1,131 @@
+iso3166-1: CU
+complete: false
+regions:
+    
+
+    # Artemisa
+    - codes:
+        iso3166-2: CU-15
+      names:
+        - name: Artemisa
+          sources: [iso3166-2]
+    
+
+    # Camagüey
+    - codes:
+        iso3166-2: CU-09
+      names:
+        - name: Camagüey
+          sources: [iso3166-2]
+    
+
+    # Ciego de Ávila
+    - codes:
+        iso3166-2: CU-08
+      names:
+        - name: Ciego de Ávila
+          sources: [iso3166-2]
+    
+
+    # Cienfuegos
+    - codes:
+        iso3166-2: CU-06
+      names:
+        - name: Cienfuegos
+          sources: [iso3166-2]
+    
+
+    # Granma
+    - codes:
+        iso3166-2: CU-12
+      names:
+        - name: Granma
+          sources: [iso3166-2]
+    
+
+    # Guantánamo
+    - codes:
+        iso3166-2: CU-14
+      names:
+        - name: Guantánamo
+          sources: [iso3166-2]
+    
+
+    # Holguín
+    - codes:
+        iso3166-2: CU-11
+      names:
+        - name: Holguín
+          sources: [iso3166-2]
+    
+
+    # Isla de la Juventud
+    - codes:
+        iso3166-2: CU-99
+      names:
+        - name: Isla de la Juventud
+          sources: [iso3166-2]
+    
+
+    # La Habana
+    - codes:
+        iso3166-2: CU-03
+      names:
+        - name: La Habana
+          sources: [iso3166-2]
+    
+
+    # Las Tunas
+    - codes:
+        iso3166-2: CU-10
+      names:
+        - name: Las Tunas
+          sources: [iso3166-2]
+    
+
+    # Matanzas
+    - codes:
+        iso3166-2: CU-04
+      names:
+        - name: Matanzas
+          sources: [iso3166-2]
+    
+
+    # Mayabeque
+    - codes:
+        iso3166-2: CU-16
+      names:
+        - name: Mayabeque
+          sources: [iso3166-2]
+    
+
+    # Pinar del Río
+    - codes:
+        iso3166-2: CU-01
+      names:
+        - name: Pinar del Río
+          sources: [iso3166-2]
+    
+
+    # Sancti Spíritus
+    - codes:
+        iso3166-2: CU-07
+      names:
+        - name: Sancti Spíritus
+          sources: [iso3166-2]
+    
+
+    # Santiago de Cuba
+    - codes:
+        iso3166-2: CU-13
+      names:
+        - name: Santiago de Cuba
+          sources: [iso3166-2]
+    
+
+    # Villa Clara
+    - codes:
+        iso3166-2: CU-05
+      names:
+        - name: Villa Clara
+          sources: [iso3166-2]

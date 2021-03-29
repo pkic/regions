@@ -1,0 +1,43 @@
+iso3166-1: GL
+complete: false
+regions:
+    
+
+    # Avannaata Kommunia
+    - codes:
+        iso3166-2: GL-AV
+      names:
+        - name: Avannaata Kommunia
+          sources: [iso3166-2]
+    
+
+    # Kommune Kujalleq
+    - codes:
+        iso3166-2: GL-KU
+      names:
+        - name: Kommune Kujalleq
+          sources: [iso3166-2]
+    
+
+    # Kommune Qeqertalik
+    - codes:
+        iso3166-2: GL-QT
+      names:
+        - name: Kommune Qeqertalik
+          sources: [iso3166-2]
+    
+
+    # Kommuneqarfik Sermersooq
+    - codes:
+        iso3166-2: GL-SM
+      names:
+        - name: Kommuneqarfik Sermersooq
+          sources: [iso3166-2]
+    
+
+    # Qeqqata Kommunia
+    - codes:
+        iso3166-2: GL-QE
+      names:
+        - name: Qeqqata Kommunia
+          sources: [iso3166-2]

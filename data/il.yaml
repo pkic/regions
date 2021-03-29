@@ -1,0 +1,96 @@
+iso3166-1: IL
+complete: false
+regions:
+    
+
+    # Al Awsaţ
+    - codes:
+        iso3166-2: IL-M
+      names:
+        - name: Al Awsaţ
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Central
+          sources: [iso3166-2]
+        - name: El Awsaṭ
+          sources: [iso3166-2]
+        - name: HaMerkaz
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Al Quds
+    - codes:
+        iso3166-2: IL-JM
+      names:
+        - name: Al Quds
+          languages: [en]
+          sources: [iso3166-2]
+        - name: El Quds
+          sources: [iso3166-2]
+        - name: Jerusalem
+          sources: [iso3166-2]
+        - name: Yerushalayim
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ash Shamālī
+    - codes:
+        iso3166-2: IL-Z
+      names:
+        - name: Ash Shamālī
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Esh Shamālī
+          sources: [iso3166-2]
+        - name: HaTsafon
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Al Janūbī
+    - codes:
+        iso3166-2: IL-D
+      names:
+        - name: Al Janūbī
+          languages: [en]
+          sources: [iso3166-2]
+        - name: El Janūbī
+          sources: [iso3166-2]
+        - name: HaDarom
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Southern
+          sources: [iso3166-2]
+    
+
+    # Tall Abīb
+    - codes:
+        iso3166-2: IL-TA
+      names:
+        - name: Tall Abīb
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tel Aviv
+          sources: [iso3166-2]
+        - name: Tell Abīb
+          sources: [iso3166-2]
+    
+
+    # H̱efa
+    - codes:
+        iso3166-2: IL-HA
+      names:
+        - name: Haifa
+          sources: [iso3166-2]
+        - name: H̱efa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ḥeifa
+          sources: [iso3166-2]
+        - name: Ḩayfā
+          languages: [en]
+          sources: [iso3166-2]

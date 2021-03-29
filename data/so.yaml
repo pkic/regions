@@ -1,0 +1,147 @@
+iso3166-1: SO
+complete: false
+regions:
+    
+
+    # Awdal
+    - codes:
+        iso3166-2: SO-AW
+      names:
+        - name: Awdal
+          sources: [iso3166-2]
+    
+
+    # Bakool
+    - codes:
+        iso3166-2: SO-BK
+      names:
+        - name: Bakool
+          sources: [iso3166-2]
+    
+
+    # Banaadir
+    - codes:
+        iso3166-2: SO-BN
+      names:
+        - name: Banaadir
+          sources: [iso3166-2]
+    
+
+    # Bari
+    - codes:
+        iso3166-2: SO-BR
+      names:
+        - name: Bari
+          sources: [iso3166-2]
+    
+
+    # Bay
+    - codes:
+        iso3166-2: SO-BY
+      names:
+        - name: Bay
+          sources: [iso3166-2]
+    
+
+    # Galguduud
+    - codes:
+        iso3166-2: SO-GA
+      names:
+        - name: Galguduud
+          sources: [iso3166-2]
+    
+
+    # Gedo
+    - codes:
+        iso3166-2: SO-GE
+      names:
+        - name: Gedo
+          sources: [iso3166-2]
+    
+
+    # Hiiraan
+    - codes:
+        iso3166-2: SO-HI
+      names:
+        - name: Hiiraan
+          sources: [iso3166-2]
+    
+
+    # Jubbada Dhexe
+    - codes:
+        iso3166-2: SO-JD
+      names:
+        - name: Jubbada Dhexe
+          sources: [iso3166-2]
+    
+
+    # Jubbada Hoose
+    - codes:
+        iso3166-2: SO-JH
+      names:
+        - name: Jubbada Hoose
+          sources: [iso3166-2]
+    
+
+    # Mudug
+    - codes:
+        iso3166-2: SO-MU
+      names:
+        - name: Mudug
+          sources: [iso3166-2]
+    
+
+    # Nugaal
+    - codes:
+        iso3166-2: SO-NU
+      names:
+        - name: Nugaal
+          sources: [iso3166-2]
+    
+
+    # Sanaag
+    - codes:
+        iso3166-2: SO-SA
+      names:
+        - name: Sanaag
+          sources: [iso3166-2]
+    
+
+    # Shabeellaha Dhexe
+    - codes:
+        iso3166-2: SO-SD
+      names:
+        - name: Shabeellaha Dhexe
+          sources: [iso3166-2]
+    
+
+    # Shabeellaha Hoose
+    - codes:
+        iso3166-2: SO-SH
+      names:
+        - name: Shabeellaha Hoose
+          sources: [iso3166-2]
+    
+
+    # Sool
+    - codes:
+        iso3166-2: SO-SO
+      names:
+        - name: Sool
+          sources: [iso3166-2]
+    
+
+    # Togdheer
+    - codes:
+        iso3166-2: SO-TO
+      names:
+        - name: Togdheer
+          sources: [iso3166-2]
+    
+
+    # Woqooyi Galbeed
+    - codes:
+        iso3166-2: SO-WO
+      names:
+        - name: Woqooyi Galbeed
+          sources: [iso3166-2]

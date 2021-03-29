@@ -1,0 +1,115 @@
+iso3166-1: CI
+complete: false
+regions:
+    
+
+    # Abidjan
+    - codes:
+        iso3166-2: CI-AB
+      names:
+        - name: Abidjan
+          sources: [iso3166-2]
+    
+
+    # Bas-Sassandra
+    - codes:
+        iso3166-2: CI-BS
+      names:
+        - name: Bas-Sassandra
+          sources: [iso3166-2]
+    
+
+    # Comoé
+    - codes:
+        iso3166-2: CI-CM
+      names:
+        - name: Comoé
+          sources: [iso3166-2]
+    
+
+    # Denguélé
+    - codes:
+        iso3166-2: CI-DN
+      names:
+        - name: Denguélé
+          sources: [iso3166-2]
+    
+
+    # Gôh-Djiboua
+    - codes:
+        iso3166-2: CI-GD
+      names:
+        - name: Gôh-Djiboua
+          sources: [iso3166-2]
+    
+
+    # Lacs
+    - codes:
+        iso3166-2: CI-LC
+      names:
+        - name: Lacs
+          sources: [iso3166-2]
+    
+
+    # Lagunes
+    - codes:
+        iso3166-2: CI-LG
+      names:
+        - name: Lagunes
+          sources: [iso3166-2]
+    
+
+    # Montagnes
+    - codes:
+        iso3166-2: CI-MG
+      names:
+        - name: Montagnes
+          sources: [iso3166-2]
+    
+
+    # Sassandra-Marahoué
+    - codes:
+        iso3166-2: CI-SM
+      names:
+        - name: Sassandra-Marahoué
+          sources: [iso3166-2]
+    
+
+    # Savanes
+    - codes:
+        iso3166-2: CI-SV
+      names:
+        - name: Savanes
+          sources: [iso3166-2]
+    
+
+    # Vallée du Bandama
+    - codes:
+        iso3166-2: CI-VB
+      names:
+        - name: Vallée du Bandama
+          sources: [iso3166-2]
+    
+
+    # Woroba
+    - codes:
+        iso3166-2: CI-WR
+      names:
+        - name: Woroba
+          sources: [iso3166-2]
+    
+
+    # Yamoussoukro
+    - codes:
+        iso3166-2: CI-YM
+      names:
+        - name: Yamoussoukro
+          sources: [iso3166-2]
+    
+
+    # Zanzan
+    - codes:
+        iso3166-2: CI-ZZ
+      names:
+        - name: Zanzan
+          sources: [iso3166-2]

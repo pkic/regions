@@ -1,0 +1,129 @@
+iso3166-1: MR
+complete: false
+regions:
+    
+
+    # Adrar
+    - codes:
+        iso3166-2: MR-07
+      names:
+        - name: Adrar
+          sources: [iso3166-2]
+    
+
+    # Assaba
+    - codes:
+        iso3166-2: MR-03
+      names:
+        - name: Assaba
+          sources: [iso3166-2]
+    
+
+    # Brakna
+    - codes:
+        iso3166-2: MR-05
+      names:
+        - name: Brakna
+          sources: [iso3166-2]
+    
+
+    # Dakhlet Nouâdhibou
+    - codes:
+        iso3166-2: MR-08
+      names:
+        - name: Dakhlet Nouâdhibou
+          sources: [iso3166-2]
+    
+
+    # Gorgol
+    - codes:
+        iso3166-2: MR-04
+      names:
+        - name: Gorgol
+          sources: [iso3166-2]
+    
+
+    # Guidimaka
+    - codes:
+        iso3166-2: MR-10
+      names:
+        - name: Guidimaka
+          sources: [iso3166-2]
+    
+
+    # Hodh ech Chargui
+    - codes:
+        iso3166-2: MR-01
+      names:
+        - name: Hodh ech Chargui
+          sources: [iso3166-2]
+    
+
+    # Hodh el Gharbi
+    - codes:
+        iso3166-2: MR-02
+      names:
+        - name: Hodh el Gharbi
+          sources: [iso3166-2]
+    
+
+    # Inchiri
+    - codes:
+        iso3166-2: MR-12
+      names:
+        - name: Inchiri
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Nord
+    - codes:
+        iso3166-2: MR-14
+      names:
+        - name: Nouakchott Nord
+          sources: [iso3166-2]
+        - name: Nuwākshūţ ash Shamālīyah
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Ouest
+    - codes:
+        iso3166-2: MR-13
+      names:
+        - name: Nouakchott Ouest
+          sources: [iso3166-2]
+        - name: Nuwākshūţ al Gharbīyah
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Sud
+    - codes:
+        iso3166-2: MR-15
+      names:
+        - name: Nouakchott Sud
+          sources: [iso3166-2]
+        - name: Nuwākshūţ al Janūbīyah
+          sources: [iso3166-2]
+    
+
+    # Tagant
+    - codes:
+        iso3166-2: MR-09
+      names:
+        - name: Tagant
+          sources: [iso3166-2]
+    
+
+    # Tiris Zemmour
+    - codes:
+        iso3166-2: MR-11
+      names:
+        - name: Tiris Zemmour
+          sources: [iso3166-2]
+    
+
+    # Trarza
+    - codes:
+        iso3166-2: MR-06
+      names:
+        - name: Trarza
+          sources: [iso3166-2]

@@ -1,0 +1,147 @@
+iso3166-1: HN
+complete: false
+regions:
+    
+
+    # Atlántida
+    - codes:
+        iso3166-2: HN-AT
+      names:
+        - name: Atlántida
+          sources: [iso3166-2]
+    
+
+    # Choluteca
+    - codes:
+        iso3166-2: HN-CH
+      names:
+        - name: Choluteca
+          sources: [iso3166-2]
+    
+
+    # Colón
+    - codes:
+        iso3166-2: HN-CL
+      names:
+        - name: Colón
+          sources: [iso3166-2]
+    
+
+    # Comayagua
+    - codes:
+        iso3166-2: HN-CM
+      names:
+        - name: Comayagua
+          sources: [iso3166-2]
+    
+
+    # Copán
+    - codes:
+        iso3166-2: HN-CP
+      names:
+        - name: Copán
+          sources: [iso3166-2]
+    
+
+    # Cortés
+    - codes:
+        iso3166-2: HN-CR
+      names:
+        - name: Cortés
+          sources: [iso3166-2]
+    
+
+    # El Paraíso
+    - codes:
+        iso3166-2: HN-EP
+      names:
+        - name: El Paraíso
+          sources: [iso3166-2]
+    
+
+    # Francisco Morazán
+    - codes:
+        iso3166-2: HN-FM
+      names:
+        - name: Francisco Morazán
+          sources: [iso3166-2]
+    
+
+    # Gracias a Dios
+    - codes:
+        iso3166-2: HN-GD
+      names:
+        - name: Gracias a Dios
+          sources: [iso3166-2]
+    
+
+    # Intibucá
+    - codes:
+        iso3166-2: HN-IN
+      names:
+        - name: Intibucá
+          sources: [iso3166-2]
+    
+
+    # Islas de la Bahía
+    - codes:
+        iso3166-2: HN-IB
+      names:
+        - name: Islas de la Bahía
+          sources: [iso3166-2]
+    
+
+    # La Paz
+    - codes:
+        iso3166-2: HN-LP
+      names:
+        - name: La Paz
+          sources: [iso3166-2]
+    
+
+    # Lempira
+    - codes:
+        iso3166-2: HN-LE
+      names:
+        - name: Lempira
+          sources: [iso3166-2]
+    
+
+    # Ocotepeque
+    - codes:
+        iso3166-2: HN-OC
+      names:
+        - name: Ocotepeque
+          sources: [iso3166-2]
+    
+
+    # Olancho
+    - codes:
+        iso3166-2: HN-OL
+      names:
+        - name: Olancho
+          sources: [iso3166-2]
+    
+
+    # Santa Bárbara
+    - codes:
+        iso3166-2: HN-SB
+      names:
+        - name: Santa Bárbara
+          sources: [iso3166-2]
+    
+
+    # Valle
+    - codes:
+        iso3166-2: HN-VA
+      names:
+        - name: Valle
+          sources: [iso3166-2]
+    
+
+    # Yoro
+    - codes:
+        iso3166-2: HN-YO
+      names:
+        - name: Yoro
+          sources: [iso3166-2]

@@ -1,0 +1,91 @@
+iso3166-1: AM
+complete: false
+regions:
+    
+
+    # Aragac̣otn
+    - codes:
+        iso3166-2: AM-AG
+      names:
+        - name: Aragac̣otn
+          sources: [iso3166-2]
+    
+
+    # Ararat
+    - codes:
+        iso3166-2: AM-AR
+      names:
+        - name: Ararat
+          sources: [iso3166-2]
+    
+
+    # Armavir
+    - codes:
+        iso3166-2: AM-AV
+      names:
+        - name: Armavir
+          sources: [iso3166-2]
+    
+
+    # Erevan
+    - codes:
+        iso3166-2: AM-ER
+      names:
+        - name: Erevan
+          sources: [iso3166-2]
+    
+
+    # Geġark'unik'
+    - codes:
+        iso3166-2: AM-GR
+      names:
+        - name: Geġark'unik'
+          sources: [iso3166-2]
+    
+
+    # Kotayk'
+    - codes:
+        iso3166-2: AM-KT
+      names:
+        - name: Kotayk'
+          sources: [iso3166-2]
+    
+
+    # Loṙi
+    - codes:
+        iso3166-2: AM-LO
+      names:
+        - name: Loṙi
+          sources: [iso3166-2]
+    
+
+    # Syunik'
+    - codes:
+        iso3166-2: AM-SU
+      names:
+        - name: Syunik'
+          sources: [iso3166-2]
+    
+
+    # Tavuš
+    - codes:
+        iso3166-2: AM-TV
+      names:
+        - name: Tavuš
+          sources: [iso3166-2]
+    
+
+    # Vayoć Jor
+    - codes:
+        iso3166-2: AM-VD
+      names:
+        - name: Vayoć Jor
+          sources: [iso3166-2]
+    
+
+    # Širak
+    - codes:
+        iso3166-2: AM-SH
+      names:
+        - name: Širak
+          sources: [iso3166-2]

@@ -1,0 +1,91 @@
+iso3166-1: WS
+complete: false
+regions:
+    
+
+    # A'ana
+    - codes:
+        iso3166-2: WS-AA
+      names:
+        - name: A'ana
+          sources: [iso3166-2]
+    
+
+    # Aiga-i-le-Tai
+    - codes:
+        iso3166-2: WS-AL
+      names:
+        - name: Aiga-i-le-Tai
+          sources: [iso3166-2]
+    
+
+    # Atua
+    - codes:
+        iso3166-2: WS-AT
+      names:
+        - name: Atua
+          sources: [iso3166-2]
+    
+
+    # Fa'asaleleaga
+    - codes:
+        iso3166-2: WS-FA
+      names:
+        - name: Fa'asaleleaga
+          sources: [iso3166-2]
+    
+
+    # Gaga'emauga
+    - codes:
+        iso3166-2: WS-GE
+      names:
+        - name: Gaga'emauga
+          sources: [iso3166-2]
+    
+
+    # Gagaifomauga
+    - codes:
+        iso3166-2: WS-GI
+      names:
+        - name: Gagaifomauga
+          sources: [iso3166-2]
+    
+
+    # Palauli
+    - codes:
+        iso3166-2: WS-PA
+      names:
+        - name: Palauli
+          sources: [iso3166-2]
+    
+
+    # Satupa'itea
+    - codes:
+        iso3166-2: WS-SA
+      names:
+        - name: Satupa'itea
+          sources: [iso3166-2]
+    
+
+    # Tuamasaga
+    - codes:
+        iso3166-2: WS-TU
+      names:
+        - name: Tuamasaga
+          sources: [iso3166-2]
+    
+
+    # Va'a-o-Fonoti
+    - codes:
+        iso3166-2: WS-VF
+      names:
+        - name: Va'a-o-Fonoti
+          sources: [iso3166-2]
+    
+
+    # Vaisigano
+    - codes:
+        iso3166-2: WS-VS
+      names:
+        - name: Vaisigano
+          sources: [iso3166-2]

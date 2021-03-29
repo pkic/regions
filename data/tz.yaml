@@ -1,0 +1,263 @@
+iso3166-1: TZ
+complete: false
+regions:
+    
+
+    # Arusha
+    - codes:
+        iso3166-2: TZ-01
+      names:
+        - name: Arusha
+          sources: [iso3166-2]
+    
+
+    # Coast
+    - codes:
+        iso3166-2: TZ-19
+      names:
+        - name: Coast
+          sources: [iso3166-2]
+        - name: Pwani
+          sources: [iso3166-2]
+    
+
+    # Dar es Salaam
+    - codes:
+        iso3166-2: TZ-02
+      names:
+        - name: Dar es Salaam
+          sources: [iso3166-2]
+    
+
+    # Dodoma
+    - codes:
+        iso3166-2: TZ-03
+      names:
+        - name: Dodoma
+          sources: [iso3166-2]
+    
+
+    # Geita
+    - codes:
+        iso3166-2: TZ-27
+      names:
+        - name: Geita
+          sources: [iso3166-2]
+    
+
+    # Iringa
+    - codes:
+        iso3166-2: TZ-04
+      names:
+        - name: Iringa
+          sources: [iso3166-2]
+    
+
+    # Kagera
+    - codes:
+        iso3166-2: TZ-05
+      names:
+        - name: Kagera
+          sources: [iso3166-2]
+    
+
+    # Katavi
+    - codes:
+        iso3166-2: TZ-28
+      names:
+        - name: Katavi
+          sources: [iso3166-2]
+    
+
+    # Kigoma
+    - codes:
+        iso3166-2: TZ-08
+      names:
+        - name: Kigoma
+          sources: [iso3166-2]
+    
+
+    # Kilimanjaro
+    - codes:
+        iso3166-2: TZ-09
+      names:
+        - name: Kilimanjaro
+          sources: [iso3166-2]
+    
+
+    # Kusini Pemba
+    - codes:
+        iso3166-2: TZ-10
+      names:
+        - name: Kusini Pemba
+          sources: [iso3166-2]
+        - name: Pemba South
+          sources: [iso3166-2]
+    
+
+    # Kusini Unguja
+    - codes:
+        iso3166-2: TZ-11
+      names:
+        - name: Kusini Unguja
+          sources: [iso3166-2]
+        - name: Zanzibar South
+          sources: [iso3166-2]
+    
+
+    # Lindi
+    - codes:
+        iso3166-2: TZ-12
+      names:
+        - name: Lindi
+          sources: [iso3166-2]
+    
+
+    # Manyara
+    - codes:
+        iso3166-2: TZ-26
+      names:
+        - name: Manyara
+          sources: [iso3166-2]
+    
+
+    # Mara
+    - codes:
+        iso3166-2: TZ-13
+      names:
+        - name: Mara
+          sources: [iso3166-2]
+    
+
+    # Mbeya
+    - codes:
+        iso3166-2: TZ-14
+      names:
+        - name: Mbeya
+          sources: [iso3166-2]
+    
+
+    # Morogoro
+    - codes:
+        iso3166-2: TZ-16
+      names:
+        - name: Morogoro
+          sources: [iso3166-2]
+    
+
+    # Mtwara
+    - codes:
+        iso3166-2: TZ-17
+      names:
+        - name: Mtwara
+          sources: [iso3166-2]
+    
+
+    # Mwanza
+    - codes:
+        iso3166-2: TZ-18
+      names:
+        - name: Mwanza
+          sources: [iso3166-2]
+    
+
+    # Njombe
+    - codes:
+        iso3166-2: TZ-29
+      names:
+        - name: Njombe
+          sources: [iso3166-2]
+    
+
+    # Kaskazini Pemba
+    - codes:
+        iso3166-2: TZ-06
+      names:
+        - name: Kaskazini Pemba
+          sources: [iso3166-2]
+        - name: Pemba North
+          sources: [iso3166-2]
+    
+
+    # Rukwa
+    - codes:
+        iso3166-2: TZ-20
+      names:
+        - name: Rukwa
+          sources: [iso3166-2]
+    
+
+    # Ruvuma
+    - codes:
+        iso3166-2: TZ-21
+      names:
+        - name: Ruvuma
+          sources: [iso3166-2]
+    
+
+    # Shinyanga
+    - codes:
+        iso3166-2: TZ-22
+      names:
+        - name: Shinyanga
+          sources: [iso3166-2]
+    
+
+    # Simiyu
+    - codes:
+        iso3166-2: TZ-30
+      names:
+        - name: Simiyu
+          sources: [iso3166-2]
+    
+
+    # Singida
+    - codes:
+        iso3166-2: TZ-23
+      names:
+        - name: Singida
+          sources: [iso3166-2]
+    
+
+    # Songwe
+    - codes:
+        iso3166-2: TZ-31
+      names:
+        - name: Songwe
+          sources: [iso3166-2]
+    
+
+    # Tabora
+    - codes:
+        iso3166-2: TZ-24
+      names:
+        - name: Tabora
+          sources: [iso3166-2]
+    
+
+    # Tanga
+    - codes:
+        iso3166-2: TZ-25
+      names:
+        - name: Tanga
+          sources: [iso3166-2]
+    
+
+    # Kaskazini Unguja
+    - codes:
+        iso3166-2: TZ-07
+      names:
+        - name: Kaskazini Unguja
+          sources: [iso3166-2]
+        - name: Zanzibar North
+          sources: [iso3166-2]
+    
+
+    # Mjini Magharibi
+    - codes:
+        iso3166-2: TZ-15
+      names:
+        - name: Mjini Magharibi
+          sources: [iso3166-2]
+        - name: Zanzibar West
+          sources: [iso3166-2]

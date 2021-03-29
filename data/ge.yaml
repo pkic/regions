@@ -1,0 +1,106 @@
+name: Georgia
+iso3166-1: GE
+complete: false
+regions:
+    
+
+    # Abkhazia
+    - codes:
+        iso3166-2: GE-AB
+      names:
+        - name: Abkhazia
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Apkhazeti
+          sources: [iso3166-2]
+    
+
+    # Ajaria
+    - codes:
+        iso3166-2: GE-AJ
+      names:
+        - name: Ach'ara
+          sources: [iso3166-2]
+        - name: Ajaria
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Guria
+    - codes:
+        iso3166-2: GE-GU
+      names:
+        - name: Guria
+          sources: [iso3166-2]
+    
+
+    # Imereti
+    - codes:
+        iso3166-2: GE-IM
+      names:
+        - name: Imereti
+          sources: [iso3166-2]
+    
+
+    # K'akheti
+    - codes:
+        iso3166-2: GE-KA
+      names:
+        - name: K'akheti
+          sources: [iso3166-2]
+    
+
+    # Kvemo Kartli
+    - codes:
+        iso3166-2: GE-KK
+      names:
+        - name: Kvemo Kartli
+          sources: [iso3166-2]
+    
+
+    # Mtskheta-Mtianeti
+    - codes:
+        iso3166-2: GE-MM
+      names:
+        - name: Mtskheta-Mtianeti
+          sources: [iso3166-2]
+    
+
+    # Rach'a-Lechkhumi-Kvemo Svaneti
+    - codes:
+        iso3166-2: GE-RL
+      names:
+        - name: Rach'a-Lechkhumi-Kvemo Svaneti
+          sources: [iso3166-2]
+    
+
+    # Samegrelo-Zemo Svaneti
+    - codes:
+        iso3166-2: GE-SZ
+      names:
+        - name: Samegrelo-Zemo Svaneti
+          sources: [iso3166-2]
+    
+
+    # Samtskhe-Javakheti
+    - codes:
+        iso3166-2: GE-SJ
+      names:
+        - name: Samtskhe-Javakheti
+          sources: [iso3166-2]
+    
+
+    # Shida Kartli
+    - codes:
+        iso3166-2: GE-SK
+      names:
+        - name: Shida Kartli
+          sources: [iso3166-2]
+    
+
+    # Tbilisi
+    - codes:
+        iso3166-2: GE-TB
+      names:
+        - name: Tbilisi
+          sources: [iso3166-2]

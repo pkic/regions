@@ -1,0 +1,83 @@
+iso3166-1: SB
+complete: false
+regions:
+    
+
+    # Central
+    - codes:
+        iso3166-2: SB-CE
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Choiseul
+    - codes:
+        iso3166-2: SB-CH
+      names:
+        - name: Choiseul
+          sources: [iso3166-2]
+    
+
+    # Guadalcanal
+    - codes:
+        iso3166-2: SB-GU
+      names:
+        - name: Guadalcanal
+          sources: [iso3166-2]
+    
+
+    # Isabel
+    - codes:
+        iso3166-2: SB-IS
+      names:
+        - name: Isabel
+          sources: [iso3166-2]
+    
+
+    # Makira-Ulawa
+    - codes:
+        iso3166-2: SB-MK
+      names:
+        - name: Makira-Ulawa
+          sources: [iso3166-2]
+    
+
+    # Malaita
+    - codes:
+        iso3166-2: SB-ML
+      names:
+        - name: Malaita
+          sources: [iso3166-2]
+    
+
+    # Rennell and Bellona
+    - codes:
+        iso3166-2: SB-RB
+      names:
+        - name: Rennell and Bellona
+          sources: [iso3166-2]
+    
+
+    # Temotu
+    - codes:
+        iso3166-2: SB-TE
+      names:
+        - name: Temotu
+          sources: [iso3166-2]
+    
+
+    # Territory
+    - codes:
+        iso3166-2: SB-CT
+      names:
+        - name: Territory
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: SB-WE
+      names:
+        - name: Western
+          sources: [iso3166-2]

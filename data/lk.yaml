@@ -1,0 +1,405 @@
+iso3166-1: LK
+complete: false
+regions:
+    
+
+    # Ampāntōṭṭai
+    - codes:
+        iso3166-2: LK-33
+      names:
+        - name: Ampāntōṭṭai
+          sources: [iso3166-2]
+        - name: Hambantota
+          sources: [iso3166-2]
+        - name: Hambantŏṭa
+          sources: [iso3166-2]
+    
+
+    # Ampara
+    - codes:
+        iso3166-2: LK-52
+      names:
+        - name: Ampara
+          sources: [iso3166-2]
+        - name: Ampāra
+          sources: [iso3166-2]
+        - name: Ampāṟai
+          sources: [iso3166-2]
+    
+
+    # Anuradhapura
+    - codes:
+        iso3166-2: LK-71
+      names:
+        - name: Anuradhapura
+          sources: [iso3166-2]
+        - name: Anurādhapura
+          sources: [iso3166-2]
+        - name: Anurātapuram
+          sources: [iso3166-2]
+    
+
+    # Batticaloa
+    - codes:
+        iso3166-2: LK-51
+      names:
+        - name: Batticaloa
+          sources: [iso3166-2]
+        - name: Maḍakalapuva
+          sources: [iso3166-2]
+        - name: Maṭṭakkaḷappu
+          sources: [iso3166-2]
+    
+
+    # Chappirakamuva mākāṇam
+    - codes:
+        iso3166-2: LK-9
+      names:
+        - name: Chappirakamuva mākāṇam
+          sources: [iso3166-2]
+        - name: Sabaragamuva paḷāta
+          sources: [iso3166-2]
+        - name: Sabaragamuwa
+          sources: [iso3166-2]
+    
+
+    # Irattiṉapuri
+    - codes:
+        iso3166-2: LK-91
+      names:
+        - name: Irattiṉapuri
+          sources: [iso3166-2]
+        - name: Ratnapura
+          sources: [iso3166-2]
+    
+
+    # Jaffna
+    - codes:
+        iso3166-2: LK-41
+      names:
+        - name: Jaffna
+          sources: [iso3166-2]
+        - name: Yāl̮ppāṇam
+          sources: [iso3166-2]
+        - name: Yāpanaya
+          sources: [iso3166-2]
+    
+
+    # Gampaha
+    - codes:
+        iso3166-2: LK-12
+      names:
+        - name: Gampaha
+          sources: [iso3166-2]
+        - name: Kampahā
+          sources: [iso3166-2]
+    
+
+    # Kandy
+    - codes:
+        iso3166-2: LK-21
+      names:
+        - name: Kandy
+          sources: [iso3166-2]
+        - name: Kaṇṭi
+          sources: [iso3166-2]
+        - name: Mahanuvara
+          sources: [iso3166-2]
+    
+
+    # Kalutara
+    - codes:
+        iso3166-2: LK-13
+      names:
+        - name: Kalutara
+          sources: [iso3166-2]
+        - name: Kaḷutara
+          sources: [iso3166-2]
+        - name: Kaḷuttuṟai
+          sources: [iso3166-2]
+    
+
+    # Kegalla
+    - codes:
+        iso3166-2: LK-92
+      names:
+        - name: Kegalla
+          sources: [iso3166-2]
+        - name: Kekālai
+          sources: [iso3166-2]
+        - name: Kægalla
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: LK-5
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+        - name: Kil̮akku mākāṇam
+          sources: [iso3166-2]
+        - name: Næ̆gĕnahira paḷāta
+          sources: [iso3166-2]
+    
+
+    # Kilinochchi
+    - codes:
+        iso3166-2: LK-42
+      names:
+        - name: Kilinochchi
+          sources: [iso3166-2]
+        - name: Kilinŏchchi
+          sources: [iso3166-2]
+        - name: Kiḷinochchi
+          sources: [iso3166-2]
+    
+
+    # Kurunegala
+    - codes:
+        iso3166-2: LK-61
+      names:
+        - name: Kurunegala
+          sources: [iso3166-2]
+        - name: Kurunākal
+          sources: [iso3166-2]
+        - name: Kuruṇægala
+          sources: [iso3166-2]
+    
+
+    # Galle
+    - codes:
+        iso3166-2: LK-31
+      names:
+        - name: Galle
+          sources: [iso3166-2]
+        - name: Gālla
+          sources: [iso3166-2]
+        - name: Kāli
+          sources: [iso3166-2]
+    
+
+    # Colombo
+    - codes:
+        iso3166-2: LK-11
+      names:
+        - name: Colombo
+          sources: [iso3166-2]
+        - name: Kŏl̮umpu
+          sources: [iso3166-2]
+        - name: Kŏḷamba
+          sources: [iso3166-2]
+    
+
+    # Matale
+    - codes:
+        iso3166-2: LK-22
+      names:
+        - name: Matale
+          sources: [iso3166-2]
+        - name: Mātale
+          sources: [iso3166-2]
+        - name: Māttaḷai
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: LK-2
+      names:
+        - name: Central
+          sources: [iso3166-2]
+        - name: Madhyama paḷāta
+          sources: [iso3166-2]
+        - name: Mattiya mākāṇam
+          sources: [iso3166-2]
+    
+
+    # Mannar
+    - codes:
+        iso3166-2: LK-43
+      names:
+        - name: Mannar
+          sources: [iso3166-2]
+        - name: Mannārama
+          sources: [iso3166-2]
+        - name: Maṉṉār
+          sources: [iso3166-2]
+    
+
+    # Mulativ
+    - codes:
+        iso3166-2: LK-45
+      names:
+        - name: Mulativ
+          sources: [iso3166-2]
+        - name: Mullaittivu
+          sources: [iso3166-2]
+        - name: Mullaittīvu
+          sources: [iso3166-2]
+    
+
+    # Matara
+    - codes:
+        iso3166-2: LK-32
+      names:
+        - name: Matara
+          sources: [iso3166-2]
+        - name: Mātara
+          sources: [iso3166-2]
+        - name: Māttaṛai
+          sources: [iso3166-2]
+    
+
+    # Monaragala
+    - codes:
+        iso3166-2: LK-82
+      names:
+        - name: Monaragala
+          sources: [iso3166-2]
+        - name: Mŏṇarāgala
+          sources: [iso3166-2]
+        - name: Mŏṉarākalai
+          sources: [iso3166-2]
+    
+
+    # North Central
+    - codes:
+        iso3166-2: LK-7
+      names:
+        - name: North Central
+          sources: [iso3166-2]
+        - name: Uturumæ̆da paḷāta
+          sources: [iso3166-2]
+        - name: Vaṭamattiya mākāṇam
+          sources: [iso3166-2]
+    
+
+    # Nuvara Ĕliya
+    - codes:
+        iso3166-2: LK-23
+      names:
+        - name: Nuvara Ĕliya
+          sources: [iso3166-2]
+        - name: Nuvarĕliyā
+          sources: [iso3166-2]
+        - name: Nuwara Eliya
+          sources: [iso3166-2]
+    
+
+    # Badulla
+    - codes:
+        iso3166-2: LK-81
+      names:
+        - name: Badulla
+          sources: [iso3166-2]
+        - name: Patuḷai
+          sources: [iso3166-2]
+    
+
+    # Polonnaruwa
+    - codes:
+        iso3166-2: LK-72
+      names:
+        - name: Polonnaruwa
+          sources: [iso3166-2]
+        - name: Pŏlaṉṉaṛuvai
+          sources: [iso3166-2]
+        - name: Pŏḷŏnnaruva
+          sources: [iso3166-2]
+    
+
+    # Puttalam
+    - codes:
+        iso3166-2: LK-62
+      names:
+        - name: Puttalam
+          sources: [iso3166-2]
+        - name: Puttalama
+          sources: [iso3166-2]
+        - name: Puttaḷam
+          sources: [iso3166-2]
+    
+
+    # Dakuṇu paḷāta
+    - codes:
+        iso3166-2: LK-3
+      names:
+        - name: Dakuṇu paḷāta
+          sources: [iso3166-2]
+        - name: Southern
+          sources: [iso3166-2]
+        - name: Tĕṉ mākāṇam
+          sources: [iso3166-2]
+    
+
+    # Tirukŏṇamalai
+    - codes:
+        iso3166-2: LK-53
+      names:
+        - name: Tirukŏṇamalai
+          sources: [iso3166-2]
+        - name: Trikuṇāmalaya
+          sources: [iso3166-2]
+        - name: Trincomalee
+          sources: [iso3166-2]
+    
+
+    # Vavuniya
+    - codes:
+        iso3166-2: LK-44
+      names:
+        - name: Vavuniya
+          sources: [iso3166-2]
+        - name: Vavuniyāva
+          sources: [iso3166-2]
+        - name: Vavuṉiyā
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: LK-4
+      names:
+        - name: Northern
+          sources: [iso3166-2]
+        - name: Uturu paḷāta
+          sources: [iso3166-2]
+        - name: Vaṭakku mākāṇam
+          sources: [iso3166-2]
+    
+
+    # North Western
+    - codes:
+        iso3166-2: LK-6
+      names:
+        - name: North Western
+          sources: [iso3166-2]
+        - name: Vayamba paḷāta
+          sources: [iso3166-2]
+        - name: Vaṭamel mākāṇam
+          sources: [iso3166-2]
+    
+
+    # Basnāhira paḷāta
+    - codes:
+        iso3166-2: LK-1
+      names:
+        - name: Basnāhira paḷāta
+          sources: [iso3166-2]
+        - name: Mel mākāṇam
+          sources: [iso3166-2]
+        - name: Western
+          sources: [iso3166-2]
+    
+
+    # Uva
+    - codes:
+        iso3166-2: LK-8
+      names:
+        - name: Uva
+          sources: [iso3166-2]
+        - name: Ūva paḷāta
+          sources: [iso3166-2]
+        - name: Ūvā mākāṇam
+          sources: [iso3166-2]

@@ -1,0 +1,299 @@
+iso3166-1: NG
+complete: false
+regions:
+    
+
+    # Abia
+    - codes:
+        iso3166-2: NG-AB
+      names:
+        - name: Abia
+          sources: [iso3166-2]
+    
+
+    # Abuja Federal Territory
+    - codes:
+        iso3166-2: NG-FC
+      names:
+        - name: Abuja Federal Territory
+          sources: [iso3166-2]
+    
+
+    # Adamawa
+    - codes:
+        iso3166-2: NG-AD
+      names:
+        - name: Adamawa
+          sources: [iso3166-2]
+    
+
+    # Akwa Ibom
+    - codes:
+        iso3166-2: NG-AK
+      names:
+        - name: Akwa Ibom
+          sources: [iso3166-2]
+    
+
+    # Anambra
+    - codes:
+        iso3166-2: NG-AN
+      names:
+        - name: Anambra
+          sources: [iso3166-2]
+    
+
+    # Bauchi
+    - codes:
+        iso3166-2: NG-BA
+      names:
+        - name: Bauchi
+          sources: [iso3166-2]
+    
+
+    # Bayelsa
+    - codes:
+        iso3166-2: NG-BY
+      names:
+        - name: Bayelsa
+          sources: [iso3166-2]
+    
+
+    # Benue
+    - codes:
+        iso3166-2: NG-BE
+      names:
+        - name: Benue
+          sources: [iso3166-2]
+    
+
+    # Borno
+    - codes:
+        iso3166-2: NG-BO
+      names:
+        - name: Borno
+          sources: [iso3166-2]
+    
+
+    # Cross River
+    - codes:
+        iso3166-2: NG-CR
+      names:
+        - name: Cross River
+          sources: [iso3166-2]
+    
+
+    # Delta
+    - codes:
+        iso3166-2: NG-DE
+      names:
+        - name: Delta
+          sources: [iso3166-2]
+    
+
+    # Ebonyi
+    - codes:
+        iso3166-2: NG-EB
+      names:
+        - name: Ebonyi
+          sources: [iso3166-2]
+    
+
+    # Edo
+    - codes:
+        iso3166-2: NG-ED
+      names:
+        - name: Edo
+          sources: [iso3166-2]
+    
+
+    # Ekiti
+    - codes:
+        iso3166-2: NG-EK
+      names:
+        - name: Ekiti
+          sources: [iso3166-2]
+    
+
+    # Enugu
+    - codes:
+        iso3166-2: NG-EN
+      names:
+        - name: Enugu
+          sources: [iso3166-2]
+    
+
+    # Gombe
+    - codes:
+        iso3166-2: NG-GO
+      names:
+        - name: Gombe
+          sources: [iso3166-2]
+    
+
+    # Imo
+    - codes:
+        iso3166-2: NG-IM
+      names:
+        - name: Imo
+          sources: [iso3166-2]
+    
+
+    # Jigawa
+    - codes:
+        iso3166-2: NG-JI
+      names:
+        - name: Jigawa
+          sources: [iso3166-2]
+    
+
+    # Kaduna
+    - codes:
+        iso3166-2: NG-KD
+      names:
+        - name: Kaduna
+          sources: [iso3166-2]
+    
+
+    # Kano
+    - codes:
+        iso3166-2: NG-KN
+      names:
+        - name: Kano
+          sources: [iso3166-2]
+    
+
+    # Katsina
+    - codes:
+        iso3166-2: NG-KT
+      names:
+        - name: Katsina
+          sources: [iso3166-2]
+    
+
+    # Kebbi
+    - codes:
+        iso3166-2: NG-KE
+      names:
+        - name: Kebbi
+          sources: [iso3166-2]
+    
+
+    # Kogi
+    - codes:
+        iso3166-2: NG-KO
+      names:
+        - name: Kogi
+          sources: [iso3166-2]
+    
+
+    # Kwara
+    - codes:
+        iso3166-2: NG-KW
+      names:
+        - name: Kwara
+          sources: [iso3166-2]
+    
+
+    # Lagos
+    - codes:
+        iso3166-2: NG-LA
+      names:
+        - name: Lagos
+          sources: [iso3166-2]
+    
+
+    # Nasarawa
+    - codes:
+        iso3166-2: NG-NA
+      names:
+        - name: Nasarawa
+          sources: [iso3166-2]
+    
+
+    # Niger
+    - codes:
+        iso3166-2: NG-NI
+      names:
+        - name: Niger
+          sources: [iso3166-2]
+    
+
+    # Ogun
+    - codes:
+        iso3166-2: NG-OG
+      names:
+        - name: Ogun
+          sources: [iso3166-2]
+    
+
+    # Ondo
+    - codes:
+        iso3166-2: NG-ON
+      names:
+        - name: Ondo
+          sources: [iso3166-2]
+    
+
+    # Osun
+    - codes:
+        iso3166-2: NG-OS
+      names:
+        - name: Osun
+          sources: [iso3166-2]
+    
+
+    # Oyo
+    - codes:
+        iso3166-2: NG-OY
+      names:
+        - name: Oyo
+          sources: [iso3166-2]
+    
+
+    # Plateau
+    - codes:
+        iso3166-2: NG-PL
+      names:
+        - name: Plateau
+          sources: [iso3166-2]
+    
+
+    # Rivers
+    - codes:
+        iso3166-2: NG-RI
+      names:
+        - name: Rivers
+          sources: [iso3166-2]
+    
+
+    # Sokoto
+    - codes:
+        iso3166-2: NG-SO
+      names:
+        - name: Sokoto
+          sources: [iso3166-2]
+    
+
+    # Taraba
+    - codes:
+        iso3166-2: NG-TA
+      names:
+        - name: Taraba
+          sources: [iso3166-2]
+    
+
+    # Yobe
+    - codes:
+        iso3166-2: NG-YO
+      names:
+        - name: Yobe
+          sources: [iso3166-2]
+    
+
+    # Zamfara
+    - codes:
+        iso3166-2: NG-ZA
+      names:
+        - name: Zamfara
+          sources: [iso3166-2]

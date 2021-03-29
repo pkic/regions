@@ -1,0 +1,518 @@
+iso3166-1: BD
+complete: false
+regions:
+    
+
+    # Bagerhat
+    - codes:
+        iso3166-2: BD-05
+      names:
+        - name: Bagerhat
+          sources: [iso3166-2]
+    
+
+    # Bandarban
+    - codes:
+        iso3166-2: BD-01
+      names:
+        - name: Bandarban
+          sources: [iso3166-2]
+    
+
+    # Barguna
+    - codes:
+        iso3166-2: BD-02
+      names:
+        - name: Barguna
+          sources: [iso3166-2]
+    
+
+    # Barishal
+    - codes:
+        iso3166-2: BD-A
+      names:
+        - name: Barishal
+          sources: [iso3166-2]
+    
+
+    # Bhola
+    - codes:
+        iso3166-2: BD-07
+      names:
+        - name: Bhola
+          sources: [iso3166-2]
+    
+
+    # Bogura
+    - codes:
+        iso3166-2: BD-03
+      names:
+        - name: Bogura
+          sources: [iso3166-2]
+    
+
+    # Brahmanbaria
+    - codes:
+        iso3166-2: BD-04
+      names:
+        - name: Brahmanbaria
+          sources: [iso3166-2]
+    
+
+    # Chandpur
+    - codes:
+        iso3166-2: BD-09
+      names:
+        - name: Chandpur
+          sources: [iso3166-2]
+    
+
+    # Chapai Nawabganj
+    - codes:
+        iso3166-2: BD-45
+      names:
+        - name: Chapai Nawabganj
+          sources: [iso3166-2]
+    
+
+    # Chattogram
+    - codes:
+        iso3166-2: BD-B
+      names:
+        - name: Chattogram
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Chittagong
+          sources: [iso3166-2]
+    
+
+    # Chuadanga
+    - codes:
+        iso3166-2: BD-12
+      names:
+        - name: Chuadanga
+          sources: [iso3166-2]
+    
+
+    # Cox's Bazar
+    - codes:
+        iso3166-2: BD-11
+      names:
+        - name: Cox's Bazar
+          sources: [iso3166-2]
+    
+
+    # Cumilla
+    - codes:
+        iso3166-2: BD-08
+      names:
+        - name: Cumilla
+          sources: [iso3166-2]
+    
+
+    # Dhaka
+    - codes:
+        iso3166-2: BD-C
+      names:
+        - name: Dhaka
+          sources: [iso3166-2]
+    
+
+    # Dinajpur
+    - codes:
+        iso3166-2: BD-14
+      names:
+        - name: Dinajpur
+          sources: [iso3166-2]
+    
+
+    # Faridpur
+    - codes:
+        iso3166-2: BD-15
+      names:
+        - name: Faridpur
+          sources: [iso3166-2]
+    
+
+    # Feni
+    - codes:
+        iso3166-2: BD-16
+      names:
+        - name: Feni
+          sources: [iso3166-2]
+    
+
+    # Gaibandha
+    - codes:
+        iso3166-2: BD-19
+      names:
+        - name: Gaibandha
+          sources: [iso3166-2]
+    
+
+    # Gazipur
+    - codes:
+        iso3166-2: BD-18
+      names:
+        - name: Gazipur
+          sources: [iso3166-2]
+    
+
+    # Gopalganj
+    - codes:
+        iso3166-2: BD-17
+      names:
+        - name: Gopalganj
+          sources: [iso3166-2]
+    
+
+    # Habiganj
+    - codes:
+        iso3166-2: BD-20
+      names:
+        - name: Habiganj
+          sources: [iso3166-2]
+    
+
+    # Jamalpur
+    - codes:
+        iso3166-2: BD-21
+      names:
+        - name: Jamalpur
+          sources: [iso3166-2]
+    
+
+    # Jashore
+    - codes:
+        iso3166-2: BD-22
+      names:
+        - name: Jashore
+          sources: [iso3166-2]
+    
+
+    # Jhalakathi
+    - codes:
+        iso3166-2: BD-25
+      names:
+        - name: Jhalakathi
+          sources: [iso3166-2]
+    
+
+    # Jhenaidah
+    - codes:
+        iso3166-2: BD-23
+      names:
+        - name: Jhenaidah
+          sources: [iso3166-2]
+    
+
+    # Joypurhat
+    - codes:
+        iso3166-2: BD-24
+      names:
+        - name: Joypurhat
+          sources: [iso3166-2]
+    
+
+    # Khagrachhari
+    - codes:
+        iso3166-2: BD-29
+      names:
+        - name: Khagrachhari
+          sources: [iso3166-2]
+    
+
+    # Khulna
+    - codes:
+        iso3166-2: BD-D
+      names:
+        - name: Khulna
+          sources: [iso3166-2]
+    
+
+    # Kishoreganj
+    - codes:
+        iso3166-2: BD-26
+      names:
+        - name: Kishoreganj
+          sources: [iso3166-2]
+    
+
+    # Kurigram
+    - codes:
+        iso3166-2: BD-28
+      names:
+        - name: Kurigram
+          sources: [iso3166-2]
+    
+
+    # Kushtia
+    - codes:
+        iso3166-2: BD-30
+      names:
+        - name: Kushtia
+          sources: [iso3166-2]
+    
+
+    # Lakshmipur
+    - codes:
+        iso3166-2: BD-31
+      names:
+        - name: Lakshmipur
+          sources: [iso3166-2]
+    
+
+    # Lalmonirhat
+    - codes:
+        iso3166-2: BD-32
+      names:
+        - name: Lalmonirhat
+          sources: [iso3166-2]
+    
+
+    # Madaripur
+    - codes:
+        iso3166-2: BD-36
+      names:
+        - name: Madaripur
+          sources: [iso3166-2]
+    
+
+    # Magura
+    - codes:
+        iso3166-2: BD-37
+      names:
+        - name: Magura
+          sources: [iso3166-2]
+    
+
+    # Manikganj
+    - codes:
+        iso3166-2: BD-33
+      names:
+        - name: Manikganj
+          sources: [iso3166-2]
+    
+
+    # Meherpur
+    - codes:
+        iso3166-2: BD-39
+      names:
+        - name: Meherpur
+          sources: [iso3166-2]
+    
+
+    # Moulvibazar
+    - codes:
+        iso3166-2: BD-38
+      names:
+        - name: Moulvibazar
+          sources: [iso3166-2]
+    
+
+    # Munshiganj
+    - codes:
+        iso3166-2: BD-35
+      names:
+        - name: Munshiganj
+          sources: [iso3166-2]
+    
+
+    # Mymensingh
+    - codes:
+        iso3166-2: BD-H
+      names:
+        - name: Mymensingh
+          sources: [iso3166-2]
+    
+
+    # Naogaon
+    - codes:
+        iso3166-2: BD-48
+      names:
+        - name: Naogaon
+          sources: [iso3166-2]
+    
+
+    # Narail
+    - codes:
+        iso3166-2: BD-43
+      names:
+        - name: Narail
+          sources: [iso3166-2]
+    
+
+    # Narayanganj
+    - codes:
+        iso3166-2: BD-40
+      names:
+        - name: Narayanganj
+          sources: [iso3166-2]
+    
+
+    # Narsingdi
+    - codes:
+        iso3166-2: BD-42
+      names:
+        - name: Narsingdi
+          sources: [iso3166-2]
+    
+
+    # Natore
+    - codes:
+        iso3166-2: BD-44
+      names:
+        - name: Natore
+          sources: [iso3166-2]
+    
+
+    # Netrakona
+    - codes:
+        iso3166-2: BD-41
+      names:
+        - name: Netrakona
+          sources: [iso3166-2]
+    
+
+    # Nilphamari
+    - codes:
+        iso3166-2: BD-46
+      names:
+        - name: Nilphamari
+          sources: [iso3166-2]
+    
+
+    # Noakhali
+    - codes:
+        iso3166-2: BD-47
+      names:
+        - name: Noakhali
+          sources: [iso3166-2]
+    
+
+    # Pabna
+    - codes:
+        iso3166-2: BD-49
+      names:
+        - name: Pabna
+          sources: [iso3166-2]
+    
+
+    # Panchagarh
+    - codes:
+        iso3166-2: BD-52
+      names:
+        - name: Panchagarh
+          sources: [iso3166-2]
+    
+
+    # Patuakhali
+    - codes:
+        iso3166-2: BD-51
+      names:
+        - name: Patuakhali
+          sources: [iso3166-2]
+    
+
+    # Pirojpur
+    - codes:
+        iso3166-2: BD-50
+      names:
+        - name: Pirojpur
+          sources: [iso3166-2]
+    
+
+    # Rajbari
+    - codes:
+        iso3166-2: BD-53
+      names:
+        - name: Rajbari
+          sources: [iso3166-2]
+    
+
+    # Rajshahi
+    - codes:
+        iso3166-2: BD-E
+      names:
+        - name: Rajshahi
+          sources: [iso3166-2]
+    
+
+    # Rangamati
+    - codes:
+        iso3166-2: BD-56
+      names:
+        - name: Rangamati
+          sources: [iso3166-2]
+    
+
+    # Rangpur
+    - codes:
+        iso3166-2: BD-F
+      names:
+        - name: Rangpur
+          sources: [iso3166-2]
+    
+
+    # Satkhira
+    - codes:
+        iso3166-2: BD-58
+      names:
+        - name: Satkhira
+          sources: [iso3166-2]
+    
+
+    # Shariatpur
+    - codes:
+        iso3166-2: BD-62
+      names:
+        - name: Shariatpur
+          sources: [iso3166-2]
+    
+
+    # Sherpur
+    - codes:
+        iso3166-2: BD-57
+      names:
+        - name: Sherpur
+          sources: [iso3166-2]
+    
+
+    # Sirajganj
+    - codes:
+        iso3166-2: BD-59
+      names:
+        - name: Sirajganj
+          sources: [iso3166-2]
+    
+
+    # Sunamganj
+    - codes:
+        iso3166-2: BD-61
+      names:
+        - name: Sunamganj
+          sources: [iso3166-2]
+    
+
+    # Sylhet
+    - codes:
+        iso3166-2: BD-G
+      names:
+        - name: Sylhet
+          sources: [iso3166-2]
+    
+
+    # Tangail
+    - codes:
+        iso3166-2: BD-63
+      names:
+        - name: Tangail
+          sources: [iso3166-2]
+    
+
+    # Thakurgaon
+    - codes:
+        iso3166-2: BD-64
+      names:
+        - name: Thakurgaon
+          sources: [iso3166-2]

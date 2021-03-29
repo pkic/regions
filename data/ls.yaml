@@ -1,0 +1,86 @@
+iso3166-1: LS
+complete: false
+regions:
+    
+
+    # Berea
+    - codes:
+        iso3166-2: LS-D
+      names:
+        - name: Berea
+          sources: [iso3166-2]
+    
+
+    # Botha-Bothe
+    - codes:
+        iso3166-2: LS-B
+      names:
+        - name: Botha-Bothe
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Butha-Buthe
+          sources: [iso3166-2]
+    
+
+    # Leribe
+    - codes:
+        iso3166-2: LS-C
+      names:
+        - name: Leribe
+          sources: [iso3166-2]
+    
+
+    # Mafeteng
+    - codes:
+        iso3166-2: LS-E
+      names:
+        - name: Mafeteng
+          sources: [iso3166-2]
+    
+
+    # Maseru
+    - codes:
+        iso3166-2: LS-A
+      names:
+        - name: Maseru
+          sources: [iso3166-2]
+    
+
+    # Mohale's Hoek
+    - codes:
+        iso3166-2: LS-F
+      names:
+        - name: Mohale's Hoek
+          sources: [iso3166-2]
+    
+
+    # Mokhotlong
+    - codes:
+        iso3166-2: LS-J
+      names:
+        - name: Mokhotlong
+          sources: [iso3166-2]
+    
+
+    # Qacha's Nek
+    - codes:
+        iso3166-2: LS-H
+      names:
+        - name: Qacha's Nek
+          sources: [iso3166-2]
+    
+
+    # Quthing
+    - codes:
+        iso3166-2: LS-G
+      names:
+        - name: Quthing
+          sources: [iso3166-2]
+    
+
+    # Thaba-Tseka
+    - codes:
+        iso3166-2: LS-K
+      names:
+        - name: Thaba-Tseka
+          sources: [iso3166-2]

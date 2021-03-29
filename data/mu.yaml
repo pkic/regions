@@ -1,0 +1,102 @@
+iso3166-1: MU
+complete: false
+regions:
+    
+
+    # Agalega Islands
+    - codes:
+        iso3166-2: MU-AG
+      names:
+        - name: Agalega Islands
+          sources: [iso3166-2]
+    
+
+    # Black River
+    - codes:
+        iso3166-2: MU-BL
+      names:
+        - name: Black River
+          sources: [iso3166-2]
+    
+
+    # Cargados Carajos Shoals
+    - codes:
+        iso3166-2: MU-CC
+      names:
+        - name: Cargados Carajos Shoals
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Saint Brandon Islands
+          sources: [iso3166-2]
+    
+
+    # Flacq
+    - codes:
+        iso3166-2: MU-FL
+      names:
+        - name: Flacq
+          sources: [iso3166-2]
+    
+
+    # Grand Port
+    - codes:
+        iso3166-2: MU-GP
+      names:
+        - name: Grand Port
+          sources: [iso3166-2]
+    
+
+    # Moka
+    - codes:
+        iso3166-2: MU-MO
+      names:
+        - name: Moka
+          sources: [iso3166-2]
+    
+
+    # Pamplemousses
+    - codes:
+        iso3166-2: MU-PA
+      names:
+        - name: Pamplemousses
+          sources: [iso3166-2]
+    
+
+    # Plaines Wilhems
+    - codes:
+        iso3166-2: MU-PW
+      names:
+        - name: Plaines Wilhems
+          sources: [iso3166-2]
+    
+
+    # Port Louis
+    - codes:
+        iso3166-2: MU-PL
+      names:
+        - name: Port Louis
+          sources: [iso3166-2]
+    
+
+    # Rivière du Rempart
+    - codes:
+        iso3166-2: MU-RR
+      names:
+        - name: Rivière du Rempart
+          sources: [iso3166-2]
+    
+
+    # Rodrigues Island
+    - codes:
+        iso3166-2: MU-RO
+      names:
+        - name: Rodrigues Island
+          sources: [iso3166-2]
+    
+
+    # Savanne
+    - codes:
+        iso3166-2: MU-SA
+      names:
+        - name: Savanne
+          sources: [iso3166-2]

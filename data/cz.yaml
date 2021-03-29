@@ -1,0 +1,1272 @@
+name: Czechia
+iso3166-1: CZ
+complete: false
+regions:
+    
+
+    # Benešov
+    - codes:
+        iso3166-2: CZ-201
+      names:
+        - name: Benešov
+          sources: [iso3166-2]
+    
+
+    # Beroun
+    - codes:
+        iso3166-2: CZ-202
+      names:
+        - name: Beroun
+          sources: [iso3166-2]
+    
+
+    # Blansko
+    - codes:
+        iso3166-2: CZ-641
+      names:
+        - name: Blansko
+          sources: [iso3166-2]
+    
+
+    # Central Bohemian
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7853
+        iso3166-2: CZ-20
+      names:
+        - name: Boemia Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Boemia centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Bohemia Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Bohemia Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Bohemia Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Bohême centrale
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Boémia Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Centraal-Bohemen
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Bohemian
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Böhmen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centrālbohēmija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Det Centrale Bøhmen
+          languages: [da]
+          sources: [euvoc]
+        - name: Il-Bohemia ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kesk-Böömi
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Böömi
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Bohémia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Mittelböhmen
+          languages: [de]
+          sources: [euvoc]
+        - name: Osrednječeški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Središnja Češka
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredočeský
+          languages: [sk]
+          sources: [euvoc]
+        - name: Středočeský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Vidurio Čekija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Κεντρική Βοημία
+          languages: [el]
+          sources: [euvoc]
+        - name: Средња Чешка
+          languages: [sr]
+          sources: [euvoc]
+        - name: Централна Бохемия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Централна Бохемија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # South Bohemian
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7840
+        iso3166-2: CZ-31
+      names:
+        - name: Boemia de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Boemia meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Bohemia Jugore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Bohemia Meridional
+          languages: [es]
+          sources: [euvoc]
+        - name: Bohemia Południowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Bohême du Sud
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Boémia do Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Det Sydlige Bøhmen
+          languages: [da]
+          sources: [euvoc]
+        - name: Dienvidbohēmija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dél-Bohémia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Etelä-Böömi
+          languages: [fi]
+          sources: [euvoc]
+        - name: In-Nofsinhar tal-Bohemia
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jihočeský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Juhočeský
+          languages: [sk]
+          sources: [euvoc]
+        - name: Južna Češka
+          languages: [hr]
+          sources: [euvoc]
+        - name: Južnočeški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Lõuna-Böömi
+          languages: [et]
+          sources: [euvoc]
+        - name: Pietų Čekija
+          languages: [lt]
+          sources: [euvoc]
+        - name: South Bohemian
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra Böhmen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Südböhmen
+          languages: [de]
+          sources: [euvoc]
+        - name: Zuid-Bohemen
+          languages: [nl]
+          sources: [euvoc]
+        - name: Νότια Βοημία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужна Бохемија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Јужна Чешка
+          languages: [sr]
+          sources: [euvoc]
+        - name: Южна Бохемия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Brno-město
+    - codes:
+        iso3166-2: CZ-642
+      names:
+        - name: Brno-město
+          sources: [iso3166-2]
+    
+
+    # Brno-venkov
+    - codes:
+        iso3166-2: CZ-643
+      names:
+        - name: Brno-venkov
+          sources: [iso3166-2]
+    
+
+    # Bruntál
+    - codes:
+        iso3166-2: CZ-801
+      names:
+        - name: Bruntál
+          sources: [iso3166-2]
+    
+
+    # Břeclav
+    - codes:
+        iso3166-2: CZ-644
+      names:
+        - name: Břeclav
+          sources: [iso3166-2]
+    
+
+    # Cheb
+    - codes:
+        iso3166-2: CZ-411
+      names:
+        - name: Cheb
+          sources: [iso3166-2]
+    
+
+    # Chomutov
+    - codes:
+        iso3166-2: CZ-422
+      names:
+        - name: Chomutov
+          sources: [iso3166-2]
+    
+
+    # Chrudim
+    - codes:
+        iso3166-2: CZ-531
+      names:
+        - name: Chrudim
+          sources: [iso3166-2]
+    
+
+    # South Moravian
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7844
+        iso3166-2: CZ-64
+      names:
+        - name: Det Sydlige Mæhren
+          languages: [da]
+          sources: [euvoc]
+        - name: Dienvidmorāvija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dél-Morávia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Etelä-Määri
+          languages: [fi]
+          sources: [euvoc]
+        - name: In-Nofsinhar tal-Moravia
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jihomoravský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Juhomoravský
+          languages: [sk]
+          sources: [euvoc]
+        - name: Južna Moravska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Južnomoravski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Lõuna-Morava
+          languages: [et]
+          sources: [euvoc]
+        - name: Moravia Jugore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Moravia Meridional
+          languages: [es]
+          sources: [euvoc]
+        - name: Moravia de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Moravia meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Moravie du Sud
+          languages: [fr]
+          sources: [euvoc]
+        - name: Morawy Południowe
+          languages: [pl]
+          sources: [euvoc]
+        - name: Morávia do Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Pietų Moravija
+          languages: [lt]
+          sources: [euvoc]
+        - name: South Moravian
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra Mähren
+          languages: [sv]
+          sources: [euvoc]
+        - name: Südmähren
+          languages: [de]
+          sources: [euvoc]
+        - name: Zuid-Moravië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Νότια Μοραβία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужна Моравија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Јужна Моравска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Южноморавски
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Domažlice
+    - codes:
+        iso3166-2: CZ-321
+      names:
+        - name: Domažlice
+          sources: [iso3166-2]
+    
+
+    # Děčín
+    - codes:
+        iso3166-2: CZ-421
+      names:
+        - name: Děčín
+          sources: [iso3166-2]
+    
+
+    # Frýdek-Místek
+    - codes:
+        iso3166-2: CZ-802
+      names:
+        - name: Frýdek-Místek
+          sources: [iso3166-2]
+    
+
+    # Havlíčkův Brod
+    - codes:
+        iso3166-2: CZ-631
+      names:
+        - name: Havlíčkův Brod
+          sources: [iso3166-2]
+    
+
+    # Hodonín
+    - codes:
+        iso3166-2: CZ-645
+      names:
+        - name: Hodonín
+          sources: [iso3166-2]
+    
+
+    # Hradec Králové
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7841
+        iso3166-2: CZ-521
+      names:
+        - name: Hradec Kralova
+          languages: [sq]
+          sources: [euvoc]
+        - name: Hradec Kralove
+          languages: [lv, mt]
+          sources: [euvoc]
+        - name: Hradec Kralovėsas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Hradec Králové
+          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Hradec Królowej
+          languages: [pl]
+          sources: [euvoc]
+        - name: Kralovehraški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Královohradecký
+          languages: [sk]
+          sources: [euvoc]
+        - name: Královéhradecký
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Краловохрадецки
+          languages: [bg]
+          sources: [euvoc]
+        - name: Краловохрадечка
+          languages: [sr]
+          sources: [euvoc]
+        - name: Храдец Кралове
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Jablonec nad Nisou
+    - codes:
+        iso3166-2: CZ-512
+      names:
+        - name: Jablonec nad Nisou
+          sources: [iso3166-2]
+    
+
+    # Jeseník
+    - codes:
+        iso3166-2: CZ-711
+      names:
+        - name: Jeseník
+          sources: [iso3166-2]
+    
+
+    # Jihlava
+    - codes:
+        iso3166-2: CZ-632
+      names:
+        - name: Jihlava
+          sources: [iso3166-2]
+    
+
+    # Jindřichův Hradec
+    - codes:
+        iso3166-2: CZ-313
+      names:
+        - name: Jindřichův Hradec
+          sources: [iso3166-2]
+    
+
+    # Jičín
+    - codes:
+        iso3166-2: CZ-522
+      names:
+        - name: Jičín
+          sources: [iso3166-2]
+    
+
+    # Karlovy Vary
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7842
+        iso3166-2: CZ-412
+      names:
+        - name: Karlovarski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Karlovarský
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Karlovi Vari
+          languages: [lv, mt, sq]
+          sources: [euvoc]
+        - name: Karlovy Vary
+          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Karlovy Varųas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Karlowe Wary
+          languages: [pl]
+          sources: [euvoc]
+        - name: Карловарски
+          languages: [bg]
+          sources: [euvoc]
+        - name: Карлове Вари
+          languages: [sr]
+          sources: [euvoc]
+        - name: Карлови Вари
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Karviná
+    - codes:
+        iso3166-2: CZ-803
+      names:
+        - name: Karviná
+          sources: [iso3166-2]
+    
+
+    # Kladno
+    - codes:
+        iso3166-2: CZ-203
+      names:
+        - name: Kladno
+          sources: [iso3166-2]
+    
+
+    # Klatovy
+    - codes:
+        iso3166-2: CZ-322
+      names:
+        - name: Klatovy
+          sources: [iso3166-2]
+    
+
+    # Kolín
+    - codes:
+        iso3166-2: CZ-204
+      names:
+        - name: Kolín
+          sources: [iso3166-2]
+    
+
+    # Kroměříž
+    - codes:
+        iso3166-2: CZ-721
+      names:
+        - name: Kroměříž
+          sources: [iso3166-2]
+    
+
+    # Kutná Hora
+    - codes:
+        iso3166-2: CZ-205
+      names:
+        - name: Kutná Hora
+          sources: [iso3166-2]
+    
+
+    # Liberec
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7843
+        iso3166-2: CZ-513
+      names:
+        - name: Liberec
+          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Liberecký
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Liberecoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Liberek
+          languages: [sq]
+          sources: [euvoc]
+        - name: Libereċ
+          languages: [mt]
+          sources: [euvoc]
+        - name: Libereški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Libreca
+          languages: [lv]
+          sources: [euvoc]
+        - name: Либерец
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Либерецки
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Litoměřice
+    - codes:
+        iso3166-2: CZ-423
+      names:
+        - name: Litoměřice
+          sources: [iso3166-2]
+    
+
+    # Louny
+    - codes:
+        iso3166-2: CZ-424
+      names:
+        - name: Louny
+          sources: [iso3166-2]
+    
+
+    # Mladá Boleslav
+    - codes:
+        iso3166-2: CZ-207
+      names:
+        - name: Mladá Boleslav
+          sources: [iso3166-2]
+    
+
+    # Moravian-Silesian
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7845
+        iso3166-2: CZ-80
+      names:
+        - name: Morava-Sileesia
+          languages: [et]
+          sources: [euvoc]
+        - name: Moravi-Silezia
+          languages: [sq]
+          sources: [euvoc]
+        - name: Moravia-Silesia
+          languages: [es, mt]
+          sources: [euvoc]
+        - name: Moravia-Silezia
+          languages: [ro]
+          sources: [euvoc]
+        - name: Moravia-Slesia
+          languages: [it]
+          sources: [euvoc]
+        - name: Moravian-Silesian
+          languages: [en]
+          sources: [euvoc]
+        - name: Moravie-Silésie
+          languages: [fr]
+          sources: [euvoc]
+        - name: Moravija-Silezija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Moravië-Silezië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Moravsko-Šleska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Moravsko-šlezijski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Moravskoslezský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Moravskosliezsky
+          languages: [sk]
+          sources: [euvoc]
+        - name: Morawy i Śląsk Czeski
+          languages: [pl]
+          sources: [euvoc]
+        - name: Morávia-Silésia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Morávia-Szilézia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Morāvija-Silēzija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Mähren-Schlesien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Mährisch Schlesien
+          languages: [de]
+          sources: [euvoc]
+        - name: Määri-Sleesia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Mæhren-Schlesien
+          languages: [da]
+          sources: [euvoc]
+        - name: Μοραβία-Σιλεσία
+          languages: [el]
+          sources: [euvoc]
+        - name: Моравија-Шлезија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Моравско-шлеска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Моравскосилезийски
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Most
+    - codes:
+        iso3166-2: CZ-425
+      names:
+        - name: Most
+          sources: [iso3166-2]
+    
+
+    # Mělník
+    - codes:
+        iso3166-2: CZ-206
+      names:
+        - name: Mělník
+          sources: [iso3166-2]
+    
+
+    # Nový Jičín
+    - codes:
+        iso3166-2: CZ-804
+      names:
+        - name: Nový Jičín
+          sources: [iso3166-2]
+    
+
+    # Nymburk
+    - codes:
+        iso3166-2: CZ-208
+      names:
+        - name: Nymburk
+          sources: [iso3166-2]
+    
+
+    # Náchod
+    - codes:
+        iso3166-2: CZ-523
+      names:
+        - name: Náchod
+          sources: [iso3166-2]
+    
+
+    # Olomouc
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7846
+        iso3166-2: CZ-712
+      names:
+        - name: Olomouc
+          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Olomouca
+          languages: [lv]
+          sources: [euvoc]
+        - name: Olomouci
+          languages: [sq]
+          sources: [euvoc]
+        - name: Olomoucký
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Olomoucoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Olomouċ
+          languages: [mt]
+          sources: [euvoc]
+        - name: Olomouški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Ołomuniec
+          languages: [pl]
+          sources: [euvoc]
+        - name: Оломоуц
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Оломоуцки
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Opava
+    - codes:
+        iso3166-2: CZ-805
+      names:
+        - name: Opava
+          sources: [iso3166-2]
+    
+
+    # Ostrava-město
+    - codes:
+        iso3166-2: CZ-806
+      names:
+        - name: Ostrava-město
+          sources: [iso3166-2]
+    
+
+    # Pardubice
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7847
+        iso3166-2: CZ-532
+      names:
+        - name: Pardubica
+          languages: [sq]
+          sources: [euvoc]
+        - name: Pardubice
+          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Pardubický
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Pardubicėsas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pardubiċe
+          languages: [mt]
+          sources: [euvoc]
+        - name: Pardubiški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Пардубице
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Пардубицки
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Pelhřimov
+    - codes:
+        iso3166-2: CZ-633
+      names:
+        - name: Pelhřimov
+          sources: [iso3166-2]
+    
+
+    # Plzeň
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7848
+        iso3166-2: CZ-32
+      names:
+        - name: Pilsen
+          languages: [da, de, el, es, et, fi, fr, hu, it, mt, nl, pt, ro, sv]
+          sources: [euvoc]
+        - name: Pilseni
+          languages: [sq]
+          sources: [euvoc]
+        - name: Pilzene
+          languages: [lv]
+          sources: [euvoc]
+        - name: Pilzenoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pilzno
+          languages: [pl]
+          sources: [euvoc]
+        - name: Plsen
+          languages: [hr]
+          sources: [euvoc]
+        - name: Plzenski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Plzenský
+          languages: [sk]
+          sources: [euvoc]
+        - name: Plzeň
+          languages: [en]
+          sources: [euvoc]
+        - name: Plzeňský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Пилзен
+          languages: [bg]
+          sources: [euvoc]
+        - name: Плзен
+          languages: [sr]
+          sources: [euvoc]
+        - name: Плзењ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Plzeň-jih
+    - codes:
+        iso3166-2: CZ-324
+      names:
+        - name: Plzeň-jih
+          sources: [iso3166-2]
+    
+
+    # Plzeň-město
+    - codes:
+        iso3166-2: CZ-323
+      names:
+        - name: Plzeň-město
+          sources: [iso3166-2]
+    
+
+    # Plzeň-sever
+    - codes:
+        iso3166-2: CZ-325
+      names:
+        - name: Plzeň-sever
+          sources: [iso3166-2]
+    
+
+    # Prague
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7849
+        iso3166-2: CZ-10
+      names:
+        - name: Praag
+          languages: [nl]
+          sources: [euvoc]
+        - name: Prag
+          languages: [da, de, hr, sv]
+          sources: [euvoc]
+        - name: Praga
+          languages: [es, it, mt, pl, pt, ro, sl, sq]
+          sources: [euvoc]
+        - name: Prague
+          languages: [en, fr]
+          sources: [euvoc]
+        - name: Praha
+          languages: [cs, et, fi, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Prahosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Prág
+          languages: [ga]
+          sources: [euvoc]
+        - name: Prága
+          languages: [hu]
+          sources: [euvoc]
+        - name: Prāga
+          languages: [lv]
+          sources: [euvoc]
+        - name: Πράγα
+          languages: [el]
+          sources: [euvoc]
+        - name: Праг
+          languages: [sr]
+          sources: [euvoc]
+        - name: Прага
+          languages: [bg, mk]
+          sources: [euvoc]
+    
+
+    # Prachatice
+    - codes:
+        iso3166-2: CZ-315
+      names:
+        - name: Prachatice
+          sources: [iso3166-2]
+    
+
+    # Praha-východ
+    - codes:
+        iso3166-2: CZ-209
+      names:
+        - name: Praha-východ
+          sources: [iso3166-2]
+    
+
+    # Praha-západ
+    - codes:
+        iso3166-2: CZ-20A
+      names:
+        - name: Praha-západ
+          sources: [iso3166-2]
+    
+
+    # Prostějov
+    - codes:
+        iso3166-2: CZ-713
+      names:
+        - name: Prostějov
+          sources: [iso3166-2]
+    
+
+    # Písek
+    - codes:
+        iso3166-2: CZ-314
+      names:
+        - name: Písek
+          sources: [iso3166-2]
+    
+
+    # Přerov
+    - codes:
+        iso3166-2: CZ-714
+      names:
+        - name: Přerov
+          sources: [iso3166-2]
+    
+
+    # Příbram
+    - codes:
+        iso3166-2: CZ-20B
+      names:
+        - name: Příbram
+          sources: [iso3166-2]
+    
+
+    # Rakovník
+    - codes:
+        iso3166-2: CZ-20C
+      names:
+        - name: Rakovník
+          sources: [iso3166-2]
+    
+
+    # Rokycany
+    - codes:
+        iso3166-2: CZ-326
+      names:
+        - name: Rokycany
+          sources: [iso3166-2]
+    
+
+    # Rychnov nad Kněžnou
+    - codes:
+        iso3166-2: CZ-524
+      names:
+        - name: Rychnov nad Kněžnou
+          sources: [iso3166-2]
+    
+
+    # Semily
+    - codes:
+        iso3166-2: CZ-514
+      names:
+        - name: Semily
+          sources: [iso3166-2]
+    
+
+    # Sokolov
+    - codes:
+        iso3166-2: CZ-413
+      names:
+        - name: Sokolov
+          sources: [iso3166-2]
+    
+
+    # Strakonice
+    - codes:
+        iso3166-2: CZ-316
+      names:
+        - name: Strakonice
+          sources: [iso3166-2]
+    
+
+    # Svitavy
+    - codes:
+        iso3166-2: CZ-533
+      names:
+        - name: Svitavy
+          sources: [iso3166-2]
+    
+
+    # Tachov
+    - codes:
+        iso3166-2: CZ-327
+      names:
+        - name: Tachov
+          sources: [iso3166-2]
+    
+
+    # Teplice
+    - codes:
+        iso3166-2: CZ-426
+      names:
+        - name: Teplice
+          sources: [iso3166-2]
+    
+
+    # Trutnov
+    - codes:
+        iso3166-2: CZ-525
+      names:
+        - name: Trutnov
+          sources: [iso3166-2]
+    
+
+    # Tábor
+    - codes:
+        iso3166-2: CZ-317
+      names:
+        - name: Tábor
+          sources: [iso3166-2]
+    
+
+    # Třebíč
+    - codes:
+        iso3166-2: CZ-634
+      names:
+        - name: Třebíč
+          sources: [iso3166-2]
+    
+
+    # Uherské Hradiště
+    - codes:
+        iso3166-2: CZ-722
+      names:
+        - name: Uherské Hradiště
+          sources: [iso3166-2]
+    
+
+    # Ústí nad Labem
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7850
+        iso3166-2: CZ-427
+      names:
+        - name: Ustecký
+          languages: [sk]
+          sources: [euvoc]
+        - name: Usteški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Usti
+          languages: [hr, lv, mt, pl, ro]
+          sources: [euvoc]
+        - name: Ustí
+          languages: [da, de, el, fi, fr, hu, it, pt, sv]
+          sources: [euvoc]
+        - name: Ustía
+          languages: [sq]
+          sources: [euvoc]
+        - name: Ústecký
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Ústí
+          languages: [es, et, nl]
+          sources: [euvoc]
+        - name: Ústí nad Labem
+          languages: [en]
+          sources: [euvoc, iso3166-2]
+        - name: Ūsčioas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Устецки
+          languages: [bg]
+          sources: [euvoc]
+        - name: Усти
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Vysočina
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7851
+        iso3166-2: CZ-63
+      names:
+        - name: Visoçina
+          languages: [sq]
+          sources: [euvoc]
+        - name: Visoċina
+          languages: [mt]
+          sources: [euvoc]
+        - name: Visočina
+          languages: [lv]
+          sources: [euvoc]
+        - name: Visočinski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Vysočina
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Vysočinosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Wysoczyna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Височина
+          languages: [sr]
+          sources: [euvoc]
+        - name: Височинна
+          languages: [bg]
+          sources: [euvoc]
+        - name: Височински Крај
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Vsetín
+    - codes:
+        iso3166-2: CZ-723
+      names:
+        - name: Vsetín
+          sources: [iso3166-2]
+    
+
+    # Vyškov
+    - codes:
+        iso3166-2: CZ-646
+      names:
+        - name: Vyškov
+          sources: [iso3166-2]
+    
+
+    # Zlín
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7852
+        iso3166-2: CZ-724
+      names:
+        - name: Zlin
+          languages: [hr, mt]
+          sources: [euvoc]
+        - name: Zlina
+          languages: [lv]
+          sources: [euvoc]
+        - name: Zlini
+          languages: [sq]
+          sources: [euvoc]
+        - name: Zlinski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Zlynoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zlín
+          languages: [da, de, el, en, es, et, fi, fr, hu, it, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Zlínsky
+          languages: [sk]
+          sources: [euvoc]
+        - name: Zlínský
+          languages: [cs]
+          sources: [euvoc, iso3166-2]
+        - name: Żlin
+          languages: [pl]
+          sources: [euvoc]
+        - name: Злин
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Znojmo
+    - codes:
+        iso3166-2: CZ-647
+      names:
+        - name: Znojmo
+          sources: [iso3166-2]
+    
+
+    # Ústí nad Orlicí
+    - codes:
+        iso3166-2: CZ-534
+      names:
+        - name: Ústí nad Orlicí
+          sources: [iso3166-2]
+    
+
+    # Česká Lípa
+    - codes:
+        iso3166-2: CZ-511
+      names:
+        - name: Česká Lípa
+          sources: [iso3166-2]
+    
+
+    # České Budějovice
+    - codes:
+        iso3166-2: CZ-311
+      names:
+        - name: České Budějovice
+          sources: [iso3166-2]
+    
+
+    # Český Krumlov
+    - codes:
+        iso3166-2: CZ-312
+      names:
+        - name: Český Krumlov
+          sources: [iso3166-2]
+    
+
+    # Šumperk
+    - codes:
+        iso3166-2: CZ-715
+      names:
+        - name: Šumperk
+          sources: [iso3166-2]
+    
+
+    # Žďár nad Sázavou
+    - codes:
+        iso3166-2: CZ-635
+      names:
+        - name: Žďár nad Sázavou
+          sources: [iso3166-2]

@@ -1,0 +1,234 @@
+iso3166-1: NP
+complete: false
+regions:
+    
+
+    # 1
+    - codes:
+        iso3166-2: NP-P1
+      names:
+        - name: "1"
+          sources: [iso3166-2]
+        - name: Pradesh 1
+          sources: [iso3166-2]
+    
+
+    # 2
+    - codes:
+        iso3166-2: NP-P2
+      names:
+        - name: "2"
+          sources: [iso3166-2]
+        - name: Pradesh 2
+          sources: [iso3166-2]
+    
+
+    # 5
+    - codes:
+        iso3166-2: NP-P5
+      names:
+        - name: "5"
+          sources: [iso3166-2]
+        - name: Pradesh 5
+          sources: [iso3166-2]
+    
+
+    # Bagmati
+    - codes:
+        iso3166-2: NP-BA
+      names:
+        - name: Bagmati
+          sources: [iso3166-2]
+    
+
+    # Bheri
+    - codes:
+        iso3166-2: NP-BH
+      names:
+        - name: Bheri
+          sources: [iso3166-2]
+    
+
+    # Bāgmatī
+    - codes:
+        iso3166-2: NP-P3
+      names:
+        - name: "3"
+          sources: [iso3166-2]
+        - name: Bāgmatī
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Pradesh 3
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: NP-1
+      names:
+        - name: Central
+          sources: [iso3166-2]
+        - name: Madhyamanchal
+          sources: [iso3166-2]
+    
+
+    # Dhawalagiri
+    - codes:
+        iso3166-2: NP-DH
+      names:
+        - name: Dhawalagiri
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: NP-4
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+        - name: Purwanchal
+          sources: [iso3166-2]
+    
+
+    # Far Western
+    - codes:
+        iso3166-2: NP-5
+      names:
+        - name: Far Western
+          sources: [iso3166-2]
+        - name: Sudur Pashchimanchal
+          sources: [iso3166-2]
+    
+
+    # Gandaki
+    - codes:
+        iso3166-2: NP-P4
+      names:
+        - name: "4"
+          sources: [iso3166-2]
+        - name: Gandaki
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Pradesh 4
+          sources: [iso3166-2]
+    
+
+    # Janakpur
+    - codes:
+        iso3166-2: NP-JA
+      names:
+        - name: Janakpur
+          sources: [iso3166-2]
+    
+
+    # Karnali
+    - codes:
+        iso3166-2: NP-P6
+      names:
+        - name: "6"
+          sources: [iso3166-2]
+        - name: Karnali
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Pradesh 6
+          sources: [iso3166-2]
+    
+
+    # Kosi
+    - codes:
+        iso3166-2: NP-KO
+      names:
+        - name: Koshi
+          sources: [iso3166-2]
+        - name: Kosi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lumbini
+    - codes:
+        iso3166-2: NP-LU
+      names:
+        - name: Lumbini
+          sources: [iso3166-2]
+    
+
+    # Mahakali
+    - codes:
+        iso3166-2: NP-MA
+      names:
+        - name: Mahakali
+          sources: [iso3166-2]
+    
+
+    # Mechi
+    - codes:
+        iso3166-2: NP-ME
+      names:
+        - name: Mechi
+          sources: [iso3166-2]
+    
+
+    # Madhya Pashchimanchal
+    - codes:
+        iso3166-2: NP-2
+      names:
+        - name: Madhya Pashchimanchal
+          sources: [iso3166-2]
+        - name: Mid Western
+          sources: [iso3166-2]
+    
+
+    # Narayani
+    - codes:
+        iso3166-2: NP-NA
+      names:
+        - name: Narayani
+          sources: [iso3166-2]
+    
+
+    # Rapti
+    - codes:
+        iso3166-2: NP-RA
+      names:
+        - name: Rapti
+          sources: [iso3166-2]
+    
+
+    # Sagarmatha
+    - codes:
+        iso3166-2: NP-SA
+      names:
+        - name: Sagarmatha
+          sources: [iso3166-2]
+    
+
+    # Seti
+    - codes:
+        iso3166-2: NP-SE
+      names:
+        - name: Seti
+          sources: [iso3166-2]
+    
+
+    # Sudūr Pashchim
+    - codes:
+        iso3166-2: NP-P7
+      names:
+        - name: Sudūr Pashchim
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Sudūrpashchim; 7
+          sources: [iso3166-2]
+        - name: Sudūrpashchim; Pradesh 7
+          sources: [iso3166-2]
+    
+
+    # Pashchimanchal
+    - codes:
+        iso3166-2: NP-3
+      names:
+        - name: Pashchimanchal
+          sources: [iso3166-2]
+        - name: Western
+          sources: [iso3166-2]

@@ -1,0 +1,115 @@
+iso3166-1: SV
+complete: false
+regions:
+    
+
+    # Ahuachapán
+    - codes:
+        iso3166-2: SV-AH
+      names:
+        - name: Ahuachapán
+          sources: [iso3166-2]
+    
+
+    # Cabañas
+    - codes:
+        iso3166-2: SV-CA
+      names:
+        - name: Cabañas
+          sources: [iso3166-2]
+    
+
+    # Chalatenango
+    - codes:
+        iso3166-2: SV-CH
+      names:
+        - name: Chalatenango
+          sources: [iso3166-2]
+    
+
+    # Cuscatlán
+    - codes:
+        iso3166-2: SV-CU
+      names:
+        - name: Cuscatlán
+          sources: [iso3166-2]
+    
+
+    # La Libertad
+    - codes:
+        iso3166-2: SV-LI
+      names:
+        - name: La Libertad
+          sources: [iso3166-2]
+    
+
+    # La Paz
+    - codes:
+        iso3166-2: SV-PA
+      names:
+        - name: La Paz
+          sources: [iso3166-2]
+    
+
+    # La Unión
+    - codes:
+        iso3166-2: SV-UN
+      names:
+        - name: La Unión
+          sources: [iso3166-2]
+    
+
+    # Morazán
+    - codes:
+        iso3166-2: SV-MO
+      names:
+        - name: Morazán
+          sources: [iso3166-2]
+    
+
+    # San Miguel
+    - codes:
+        iso3166-2: SV-SM
+      names:
+        - name: San Miguel
+          sources: [iso3166-2]
+    
+
+    # San Salvador
+    - codes:
+        iso3166-2: SV-SS
+      names:
+        - name: San Salvador
+          sources: [iso3166-2]
+    
+
+    # San Vicente
+    - codes:
+        iso3166-2: SV-SV
+      names:
+        - name: San Vicente
+          sources: [iso3166-2]
+    
+
+    # Santa Ana
+    - codes:
+        iso3166-2: SV-SA
+      names:
+        - name: Santa Ana
+          sources: [iso3166-2]
+    
+
+    # Sonsonate
+    - codes:
+        iso3166-2: SV-SO
+      names:
+        - name: Sonsonate
+          sources: [iso3166-2]
+    
+
+    # Usulután
+    - codes:
+        iso3166-2: SV-US
+      names:
+        - name: Usulután
+          sources: [iso3166-2]

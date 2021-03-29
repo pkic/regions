@@ -1,0 +1,115 @@
+iso3166-1: SY
+complete: false
+regions:
+    
+
+    # Al Lādhiqīyah
+    - codes:
+        iso3166-2: SY-LA
+      names:
+        - name: Al Lādhiqīyah
+          sources: [iso3166-2]
+    
+
+    # Al Qunayţirah
+    - codes:
+        iso3166-2: SY-QU
+      names:
+        - name: Al Qunayţirah
+          sources: [iso3166-2]
+    
+
+    # Al Ḩasakah
+    - codes:
+        iso3166-2: SY-HA
+      names:
+        - name: Al Ḩasakah
+          sources: [iso3166-2]
+    
+
+    # Ar Raqqah
+    - codes:
+        iso3166-2: SY-RA
+      names:
+        - name: Ar Raqqah
+          sources: [iso3166-2]
+    
+
+    # As Suwaydā'
+    - codes:
+        iso3166-2: SY-SU
+      names:
+        - name: As Suwaydā'
+          sources: [iso3166-2]
+    
+
+    # Dar'ā
+    - codes:
+        iso3166-2: SY-DR
+      names:
+        - name: Dar'ā
+          sources: [iso3166-2]
+    
+
+    # Dayr az Zawr
+    - codes:
+        iso3166-2: SY-DY
+      names:
+        - name: Dayr az Zawr
+          sources: [iso3166-2]
+    
+
+    # Dimashq
+    - codes:
+        iso3166-2: SY-DI
+      names:
+        - name: Dimashq
+          sources: [iso3166-2]
+    
+
+    # Idlib
+    - codes:
+        iso3166-2: SY-ID
+      names:
+        - name: Idlib
+          sources: [iso3166-2]
+    
+
+    # Rīf Dimashq
+    - codes:
+        iso3166-2: SY-RD
+      names:
+        - name: Rīf Dimashq
+          sources: [iso3166-2]
+    
+
+    # Ţarţūs
+    - codes:
+        iso3166-2: SY-TA
+      names:
+        - name: Ţarţūs
+          sources: [iso3166-2]
+    
+
+    # Ḩalab
+    - codes:
+        iso3166-2: SY-HL
+      names:
+        - name: Ḩalab
+          sources: [iso3166-2]
+    
+
+    # Ḩamāh
+    - codes:
+        iso3166-2: SY-HM
+      names:
+        - name: Ḩamāh
+          sources: [iso3166-2]
+    
+
+    # Ḩimş
+    - codes:
+        iso3166-2: SY-HI
+      names:
+        - name: Ḩimş
+          sources: [iso3166-2]

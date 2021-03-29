@@ -1,0 +1,255 @@
+iso3166-1: EG
+complete: false
+regions:
+    
+
+    # Ad Daqahlīyah
+    - codes:
+        iso3166-2: EG-DK
+      names:
+        - name: Ad Daqahlīyah
+          sources: [iso3166-2]
+    
+
+    # Al Baḩr al Aḩmar
+    - codes:
+        iso3166-2: EG-BA
+      names:
+        - name: Al Baḩr al Aḩmar
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Red Sea
+          sources: [iso3166-2]
+    
+
+    # Al Buḩayrah
+    - codes:
+        iso3166-2: EG-BH
+      names:
+        - name: Al Buḩayrah
+          sources: [iso3166-2]
+    
+
+    # Al Fayyūm
+    - codes:
+        iso3166-2: EG-FYM
+      names:
+        - name: Al Fayyūm
+          sources: [iso3166-2]
+    
+
+    # Al Gharbīyah
+    - codes:
+        iso3166-2: EG-GH
+      names:
+        - name: Al Gharbīyah
+          sources: [iso3166-2]
+    
+
+    # Al Iskandarīyah
+    - codes:
+        iso3166-2: EG-ALX
+      names:
+        - name: Al Iskandarīyah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Alexandria
+          sources: [iso3166-2]
+    
+
+    # Al Ismā'īlīyah
+    - codes:
+        iso3166-2: EG-IS
+      names:
+        - name: Al Ismā'īlīyah
+          sources: [iso3166-2]
+    
+
+    # Al Jīzah
+    - codes:
+        iso3166-2: EG-GZ
+      names:
+        - name: Al Jīzah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Giza
+          sources: [iso3166-2]
+    
+
+    # Al Minyā
+    - codes:
+        iso3166-2: EG-MN
+      names:
+        - name: Al Minyā
+          sources: [iso3166-2]
+    
+
+    # Al Minūfīyah
+    - codes:
+        iso3166-2: EG-MNF
+      names:
+        - name: Al Minūfīyah
+          sources: [iso3166-2]
+    
+
+    # Al Qalyūbīyah
+    - codes:
+        iso3166-2: EG-KB
+      names:
+        - name: Al Qalyūbīyah
+          sources: [iso3166-2]
+    
+
+    # Al Qāhirah
+    - codes:
+        iso3166-2: EG-C
+      names:
+        - name: Al Qāhirah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Cairo
+          sources: [iso3166-2]
+    
+
+    # Al Uqşur
+    - codes:
+        iso3166-2: EG-LX
+      names:
+        - name: Al Uqşur
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Luxor
+          sources: [iso3166-2]
+    
+
+    # Al Wādī al Jadīd
+    - codes:
+        iso3166-2: EG-WAD
+      names:
+        - name: Al Wādī al Jadīd
+          languages: [en]
+          sources: [iso3166-2]
+        - name: New Valley
+          sources: [iso3166-2]
+    
+
+    # As Suways
+    - codes:
+        iso3166-2: EG-SUZ
+      names:
+        - name: As Suways
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Suez
+          sources: [iso3166-2]
+    
+
+    # Ash Sharqīyah
+    - codes:
+        iso3166-2: EG-SHR
+      names:
+        - name: Ash Sharqīyah
+          sources: [iso3166-2]
+    
+
+    # Aswān
+    - codes:
+        iso3166-2: EG-ASN
+      names:
+        - name: Aswān
+          sources: [iso3166-2]
+    
+
+    # Asyūţ
+    - codes:
+        iso3166-2: EG-AST
+      names:
+        - name: Asyūţ
+          sources: [iso3166-2]
+    
+
+    # Banī Suwayf
+    - codes:
+        iso3166-2: EG-BNS
+      names:
+        - name: Banī Suwayf
+          sources: [iso3166-2]
+    
+
+    # Būr Sa‘īd
+    - codes:
+        iso3166-2: EG-PTS
+      names:
+        - name: Būr Sa‘īd
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Port Said
+          sources: [iso3166-2]
+    
+
+    # Dumyāţ
+    - codes:
+        iso3166-2: EG-DT
+      names:
+        - name: Damietta
+          sources: [iso3166-2]
+        - name: Dumyāţ
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Janūb Sīnā'
+    - codes:
+        iso3166-2: EG-JS
+      names:
+        - name: Janūb Sīnā'
+          languages: [en]
+          sources: [iso3166-2]
+        - name: South Sinai
+          sources: [iso3166-2]
+    
+
+    # Kafr ash Shaykh
+    - codes:
+        iso3166-2: EG-KFS
+      names:
+        - name: Kafr ash Shaykh
+          sources: [iso3166-2]
+    
+
+    # Maţrūḩ
+    - codes:
+        iso3166-2: EG-MT
+      names:
+        - name: Maţrūḩ
+          sources: [iso3166-2]
+    
+
+    # Qinā
+    - codes:
+        iso3166-2: EG-KN
+      names:
+        - name: Qinā
+          sources: [iso3166-2]
+    
+
+    # Shamāl Sīnā'
+    - codes:
+        iso3166-2: EG-SIN
+      names:
+        - name: North Sinai
+          sources: [iso3166-2]
+        - name: Shamāl Sīnā'
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sūhāj
+    - codes:
+        iso3166-2: EG-SHG
+      names:
+        - name: Sohag
+          sources: [iso3166-2]
+        - name: Sūhāj
+          languages: [en]
+          sources: [iso3166-2]

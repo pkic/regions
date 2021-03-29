@@ -1,0 +1,339 @@
+iso3166-1: DO
+complete: false
+regions:
+    
+
+    # Azua
+    - codes:
+        iso3166-2: DO-02
+      names:
+        - name: Azua
+          sources: [iso3166-2]
+    
+
+    # Baoruco
+    - codes:
+        iso3166-2: DO-03
+      names:
+        - name: Baoruco
+          sources: [iso3166-2]
+    
+
+    # Barahona
+    - codes:
+        iso3166-2: DO-04
+      names:
+        - name: Barahona
+          sources: [iso3166-2]
+    
+
+    # Cibao Nordeste
+    - codes:
+        iso3166-2: DO-33
+      names:
+        - name: Cibao Nordeste
+          sources: [iso3166-2]
+    
+
+    # Cibao Noroeste
+    - codes:
+        iso3166-2: DO-34
+      names:
+        - name: Cibao Noroeste
+          sources: [iso3166-2]
+    
+
+    # Cibao Norte
+    - codes:
+        iso3166-2: DO-35
+      names:
+        - name: Cibao Norte
+          sources: [iso3166-2]
+    
+
+    # Cibao Sur
+    - codes:
+        iso3166-2: DO-36
+      names:
+        - name: Cibao Sur
+          sources: [iso3166-2]
+    
+
+    # Dajabón
+    - codes:
+        iso3166-2: DO-05
+      names:
+        - name: Dajabón
+          sources: [iso3166-2]
+    
+
+    # Distrito Nacional
+    - codes:
+        iso3166-2: DO-01
+      names:
+        - name: Distrito Nacional
+          sources: [iso3166-2]
+    
+
+    # Duarte
+    - codes:
+        iso3166-2: DO-06
+      names:
+        - name: Duarte
+          sources: [iso3166-2]
+    
+
+    # El Seibo
+    - codes:
+        iso3166-2: DO-08
+      names:
+        - name: El Seibo
+          sources: [iso3166-2]
+    
+
+    # El Valle
+    - codes:
+        iso3166-2: DO-37
+      names:
+        - name: El Valle
+          sources: [iso3166-2]
+    
+
+    # Elías Piña
+    - codes:
+        iso3166-2: DO-07
+      names:
+        - name: Elías Piña
+          sources: [iso3166-2]
+    
+
+    # Enriquillo
+    - codes:
+        iso3166-2: DO-38
+      names:
+        - name: Enriquillo
+          sources: [iso3166-2]
+    
+
+    # Espaillat
+    - codes:
+        iso3166-2: DO-09
+      names:
+        - name: Espaillat
+          sources: [iso3166-2]
+    
+
+    # Hato Mayor
+    - codes:
+        iso3166-2: DO-30
+      names:
+        - name: Hato Mayor
+          sources: [iso3166-2]
+    
+
+    # Hermanas Mirabal
+    - codes:
+        iso3166-2: DO-19
+      names:
+        - name: Hermanas Mirabal
+          sources: [iso3166-2]
+    
+
+    # Higuamo
+    - codes:
+        iso3166-2: DO-39
+      names:
+        - name: Higuamo
+          sources: [iso3166-2]
+    
+
+    # Independencia
+    - codes:
+        iso3166-2: DO-10
+      names:
+        - name: Independencia
+          sources: [iso3166-2]
+    
+
+    # La Altagracia
+    - codes:
+        iso3166-2: DO-11
+      names:
+        - name: La Altagracia
+          sources: [iso3166-2]
+    
+
+    # La Romana
+    - codes:
+        iso3166-2: DO-12
+      names:
+        - name: La Romana
+          sources: [iso3166-2]
+    
+
+    # La Vega
+    - codes:
+        iso3166-2: DO-13
+      names:
+        - name: La Vega
+          sources: [iso3166-2]
+    
+
+    # María Trinidad Sánchez
+    - codes:
+        iso3166-2: DO-14
+      names:
+        - name: María Trinidad Sánchez
+          sources: [iso3166-2]
+    
+
+    # Monseñor Nouel
+    - codes:
+        iso3166-2: DO-28
+      names:
+        - name: Monseñor Nouel
+          sources: [iso3166-2]
+    
+
+    # Monte Cristi
+    - codes:
+        iso3166-2: DO-15
+      names:
+        - name: Monte Cristi
+          sources: [iso3166-2]
+    
+
+    # Monte Plata
+    - codes:
+        iso3166-2: DO-29
+      names:
+        - name: Monte Plata
+          sources: [iso3166-2]
+    
+
+    # Ozama
+    - codes:
+        iso3166-2: DO-40
+      names:
+        - name: Ozama
+          sources: [iso3166-2]
+    
+
+    # Pedernales
+    - codes:
+        iso3166-2: DO-16
+      names:
+        - name: Pedernales
+          sources: [iso3166-2]
+    
+
+    # Peravia
+    - codes:
+        iso3166-2: DO-17
+      names:
+        - name: Peravia
+          sources: [iso3166-2]
+    
+
+    # Puerto Plata
+    - codes:
+        iso3166-2: DO-18
+      names:
+        - name: Puerto Plata
+          sources: [iso3166-2]
+    
+
+    # Samaná
+    - codes:
+        iso3166-2: DO-20
+      names:
+        - name: Samaná
+          sources: [iso3166-2]
+    
+
+    # San Cristóbal
+    - codes:
+        iso3166-2: DO-21
+      names:
+        - name: San Cristóbal
+          sources: [iso3166-2]
+    
+
+    # San José de Ocoa
+    - codes:
+        iso3166-2: DO-31
+      names:
+        - name: San José de Ocoa
+          sources: [iso3166-2]
+    
+
+    # San Juan
+    - codes:
+        iso3166-2: DO-22
+      names:
+        - name: San Juan
+          sources: [iso3166-2]
+    
+
+    # San Pedro de Macorís
+    - codes:
+        iso3166-2: DO-23
+      names:
+        - name: San Pedro de Macorís
+          sources: [iso3166-2]
+    
+
+    # Santiago
+    - codes:
+        iso3166-2: DO-25
+      names:
+        - name: Santiago
+          sources: [iso3166-2]
+    
+
+    # Santiago Rodríguez
+    - codes:
+        iso3166-2: DO-26
+      names:
+        - name: Santiago Rodríguez
+          sources: [iso3166-2]
+    
+
+    # Santo Domingo
+    - codes:
+        iso3166-2: DO-32
+      names:
+        - name: Santo Domingo
+          sources: [iso3166-2]
+    
+
+    # Sánchez Ramírez
+    - codes:
+        iso3166-2: DO-24
+      names:
+        - name: Sánchez Ramírez
+          sources: [iso3166-2]
+    
+
+    # Valdesia
+    - codes:
+        iso3166-2: DO-41
+      names:
+        - name: Valdesia
+          sources: [iso3166-2]
+    
+
+    # Valverde
+    - codes:
+        iso3166-2: DO-27
+      names:
+        - name: Valverde
+          sources: [iso3166-2]
+    
+
+    # Yuma
+    - codes:
+        iso3166-2: DO-42
+      names:
+        - name: Yuma
+          sources: [iso3166-2]

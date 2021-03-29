@@ -1,0 +1,107 @@
+iso3166-1: GQ
+complete: false
+regions:
+    
+
+    # Annobon
+    - codes:
+        iso3166-2: GQ-AN
+      names:
+        - name: Annobon
+          sources: [iso3166-2]
+        - name: Annobón
+          sources: [iso3166-2]
+        - name: Ano Bom
+          sources: [iso3166-2]
+    
+
+    # Bioko Nord
+    - codes:
+        iso3166-2: GQ-BN
+      names:
+        - name: Bioko Nord
+          sources: [iso3166-2]
+        - name: Bioko Norte
+          sources: [iso3166-2]
+    
+
+    # Bioko Sud
+    - codes:
+        iso3166-2: GQ-BS
+      names:
+        - name: Bioko Sud
+          sources: [iso3166-2]
+        - name: Bioko Sul
+          sources: [iso3166-2]
+        - name: Bioko Sur
+          sources: [iso3166-2]
+    
+
+    # Centro Sud
+    - codes:
+        iso3166-2: GQ-CS
+      names:
+        - name: Centro Sud
+          sources: [iso3166-2]
+        - name: Centro Sul
+          sources: [iso3166-2]
+        - name: Centro Sur
+          sources: [iso3166-2]
+    
+
+    # Djibloho
+    - codes:
+        iso3166-2: GQ-DJ
+      names:
+        - name: Djibloho
+          sources: [iso3166-2]
+    
+
+    # Insulaire
+    - codes:
+        iso3166-2: GQ-I
+      names:
+        - name: Insulaire
+          sources: [iso3166-2]
+        - name: Insular
+          sources: [iso3166-2]
+        - name: n Insular
+          sources: [iso3166-2]
+    
+
+    # Kié-Ntem
+    - codes:
+        iso3166-2: GQ-KN
+      names:
+        - name: Kié-Ntem
+          sources: [iso3166-2]
+    
+
+    # Litoral
+    - codes:
+        iso3166-2: GQ-LI
+      names:
+        - name: Litoral
+          sources: [iso3166-2]
+        - name: Littoral
+          sources: [iso3166-2]
+    
+
+    # Wele-Nzas
+    - codes:
+        iso3166-2: GQ-WN
+      names:
+        - name: Wele-Nzas
+          sources: [iso3166-2]
+    
+
+    # Continental
+    - codes:
+        iso3166-2: GQ-C
+      names:
+        - name: Continental
+          sources: [iso3166-2]
+        - name: Continentale
+          sources: [iso3166-2]
+        - name: n Continental
+          sources: [iso3166-2]

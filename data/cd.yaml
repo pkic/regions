@@ -1,0 +1,211 @@
+iso3166-1: CD
+complete: false
+regions:
+    
+
+    # Bas-Uélé
+    - codes:
+        iso3166-2: CD-BU
+      names:
+        - name: Bas-Uélé
+          sources: [iso3166-2]
+    
+
+    # Haut-Katanga
+    - codes:
+        iso3166-2: CD-HK
+      names:
+        - name: Haut-Katanga
+          sources: [iso3166-2]
+    
+
+    # Haut-Lomami
+    - codes:
+        iso3166-2: CD-HL
+      names:
+        - name: Haut-Lomami
+          sources: [iso3166-2]
+    
+
+    # Haut-Uélé
+    - codes:
+        iso3166-2: CD-HU
+      names:
+        - name: Haut-Uélé
+          sources: [iso3166-2]
+    
+
+    # Ituri
+    - codes:
+        iso3166-2: CD-IT
+      names:
+        - name: Ituri
+          sources: [iso3166-2]
+    
+
+    # Kasaï
+    - codes:
+        iso3166-2: CD-KS
+      names:
+        - name: Kasaï
+          sources: [iso3166-2]
+    
+
+    # Kasaï Central
+    - codes:
+        iso3166-2: CD-KC
+      names:
+        - name: Kasaï Central
+          sources: [iso3166-2]
+    
+
+    # Kasaï Oriental
+    - codes:
+        iso3166-2: CD-KE
+      names:
+        - name: Kasaï Oriental
+          sources: [iso3166-2]
+    
+
+    # Kinshasa
+    - codes:
+        iso3166-2: CD-KN
+      names:
+        - name: Kinshasa
+          sources: [iso3166-2]
+    
+
+    # Kongo Central
+    - codes:
+        iso3166-2: CD-BC
+      names:
+        - name: Kongo Central
+          sources: [iso3166-2]
+    
+
+    # Kwango
+    - codes:
+        iso3166-2: CD-KG
+      names:
+        - name: Kwango
+          sources: [iso3166-2]
+    
+
+    # Kwilu
+    - codes:
+        iso3166-2: CD-KL
+      names:
+        - name: Kwilu
+          sources: [iso3166-2]
+    
+
+    # Lomami
+    - codes:
+        iso3166-2: CD-LO
+      names:
+        - name: Lomami
+          sources: [iso3166-2]
+    
+
+    # Lualaba
+    - codes:
+        iso3166-2: CD-LU
+      names:
+        - name: Lualaba
+          sources: [iso3166-2]
+    
+
+    # Mai-Ndombe
+    - codes:
+        iso3166-2: CD-MN
+      names:
+        - name: Mai-Ndombe
+          sources: [iso3166-2]
+    
+
+    # Maniema
+    - codes:
+        iso3166-2: CD-MA
+      names:
+        - name: Maniema
+          sources: [iso3166-2]
+    
+
+    # Mongala
+    - codes:
+        iso3166-2: CD-MO
+      names:
+        - name: Mongala
+          sources: [iso3166-2]
+    
+
+    # Nord-Kivu
+    - codes:
+        iso3166-2: CD-NK
+      names:
+        - name: Nord-Kivu
+          sources: [iso3166-2]
+    
+
+    # Nord-Ubangi
+    - codes:
+        iso3166-2: CD-NU
+      names:
+        - name: Nord-Ubangi
+          sources: [iso3166-2]
+    
+
+    # Sankuru
+    - codes:
+        iso3166-2: CD-SA
+      names:
+        - name: Sankuru
+          sources: [iso3166-2]
+    
+
+    # Sud-Kivu
+    - codes:
+        iso3166-2: CD-SK
+      names:
+        - name: Sud-Kivu
+          sources: [iso3166-2]
+    
+
+    # Sud-Ubangi
+    - codes:
+        iso3166-2: CD-SU
+      names:
+        - name: Sud-Ubangi
+          sources: [iso3166-2]
+    
+
+    # Tanganyika
+    - codes:
+        iso3166-2: CD-TA
+      names:
+        - name: Tanganyika
+          sources: [iso3166-2]
+    
+
+    # Tshopo
+    - codes:
+        iso3166-2: CD-TO
+      names:
+        - name: Tshopo
+          sources: [iso3166-2]
+    
+
+    # Tshuapa
+    - codes:
+        iso3166-2: CD-TU
+      names:
+        - name: Tshuapa
+          sources: [iso3166-2]
+    
+
+    # Équateur
+    - codes:
+        iso3166-2: CD-EQ
+      names:
+        - name: Équateur
+          sources: [iso3166-2]

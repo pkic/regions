@@ -1,0 +1,115 @@
+iso3166-1: NA
+complete: false
+regions:
+    
+
+    # Erongo
+    - codes:
+        iso3166-2: NA-ER
+      names:
+        - name: Erongo
+          sources: [iso3166-2]
+    
+
+    # Hardap
+    - codes:
+        iso3166-2: NA-HA
+      names:
+        - name: Hardap
+          sources: [iso3166-2]
+    
+
+    # Karas; !Karas
+    - codes:
+        iso3166-2: NA-KA
+      names:
+        - name: Karas; !Karas
+          sources: [iso3166-2]
+    
+
+    # Kavango East
+    - codes:
+        iso3166-2: NA-KE
+      names:
+        - name: Kavango East
+          sources: [iso3166-2]
+    
+
+    # Kavango West
+    - codes:
+        iso3166-2: NA-KW
+      names:
+        - name: Kavango West
+          sources: [iso3166-2]
+    
+
+    # Khomas
+    - codes:
+        iso3166-2: NA-KH
+      names:
+        - name: Khomas
+          sources: [iso3166-2]
+    
+
+    # Kunene
+    - codes:
+        iso3166-2: NA-KU
+      names:
+        - name: Kunene
+          sources: [iso3166-2]
+    
+
+    # Ohangwena
+    - codes:
+        iso3166-2: NA-OW
+      names:
+        - name: Ohangwena
+          sources: [iso3166-2]
+    
+
+    # Omaheke
+    - codes:
+        iso3166-2: NA-OH
+      names:
+        - name: Omaheke
+          sources: [iso3166-2]
+    
+
+    # Omusati
+    - codes:
+        iso3166-2: NA-OS
+      names:
+        - name: Omusati
+          sources: [iso3166-2]
+    
+
+    # Oshana
+    - codes:
+        iso3166-2: NA-ON
+      names:
+        - name: Oshana
+          sources: [iso3166-2]
+    
+
+    # Oshikoto
+    - codes:
+        iso3166-2: NA-OT
+      names:
+        - name: Oshikoto
+          sources: [iso3166-2]
+    
+
+    # Otjozondjupa
+    - codes:
+        iso3166-2: NA-OD
+      names:
+        - name: Otjozondjupa
+          sources: [iso3166-2]
+    
+
+    # Zambezi
+    - codes:
+        iso3166-2: NA-CA
+      names:
+        - name: Zambezi
+          sources: [iso3166-2]

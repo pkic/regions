@@ -1,0 +1,103 @@
+iso3166-1: HT
+complete: false
+regions:
+    
+
+    # Artibonite
+    - codes:
+        iso3166-2: HT-AR
+      names:
+        - name: Artibonite
+          sources: [iso3166-2]
+        - name: Latibonit
+          sources: [iso3166-2]
+    
+
+    # Centre
+    - codes:
+        iso3166-2: HT-CE
+      names:
+        - name: Centre
+          sources: [iso3166-2]
+        - name: Sant
+          sources: [iso3166-2]
+    
+
+    # Grandans
+    - codes:
+        iso3166-2: HT-GA
+      names:
+        - name: Grandans
+          sources: [iso3166-2]
+        - name: Grande’Anse
+          sources: [iso3166-2]
+    
+
+    # Lwès
+    - codes:
+        iso3166-2: HT-OU
+      names:
+        - name: Lwès
+          sources: [iso3166-2]
+        - name: Ouest
+          sources: [iso3166-2]
+    
+
+    # Nip
+    - codes:
+        iso3166-2: HT-NI
+      names:
+        - name: Nip
+          sources: [iso3166-2]
+        - name: Nippes
+          sources: [iso3166-2]
+    
+
+    # Nord
+    - codes:
+        iso3166-2: HT-ND
+      names:
+        - name: Nord
+          sources: [iso3166-2]
+        - name: Nò
+          sources: [iso3166-2]
+    
+
+    # Nord-Ouest
+    - codes:
+        iso3166-2: HT-NO
+      names:
+        - name: Nord-Ouest
+          sources: [iso3166-2]
+        - name: Nòdwès
+          sources: [iso3166-2]
+    
+
+    # Nord-Est
+    - codes:
+        iso3166-2: HT-NE
+      names:
+        - name: Nord-Est
+          sources: [iso3166-2]
+        - name: Nòdès
+          sources: [iso3166-2]
+    
+
+    # Sid
+    - codes:
+        iso3166-2: HT-SD
+      names:
+        - name: Sid
+          sources: [iso3166-2]
+        - name: Sud
+          sources: [iso3166-2]
+    
+
+    # Sidès
+    - codes:
+        iso3166-2: HT-SE
+      names:
+        - name: Sidès
+          sources: [iso3166-2]
+        - name: Sud-Est
+          sources: [iso3166-2]

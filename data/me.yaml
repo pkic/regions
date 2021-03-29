@@ -1,0 +1,196 @@
+name: Montenegro
+iso3166-1: ME
+complete: false
+regions:
+    
+
+    # Andrijevica
+    - codes:
+        iso3166-2: ME-01
+      names:
+        - name: Andrijevica
+          sources: [iso3166-2]
+    
+
+    # Bar
+    - codes:
+        iso3166-2: ME-02
+      names:
+        - name: Bar
+          sources: [iso3166-2]
+    
+
+    # Berane
+    - codes:
+        iso3166-2: ME-03
+      names:
+        - name: Berane
+          sources: [iso3166-2]
+    
+
+    # Bijelo Polje
+    - codes:
+        iso3166-2: ME-04
+      names:
+        - name: Bijelo Polje
+          sources: [iso3166-2]
+    
+
+    # Budva
+    - codes:
+        iso3166-2: ME-05
+      names:
+        - name: Budva
+          sources: [iso3166-2]
+    
+
+    # Cetinje
+    - codes:
+        iso3166-2: ME-06
+      names:
+        - name: Cetinje
+          sources: [iso3166-2]
+    
+
+    # Danilovgrad
+    - codes:
+        iso3166-2: ME-07
+      names:
+        - name: Danilovgrad
+          sources: [iso3166-2]
+    
+
+    # Gusinje
+    - codes:
+        iso3166-2: ME-22
+      names:
+        - name: Gusinje
+          sources: [iso3166-2]
+    
+
+    # Herceg-Novi
+    - codes:
+        iso3166-2: ME-08
+      names:
+        - name: Herceg-Novi
+          sources: [iso3166-2]
+    
+
+    # Kolašin
+    - codes:
+        iso3166-2: ME-09
+      names:
+        - name: Kolašin
+          sources: [iso3166-2]
+    
+
+    # Kotor
+    - codes:
+        iso3166-2: ME-10
+      names:
+        - name: Kotor
+          sources: [iso3166-2]
+    
+
+    # Mojkovac
+    - codes:
+        iso3166-2: ME-11
+      names:
+        - name: Mojkovac
+          sources: [iso3166-2]
+    
+
+    # Nikšić
+    - codes:
+        iso3166-2: ME-12
+      names:
+        - name: Nikšić
+          sources: [iso3166-2]
+    
+
+    # Petnjica
+    - codes:
+        iso3166-2: ME-23
+      names:
+        - name: Petnjica
+          sources: [iso3166-2]
+    
+
+    # Plav
+    - codes:
+        iso3166-2: ME-13
+      names:
+        - name: Plav
+          sources: [iso3166-2]
+    
+
+    # Pljevlja
+    - codes:
+        iso3166-2: ME-14
+      names:
+        - name: Pljevlja
+          sources: [iso3166-2]
+    
+
+    # Plužine
+    - codes:
+        iso3166-2: ME-15
+      names:
+        - name: Plužine
+          sources: [iso3166-2]
+    
+
+    # Podgorica
+    - codes:
+        iso3166-2: ME-16
+      names:
+        - name: Podgorica
+          sources: [iso3166-2]
+    
+
+    # Rožaje
+    - codes:
+        iso3166-2: ME-17
+      names:
+        - name: Rožaje
+          sources: [iso3166-2]
+    
+
+    # Tivat
+    - codes:
+        iso3166-2: ME-19
+      names:
+        - name: Tivat
+          sources: [iso3166-2]
+    
+
+    # Tuzi
+    - codes:
+        iso3166-2: ME-24
+      names:
+        - name: Tuzi
+          sources: [iso3166-2]
+    
+
+    # Ulcinj
+    - codes:
+        iso3166-2: ME-20
+      names:
+        - name: Ulcinj
+          sources: [iso3166-2]
+    
+
+    # Šavnik
+    - codes:
+        iso3166-2: ME-18
+      names:
+        - name: Šavnik
+          sources: [iso3166-2]
+    
+
+    # Žabljak
+    - codes:
+        iso3166-2: ME-21
+      names:
+        - name: Žabljak
+          sources: [iso3166-2]

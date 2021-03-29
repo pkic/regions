@@ -1,0 +1,2099 @@
+name: Slovenia
+iso3166-1: SI
+complete: false
+regions:
+    
+
+    # Ajdovščina
+    - codes:
+        iso3166-2: SI-001
+      names:
+        - name: Ajdovščina
+          sources: [iso3166-2]
+    
+
+    # Ankaran
+    - codes:
+        iso3166-2: SI-213
+      names:
+        - name: Ancarano
+          sources: [iso3166-2]
+        - name: Ankaran
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Apače
+    - codes:
+        iso3166-2: SI-195
+      names:
+        - name: Apače
+          sources: [iso3166-2]
+    
+
+    # Beltinci
+    - codes:
+        iso3166-2: SI-002
+      names:
+        - name: Beltinci
+          sources: [iso3166-2]
+    
+
+    # Benedikt
+    - codes:
+        iso3166-2: SI-148
+      names:
+        - name: Benedikt
+          sources: [iso3166-2]
+    
+
+    # Bistrica ob Sotli
+    - codes:
+        iso3166-2: SI-149
+      names:
+        - name: Bistrica ob Sotli
+          sources: [iso3166-2]
+    
+
+    # Bled
+    - codes:
+        iso3166-2: SI-003
+      names:
+        - name: Bled
+          sources: [iso3166-2]
+    
+
+    # Bloke
+    - codes:
+        iso3166-2: SI-150
+      names:
+        - name: Bloke
+          sources: [iso3166-2]
+    
+
+    # Bohinj
+    - codes:
+        iso3166-2: SI-004
+      names:
+        - name: Bohinj
+          sources: [iso3166-2]
+    
+
+    # Borovnica
+    - codes:
+        iso3166-2: SI-005
+      names:
+        - name: Borovnica
+          sources: [iso3166-2]
+    
+
+    # Bovec
+    - codes:
+        iso3166-2: SI-006
+      names:
+        - name: Bovec
+          sources: [iso3166-2]
+    
+
+    # Braslovče
+    - codes:
+        iso3166-2: SI-151
+      names:
+        - name: Braslovče
+          sources: [iso3166-2]
+    
+
+    # Brda
+    - codes:
+        iso3166-2: SI-007
+      names:
+        - name: Brda
+          sources: [iso3166-2]
+    
+
+    # Brezovica
+    - codes:
+        iso3166-2: SI-008
+      names:
+        - name: Brezovica
+          sources: [iso3166-2]
+    
+
+    # Brežice
+    - codes:
+        iso3166-2: SI-009
+      names:
+        - name: Brežice
+          sources: [iso3166-2]
+    
+
+    # Cankova
+    - codes:
+        iso3166-2: SI-152
+      names:
+        - name: Cankova
+          sources: [iso3166-2]
+    
+
+    # Celje
+    - codes:
+        iso3166-2: SI-011
+      names:
+        - name: Celje
+          sources: [iso3166-2]
+    
+
+    # Central Slovenia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7829
+      names:
+        - name: Centraal-Slovenië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Slovenia
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Slovenien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centralslovenien
+          languages: [da]
+          sources: [euvoc]
+        - name: Centrālslovēnija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Eslovenia Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Eslovénia Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Is-Slovenja ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kesk-Sloveenia
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Slovenia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Szlovénia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Osrednjeslovenska
+          languages: [sl]
+          sources: [euvoc]
+        - name: Slovenia Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Slovenia Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Slovenia centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Slovénie centrale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Središnja Slovenija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Slovinsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Slovinsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Słowenia Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Vidurio Slovėnija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zentralslowenien
+          languages: [de]
+          sources: [euvoc]
+        - name: Κεντρική Σλοβενία
+          languages: [el]
+          sources: [euvoc]
+        - name: Средња Словенија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Централна Словения
+          languages: [bg]
+          sources: [euvoc]
+        - name: Централна Словенија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Cerklje na Gorenjskem
+    - codes:
+        iso3166-2: SI-012
+      names:
+        - name: Cerklje na Gorenjskem
+          sources: [iso3166-2]
+    
+
+    # Cerknica
+    - codes:
+        iso3166-2: SI-013
+      names:
+        - name: Cerknica
+          sources: [iso3166-2]
+    
+
+    # Cerkno
+    - codes:
+        iso3166-2: SI-014
+      names:
+        - name: Cerkno
+          sources: [iso3166-2]
+    
+
+    # Cerkvenjak
+    - codes:
+        iso3166-2: SI-153
+      names:
+        - name: Cerkvenjak
+          sources: [iso3166-2]
+    
+
+    # Cirkulane
+    - codes:
+        iso3166-2: SI-196
+      names:
+        - name: Cirkulane
+          sources: [iso3166-2]
+    
+
+    # Destrnik
+    - codes:
+        iso3166-2: SI-018
+      names:
+        - name: Destrnik
+          sources: [iso3166-2]
+    
+
+    # South-east Slovenia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7820
+      names:
+        - name: Dienvidaustrumslovēnija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Délkelet-Szlovénia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Eslovenia Sudoriental
+          languages: [es]
+          sources: [euvoc]
+        - name: Eslovénia Sudeste
+          languages: [pt]
+          sources: [euvoc]
+        - name: Ix-Xlokk tas-Slovenja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jihovýchodní Slovinsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Jugoistočna Slovenija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Jugovzhodna Slovenija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Kaakkois-Slovenia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Kagu-Sloveenia
+          languages: [et]
+          sources: [euvoc]
+        - name: Pietryčių Slovėnija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Sllovenia Juglindore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Slovenia de Sud-Est
+          languages: [ro]
+          sources: [euvoc]
+        - name: Slovenia sudorientale
+          languages: [it]
+          sources: [euvoc]
+        - name: Slovénie du Sud-Est
+          languages: [fr]
+          sources: [euvoc]
+        - name: South-east Slovenia
+          languages: [en]
+          sources: [euvoc]
+        - name: Sydöstra Slovenien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Sydøstslovenien
+          languages: [da]
+          sources: [euvoc]
+        - name: Südostslowenien
+          languages: [de]
+          sources: [euvoc]
+        - name: Słowenia Południowo-Wschodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zuidoost-Slovenië
+          languages: [nl]
+          sources: [euvoc]
+        - name: juhovýchodné Slovinsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Νοτιοανατολική Σλοβενία
+          languages: [el]
+          sources: [euvoc]
+        - name: Југоисточна Словенија
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Югоизточна Словения
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Divača
+    - codes:
+        iso3166-2: SI-019
+      names:
+        - name: Divača
+          sources: [iso3166-2]
+    
+
+    # Dobje
+    - codes:
+        iso3166-2: SI-154
+      names:
+        - name: Dobje
+          sources: [iso3166-2]
+    
+
+    # Dobrepolje
+    - codes:
+        iso3166-2: SI-020
+      names:
+        - name: Dobrepolje
+          sources: [iso3166-2]
+    
+
+    # Dobrna
+    - codes:
+        iso3166-2: SI-155
+      names:
+        - name: Dobrna
+          sources: [iso3166-2]
+    
+
+    # Dobrova-Polhov Gradec
+    - codes:
+        iso3166-2: SI-021
+      names:
+        - name: Dobrova-Polhov Gradec
+          sources: [iso3166-2]
+    
+
+    # Dobrovnik
+    - codes:
+        iso3166-2: SI-156
+      names:
+        - name: Dobronak
+          sources: [iso3166-2]
+        - name: Dobrovnik
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dol pri Ljubljani
+    - codes:
+        iso3166-2: SI-022
+      names:
+        - name: Dol pri Ljubljani
+          sources: [iso3166-2]
+    
+
+    # Dolenjske Toplice
+    - codes:
+        iso3166-2: SI-157
+      names:
+        - name: Dolenjske Toplice
+          sources: [iso3166-2]
+    
+
+    # Domžale
+    - codes:
+        iso3166-2: SI-023
+      names:
+        - name: Domžale
+          sources: [iso3166-2]
+    
+
+    # Spodnjeposavska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7827
+      names:
+        - name: Donjoposavska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Spodneposavska
+          languages: [lt]
+          sources: [euvoc]
+        - name: Spodnjeposavska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Долносавска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Доњопосавска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Споднепозавска
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Dornava
+    - codes:
+        iso3166-2: SI-024
+      names:
+        - name: Dornava
+          sources: [iso3166-2]
+    
+
+    # Dravograd
+    - codes:
+        iso3166-2: SI-025
+      names:
+        - name: Dravograd
+          sources: [iso3166-2]
+    
+
+    # Duplek
+    - codes:
+        iso3166-2: SI-026
+      names:
+        - name: Duplek
+          sources: [iso3166-2]
+    
+
+    # Gorenja vas-Poljane
+    - codes:
+        iso3166-2: SI-027
+      names:
+        - name: Gorenja vas-Poljane
+          sources: [iso3166-2]
+    
+
+    # Gorenjska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7818
+      names:
+        - name: Gorenjska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Gorenska
+          languages: [lt]
+          sources: [euvoc]
+        - name: Górna Kraina
+          languages: [pl]
+          sources: [euvoc]
+        - name: Горенийска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Горењска
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Goriška
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7819
+      names:
+        - name: Gorishka
+          languages: [sq]
+          sources: [euvoc]
+        - name: Goriska
+          languages: [mt, ro]
+          sources: [euvoc]
+        - name: Goriška
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pl, pt, sk, sl, sv]
+          sources: [euvoc]
+        - name: Гориска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Горичка
+          languages: [sr]
+          sources: [euvoc]
+        - name: Горишка
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Gorišnica
+    - codes:
+        iso3166-2: SI-028
+      names:
+        - name: Gorišnica
+          sources: [iso3166-2]
+    
+
+    # Gorje
+    - codes:
+        iso3166-2: SI-207
+      names:
+        - name: Gorje
+          sources: [iso3166-2]
+    
+
+    # Gornja Radgona
+    - codes:
+        iso3166-2: SI-029
+      names:
+        - name: Gornja Radgona
+          sources: [iso3166-2]
+    
+
+    # Gornji Grad
+    - codes:
+        iso3166-2: SI-030
+      names:
+        - name: Gornji Grad
+          sources: [iso3166-2]
+    
+
+    # Gornji Petrovci
+    - codes:
+        iso3166-2: SI-031
+      names:
+        - name: Gornji Petrovci
+          sources: [iso3166-2]
+    
+
+    # Grad
+    - codes:
+        iso3166-2: SI-158
+      names:
+        - name: Grad
+          sources: [iso3166-2]
+    
+
+    # Grosuplje
+    - codes:
+        iso3166-2: SI-032
+      names:
+        - name: Grosuplje
+          sources: [iso3166-2]
+    
+
+    # Hajdina
+    - codes:
+        iso3166-2: SI-159
+      names:
+        - name: Hajdina
+          sources: [iso3166-2]
+    
+
+    # Hodoš
+    - codes:
+        iso3166-2: SI-161
+      names:
+        - name: Hodos
+          sources: [iso3166-2]
+        - name: Hodoš
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Horjul
+    - codes:
+        iso3166-2: SI-162
+      names:
+        - name: Horjul
+          sources: [iso3166-2]
+    
+
+    # Hoče-Slivnica
+    - codes:
+        iso3166-2: SI-160
+      names:
+        - name: Hoče-Slivnica
+          sources: [iso3166-2]
+    
+
+    # Hrastnik
+    - codes:
+        iso3166-2: SI-034
+      names:
+        - name: Hrastnik
+          sources: [iso3166-2]
+    
+
+    # Hrpelje-Kozina
+    - codes:
+        iso3166-2: SI-035
+      names:
+        - name: Hrpelje-Kozina
+          sources: [iso3166-2]
+    
+
+    # Idrija
+    - codes:
+        iso3166-2: SI-036
+      names:
+        - name: Idrija
+          sources: [iso3166-2]
+    
+
+    # Ig
+    - codes:
+        iso3166-2: SI-037
+      names:
+        - name: Ig
+          sources: [iso3166-2]
+    
+
+    # Ilirska Bistrica
+    - codes:
+        iso3166-2: SI-038
+      names:
+        - name: Ilirska Bistrica
+          sources: [iso3166-2]
+    
+
+    # Ivančna Gorica
+    - codes:
+        iso3166-2: SI-039
+      names:
+        - name: Ivančna Gorica
+          sources: [iso3166-2]
+    
+
+    # Izola
+    - codes:
+        iso3166-2: SI-040
+      names:
+        - name: Isola
+          sources: [iso3166-2]
+        - name: Izola
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jesenice
+    - codes:
+        iso3166-2: SI-041
+      names:
+        - name: Jesenice
+          sources: [iso3166-2]
+    
+
+    # Jezersko
+    - codes:
+        iso3166-2: SI-163
+      names:
+        - name: Jezersko
+          sources: [iso3166-2]
+    
+
+    # Juršinci
+    - codes:
+        iso3166-2: SI-042
+      names:
+        - name: Juršinci
+          sources: [iso3166-2]
+    
+
+    # Kamnik
+    - codes:
+        iso3166-2: SI-043
+      names:
+        - name: Kamnik
+          sources: [iso3166-2]
+    
+
+    # Kanal
+    - codes:
+        iso3166-2: SI-044
+      names:
+        - name: Kanal
+          sources: [iso3166-2]
+    
+
+    # Koroška
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7821
+      names:
+        - name: Karyntia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Koroshka
+          languages: [sq]
+          sources: [euvoc]
+        - name: Koroska
+          languages: [mt]
+          sources: [euvoc]
+        - name: Koroška
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Короска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Корушка
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Kidričevo
+    - codes:
+        iso3166-2: SI-045
+      names:
+        - name: Kidričevo
+          sources: [iso3166-2]
+    
+
+    # Kobarid
+    - codes:
+        iso3166-2: SI-046
+      names:
+        - name: Kobarid
+          sources: [iso3166-2]
+    
+
+    # Kobilje
+    - codes:
+        iso3166-2: SI-047
+      names:
+        - name: Kobilje
+          sources: [iso3166-2]
+    
+
+    # Komen
+    - codes:
+        iso3166-2: SI-049
+      names:
+        - name: Komen
+          sources: [iso3166-2]
+    
+
+    # Komenda
+    - codes:
+        iso3166-2: SI-164
+      names:
+        - name: Komenda
+          sources: [iso3166-2]
+    
+
+    # Koper
+    - codes:
+        iso3166-2: SI-050
+      names:
+        - name: Capodistria
+          sources: [iso3166-2]
+        - name: Koper
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kosanjevica na Krki
+    - codes:
+        iso3166-2: SI-197
+      names:
+        - name: Kosanjevica na Krki
+          sources: [iso3166-2]
+    
+
+    # Kostel
+    - codes:
+        iso3166-2: SI-165
+      names:
+        - name: Kostel
+          sources: [iso3166-2]
+    
+
+    # Kozje
+    - codes:
+        iso3166-2: SI-051
+      names:
+        - name: Kozje
+          sources: [iso3166-2]
+    
+
+    # Kočevje
+    - codes:
+        iso3166-2: SI-048
+      names:
+        - name: Kočevje
+          sources: [iso3166-2]
+    
+
+    # Kranj
+    - codes:
+        iso3166-2: SI-052
+      names:
+        - name: Kranj
+          sources: [iso3166-2]
+    
+
+    # Kranjska Gora
+    - codes:
+        iso3166-2: SI-053
+      names:
+        - name: Kranjska Gora
+          sources: [iso3166-2]
+    
+
+    # Križevci
+    - codes:
+        iso3166-2: SI-166
+      names:
+        - name: Križevci
+          sources: [iso3166-2]
+    
+
+    # Krško
+    - codes:
+        iso3166-2: SI-054
+      names:
+        - name: Krško
+          sources: [iso3166-2]
+    
+
+    # Kungota
+    - codes:
+        iso3166-2: SI-055
+      names:
+        - name: Kungota
+          sources: [iso3166-2]
+    
+
+    # Kuzma
+    - codes:
+        iso3166-2: SI-056
+      names:
+        - name: Kuzma
+          sources: [iso3166-2]
+    
+
+    # Laško
+    - codes:
+        iso3166-2: SI-057
+      names:
+        - name: Laško
+          sources: [iso3166-2]
+    
+
+    # Lenart
+    - codes:
+        iso3166-2: SI-058
+      names:
+        - name: Lenart
+          sources: [iso3166-2]
+    
+
+    # Lendava
+    - codes:
+        iso3166-2: SI-059
+      names:
+        - name: Lendava
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Lendva
+          sources: [iso3166-2]
+    
+
+    # Litija
+    - codes:
+        iso3166-2: SI-060
+      names:
+        - name: Litija
+          sources: [iso3166-2]
+    
+
+    # Ljubljana
+    - codes:
+        iso3166-2: SI-061
+      names:
+        - name: Ljubljana
+          sources: [iso3166-2]
+    
+
+    # Ljubno
+    - codes:
+        iso3166-2: SI-062
+      names:
+        - name: Ljubno
+          sources: [iso3166-2]
+    
+
+    # Ljutomer
+    - codes:
+        iso3166-2: SI-063
+      names:
+        - name: Ljutomer
+          sources: [iso3166-2]
+    
+
+    # Log-Dragomer
+    - codes:
+        iso3166-2: SI-208
+      names:
+        - name: Log-Dragomer
+          sources: [iso3166-2]
+    
+
+    # Logatec
+    - codes:
+        iso3166-2: SI-064
+      names:
+        - name: Logatec
+          sources: [iso3166-2]
+    
+
+    # Lovrenc na Pohorju
+    - codes:
+        iso3166-2: SI-167
+      names:
+        - name: Lovrenc na Pohorju
+          sources: [iso3166-2]
+    
+
+    # Loška dolina
+    - codes:
+        iso3166-2: SI-065
+      names:
+        - name: Loška dolina
+          sources: [iso3166-2]
+    
+
+    # Loški Potok
+    - codes:
+        iso3166-2: SI-066
+      names:
+        - name: Loški Potok
+          sources: [iso3166-2]
+    
+
+    # Lukovica
+    - codes:
+        iso3166-2: SI-068
+      names:
+        - name: Lukovica
+          sources: [iso3166-2]
+    
+
+    # Luče
+    - codes:
+        iso3166-2: SI-067
+      names:
+        - name: Luče
+          sources: [iso3166-2]
+    
+
+    # Majšperk
+    - codes:
+        iso3166-2: SI-069
+      names:
+        - name: Majšperk
+          sources: [iso3166-2]
+    
+
+    # Makole
+    - codes:
+        iso3166-2: SI-198
+      names:
+        - name: Makole
+          sources: [iso3166-2]
+    
+
+    # Maribor
+    - codes:
+        iso3166-2: SI-070
+      names:
+        - name: Maribor
+          sources: [iso3166-2]
+    
+
+    # Markovci
+    - codes:
+        iso3166-2: SI-168
+      names:
+        - name: Markovci
+          sources: [iso3166-2]
+    
+
+    # Obalno-kraška
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7823
+      names:
+        - name: Marítima y Karst
+          languages: [es]
+          sources: [euvoc]
+        - name: Obalna-Kraška
+          languages: [lt]
+          sources: [euvoc]
+        - name: Obalno-krashka
+          languages: [sq]
+          sources: [euvoc]
+        - name: Obalno-kraska
+          languages: [mt]
+          sources: [euvoc]
+        - name: Obalno-kraška
+          languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Крајбрежно-крашка
+          languages: [mk]
+          sources: [euvoc]
+        - name: Обално - краска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Приморско-крашка
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Medvode
+    - codes:
+        iso3166-2: SI-071
+      names:
+        - name: Medvode
+          sources: [iso3166-2]
+    
+
+    # Mengeš
+    - codes:
+        iso3166-2: SI-072
+      names:
+        - name: Mengeš
+          sources: [iso3166-2]
+    
+
+    # Metlika
+    - codes:
+        iso3166-2: SI-073
+      names:
+        - name: Metlika
+          sources: [iso3166-2]
+    
+
+    # Mežica
+    - codes:
+        iso3166-2: SI-074
+      names:
+        - name: Mežica
+          sources: [iso3166-2]
+    
+
+    # Miklavž na Dravskem polju
+    - codes:
+        iso3166-2: SI-169
+      names:
+        - name: Miklavž na Dravskem polju
+          sources: [iso3166-2]
+    
+
+    # Miren-Kostanjevica
+    - codes:
+        iso3166-2: SI-075
+      names:
+        - name: Miren-Kostanjevica
+          sources: [iso3166-2]
+    
+
+    # Mirna
+    - codes:
+        iso3166-2: SI-212
+      names:
+        - name: Mirna
+          sources: [iso3166-2]
+    
+
+    # Mirna Peč
+    - codes:
+        iso3166-2: SI-170
+      names:
+        - name: Mirna Peč
+          sources: [iso3166-2]
+    
+
+    # Mislinja
+    - codes:
+        iso3166-2: SI-076
+      names:
+        - name: Mislinja
+          sources: [iso3166-2]
+    
+
+    # Mokronog-Trebelno
+    - codes:
+        iso3166-2: SI-199
+      names:
+        - name: Mokronog-Trebelno
+          sources: [iso3166-2]
+    
+
+    # Moravske Toplice
+    - codes:
+        iso3166-2: SI-078
+      names:
+        - name: Moravske Toplice
+          sources: [iso3166-2]
+    
+
+    # Moravče
+    - codes:
+        iso3166-2: SI-077
+      names:
+        - name: Moravče
+          sources: [iso3166-2]
+    
+
+    # Mozirje
+    - codes:
+        iso3166-2: SI-079
+      names:
+        - name: Mozirje
+          sources: [iso3166-2]
+    
+
+    # Murska Sobota
+    - codes:
+        iso3166-2: SI-080
+      names:
+        - name: Murska Sobota
+          sources: [iso3166-2]
+    
+
+    # Muta
+    - codes:
+        iso3166-2: SI-081
+      names:
+        - name: Muta
+          sources: [iso3166-2]
+    
+
+    # Naklo
+    - codes:
+        iso3166-2: SI-082
+      names:
+        - name: Naklo
+          sources: [iso3166-2]
+    
+
+    # Nazarje
+    - codes:
+        iso3166-2: SI-083
+      names:
+        - name: Nazarje
+          sources: [iso3166-2]
+    
+
+    # Notranjsko-kraška
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7822
+      names:
+        - name: Notranjska y Karst
+          languages: [es]
+          sources: [euvoc]
+        - name: Notranjsko-krashka
+          languages: [sq]
+          sources: [euvoc]
+        - name: Notranjsko-kraska
+          languages: [mt]
+          sources: [euvoc]
+        - name: Notranjsko-kraška
+          languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Notranska-Kraška
+          languages: [lt]
+          sources: [euvoc]
+        - name: Wewnętrzna Kraina
+          languages: [pl]
+          sources: [euvoc]
+        - name: Нотранииско-краска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Нотрањско-крашка
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Nova Gorica
+    - codes:
+        iso3166-2: SI-084
+      names:
+        - name: Nova Gorica
+          sources: [iso3166-2]
+    
+
+    # Novo Mesto
+    - codes:
+        iso3166-2: SI-085
+      names:
+        - name: Novo Mesto
+          sources: [iso3166-2]
+    
+
+    # Odranci
+    - codes:
+        iso3166-2: SI-086
+      names:
+        - name: Odranci
+          sources: [iso3166-2]
+    
+
+    # Oplotnica
+    - codes:
+        iso3166-2: SI-171
+      names:
+        - name: Oplotnica
+          sources: [iso3166-2]
+    
+
+    # Ormož
+    - codes:
+        iso3166-2: SI-087
+      names:
+        - name: Ormož
+          sources: [iso3166-2]
+    
+
+    # Osilnica
+    - codes:
+        iso3166-2: SI-088
+      names:
+        - name: Osilnica
+          sources: [iso3166-2]
+    
+
+    # Pesnica
+    - codes:
+        iso3166-2: SI-089
+      names:
+        - name: Pesnica
+          sources: [iso3166-2]
+    
+
+    # Piran
+    - codes:
+        iso3166-2: SI-090
+      names:
+        - name: Piran
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Pirano
+          sources: [iso3166-2]
+    
+
+    # Pivka
+    - codes:
+        iso3166-2: SI-091
+      names:
+        - name: Pivka
+          sources: [iso3166-2]
+    
+
+    # Podlehnik
+    - codes:
+        iso3166-2: SI-172
+      names:
+        - name: Podlehnik
+          sources: [iso3166-2]
+    
+
+    # Podravska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7824
+      names:
+        - name: Podravska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Подравска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Podvelka
+    - codes:
+        iso3166-2: SI-093
+      names:
+        - name: Podvelka
+          sources: [iso3166-2]
+    
+
+    # Podčetrtek
+    - codes:
+        iso3166-2: SI-092
+      names:
+        - name: Podčetrtek
+          sources: [iso3166-2]
+    
+
+    # Poljčane
+    - codes:
+        iso3166-2: SI-200
+      names:
+        - name: Poljčane
+          sources: [iso3166-2]
+    
+
+    # Polzela
+    - codes:
+        iso3166-2: SI-173
+      names:
+        - name: Polzela
+          sources: [iso3166-2]
+    
+
+    # Pomurska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7825
+      names:
+        - name: Pomurje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Pomurska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Помурска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Postojna
+    - codes:
+        iso3166-2: SI-094
+      names:
+        - name: Postojna
+          sources: [iso3166-2]
+    
+
+    # Prebold
+    - codes:
+        iso3166-2: SI-174
+      names:
+        - name: Prebold
+          sources: [iso3166-2]
+    
+
+    # Preddvor
+    - codes:
+        iso3166-2: SI-095
+      names:
+        - name: Preddvor
+          sources: [iso3166-2]
+    
+
+    # Prevalje
+    - codes:
+        iso3166-2: SI-175
+      names:
+        - name: Prevalje
+          sources: [iso3166-2]
+    
+
+    # Ptuj
+    - codes:
+        iso3166-2: SI-096
+      names:
+        - name: Ptuj
+          sources: [iso3166-2]
+    
+
+    # Puconci
+    - codes:
+        iso3166-2: SI-097
+      names:
+        - name: Puconci
+          sources: [iso3166-2]
+    
+
+    # Radenci
+    - codes:
+        iso3166-2: SI-100
+      names:
+        - name: Radenci
+          sources: [iso3166-2]
+    
+
+    # Radeče
+    - codes:
+        iso3166-2: SI-099
+      names:
+        - name: Radeče
+          sources: [iso3166-2]
+    
+
+    # Radlje ob Dravi
+    - codes:
+        iso3166-2: SI-101
+      names:
+        - name: Radlje ob Dravi
+          sources: [iso3166-2]
+    
+
+    # Radovljica
+    - codes:
+        iso3166-2: SI-102
+      names:
+        - name: Radovljica
+          sources: [iso3166-2]
+    
+
+    # Ravne na Koroškem
+    - codes:
+        iso3166-2: SI-103
+      names:
+        - name: Ravne na Koroškem
+          sources: [iso3166-2]
+    
+
+    # Razkrižje
+    - codes:
+        iso3166-2: SI-176
+      names:
+        - name: Razkrižje
+          sources: [iso3166-2]
+    
+
+    # Rače-Fram
+    - codes:
+        iso3166-2: SI-098
+      names:
+        - name: Rače-Fram
+          sources: [iso3166-2]
+    
+
+    # Renče-Vogrsko
+    - codes:
+        iso3166-2: SI-201
+      names:
+        - name: Renče-Vogrsko
+          sources: [iso3166-2]
+    
+
+    # Rečica ob Savinji
+    - codes:
+        iso3166-2: SI-209
+      names:
+        - name: Rečica ob Savinji
+          sources: [iso3166-2]
+    
+
+    # Ribnica
+    - codes:
+        iso3166-2: SI-104
+      names:
+        - name: Ribnica
+          sources: [iso3166-2]
+    
+
+    # Ribnica na Pohorju
+    - codes:
+        iso3166-2: SI-177
+      names:
+        - name: Ribnica na Pohorju
+          sources: [iso3166-2]
+    
+
+    # Rogatec
+    - codes:
+        iso3166-2: SI-107
+      names:
+        - name: Rogatec
+          sources: [iso3166-2]
+    
+
+    # Rogaška Slatina
+    - codes:
+        iso3166-2: SI-106
+      names:
+        - name: Rogaška Slatina
+          sources: [iso3166-2]
+    
+
+    # Rogašovci
+    - codes:
+        iso3166-2: SI-105
+      names:
+        - name: Rogašovci
+          sources: [iso3166-2]
+    
+
+    # Ruše
+    - codes:
+        iso3166-2: SI-108
+      names:
+        - name: Ruše
+          sources: [iso3166-2]
+    
+
+    # Savinjska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7826
+      names:
+        - name: Savinjska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Savinska
+          languages: [lt]
+          sources: [euvoc]
+        - name: Савийска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Савињска
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Selnica ob Dravi
+    - codes:
+        iso3166-2: SI-178
+      names:
+        - name: Selnica ob Dravi
+          sources: [iso3166-2]
+    
+
+    # Semič
+    - codes:
+        iso3166-2: SI-109
+      names:
+        - name: Semič
+          sources: [iso3166-2]
+    
+
+    # Sevnica
+    - codes:
+        iso3166-2: SI-110
+      names:
+        - name: Sevnica
+          sources: [iso3166-2]
+    
+
+    # Sežana
+    - codes:
+        iso3166-2: SI-111
+      names:
+        - name: Sežana
+          sources: [iso3166-2]
+    
+
+    # Slovenj Gradec
+    - codes:
+        iso3166-2: SI-112
+      names:
+        - name: Slovenj Gradec
+          sources: [iso3166-2]
+    
+
+    # Slovenska Bistrica
+    - codes:
+        iso3166-2: SI-113
+      names:
+        - name: Slovenska Bistrica
+          sources: [iso3166-2]
+    
+
+    # Slovenske Konjice
+    - codes:
+        iso3166-2: SI-114
+      names:
+        - name: Slovenske Konjice
+          sources: [iso3166-2]
+    
+
+    # Sodražica
+    - codes:
+        iso3166-2: SI-179
+      names:
+        - name: Sodražica
+          sources: [iso3166-2]
+    
+
+    # Solčava
+    - codes:
+        iso3166-2: SI-180
+      names:
+        - name: Solčava
+          sources: [iso3166-2]
+    
+
+    # Središče ob Dravi
+    - codes:
+        iso3166-2: SI-202
+      names:
+        - name: Središče ob Dravi
+          sources: [iso3166-2]
+    
+
+    # Starše
+    - codes:
+        iso3166-2: SI-115
+      names:
+        - name: Starše
+          sources: [iso3166-2]
+    
+
+    # Straža
+    - codes:
+        iso3166-2: SI-203
+      names:
+        - name: Straža
+          sources: [iso3166-2]
+    
+
+    # Sveta Ana
+    - codes:
+        iso3166-2: SI-181
+      names:
+        - name: Sveta Ana
+          sources: [iso3166-2]
+    
+
+    # Sveta Trojica v Slovenskih goricah
+    - codes:
+        iso3166-2: SI-204
+      names:
+        - name: Sveta Trojica v Slovenskih goricah
+          sources: [iso3166-2]
+    
+
+    # Sveti Andraž v Slovenskih goricah
+    - codes:
+        iso3166-2: SI-182
+      names:
+        - name: Sveti Andraž v Slovenskih goricah
+          sources: [iso3166-2]
+    
+
+    # Sveti Jurij ob Ščavnici
+    - codes:
+        iso3166-2: SI-116
+      names:
+        - name: Sveti Jurij ob Ščavnici
+          sources: [iso3166-2]
+    
+
+    # Sveti Jurij v Slovenskih goricah
+    - codes:
+        iso3166-2: SI-210
+      names:
+        - name: Sveti Jurij v Slovenskih goricah
+          sources: [iso3166-2]
+    
+
+    # Sveti Tomaž
+    - codes:
+        iso3166-2: SI-205
+      names:
+        - name: Sveti Tomaž
+          sources: [iso3166-2]
+    
+
+    # Tabor
+    - codes:
+        iso3166-2: SI-184
+      names:
+        - name: Tabor
+          sources: [iso3166-2]
+    
+
+    # Tišina
+    - codes:
+        iso3166-2: SI-010
+      names:
+        - name: Tišina
+          sources: [iso3166-2]
+    
+
+    # Tolmin
+    - codes:
+        iso3166-2: SI-128
+      names:
+        - name: Tolmin
+          sources: [iso3166-2]
+    
+
+    # Trbovlje
+    - codes:
+        iso3166-2: SI-129
+      names:
+        - name: Trbovlje
+          sources: [iso3166-2]
+    
+
+    # Trebnje
+    - codes:
+        iso3166-2: SI-130
+      names:
+        - name: Trebnje
+          sources: [iso3166-2]
+    
+
+    # Trnovska Vas
+    - codes:
+        iso3166-2: SI-185
+      names:
+        - name: Trnovska Vas
+          sources: [iso3166-2]
+    
+
+    # Trzin
+    - codes:
+        iso3166-2: SI-186
+      names:
+        - name: Trzin
+          sources: [iso3166-2]
+    
+
+    # Tržič
+    - codes:
+        iso3166-2: SI-131
+      names:
+        - name: Tržič
+          sources: [iso3166-2]
+    
+
+    # Turnišče
+    - codes:
+        iso3166-2: SI-132
+      names:
+        - name: Turnišče
+          sources: [iso3166-2]
+    
+
+    # Velenje
+    - codes:
+        iso3166-2: SI-133
+      names:
+        - name: Velenje
+          sources: [iso3166-2]
+    
+
+    # Velika Polana
+    - codes:
+        iso3166-2: SI-187
+      names:
+        - name: Velika Polana
+          sources: [iso3166-2]
+    
+
+    # Velike Lašče
+    - codes:
+        iso3166-2: SI-134
+      names:
+        - name: Velike Lašče
+          sources: [iso3166-2]
+    
+
+    # Veržej
+    - codes:
+        iso3166-2: SI-188
+      names:
+        - name: Veržej
+          sources: [iso3166-2]
+    
+
+    # Videm
+    - codes:
+        iso3166-2: SI-135
+      names:
+        - name: Videm
+          sources: [iso3166-2]
+    
+
+    # Vipava
+    - codes:
+        iso3166-2: SI-136
+      names:
+        - name: Vipava
+          sources: [iso3166-2]
+    
+
+    # Vitanje
+    - codes:
+        iso3166-2: SI-137
+      names:
+        - name: Vitanje
+          sources: [iso3166-2]
+    
+
+    # Vodice
+    - codes:
+        iso3166-2: SI-138
+      names:
+        - name: Vodice
+          sources: [iso3166-2]
+    
+
+    # Vojnik
+    - codes:
+        iso3166-2: SI-139
+      names:
+        - name: Vojnik
+          sources: [iso3166-2]
+    
+
+    # Vransko
+    - codes:
+        iso3166-2: SI-189
+      names:
+        - name: Vransko
+          sources: [iso3166-2]
+    
+
+    # Vrhnika
+    - codes:
+        iso3166-2: SI-140
+      names:
+        - name: Vrhnika
+          sources: [iso3166-2]
+    
+
+    # Vuzenica
+    - codes:
+        iso3166-2: SI-141
+      names:
+        - name: Vuzenica
+          sources: [iso3166-2]
+    
+
+    # Zagorje ob Savi
+    - codes:
+        iso3166-2: SI-142
+      names:
+        - name: Zagorje ob Savi
+          sources: [iso3166-2]
+    
+
+    # Zasavska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7828
+      names:
+        - name: Zasavlje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Zasavska
+          languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Засавска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Zavrč
+    - codes:
+        iso3166-2: SI-143
+      names:
+        - name: Zavrč
+          sources: [iso3166-2]
+    
+
+    # Zreče
+    - codes:
+        iso3166-2: SI-144
+      names:
+        - name: Zreče
+          sources: [iso3166-2]
+    
+
+    # Črenšovci
+    - codes:
+        iso3166-2: SI-015
+      names:
+        - name: Črenšovci
+          sources: [iso3166-2]
+    
+
+    # Črna na Koroškem
+    - codes:
+        iso3166-2: SI-016
+      names:
+        - name: Črna na Koroškem
+          sources: [iso3166-2]
+    
+
+    # Črnomelj
+    - codes:
+        iso3166-2: SI-017
+      names:
+        - name: Črnomelj
+          sources: [iso3166-2]
+    
+
+    # Šalovci
+    - codes:
+        iso3166-2: SI-033
+      names:
+        - name: Šalovci
+          sources: [iso3166-2]
+    
+
+    # Šempeter-Vrtojba
+    - codes:
+        iso3166-2: SI-183
+      names:
+        - name: Šempeter-Vrtojba
+          sources: [iso3166-2]
+    
+
+    # Šentilj
+    - codes:
+        iso3166-2: SI-118
+      names:
+        - name: Šentilj
+          sources: [iso3166-2]
+    
+
+    # Šentjernej
+    - codes:
+        iso3166-2: SI-119
+      names:
+        - name: Šentjernej
+          sources: [iso3166-2]
+    
+
+    # Šentjur
+    - codes:
+        iso3166-2: SI-120
+      names:
+        - name: Šentjur
+          sources: [iso3166-2]
+    
+
+    # Šentrupert
+    - codes:
+        iso3166-2: SI-211
+      names:
+        - name: Šentrupert
+          sources: [iso3166-2]
+    
+
+    # Šenčur
+    - codes:
+        iso3166-2: SI-117
+      names:
+        - name: Šenčur
+          sources: [iso3166-2]
+    
+
+    # Škocjan
+    - codes:
+        iso3166-2: SI-121
+      names:
+        - name: Škocjan
+          sources: [iso3166-2]
+    
+
+    # Škofja Loka
+    - codes:
+        iso3166-2: SI-122
+      names:
+        - name: Škofja Loka
+          sources: [iso3166-2]
+    
+
+    # Škofljica
+    - codes:
+        iso3166-2: SI-123
+      names:
+        - name: Škofljica
+          sources: [iso3166-2]
+    
+
+    # Šmarje pri Jelšah
+    - codes:
+        iso3166-2: SI-124
+      names:
+        - name: Šmarje pri Jelšah
+          sources: [iso3166-2]
+    
+
+    # Šmarješke Toplice
+    - codes:
+        iso3166-2: SI-206
+      names:
+        - name: Šmarješke Toplice
+          sources: [iso3166-2]
+    
+
+    # Šmartno ob Paki
+    - codes:
+        iso3166-2: SI-125
+      names:
+        - name: Šmartno ob Paki
+          sources: [iso3166-2]
+    
+
+    # Šmartno pri Litiji
+    - codes:
+        iso3166-2: SI-194
+      names:
+        - name: Šmartno pri Litiji
+          sources: [iso3166-2]
+    
+
+    # Šoštanj
+    - codes:
+        iso3166-2: SI-126
+      names:
+        - name: Šoštanj
+          sources: [iso3166-2]
+    
+
+    # Štore
+    - codes:
+        iso3166-2: SI-127
+      names:
+        - name: Štore
+          sources: [iso3166-2]
+    
+
+    # Žalec
+    - codes:
+        iso3166-2: SI-190
+      names:
+        - name: Žalec
+          sources: [iso3166-2]
+    
+
+    # Železniki
+    - codes:
+        iso3166-2: SI-146
+      names:
+        - name: Železniki
+          sources: [iso3166-2]
+    
+
+    # Žetale
+    - codes:
+        iso3166-2: SI-191
+      names:
+        - name: Žetale
+          sources: [iso3166-2]
+    
+
+    # Žiri
+    - codes:
+        iso3166-2: SI-147
+      names:
+        - name: Žiri
+          sources: [iso3166-2]
+    
+
+    # Žirovnica
+    - codes:
+        iso3166-2: SI-192
+      names:
+        - name: Žirovnica
+          sources: [iso3166-2]
+    
+
+    # Žužemberk
+    - codes:
+        iso3166-2: SI-193
+      names:
+        - name: Žužemberk
+          sources: [iso3166-2]

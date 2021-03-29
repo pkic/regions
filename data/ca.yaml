@@ -1,0 +1,121 @@
+iso3166-1: CA
+complete: false
+regions:
+    
+
+    # Alberta
+    - codes:
+        iso3166-2: CA-AB
+      names:
+        - name: Alberta
+          sources: [iso3166-2]
+    
+
+    # British Columbia
+    - codes:
+        iso3166-2: CA-BC
+      names:
+        - name: British Columbia
+          sources: [iso3166-2]
+        - name: Colombie-Britannique
+          sources: [iso3166-2]
+    
+
+    # Manitoba
+    - codes:
+        iso3166-2: CA-MB
+      names:
+        - name: Manitoba
+          sources: [iso3166-2]
+    
+
+    # New Brunswick
+    - codes:
+        iso3166-2: CA-NB
+      names:
+        - name: New Brunswick
+          sources: [iso3166-2]
+        - name: Nouveau-Brunswick
+          sources: [iso3166-2]
+    
+
+    # Nouvelle-Écosse
+    - codes:
+        iso3166-2: CA-NS
+      names:
+        - name: Nouvelle-Écosse
+          sources: [iso3166-2]
+        - name: Nova Scotia
+          sources: [iso3166-2]
+    
+
+    # Nunavut
+    - codes:
+        iso3166-2: CA-NU
+      names:
+        - name: Nunavut
+          sources: [iso3166-2]
+    
+
+    # Ontario
+    - codes:
+        iso3166-2: CA-ON
+      names:
+        - name: Ontario
+          sources: [iso3166-2]
+    
+
+    # Prince Edward Island
+    - codes:
+        iso3166-2: CA-PE
+      names:
+        - name: Prince Edward Island
+          sources: [iso3166-2]
+        - name: Île-du-Prince-Édouard
+          sources: [iso3166-2]
+    
+
+    # Quebec
+    - codes:
+        iso3166-2: CA-QC
+      names:
+        - name: Quebec
+          sources: [iso3166-2]
+        - name: Québec
+          sources: [iso3166-2]
+    
+
+    # Saskatchewan
+    - codes:
+        iso3166-2: CA-SK
+      names:
+        - name: Saskatchewan
+          sources: [iso3166-2]
+    
+
+    # Newfoundland and Labrador
+    - codes:
+        iso3166-2: CA-NL
+      names:
+        - name: Newfoundland and Labrador
+          sources: [iso3166-2]
+        - name: Terre-Neuve-et-Labrador
+          sources: [iso3166-2]
+    
+
+    # Northwest Territories
+    - codes:
+        iso3166-2: CA-NT
+      names:
+        - name: Northwest Territories
+          sources: [iso3166-2]
+        - name: Territoires du Nord-Ouest
+          sources: [iso3166-2]
+    
+
+    # Yukon
+    - codes:
+        iso3166-2: CA-YT
+      names:
+        - name: Yukon
+          sources: [iso3166-2]

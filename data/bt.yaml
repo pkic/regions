@@ -1,0 +1,163 @@
+iso3166-1: BT
+complete: false
+regions:
+    
+
+    # Bumthang
+    - codes:
+        iso3166-2: BT-33
+      names:
+        - name: Bumthang
+          sources: [iso3166-2]
+    
+
+    # Chhukha
+    - codes:
+        iso3166-2: BT-12
+      names:
+        - name: Chhukha
+          sources: [iso3166-2]
+    
+
+    # Dagana
+    - codes:
+        iso3166-2: BT-22
+      names:
+        - name: Dagana
+          sources: [iso3166-2]
+    
+
+    # Gasa
+    - codes:
+        iso3166-2: BT-GA
+      names:
+        - name: Gasa
+          sources: [iso3166-2]
+    
+
+    # Haa
+    - codes:
+        iso3166-2: BT-13
+      names:
+        - name: Haa
+          sources: [iso3166-2]
+    
+
+    # Lhuentse
+    - codes:
+        iso3166-2: BT-44
+      names:
+        - name: Lhuentse
+          sources: [iso3166-2]
+    
+
+    # Monggar
+    - codes:
+        iso3166-2: BT-42
+      names:
+        - name: Monggar
+          sources: [iso3166-2]
+    
+
+    # Paro
+    - codes:
+        iso3166-2: BT-11
+      names:
+        - name: Paro
+          sources: [iso3166-2]
+    
+
+    # Pema Gatshel
+    - codes:
+        iso3166-2: BT-43
+      names:
+        - name: Pema Gatshel
+          sources: [iso3166-2]
+    
+
+    # Punakha
+    - codes:
+        iso3166-2: BT-23
+      names:
+        - name: Punakha
+          sources: [iso3166-2]
+    
+
+    # Samdrup Jongkhar
+    - codes:
+        iso3166-2: BT-45
+      names:
+        - name: Samdrup Jongkhar
+          sources: [iso3166-2]
+    
+
+    # Samtse
+    - codes:
+        iso3166-2: BT-14
+      names:
+        - name: Samtse
+          sources: [iso3166-2]
+    
+
+    # Sarpang
+    - codes:
+        iso3166-2: BT-31
+      names:
+        - name: Sarpang
+          sources: [iso3166-2]
+    
+
+    # Thimphu
+    - codes:
+        iso3166-2: BT-15
+      names:
+        - name: Thimphu
+          sources: [iso3166-2]
+    
+
+    # Trashi Yangtse
+    - codes:
+        iso3166-2: BT-TY
+      names:
+        - name: Trashi Yangtse
+          sources: [iso3166-2]
+    
+
+    # Trashigang
+    - codes:
+        iso3166-2: BT-41
+      names:
+        - name: Trashigang
+          sources: [iso3166-2]
+    
+
+    # Trongsa
+    - codes:
+        iso3166-2: BT-32
+      names:
+        - name: Trongsa
+          sources: [iso3166-2]
+    
+
+    # Tsirang
+    - codes:
+        iso3166-2: BT-21
+      names:
+        - name: Tsirang
+          sources: [iso3166-2]
+    
+
+    # Wangdue Phodrang
+    - codes:
+        iso3166-2: BT-24
+      names:
+        - name: Wangdue Phodrang
+          sources: [iso3166-2]
+    
+
+    # Zhemgang
+    - codes:
+        iso3166-2: BT-34
+      names:
+        - name: Zhemgang
+          sources: [iso3166-2]

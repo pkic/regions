@@ -1,0 +1,195 @@
+iso3166-1: ZA
+complete: false
+regions:
+    
+
+    # Freistata
+    - codes:
+        iso3166-2: ZA-FS
+      names:
+        - name: Foreisetata
+          sources: [iso3166-2]
+        - name: Free State
+          sources: [iso3166-2]
+        - name: Freistata
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Freyisitata
+          sources: [iso3166-2]
+        - name: Freyistata
+          sources: [iso3166-2]
+        - name: Fuleyisitata
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Fureisitata
+          sources: [iso3166-2]
+        - name: Vrystaat
+          sources: [iso3166-2]
+        - name: iFreyistata
+          sources: [iso3166-2]
+    
+
+    # Gauteng
+    - codes:
+        iso3166-2: ZA-GP
+      names:
+        - name: Gauteng
+          sources: [iso3166-2]
+        - name: Kgauteng
+          sources: [iso3166-2]
+        - name: Rhawuti
+          sources: [iso3166-2]
+        - name: iGauteng
+          sources: [iso3166-2]
+    
+
+    # GaZulu-Natala
+    - codes:
+        iso3166-2: ZA-KZN
+      names:
+        - name: GaZulu-Natala
+          sources: [iso3166-2]
+        - name: HaZulu-Natal
+          sources: [iso3166-2]
+        - name: Hazolo-Natala
+          sources: [iso3166-2]
+        - name: KwaZulu-Natal
+          sources: [iso3166-2]
+        - name: KwaZulu-Natala
+          sources: [iso3166-2]
+        - name: KwaZulu-Natali
+          sources: [iso3166-2]
+        - name: iKwaZulu-Natal
+          sources: [iso3166-2]
+    
+
+    # Limpopo
+    - codes:
+        iso3166-2: ZA-LP
+      names:
+        - name: Limpopo
+          sources: [iso3166-2]
+        - name: Vhembe
+          sources: [iso3166-2]
+    
+
+    # Mpumalanga-Kapa
+    - codes:
+        iso3166-2: ZA-EC
+      names:
+        - name: Eastern Cape
+          sources: [iso3166-2]
+        - name: Kapa Bohlabela
+          sources: [iso3166-2]
+        - name: Kapa Botjhabela
+          sources: [iso3166-2]
+        - name: Kapa Botlhaba
+          sources: [iso3166-2]
+        - name: Kapa Vhubvaḓuvha
+          sources: [iso3166-2]
+        - name: Kapa-Vuxa
+          sources: [iso3166-2]
+        - name: Mpuma-Koloni
+          sources: [iso3166-2]
+        - name: Mpumalanga-Kapa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mpumalanga-Koloni
+          sources: [iso3166-2]
+        - name: Oos-Kaap
+          sources: [iso3166-2]
+        - name: iPumalanga-Kapa
+          sources: [iso3166-2]
+    
+
+    # Ntshonalanga-Kapa
+    - codes:
+        iso3166-2: ZA-WC
+      names:
+        - name: Kapa Bodikela
+          sources: [iso3166-2]
+        - name: Kapa Bophirima
+          sources: [iso3166-2]
+        - name: Kapa Bophirimela
+          sources: [iso3166-2]
+        - name: Kapa Vhukovhela
+          sources: [iso3166-2]
+        - name: Kapa-Vupeladyambu
+          sources: [iso3166-2]
+        - name: Ntshona-Koloni
+          sources: [iso3166-2]
+        - name: Ntshonalanga-Kapa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ntshonalanga-Koloni
+          sources: [iso3166-2]
+        - name: Wes-Kaap
+          sources: [iso3166-2]
+        - name: Western Cape
+          sources: [iso3166-2]
+        - name: iTjhingalanga-Kapa
+          sources: [iso3166-2]
+    
+
+    # Kapa Bokone
+    - codes:
+        iso3166-2: ZA-NC
+      names:
+        - name: Kapa Bokone
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kapa Devhula
+          sources: [iso3166-2]
+        - name: Kapa Leboa
+          sources: [iso3166-2]
+        - name: Kapa Leboya
+          sources: [iso3166-2]
+        - name: Kapa-N'walungu
+          sources: [iso3166-2]
+        - name: Mntla-Koloni
+          sources: [iso3166-2]
+        - name: Noord-Kaap
+          sources: [iso3166-2]
+        - name: Northern Cape
+          sources: [iso3166-2]
+        - name: Nyakatho-Kapa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Nyakatho-Koloni
+          sources: [iso3166-2]
+        - name: iTlhagwini-Kapa
+          sources: [iso3166-2]
+    
+
+    # Bokone Bophirima
+    - codes:
+        iso3166-2: ZA-NW
+      names:
+        - name: Bokone Bophirima
+          sources: [iso3166-2]
+        - name: Lebowa Bodikela
+          sources: [iso3166-2]
+        - name: Leboya  Bophirima
+          sources: [iso3166-2]
+        - name: Mntla-Ntshona
+          sources: [iso3166-2]
+        - name: N'walungu-Vupeladyambu
+          sources: [iso3166-2]
+        - name: Noordwes
+          sources: [iso3166-2]
+        - name: North-West
+          sources: [iso3166-2]
+        - name: Nyakatho-Ntshonalanga
+          sources: [iso3166-2]
+        - name: iTlhagwini-Tjhingalanga
+          sources: [iso3166-2]
+    
+
+    # Mpumalanga
+    - codes:
+        iso3166-2: ZA-MP
+      names:
+        - name: Mpumalanga
+          sources: [iso3166-2]
+        - name: iMpumalanga
+          sources: [iso3166-2]

@@ -1,0 +1,38 @@
+iso3166-1: BH
+complete: false
+regions:
+    
+
+    # Al Janūbīyah
+    - codes:
+        iso3166-2: BH-14
+      names:
+        - name: Al Janūbīyah
+          sources: [iso3166-2]
+    
+
+    # Al Muḩarraq
+    - codes:
+        iso3166-2: BH-15
+      names:
+        - name: Al Muḩarraq
+          sources: [iso3166-2]
+    
+
+    # Al ‘Āşimah
+    - codes:
+        iso3166-2: BH-13
+      names:
+        - name: Al Manāmah
+          sources: [iso3166-2]
+        - name: Al ‘Āşimah
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ash Shamālīyah
+    - codes:
+        iso3166-2: BH-17
+      names:
+        - name: Ash Shamālīyah
+          sources: [iso3166-2]

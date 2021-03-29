@@ -1,0 +1,113 @@
+iso3166-1: ET
+complete: false
+regions:
+    
+
+    # Benshangul-Gumaz
+    - codes:
+        iso3166-2: ET-BE
+      names:
+        - name: Benshangul-Gumaz
+          sources: [iso3166-2]
+        - name: Bīnshangul Gumuz
+          sources: [iso3166-2]
+    
+
+    # Dire Dawa
+    - codes:
+        iso3166-2: ET-DD
+      names:
+        - name: Dire Dawa
+          sources: [iso3166-2]
+        - name: Dirē Dawa
+          sources: [iso3166-2]
+    
+
+    # Gambela Peoples
+    - codes:
+        iso3166-2: ET-GA
+      names:
+        - name: Gambela Peoples
+          sources: [iso3166-2]
+        - name: Gambēla Hizboch
+          sources: [iso3166-2]
+    
+
+    # Harari People
+    - codes:
+        iso3166-2: ET-HA
+      names:
+        - name: Harari People
+          sources: [iso3166-2]
+        - name: Hārerī Hizb
+          sources: [iso3166-2]
+    
+
+    # Oromia
+    - codes:
+        iso3166-2: ET-OR
+      names:
+        - name: Oromia
+          sources: [iso3166-2]
+        - name: Oromīya
+          sources: [iso3166-2]
+    
+
+    # Somali
+    - codes:
+        iso3166-2: ET-SO
+      names:
+        - name: Somali
+          sources: [iso3166-2]
+        - name: Sumalē
+          sources: [iso3166-2]
+    
+
+    # Tigrai
+    - codes:
+        iso3166-2: ET-TI
+      names:
+        - name: Tigrai
+          sources: [iso3166-2]
+        - name: Tigray
+          sources: [iso3166-2]
+    
+
+    # Southern Nations, Nationalities and Peoples
+    - codes:
+        iso3166-2: ET-SN
+      names:
+        - name: Southern Nations, Nationalities and Peoples
+          sources: [iso3166-2]
+        - name: YeDebub Bihēroch Bihēreseboch na Hizboch
+          sources: [iso3166-2]
+    
+
+    # Addis Ababa
+    - codes:
+        iso3166-2: ET-AA
+      names:
+        - name: Addis Ababa
+          sources: [iso3166-2]
+        - name: Ādīs Ābeba
+          sources: [iso3166-2]
+    
+
+    # Afar
+    - codes:
+        iso3166-2: ET-AF
+      names:
+        - name: Afar
+          sources: [iso3166-2]
+        - name: Āfar
+          sources: [iso3166-2]
+    
+
+    # Amara
+    - codes:
+        iso3166-2: ET-AM
+      names:
+        - name: Amara
+          sources: [iso3166-2]
+        - name: Āmara
+          sources: [iso3166-2]

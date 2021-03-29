@@ -1,0 +1,123 @@
+iso3166-1: MM
+complete: false
+regions:
+    
+
+    # Ayeyarwady
+    - codes:
+        iso3166-2: MM-07
+      names:
+        - name: Ayeyarwady
+          sources: [iso3166-2]
+    
+
+    # Bago
+    - codes:
+        iso3166-2: MM-02
+      names:
+        - name: Bago
+          sources: [iso3166-2]
+    
+
+    # Chin
+    - codes:
+        iso3166-2: MM-14
+      names:
+        - name: Chin
+          sources: [iso3166-2]
+    
+
+    # Kachin
+    - codes:
+        iso3166-2: MM-11
+      names:
+        - name: Kachin
+          sources: [iso3166-2]
+    
+
+    # Kayah
+    - codes:
+        iso3166-2: MM-12
+      names:
+        - name: Kayah
+          sources: [iso3166-2]
+    
+
+    # Kayin
+    - codes:
+        iso3166-2: MM-13
+      names:
+        - name: Kayin
+          sources: [iso3166-2]
+    
+
+    # Magway
+    - codes:
+        iso3166-2: MM-03
+      names:
+        - name: Magway
+          sources: [iso3166-2]
+    
+
+    # Mandalay
+    - codes:
+        iso3166-2: MM-04
+      names:
+        - name: Mandalay
+          sources: [iso3166-2]
+    
+
+    # Mon
+    - codes:
+        iso3166-2: MM-15
+      names:
+        - name: Mon
+          sources: [iso3166-2]
+    
+
+    # Nay Pyi Taw
+    - codes:
+        iso3166-2: MM-18
+      names:
+        - name: Nay Pyi Taw
+          sources: [iso3166-2]
+    
+
+    # Rakhine
+    - codes:
+        iso3166-2: MM-16
+      names:
+        - name: Rakhine
+          sources: [iso3166-2]
+    
+
+    # Sagaing
+    - codes:
+        iso3166-2: MM-01
+      names:
+        - name: Sagaing
+          sources: [iso3166-2]
+    
+
+    # Shan
+    - codes:
+        iso3166-2: MM-17
+      names:
+        - name: Shan
+          sources: [iso3166-2]
+    
+
+    # Tanintharyi
+    - codes:
+        iso3166-2: MM-05
+      names:
+        - name: Tanintharyi
+          sources: [iso3166-2]
+    
+
+    # Yangon
+    - codes:
+        iso3166-2: MM-06
+      names:
+        - name: Yangon
+          sources: [iso3166-2]

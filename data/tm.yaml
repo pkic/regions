@@ -1,0 +1,51 @@
+iso3166-1: TM
+complete: false
+regions:
+    
+
+    # Ahal
+    - codes:
+        iso3166-2: TM-A
+      names:
+        - name: Ahal
+          sources: [iso3166-2]
+    
+
+    # Aşgabat
+    - codes:
+        iso3166-2: TM-S
+      names:
+        - name: Aşgabat
+          sources: [iso3166-2]
+    
+
+    # Balkan
+    - codes:
+        iso3166-2: TM-B
+      names:
+        - name: Balkan
+          sources: [iso3166-2]
+    
+
+    # Daşoguz
+    - codes:
+        iso3166-2: TM-D
+      names:
+        - name: Daşoguz
+          sources: [iso3166-2]
+    
+
+    # Lebap
+    - codes:
+        iso3166-2: TM-L
+      names:
+        - name: Lebap
+          sources: [iso3166-2]
+    
+
+    # Mary
+    - codes:
+        iso3166-2: TM-M
+      names:
+        - name: Mary
+          sources: [iso3166-2]

@@ -1,0 +1,630 @@
+iso3166-1: TH
+complete: false
+regions:
+    
+
+    # Amnat Charoen
+    - codes:
+        iso3166-2: TH-37
+      names:
+        - name: Amnat Charoen
+          sources: [iso3166-2]
+    
+
+    # Ang Thong
+    - codes:
+        iso3166-2: TH-15
+      names:
+        - name: Ang Thong
+          sources: [iso3166-2]
+    
+
+    # Bueng Kan
+    - codes:
+        iso3166-2: TH-38
+      names:
+        - name: Bueng Kan
+          sources: [iso3166-2]
+    
+
+    # Buri Ram
+    - codes:
+        iso3166-2: TH-31
+      names:
+        - name: Buri Ram
+          sources: [iso3166-2]
+    
+
+    # Chachoengsao
+    - codes:
+        iso3166-2: TH-24
+      names:
+        - name: Chachoengsao
+          sources: [iso3166-2]
+    
+
+    # Chai Nat
+    - codes:
+        iso3166-2: TH-18
+      names:
+        - name: Chai Nat
+          sources: [iso3166-2]
+    
+
+    # Chaiyaphum
+    - codes:
+        iso3166-2: TH-36
+      names:
+        - name: Chaiyaphum
+          sources: [iso3166-2]
+    
+
+    # Chanthaburi
+    - codes:
+        iso3166-2: TH-22
+      names:
+        - name: Chanthaburi
+          sources: [iso3166-2]
+    
+
+    # Chiang Mai
+    - codes:
+        iso3166-2: TH-50
+      names:
+        - name: Chiang Mai
+          sources: [iso3166-2]
+    
+
+    # Chiang Rai
+    - codes:
+        iso3166-2: TH-57
+      names:
+        - name: Chiang Rai
+          sources: [iso3166-2]
+    
+
+    # Chon Buri
+    - codes:
+        iso3166-2: TH-20
+      names:
+        - name: Chon Buri
+          sources: [iso3166-2]
+    
+
+    # Chumphon
+    - codes:
+        iso3166-2: TH-86
+      names:
+        - name: Chumphon
+          sources: [iso3166-2]
+    
+
+    # Kalasin
+    - codes:
+        iso3166-2: TH-46
+      names:
+        - name: Kalasin
+          sources: [iso3166-2]
+    
+
+    # Kamphaeng Phet
+    - codes:
+        iso3166-2: TH-62
+      names:
+        - name: Kamphaeng Phet
+          sources: [iso3166-2]
+    
+
+    # Kanchanaburi
+    - codes:
+        iso3166-2: TH-71
+      names:
+        - name: Kanchanaburi
+          sources: [iso3166-2]
+    
+
+    # Khon Kaen
+    - codes:
+        iso3166-2: TH-40
+      names:
+        - name: Khon Kaen
+          sources: [iso3166-2]
+    
+
+    # Krabi
+    - codes:
+        iso3166-2: TH-81
+      names:
+        - name: Krabi
+          sources: [iso3166-2]
+    
+
+    # Krung Thep Maha Nakhon
+    - codes:
+        iso3166-2: TH-10
+      names:
+        - name: Bangkok
+          sources: [iso3166-2]
+        - name: Krung Thep Maha Nakhon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lampang
+    - codes:
+        iso3166-2: TH-52
+      names:
+        - name: Lampang
+          sources: [iso3166-2]
+    
+
+    # Lamphun
+    - codes:
+        iso3166-2: TH-51
+      names:
+        - name: Lamphun
+          sources: [iso3166-2]
+    
+
+    # Loei
+    - codes:
+        iso3166-2: TH-42
+      names:
+        - name: Loei
+          sources: [iso3166-2]
+    
+
+    # Lop Buri
+    - codes:
+        iso3166-2: TH-16
+      names:
+        - name: Lop Buri
+          sources: [iso3166-2]
+    
+
+    # Mae Hong Son
+    - codes:
+        iso3166-2: TH-58
+      names:
+        - name: Mae Hong Son
+          sources: [iso3166-2]
+    
+
+    # Maha Sarakham
+    - codes:
+        iso3166-2: TH-44
+      names:
+        - name: Maha Sarakham
+          sources: [iso3166-2]
+    
+
+    # Mukdahan
+    - codes:
+        iso3166-2: TH-49
+      names:
+        - name: Mukdahan
+          sources: [iso3166-2]
+    
+
+    # Nakhon Nayok
+    - codes:
+        iso3166-2: TH-26
+      names:
+        - name: Nakhon Nayok
+          sources: [iso3166-2]
+    
+
+    # Nakhon Pathom
+    - codes:
+        iso3166-2: TH-73
+      names:
+        - name: Nakhon Pathom
+          sources: [iso3166-2]
+    
+
+    # Nakhon Phanom
+    - codes:
+        iso3166-2: TH-48
+      names:
+        - name: Nakhon Phanom
+          sources: [iso3166-2]
+    
+
+    # Nakhon Ratchasima
+    - codes:
+        iso3166-2: TH-30
+      names:
+        - name: Nakhon Ratchasima
+          sources: [iso3166-2]
+    
+
+    # Nakhon Sawan
+    - codes:
+        iso3166-2: TH-60
+      names:
+        - name: Nakhon Sawan
+          sources: [iso3166-2]
+    
+
+    # Nakhon Si Thammarat
+    - codes:
+        iso3166-2: TH-80
+      names:
+        - name: Nakhon Si Thammarat
+          sources: [iso3166-2]
+    
+
+    # Nan
+    - codes:
+        iso3166-2: TH-55
+      names:
+        - name: Nan
+          sources: [iso3166-2]
+    
+
+    # Narathiwat
+    - codes:
+        iso3166-2: TH-96
+      names:
+        - name: Narathiwat
+          sources: [iso3166-2]
+    
+
+    # Nong Bua Lam Phu
+    - codes:
+        iso3166-2: TH-39
+      names:
+        - name: Nong Bua Lam Phu
+          sources: [iso3166-2]
+    
+
+    # Nong Khai
+    - codes:
+        iso3166-2: TH-43
+      names:
+        - name: Nong Khai
+          sources: [iso3166-2]
+    
+
+    # Nonthaburi
+    - codes:
+        iso3166-2: TH-12
+      names:
+        - name: Nonthaburi
+          sources: [iso3166-2]
+    
+
+    # Pathum Thani
+    - codes:
+        iso3166-2: TH-13
+      names:
+        - name: Pathum Thani
+          sources: [iso3166-2]
+    
+
+    # Pattani
+    - codes:
+        iso3166-2: TH-94
+      names:
+        - name: Pattani
+          sources: [iso3166-2]
+    
+
+    # Phangnga
+    - codes:
+        iso3166-2: TH-82
+      names:
+        - name: Phangnga
+          sources: [iso3166-2]
+    
+
+    # Phatthalung
+    - codes:
+        iso3166-2: TH-93
+      names:
+        - name: Phatthalung
+          sources: [iso3166-2]
+    
+
+    # Phatthaya
+    - codes:
+        iso3166-2: TH-S
+      names:
+        - name: Phatthaya
+          sources: [iso3166-2]
+    
+
+    # Phayao
+    - codes:
+        iso3166-2: TH-56
+      names:
+        - name: Phayao
+          sources: [iso3166-2]
+    
+
+    # Phetchabun
+    - codes:
+        iso3166-2: TH-67
+      names:
+        - name: Phetchabun
+          sources: [iso3166-2]
+    
+
+    # Phetchaburi
+    - codes:
+        iso3166-2: TH-76
+      names:
+        - name: Phetchaburi
+          sources: [iso3166-2]
+    
+
+    # Phichit
+    - codes:
+        iso3166-2: TH-66
+      names:
+        - name: Phichit
+          sources: [iso3166-2]
+    
+
+    # Phitsanulok
+    - codes:
+        iso3166-2: TH-65
+      names:
+        - name: Phitsanulok
+          sources: [iso3166-2]
+    
+
+    # Phra Nakhon Si Ayutthaya
+    - codes:
+        iso3166-2: TH-14
+      names:
+        - name: Phra Nakhon Si Ayutthaya
+          sources: [iso3166-2]
+    
+
+    # Phrae
+    - codes:
+        iso3166-2: TH-54
+      names:
+        - name: Phrae
+          sources: [iso3166-2]
+    
+
+    # Phuket
+    - codes:
+        iso3166-2: TH-83
+      names:
+        - name: Phuket
+          sources: [iso3166-2]
+    
+
+    # Prachin Buri
+    - codes:
+        iso3166-2: TH-25
+      names:
+        - name: Prachin Buri
+          sources: [iso3166-2]
+    
+
+    # Prachuap Khiri Khan
+    - codes:
+        iso3166-2: TH-77
+      names:
+        - name: Prachuap Khiri Khan
+          sources: [iso3166-2]
+    
+
+    # Ranong
+    - codes:
+        iso3166-2: TH-85
+      names:
+        - name: Ranong
+          sources: [iso3166-2]
+    
+
+    # Ratchaburi
+    - codes:
+        iso3166-2: TH-70
+      names:
+        - name: Ratchaburi
+          sources: [iso3166-2]
+    
+
+    # Roi Et
+    - codes:
+        iso3166-2: TH-45
+      names:
+        - name: Roi Et
+          sources: [iso3166-2]
+    
+
+    # Sa Kaeo
+    - codes:
+        iso3166-2: TH-27
+      names:
+        - name: Sa Kaeo
+          sources: [iso3166-2]
+    
+
+    # Sakon Nakhon
+    - codes:
+        iso3166-2: TH-47
+      names:
+        - name: Sakon Nakhon
+          sources: [iso3166-2]
+    
+
+    # Samut Prakan
+    - codes:
+        iso3166-2: TH-11
+      names:
+        - name: Samut Prakan
+          sources: [iso3166-2]
+    
+
+    # Samut Sakhon
+    - codes:
+        iso3166-2: TH-74
+      names:
+        - name: Samut Sakhon
+          sources: [iso3166-2]
+    
+
+    # Samut Songkhram
+    - codes:
+        iso3166-2: TH-75
+      names:
+        - name: Samut Songkhram
+          sources: [iso3166-2]
+    
+
+    # Saraburi
+    - codes:
+        iso3166-2: TH-19
+      names:
+        - name: Saraburi
+          sources: [iso3166-2]
+    
+
+    # Satun
+    - codes:
+        iso3166-2: TH-91
+      names:
+        - name: Satun
+          sources: [iso3166-2]
+    
+
+    # Si Sa Ket
+    - codes:
+        iso3166-2: TH-33
+      names:
+        - name: Si Sa Ket
+          sources: [iso3166-2]
+    
+
+    # Sing Buri
+    - codes:
+        iso3166-2: TH-17
+      names:
+        - name: Sing Buri
+          sources: [iso3166-2]
+    
+
+    # Songkhla
+    - codes:
+        iso3166-2: TH-90
+      names:
+        - name: Songkhla
+          sources: [iso3166-2]
+    
+
+    # Sukhothai
+    - codes:
+        iso3166-2: TH-64
+      names:
+        - name: Sukhothai
+          sources: [iso3166-2]
+    
+
+    # Suphan Buri
+    - codes:
+        iso3166-2: TH-72
+      names:
+        - name: Suphan Buri
+          sources: [iso3166-2]
+    
+
+    # Surat Thani
+    - codes:
+        iso3166-2: TH-84
+      names:
+        - name: Surat Thani
+          sources: [iso3166-2]
+    
+
+    # Surin
+    - codes:
+        iso3166-2: TH-32
+      names:
+        - name: Surin
+          sources: [iso3166-2]
+    
+
+    # Tak
+    - codes:
+        iso3166-2: TH-63
+      names:
+        - name: Tak
+          sources: [iso3166-2]
+    
+
+    # Trang
+    - codes:
+        iso3166-2: TH-92
+      names:
+        - name: Trang
+          sources: [iso3166-2]
+    
+
+    # Trat
+    - codes:
+        iso3166-2: TH-23
+      names:
+        - name: Trat
+          sources: [iso3166-2]
+    
+
+    # Ubon Ratchathani
+    - codes:
+        iso3166-2: TH-34
+      names:
+        - name: Ubon Ratchathani
+          sources: [iso3166-2]
+    
+
+    # Udon Thani
+    - codes:
+        iso3166-2: TH-41
+      names:
+        - name: Udon Thani
+          sources: [iso3166-2]
+    
+
+    # Uthai Thani
+    - codes:
+        iso3166-2: TH-61
+      names:
+        - name: Uthai Thani
+          sources: [iso3166-2]
+    
+
+    # Uttaradit
+    - codes:
+        iso3166-2: TH-53
+      names:
+        - name: Uttaradit
+          sources: [iso3166-2]
+    
+
+    # Yala
+    - codes:
+        iso3166-2: TH-95
+      names:
+        - name: Yala
+          sources: [iso3166-2]
+    
+
+    # Yasothon
+    - codes:
+        iso3166-2: TH-35
+      names:
+        - name: Yasothon
+          sources: [iso3166-2]
+    
+
+    # g
+    - codes:
+        iso3166-2: TH-21
+      names:
+        - name: g
+          sources: [iso3166-2]

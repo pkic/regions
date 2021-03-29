@@ -1,0 +1,155 @@
+iso3166-1: FJ
+complete: false
+regions:
+    
+
+    # Ba
+    - codes:
+        iso3166-2: FJ-01
+      names:
+        - name: Ba
+          sources: [iso3166-2]
+    
+
+    # Bua
+    - codes:
+        iso3166-2: FJ-02
+      names:
+        - name: Bua
+          sources: [iso3166-2]
+    
+
+    # Cakaudrove
+    - codes:
+        iso3166-2: FJ-03
+      names:
+        - name: Cakaudrove
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: FJ-C
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: FJ-E
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+    
+
+    # Kadavu
+    - codes:
+        iso3166-2: FJ-04
+      names:
+        - name: Kadavu
+          sources: [iso3166-2]
+    
+
+    # Lau
+    - codes:
+        iso3166-2: FJ-05
+      names:
+        - name: Lau
+          sources: [iso3166-2]
+    
+
+    # Lomaiviti
+    - codes:
+        iso3166-2: FJ-06
+      names:
+        - name: Lomaiviti
+          sources: [iso3166-2]
+    
+
+    # Macuata
+    - codes:
+        iso3166-2: FJ-07
+      names:
+        - name: Macuata
+          sources: [iso3166-2]
+    
+
+    # Nadroga and Navosa
+    - codes:
+        iso3166-2: FJ-08
+      names:
+        - name: Nadroga and Navosa
+          sources: [iso3166-2]
+    
+
+    # Naitasiri
+    - codes:
+        iso3166-2: FJ-09
+      names:
+        - name: Naitasiri
+          sources: [iso3166-2]
+    
+
+    # Namosi
+    - codes:
+        iso3166-2: FJ-10
+      names:
+        - name: Namosi
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: FJ-N
+      names:
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Ra
+    - codes:
+        iso3166-2: FJ-11
+      names:
+        - name: Ra
+          sources: [iso3166-2]
+    
+
+    # Rewa
+    - codes:
+        iso3166-2: FJ-12
+      names:
+        - name: Rewa
+          sources: [iso3166-2]
+    
+
+    # Rotuma
+    - codes:
+        iso3166-2: FJ-R
+      names:
+        - name: Rotuma
+          sources: [iso3166-2]
+    
+
+    # Serua
+    - codes:
+        iso3166-2: FJ-13
+      names:
+        - name: Serua
+          sources: [iso3166-2]
+    
+
+    # Tailevu
+    - codes:
+        iso3166-2: FJ-14
+      names:
+        - name: Tailevu
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: FJ-W
+      names:
+        - name: Western
+          sources: [iso3166-2]

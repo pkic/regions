@@ -1,0 +1,531 @@
+name: Slovakia
+iso3166-1: SK
+complete: false
+regions:
+    
+
+    # Banská Bystrica
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7837
+        iso3166-2: SK-BC
+      names:
+        - name: Banska Bistricas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Banska Bistricosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Banskobistrička
+          languages: [hr]
+          sources: [euvoc]
+        - name: Banskobistriški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Banskobystrický
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Banská Bystrica
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Banská Bystrica régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Banská Bystricaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Banská Bystrican
+          languages: [fi]
+          sources: [euvoc]
+        - name: Banská Bystricaon
+          languages: [et]
+          sources: [euvoc]
+        - name: Bańskobystrzycki
+          languages: [pl]
+          sources: [euvoc]
+        - name: Ir' Banksa Bistrika
+          languages: [mt]
+          sources: [euvoc]
+        - name: a Banská Bystrica
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Banská Bystrica
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Banska Bistricës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Banská Bystrica
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Banská Bystrica
+          languages: [el]
+          sources: [euvoc]
+        - name: Банксобистричка
+          languages: [sr]
+          sources: [euvoc]
+        - name: Банска Бистрица
+          languages: [bg, mk]
+          sources: [euvoc]
+    
+
+    # Bratislava
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7830
+        iso3166-2: SK-BL
+      names:
+        - name: Bratislava
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Bratislava régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Bratislavaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Bratislavan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Bratislavaon
+          languages: [et]
+          sources: [euvoc]
+        - name: Bratislavas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Bratislavosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Bratislavska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Bratislavski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Bratislavský
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Bratysławski
+          languages: [pl]
+          sources: [euvoc]
+        - name: Ir' Bratislava
+          languages: [mt]
+          sources: [euvoc]
+        - name: a Bratislava
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Bratislava
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Bratisllavës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Bratislava
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή Μπρατισλάβας
+          languages: [el]
+          sources: [euvoc]
+        - name: Братислава
+          languages: [bg]
+          sources: [euvoc]
+        - name: Братиславска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Братиславски
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Košice
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7839
+        iso3166-2: SK-KI
+      names:
+        - name: Ir' Kosiċe
+          languages: [mt]
+          sources: [euvoc]
+        - name: Koszycki
+          languages: [pl]
+          sources: [euvoc]
+        - name: Košice
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Košice régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Košiceen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Košicen
+          languages: [fi]
+          sources: [euvoc]
+        - name: Košiceon
+          languages: [et]
+          sources: [euvoc]
+        - name: Košices reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Košický
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Košicosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Košička
+          languages: [hr]
+          sources: [euvoc]
+        - name: Košiški o
+          languages: [sl]
+          sources: [euvoc]
+        - name: a Košice
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Košice
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Koshicës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Košice
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Košice
+          languages: [el]
+          sources: [euvoc]
+        - name: Кошице
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Кошичка
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Nitra
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7836
+        iso3166-2: SK-NI
+      names:
+        - name: Ir' Nitra
+          languages: [mt]
+          sources: [euvoc]
+        - name: Nitra
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Nitra régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Nitraen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Nitran
+          languages: [fi]
+          sources: [euvoc]
+        - name: Nitranska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Nitranski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Nitranský
+          languages: [cs]
+          sources: [euvoc]
+        - name: Nitraon
+          languages: [et]
+          sources: [euvoc]
+        - name: Nitras reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Nitriansky
+          languages: [sk]
+          sources: [euvoc, iso3166-2]
+        - name: Nitriański
+          languages: [pl]
+          sources: [euvoc]
+        - name: Nitrosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: a Nitra
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Nitra
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Nitrës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Nitra
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Nitra
+          languages: [el]
+          sources: [euvoc]
+        - name: Нитра
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Нитранска
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Prešov
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7838
+        iso3166-2: SK-PV
+      names:
+        - name: Ir' Presov
+          languages: [mt]
+          sources: [euvoc]
+        - name: Preszkowski
+          languages: [pl]
+          sources: [euvoc]
+        - name: Prešov
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Prešov régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Prešovas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Prešoven
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Prešovin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Prešovion
+          languages: [et]
+          sources: [euvoc]
+        - name: Prešovoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Prešovska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Prešovski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Prešovský
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: a Prešov
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Prešov
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Preshovës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Prešov
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Prešov
+          languages: [el]
+          sources: [euvoc]
+        - name: Прешов
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Прешовска
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Trenčín
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7835
+        iso3166-2: SK-TC
+      names:
+        - name: Ir' Trensin
+          languages: [mt]
+          sources: [euvoc]
+        - name: Trenciański
+          languages: [pl]
+          sources: [euvoc]
+        - name: Trenčiansky
+          languages: [sk]
+          sources: [euvoc, iso3166-2]
+        - name: Trenčinas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Trenčinska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Trenčinski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Trenčynoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Trenčín
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Trenčín régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Trenčínen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Trenčínin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Trenčínion
+          languages: [et]
+          sources: [euvoc]
+        - name: Trenčínský
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Trenčín
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Trenčín
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Trençinit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Trenčin
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Trenčín
+          languages: [el]
+          sources: [euvoc]
+        - name: Тренчин
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Тренчинска
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Trnava
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7834
+        iso3166-2: SK-TA
+      names:
+        - name: Ir' Trnava
+          languages: [mt]
+          sources: [euvoc]
+        - name: Tarnawski
+          languages: [pl]
+          sources: [euvoc]
+        - name: Trnava
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Trnava régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Trnavaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Trnavan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Trnavaon
+          languages: [et]
+          sources: [euvoc]
+        - name: Trnavas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Trnavosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Trnavska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Trnavski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Trnavský
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: a Trnava
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Trnava
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Trnavas
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Trnava
+          languages: [es]
+          sources: [euvoc]
+        - name: Περιοχή της Trnava
+          languages: [el]
+          sources: [euvoc]
+        - name: Трнава
+          languages: [mk]
+          sources: [euvoc]
+        - name: Трнавска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Търнава
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Žilina
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7854
+        iso3166-2: SK-ZI
+      names:
+        - name: Ir' Zilina
+          languages: [mt]
+          sources: [euvoc]
+        - name: a Žilina
+          languages: [ro]
+          sources: [euvoc]
+        - name: e di Žilina
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Zhilinas
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Zlín
+          languages: [es]
+          sources: [euvoc]
+        - name: Żyliński
+          languages: [pl]
+          sources: [euvoc]
+        - name: Žilina
+          languages: [de, en, fr, nl, pt]
+          sources: [euvoc]
+        - name: Žilina régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: Žilinaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Žilinan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Žilinaon
+          languages: [et]
+          sources: [euvoc]
+        - name: Žilinas reģions
+          languages: [lv]
+          sources: [euvoc]
+        - name: Žilinosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Žilinska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Žilinski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Žilinský
+          languages: [cs, sk]
+          sources: [euvoc, iso3166-2]
+        - name: Περιοχή της Žilina
+          languages: [el]
+          sources: [euvoc]
+        - name: Жилинска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Жилински Крај
+          languages: [mk]
+          sources: [euvoc]
+        - name: Злински
+          languages: [bg]
+          sources: [euvoc]

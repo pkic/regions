@@ -1,0 +1,83 @@
+iso3166-1: LB
+complete: false
+regions:
+    
+
+    # An Nabaţīyah
+    - codes:
+        iso3166-2: LB-NA
+      names:
+        - name: An Nabaţīyah
+          sources: [iso3166-2]
+        - name: Nabatîyé
+          sources: [iso3166-2]
+    
+
+    # Ash Shimāl
+    - codes:
+        iso3166-2: LB-AS
+      names:
+        - name: Ash Shimāl
+          sources: [iso3166-2]
+        - name: Liban-Nord
+          sources: [iso3166-2]
+    
+
+    # Baalbek-Hermel
+    - codes:
+        iso3166-2: LB-BH
+      names:
+        - name: Baalbek-Hermel
+          sources: [iso3166-2]
+        - name: B‘alabak-Al Hirmil
+          sources: [iso3166-2]
+    
+
+    # Bayrūt
+    - codes:
+        iso3166-2: LB-BA
+      names:
+        - name: Bayrūt
+          sources: [iso3166-2]
+        - name: Beyrouth
+          sources: [iso3166-2]
+    
+
+    # Al Biqā‘
+    - codes:
+        iso3166-2: LB-BI
+      names:
+        - name: Al Biqā‘
+          sources: [iso3166-2]
+        - name: Béqaa
+          sources: [iso3166-2]
+    
+
+    # Jabal Lubnān
+    - codes:
+        iso3166-2: LB-JL
+      names:
+        - name: Jabal Lubnān
+          sources: [iso3166-2]
+        - name: Mont-Liban
+          sources: [iso3166-2]
+    
+
+    # Al Janūb
+    - codes:
+        iso3166-2: LB-JA
+      names:
+        - name: Al Janūb
+          sources: [iso3166-2]
+        - name: Liban-Sud
+          sources: [iso3166-2]
+    
+
+    # Aakkâr
+    - codes:
+        iso3166-2: LB-AK
+      names:
+        - name: Aakkâr
+          sources: [iso3166-2]
+        - name: ‘Akkār
+          sources: [iso3166-2]

@@ -1,0 +1,105 @@
+iso3166-1: JO
+complete: false
+regions:
+    
+
+    # Al Balqā’
+    - codes:
+        iso3166-2: JO-BA
+      names:
+        - name: Al Balqā’
+          sources: [iso3166-2]
+    
+
+    # Al Karak
+    - codes:
+        iso3166-2: JO-KA
+      names:
+        - name: Al Karak
+          sources: [iso3166-2]
+    
+
+    # Al Mafraq
+    - codes:
+        iso3166-2: JO-MA
+      names:
+        - name: Al Mafraq
+          sources: [iso3166-2]
+    
+
+    # Al ‘Aqabah
+    - codes:
+        iso3166-2: JO-AQ
+      names:
+        - name: Al ‘Aqabah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Aqaba
+          sources: [iso3166-2]
+    
+
+    # Al ‘A̅şimah
+    - codes:
+        iso3166-2: JO-AM
+      names:
+        - name: Al ‘A̅şimah
+          languages: [en]
+          sources: [iso3166-2]
+        - name: ‘Ammān
+          sources: [iso3166-2]
+    
+
+    # Az Zarqā’
+    - codes:
+        iso3166-2: JO-AZ
+      names:
+        - name: Az Zarqā’
+          sources: [iso3166-2]
+    
+
+    # Aţ Ţafīlah
+    - codes:
+        iso3166-2: JO-AT
+      names:
+        - name: Aţ Ţafīlah
+          sources: [iso3166-2]
+    
+
+    # Irbid
+    - codes:
+        iso3166-2: JO-IR
+      names:
+        - name: Irbid
+          sources: [iso3166-2]
+    
+
+    # Jarash
+    - codes:
+        iso3166-2: JO-JA
+      names:
+        - name: Jarash
+          sources: [iso3166-2]
+    
+
+    # Ma‘ān
+    - codes:
+        iso3166-2: JO-MN
+      names:
+        - name: Ma‘ān
+          sources: [iso3166-2]
+    
+
+    # Mādabā
+    - codes:
+        iso3166-2: JO-MD
+      names:
+        - name: Mādabā
+          sources: [iso3166-2]
+    
+
+    # ‘Ajlūn
+    - codes:
+        iso3166-2: JO-AJ
+      names:
+        - name: ‘Ajlūn
+          sources: [iso3166-2]

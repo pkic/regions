@@ -1,0 +1,83 @@
+iso3166-1: MZ
+complete: false
+regions:
+    
+
+    # Cabo Delgado
+    - codes:
+        iso3166-2: MZ-P
+      names:
+        - name: Cabo Delgado
+          sources: [iso3166-2]
+    
+
+    # Gaza
+    - codes:
+        iso3166-2: MZ-G
+      names:
+        - name: Gaza
+          sources: [iso3166-2]
+    
+
+    # Inhambane
+    - codes:
+        iso3166-2: MZ-I
+      names:
+        - name: Inhambane
+          sources: [iso3166-2]
+    
+
+    # Manica
+    - codes:
+        iso3166-2: MZ-B
+      names:
+        - name: Manica
+          sources: [iso3166-2]
+    
+
+    # Maputo
+    - codes:
+        iso3166-2: MZ-MPM
+      names:
+        - name: Maputo
+          sources: [iso3166-2]
+    
+
+    # Nampula
+    - codes:
+        iso3166-2: MZ-N
+      names:
+        - name: Nampula
+          sources: [iso3166-2]
+    
+
+    # Niassa
+    - codes:
+        iso3166-2: MZ-A
+      names:
+        - name: Niassa
+          sources: [iso3166-2]
+    
+
+    # Sofala
+    - codes:
+        iso3166-2: MZ-S
+      names:
+        - name: Sofala
+          sources: [iso3166-2]
+    
+
+    # Tete
+    - codes:
+        iso3166-2: MZ-T
+      names:
+        - name: Tete
+          sources: [iso3166-2]
+    
+
+    # Zambézia
+    - codes:
+        iso3166-2: MZ-Q
+      names:
+        - name: Zambézia
+          sources: [iso3166-2]

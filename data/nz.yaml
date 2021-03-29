@@ -1,0 +1,165 @@
+iso3166-1: NZ
+complete: false
+regions:
+    
+
+    # Auckland
+    - codes:
+        iso3166-2: NZ-AUK
+      names:
+        - name: Auckland
+          sources: [iso3166-2]
+        - name: Tāmaki-makau-rau
+          sources: [iso3166-2]
+    
+
+    # Chatham Islands Territory
+    - codes:
+        iso3166-2: NZ-CIT
+      names:
+        - name: Chatham Islands Territory
+          sources: [iso3166-2]
+        - name: Wharekauri
+          sources: [iso3166-2]
+    
+
+    # Gisborne
+    - codes:
+        iso3166-2: NZ-GIS
+      names:
+        - name: Gisborne
+          sources: [iso3166-2]
+        - name: Tūranga nui a Kiwa
+          sources: [iso3166-2]
+    
+
+    # Hawke's Bay
+    - codes:
+        iso3166-2: NZ-HKB
+      names:
+        - name: Hawke's Bay
+          sources: [iso3166-2]
+        - name: Te Matau a Māui
+          sources: [iso3166-2]
+    
+
+    # Manawatu Whanganui
+    - codes:
+        iso3166-2: NZ-MWT
+      names:
+        - name: Manawatu Whanganui
+          sources: [iso3166-2]
+        - name: Manawatu-Wanganui
+          sources: [iso3166-2]
+    
+
+    # Marlborough
+    - codes:
+        iso3166-2: NZ-MBH
+      names:
+        - name: Marlborough
+          sources: [iso3166-2]
+    
+
+    # Murihiku
+    - codes:
+        iso3166-2: NZ-STL
+      names:
+        - name: Murihiku
+          sources: [iso3166-2]
+        - name: Southland
+          sources: [iso3166-2]
+    
+
+    # Nelson
+    - codes:
+        iso3166-2: NZ-NSN
+      names:
+        - name: Nelson
+          sources: [iso3166-2]
+        - name: Whakatū
+          sources: [iso3166-2]
+    
+
+    # Northland
+    - codes:
+        iso3166-2: NZ-NTL
+      names:
+        - name: Northland
+          sources: [iso3166-2]
+        - name: Te Tai tokerau
+          sources: [iso3166-2]
+    
+
+    # Otago
+    - codes:
+        iso3166-2: NZ-OTA
+      names:
+        - name: Otago
+          sources: [iso3166-2]
+        - name: Ō Tākou
+          sources: [iso3166-2]
+    
+
+    # Taranaki
+    - codes:
+        iso3166-2: NZ-TKI
+      names:
+        - name: Taranaki
+          sources: [iso3166-2]
+    
+
+    # Tasman
+    - codes:
+        iso3166-2: NZ-TAS
+      names:
+        - name: Tasman
+          sources: [iso3166-2]
+    
+
+    # Bay of Plenty
+    - codes:
+        iso3166-2: NZ-BOP
+      names:
+        - name: Bay of Plenty
+          sources: [iso3166-2]
+        - name: Te Moana a Toi Te Huatahi
+          sources: [iso3166-2]
+    
+
+    # Te Taihau ā uru
+    - codes:
+        iso3166-2: NZ-WTC
+      names:
+        - name: Te Taihau ā uru
+          sources: [iso3166-2]
+        - name: West Coast
+          sources: [iso3166-2]
+    
+
+    # Waikato
+    - codes:
+        iso3166-2: NZ-WKO
+      names:
+        - name: Waikato
+          sources: [iso3166-2]
+    
+
+    # Canterbury
+    - codes:
+        iso3166-2: NZ-CAN
+      names:
+        - name: Canterbury
+          sources: [iso3166-2]
+        - name: Waitaha
+          sources: [iso3166-2]
+    
+
+    # Te Whanga-nui-a-Tara
+    - codes:
+        iso3166-2: NZ-WGN
+      names:
+        - name: Te Whanga-nui-a-Tara
+          sources: [iso3166-2]
+        - name: Wellington
+          sources: [iso3166-2]

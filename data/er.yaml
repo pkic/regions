@@ -1,0 +1,63 @@
+iso3166-1: ER
+complete: false
+regions:
+    
+
+    # Al Janūbī
+    - codes:
+        iso3166-2: ER-DU
+      names:
+        - name: Al Janūbī
+          sources: [iso3166-2]
+        - name: Debub
+          sources: [iso3166-2]
+    
+
+    # Ansabā
+    - codes:
+        iso3166-2: ER-AN
+      names:
+        - name: Ansabā
+          sources: [iso3166-2]
+        - name: ‘Anseba
+          sources: [iso3166-2]
+    
+
+    # Gash-Barka
+    - codes:
+        iso3166-2: ER-GB
+      names:
+        - name: Gash-Barka
+          sources: [iso3166-2]
+        - name: Qāsh-Barkah
+          sources: [iso3166-2]
+    
+
+    # Debubawi K’eyyĭḥ Baḥri
+    - codes:
+        iso3166-2: ER-DK
+      names:
+        - name: Debubawi K’eyyĭḥ Baḥri
+          sources: [iso3166-2]
+        - name: Janūbī al Baḩrī al Aḩmar
+          sources: [iso3166-2]
+    
+
+    # Al Awsaţ
+    - codes:
+        iso3166-2: ER-MA
+      names:
+        - name: Al Awsaţ
+          sources: [iso3166-2]
+        - name: Ma’ĭkel
+          sources: [iso3166-2]
+    
+
+    # Semienawi K’eyyĭḥ Baḥri
+    - codes:
+        iso3166-2: ER-SK
+      names:
+        - name: Semienawi K’eyyĭḥ Baḥri
+          sources: [iso3166-2]
+        - name: Shimālī al Baḩrī al Aḩmar
+          sources: [iso3166-2]

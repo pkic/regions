@@ -1,0 +1,195 @@
+iso3166-1: EC
+complete: false
+regions:
+    
+
+    # Azuay
+    - codes:
+        iso3166-2: EC-A
+      names:
+        - name: Azuay
+          sources: [iso3166-2]
+    
+
+    # Bolívar
+    - codes:
+        iso3166-2: EC-B
+      names:
+        - name: Bolívar
+          sources: [iso3166-2]
+    
+
+    # Carchi
+    - codes:
+        iso3166-2: EC-C
+      names:
+        - name: Carchi
+          sources: [iso3166-2]
+    
+
+    # Cañar
+    - codes:
+        iso3166-2: EC-F
+      names:
+        - name: Cañar
+          sources: [iso3166-2]
+    
+
+    # Chimborazo
+    - codes:
+        iso3166-2: EC-H
+      names:
+        - name: Chimborazo
+          sources: [iso3166-2]
+    
+
+    # Cotopaxi
+    - codes:
+        iso3166-2: EC-X
+      names:
+        - name: Cotopaxi
+          sources: [iso3166-2]
+    
+
+    # El Oro
+    - codes:
+        iso3166-2: EC-O
+      names:
+        - name: El Oro
+          sources: [iso3166-2]
+    
+
+    # Esmeraldas
+    - codes:
+        iso3166-2: EC-E
+      names:
+        - name: Esmeraldas
+          sources: [iso3166-2]
+    
+
+    # Galápagos
+    - codes:
+        iso3166-2: EC-W
+      names:
+        - name: Galápagos
+          sources: [iso3166-2]
+    
+
+    # Guayas
+    - codes:
+        iso3166-2: EC-G
+      names:
+        - name: Guayas
+          sources: [iso3166-2]
+    
+
+    # Imbabura
+    - codes:
+        iso3166-2: EC-I
+      names:
+        - name: Imbabura
+          sources: [iso3166-2]
+    
+
+    # Loja
+    - codes:
+        iso3166-2: EC-L
+      names:
+        - name: Loja
+          sources: [iso3166-2]
+    
+
+    # Los Ríos
+    - codes:
+        iso3166-2: EC-R
+      names:
+        - name: Los Ríos
+          sources: [iso3166-2]
+    
+
+    # Manabí
+    - codes:
+        iso3166-2: EC-M
+      names:
+        - name: Manabí
+          sources: [iso3166-2]
+    
+
+    # Morona Santiago
+    - codes:
+        iso3166-2: EC-S
+      names:
+        - name: Morona Santiago
+          sources: [iso3166-2]
+    
+
+    # Napo
+    - codes:
+        iso3166-2: EC-N
+      names:
+        - name: Napo
+          sources: [iso3166-2]
+    
+
+    # Orellana
+    - codes:
+        iso3166-2: EC-D
+      names:
+        - name: Orellana
+          sources: [iso3166-2]
+    
+
+    # Pastaza
+    - codes:
+        iso3166-2: EC-Y
+      names:
+        - name: Pastaza
+          sources: [iso3166-2]
+    
+
+    # Pichincha
+    - codes:
+        iso3166-2: EC-P
+      names:
+        - name: Pichincha
+          sources: [iso3166-2]
+    
+
+    # Santa Elena
+    - codes:
+        iso3166-2: EC-SE
+      names:
+        - name: Santa Elena
+          sources: [iso3166-2]
+    
+
+    # Santo Domingo de los Tsáchilas
+    - codes:
+        iso3166-2: EC-SD
+      names:
+        - name: Santo Domingo de los Tsáchilas
+          sources: [iso3166-2]
+    
+
+    # Sucumbíos
+    - codes:
+        iso3166-2: EC-U
+      names:
+        - name: Sucumbíos
+          sources: [iso3166-2]
+    
+
+    # Tungurahua
+    - codes:
+        iso3166-2: EC-T
+      names:
+        - name: Tungurahua
+          sources: [iso3166-2]
+    
+
+    # Zamora Chinchipe
+    - codes:
+        iso3166-2: EC-Z
+      names:
+        - name: Zamora Chinchipe
+          sources: [iso3166-2]

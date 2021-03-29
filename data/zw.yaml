@@ -1,0 +1,83 @@
+iso3166-1: ZW
+complete: false
+regions:
+    
+
+    # Bulawayo
+    - codes:
+        iso3166-2: ZW-BU
+      names:
+        - name: Bulawayo
+          sources: [iso3166-2]
+    
+
+    # Harare
+    - codes:
+        iso3166-2: ZW-HA
+      names:
+        - name: Harare
+          sources: [iso3166-2]
+    
+
+    # Manicaland
+    - codes:
+        iso3166-2: ZW-MA
+      names:
+        - name: Manicaland
+          sources: [iso3166-2]
+    
+
+    # Mashonaland Central
+    - codes:
+        iso3166-2: ZW-MC
+      names:
+        - name: Mashonaland Central
+          sources: [iso3166-2]
+    
+
+    # Mashonaland East
+    - codes:
+        iso3166-2: ZW-ME
+      names:
+        - name: Mashonaland East
+          sources: [iso3166-2]
+    
+
+    # Mashonaland West
+    - codes:
+        iso3166-2: ZW-MW
+      names:
+        - name: Mashonaland West
+          sources: [iso3166-2]
+    
+
+    # Masvingo
+    - codes:
+        iso3166-2: ZW-MV
+      names:
+        - name: Masvingo
+          sources: [iso3166-2]
+    
+
+    # Matabeleland North
+    - codes:
+        iso3166-2: ZW-MN
+      names:
+        - name: Matabeleland North
+          sources: [iso3166-2]
+    
+
+    # Matabeleland South
+    - codes:
+        iso3166-2: ZW-MS
+      names:
+        - name: Matabeleland South
+          sources: [iso3166-2]
+    
+
+    # Midlands
+    - codes:
+        iso3166-2: ZW-MI
+      names:
+        - name: Midlands
+          sources: [iso3166-2]

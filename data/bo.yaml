@@ -1,0 +1,75 @@
+iso3166-1: BO
+complete: false
+regions:
+    
+
+    # Chuquisaca
+    - codes:
+        iso3166-2: BO-H
+      names:
+        - name: Chuquisaca
+          sources: [iso3166-2]
+    
+
+    # Cochabamba
+    - codes:
+        iso3166-2: BO-C
+      names:
+        - name: Cochabamba
+          sources: [iso3166-2]
+    
+
+    # El Beni
+    - codes:
+        iso3166-2: BO-B
+      names:
+        - name: El Beni
+          sources: [iso3166-2]
+    
+
+    # La Paz
+    - codes:
+        iso3166-2: BO-L
+      names:
+        - name: La Paz
+          sources: [iso3166-2]
+    
+
+    # Oruro
+    - codes:
+        iso3166-2: BO-O
+      names:
+        - name: Oruro
+          sources: [iso3166-2]
+    
+
+    # Pando
+    - codes:
+        iso3166-2: BO-N
+      names:
+        - name: Pando
+          sources: [iso3166-2]
+    
+
+    # Potosí
+    - codes:
+        iso3166-2: BO-P
+      names:
+        - name: Potosí
+          sources: [iso3166-2]
+    
+
+    # Santa Cruz
+    - codes:
+        iso3166-2: BO-S
+      names:
+        - name: Santa Cruz
+          sources: [iso3166-2]
+    
+
+    # Tarija
+    - codes:
+        iso3166-2: BO-T
+      names:
+        - name: Tarija
+          sources: [iso3166-2]

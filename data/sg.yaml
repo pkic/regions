@@ -1,0 +1,43 @@
+iso3166-1: SG
+complete: false
+regions:
+    
+
+    # Central Singapore
+    - codes:
+        iso3166-2: SG-01
+      names:
+        - name: Central Singapore
+          sources: [iso3166-2]
+    
+
+    # North East
+    - codes:
+        iso3166-2: SG-02
+      names:
+        - name: North East
+          sources: [iso3166-2]
+    
+
+    # North West
+    - codes:
+        iso3166-2: SG-03
+      names:
+        - name: North West
+          sources: [iso3166-2]
+    
+
+    # South East
+    - codes:
+        iso3166-2: SG-04
+      names:
+        - name: South East
+          sources: [iso3166-2]
+    
+
+    # South West
+    - codes:
+        iso3166-2: SG-05
+      names:
+        - name: South West
+          sources: [iso3166-2]

@@ -1,0 +1,98 @@
+name: Norway
+iso3166-1: "NO"
+complete: false
+regions:
+    
+
+    # Agder
+    - codes:
+        iso3166-2: NO-42
+      names:
+        - name: Agder
+          sources: [iso3166-2]
+    
+
+    # Innlandet
+    - codes:
+        iso3166-2: NO-34
+      names:
+        - name: Innlandet
+          sources: [iso3166-2]
+    
+
+    # Møre og Romsdal
+    - codes:
+        iso3166-2: NO-15
+      names:
+        - name: Møre og Romsdal
+          sources: [iso3166-2]
+    
+
+    # Nordland
+    - codes:
+        iso3166-2: NO-18
+      names:
+        - name: Nordland
+          sources: [iso3166-2]
+    
+
+    # Oslo
+    - codes:
+        iso3166-2: NO-03
+      names:
+        - name: Oslo
+          sources: [iso3166-2]
+    
+
+    # Rogaland
+    - codes:
+        iso3166-2: NO-11
+      names:
+        - name: Rogaland
+          sources: [iso3166-2]
+    
+
+    # Romssa ja Finnmárkku
+    - codes:
+        iso3166-2: NO-54
+      names:
+        - name: Romssa ja Finnmárkku
+          sources: [iso3166-2]
+        - name: Troms og Finnmark
+          sources: [iso3166-2]
+        - name: Tromssan ja Finmarkun
+          sources: [iso3166-2]
+    
+
+    # Trööndelage
+    - codes:
+        iso3166-2: NO-50
+      names:
+        - name: Trööndelage
+          sources: [iso3166-2]
+        - name: Trøndelag
+          sources: [iso3166-2]
+    
+
+    # Vestfold og Telemark
+    - codes:
+        iso3166-2: NO-38
+      names:
+        - name: Vestfold og Telemark
+          sources: [iso3166-2]
+    
+
+    # Vestland
+    - codes:
+        iso3166-2: NO-46
+      names:
+        - name: Vestland
+          sources: [iso3166-2]
+    
+
+    # Viken
+    - codes:
+        iso3166-2: NO-30
+      names:
+        - name: Viken
+          sources: [iso3166-2]

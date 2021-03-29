@@ -1,0 +1,123 @@
+iso3166-1: TT
+complete: false
+regions:
+    
+
+    # Arima
+    - codes:
+        iso3166-2: TT-ARI
+      names:
+        - name: Arima
+          sources: [iso3166-2]
+    
+
+    # Chaguanas
+    - codes:
+        iso3166-2: TT-CHA
+      names:
+        - name: Chaguanas
+          sources: [iso3166-2]
+    
+
+    # Couva-Tabaquite-Talparo
+    - codes:
+        iso3166-2: TT-CTT
+      names:
+        - name: Couva-Tabaquite-Talparo
+          sources: [iso3166-2]
+    
+
+    # Diego Martin
+    - codes:
+        iso3166-2: TT-DMN
+      names:
+        - name: Diego Martin
+          sources: [iso3166-2]
+    
+
+    # Mayaro-Rio Claro
+    - codes:
+        iso3166-2: TT-MRC
+      names:
+        - name: Mayaro-Rio Claro
+          sources: [iso3166-2]
+    
+
+    # Penal-Debe
+    - codes:
+        iso3166-2: TT-PED
+      names:
+        - name: Penal-Debe
+          sources: [iso3166-2]
+    
+
+    # Point Fortin
+    - codes:
+        iso3166-2: TT-PTF
+      names:
+        - name: Point Fortin
+          sources: [iso3166-2]
+    
+
+    # Port of Spain
+    - codes:
+        iso3166-2: TT-POS
+      names:
+        - name: Port of Spain
+          sources: [iso3166-2]
+    
+
+    # Princes Town
+    - codes:
+        iso3166-2: TT-PRT
+      names:
+        - name: Princes Town
+          sources: [iso3166-2]
+    
+
+    # San Fernando
+    - codes:
+        iso3166-2: TT-SFO
+      names:
+        - name: San Fernando
+          sources: [iso3166-2]
+    
+
+    # San Juan-Laventille
+    - codes:
+        iso3166-2: TT-SJL
+      names:
+        - name: San Juan-Laventille
+          sources: [iso3166-2]
+    
+
+    # Sangre Grande
+    - codes:
+        iso3166-2: TT-SGE
+      names:
+        - name: Sangre Grande
+          sources: [iso3166-2]
+    
+
+    # Siparia
+    - codes:
+        iso3166-2: TT-SIP
+      names:
+        - name: Siparia
+          sources: [iso3166-2]
+    
+
+    # Tobago
+    - codes:
+        iso3166-2: TT-TOB
+      names:
+        - name: Tobago
+          sources: [iso3166-2]
+    
+
+    # Tunapuna-Piarco
+    - codes:
+        iso3166-2: TT-TUP
+      names:
+        - name: Tunapuna-Piarco
+          sources: [iso3166-2]

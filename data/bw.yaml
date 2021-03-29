@@ -1,0 +1,131 @@
+iso3166-1: BW
+complete: false
+regions:
+    
+
+    # Central
+    - codes:
+        iso3166-2: BW-CE
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Chobe
+    - codes:
+        iso3166-2: BW-CH
+      names:
+        - name: Chobe
+          sources: [iso3166-2]
+    
+
+    # Francistown
+    - codes:
+        iso3166-2: BW-FR
+      names:
+        - name: Francistown
+          sources: [iso3166-2]
+    
+
+    # Gaborone
+    - codes:
+        iso3166-2: BW-GA
+      names:
+        - name: Gaborone
+          sources: [iso3166-2]
+    
+
+    # Ghanzi
+    - codes:
+        iso3166-2: BW-GH
+      names:
+        - name: Ghanzi
+          sources: [iso3166-2]
+    
+
+    # Jwaneng
+    - codes:
+        iso3166-2: BW-JW
+      names:
+        - name: Jwaneng
+          sources: [iso3166-2]
+    
+
+    # Kgalagadi
+    - codes:
+        iso3166-2: BW-KG
+      names:
+        - name: Kgalagadi
+          sources: [iso3166-2]
+    
+
+    # Kgatleng
+    - codes:
+        iso3166-2: BW-KL
+      names:
+        - name: Kgatleng
+          sources: [iso3166-2]
+    
+
+    # Kweneng
+    - codes:
+        iso3166-2: BW-KW
+      names:
+        - name: Kweneng
+          sources: [iso3166-2]
+    
+
+    # Lobatse
+    - codes:
+        iso3166-2: BW-LO
+      names:
+        - name: Lobatse
+          sources: [iso3166-2]
+    
+
+    # North East
+    - codes:
+        iso3166-2: BW-NE
+      names:
+        - name: North East
+          sources: [iso3166-2]
+    
+
+    # North West
+    - codes:
+        iso3166-2: BW-NW
+      names:
+        - name: North West
+          sources: [iso3166-2]
+    
+
+    # Selibe Phikwe
+    - codes:
+        iso3166-2: BW-SP
+      names:
+        - name: Selibe Phikwe
+          sources: [iso3166-2]
+    
+
+    # South East
+    - codes:
+        iso3166-2: BW-SE
+      names:
+        - name: South East
+          sources: [iso3166-2]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: BW-SO
+      names:
+        - name: Southern
+          sources: [iso3166-2]
+    
+
+    # Sowa Town
+    - codes:
+        iso3166-2: BW-ST
+      names:
+        - name: Sowa Town
+          sources: [iso3166-2]

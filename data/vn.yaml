@@ -1,0 +1,510 @@
+iso3166-1: VN
+complete: false
+regions:
+    
+
+    # An Giang
+    - codes:
+        iso3166-2: VN-44
+      names:
+        - name: An Giang
+          sources: [iso3166-2]
+    
+
+    # Bà Rịa - Vũng Tàu
+    - codes:
+        iso3166-2: VN-43
+      names:
+        - name: Bà Rịa - Vũng Tàu
+          sources: [iso3166-2]
+    
+
+    # Bình Dương
+    - codes:
+        iso3166-2: VN-57
+      names:
+        - name: Bình Dương
+          sources: [iso3166-2]
+    
+
+    # Bình Phước
+    - codes:
+        iso3166-2: VN-58
+      names:
+        - name: Bình Phước
+          sources: [iso3166-2]
+    
+
+    # Bình Thuận
+    - codes:
+        iso3166-2: VN-40
+      names:
+        - name: Bình Thuận
+          sources: [iso3166-2]
+    
+
+    # Bình Định
+    - codes:
+        iso3166-2: VN-31
+      names:
+        - name: Bình Định
+          sources: [iso3166-2]
+    
+
+    # Bạc Liêu
+    - codes:
+        iso3166-2: VN-55
+      names:
+        - name: Bạc Liêu
+          sources: [iso3166-2]
+    
+
+    # Bắc Giang
+    - codes:
+        iso3166-2: VN-54
+      names:
+        - name: Bắc Giang
+          sources: [iso3166-2]
+    
+
+    # Bắc Kạn
+    - codes:
+        iso3166-2: VN-53
+      names:
+        - name: Bắc Kạn
+          sources: [iso3166-2]
+    
+
+    # Bắc Ninh
+    - codes:
+        iso3166-2: VN-56
+      names:
+        - name: Bắc Ninh
+          sources: [iso3166-2]
+    
+
+    # Bến Tre
+    - codes:
+        iso3166-2: VN-50
+      names:
+        - name: Bến Tre
+          sources: [iso3166-2]
+    
+
+    # Cao Bằng
+    - codes:
+        iso3166-2: VN-04
+      names:
+        - name: Cao Bằng
+          sources: [iso3166-2]
+    
+
+    # Cà Mau
+    - codes:
+        iso3166-2: VN-59
+      names:
+        - name: Cà Mau
+          sources: [iso3166-2]
+    
+
+    # Cần Thơ
+    - codes:
+        iso3166-2: VN-CT
+      names:
+        - name: Cần Thơ
+          sources: [iso3166-2]
+    
+
+    # Gia Lai
+    - codes:
+        iso3166-2: VN-30
+      names:
+        - name: Gia Lai
+          sources: [iso3166-2]
+    
+
+    # Hà Giang
+    - codes:
+        iso3166-2: VN-03
+      names:
+        - name: Hà Giang
+          sources: [iso3166-2]
+    
+
+    # Hà Nam
+    - codes:
+        iso3166-2: VN-63
+      names:
+        - name: Hà Nam
+          sources: [iso3166-2]
+    
+
+    # Hà Nội
+    - codes:
+        iso3166-2: VN-HN
+      names:
+        - name: Hà Nội
+          sources: [iso3166-2]
+    
+
+    # Hà Tĩnh
+    - codes:
+        iso3166-2: VN-23
+      names:
+        - name: Hà Tĩnh
+          sources: [iso3166-2]
+    
+
+    # Hòa Bình
+    - codes:
+        iso3166-2: VN-14
+      names:
+        - name: Hòa Bình
+          sources: [iso3166-2]
+    
+
+    # Hưng Yên
+    - codes:
+        iso3166-2: VN-66
+      names:
+        - name: Hưng Yên
+          sources: [iso3166-2]
+    
+
+    # Hải Dương
+    - codes:
+        iso3166-2: VN-61
+      names:
+        - name: Hải Dương
+          sources: [iso3166-2]
+    
+
+    # Hải Phòng
+    - codes:
+        iso3166-2: VN-HP
+      names:
+        - name: Hải Phòng
+          sources: [iso3166-2]
+    
+
+    # Hậu Giang
+    - codes:
+        iso3166-2: VN-73
+      names:
+        - name: Hậu Giang
+          sources: [iso3166-2]
+    
+
+    # Hồ Chí Minh
+    - codes:
+        iso3166-2: VN-SG
+      names:
+        - name: Hồ Chí Minh
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Sai Gon
+          sources: [iso3166-2]
+    
+
+    # Khánh Hòa
+    - codes:
+        iso3166-2: VN-34
+      names:
+        - name: Khánh Hòa
+          sources: [iso3166-2]
+    
+
+    # Kiến Giang
+    - codes:
+        iso3166-2: VN-47
+      names:
+        - name: Kiến Giang
+          sources: [iso3166-2]
+    
+
+    # Kon Tum
+    - codes:
+        iso3166-2: VN-28
+      names:
+        - name: Kon Tum
+          sources: [iso3166-2]
+    
+
+    # Lai Châu
+    - codes:
+        iso3166-2: VN-01
+      names:
+        - name: Lai Châu
+          sources: [iso3166-2]
+    
+
+    # Long An
+    - codes:
+        iso3166-2: VN-41
+      names:
+        - name: Long An
+          sources: [iso3166-2]
+    
+
+    # Lào Cai
+    - codes:
+        iso3166-2: VN-02
+      names:
+        - name: Lào Cai
+          sources: [iso3166-2]
+    
+
+    # Lâm Đồng
+    - codes:
+        iso3166-2: VN-35
+      names:
+        - name: Lâm Đồng
+          sources: [iso3166-2]
+    
+
+    # Lạng Sơn
+    - codes:
+        iso3166-2: VN-09
+      names:
+        - name: Lạng Sơn
+          sources: [iso3166-2]
+    
+
+    # Nam Định
+    - codes:
+        iso3166-2: VN-67
+      names:
+        - name: Nam Định
+          sources: [iso3166-2]
+    
+
+    # Nghệ An
+    - codes:
+        iso3166-2: VN-22
+      names:
+        - name: Nghệ An
+          sources: [iso3166-2]
+    
+
+    # Ninh Bình
+    - codes:
+        iso3166-2: VN-18
+      names:
+        - name: Ninh Bình
+          sources: [iso3166-2]
+    
+
+    # Ninh Thuận
+    - codes:
+        iso3166-2: VN-36
+      names:
+        - name: Ninh Thuận
+          sources: [iso3166-2]
+    
+
+    # Phú Thọ
+    - codes:
+        iso3166-2: VN-68
+      names:
+        - name: Phú Thọ
+          sources: [iso3166-2]
+    
+
+    # Phú Yên
+    - codes:
+        iso3166-2: VN-32
+      names:
+        - name: Phú Yên
+          sources: [iso3166-2]
+    
+
+    # Quảng Bình
+    - codes:
+        iso3166-2: VN-24
+      names:
+        - name: Quảng Bình
+          sources: [iso3166-2]
+    
+
+    # Quảng Nam
+    - codes:
+        iso3166-2: VN-27
+      names:
+        - name: Quảng Nam
+          sources: [iso3166-2]
+    
+
+    # Quảng Ngãi
+    - codes:
+        iso3166-2: VN-29
+      names:
+        - name: Quảng Ngãi
+          sources: [iso3166-2]
+    
+
+    # Quảng Ninh
+    - codes:
+        iso3166-2: VN-13
+      names:
+        - name: Quảng Ninh
+          sources: [iso3166-2]
+    
+
+    # Quảng Trị
+    - codes:
+        iso3166-2: VN-25
+      names:
+        - name: Quảng Trị
+          sources: [iso3166-2]
+    
+
+    # Sóc Trăng
+    - codes:
+        iso3166-2: VN-52
+      names:
+        - name: Sóc Trăng
+          sources: [iso3166-2]
+    
+
+    # Sơn La
+    - codes:
+        iso3166-2: VN-05
+      names:
+        - name: Sơn La
+          sources: [iso3166-2]
+    
+
+    # Thanh Hóa
+    - codes:
+        iso3166-2: VN-21
+      names:
+        - name: Thanh Hóa
+          sources: [iso3166-2]
+    
+
+    # Thái Bình
+    - codes:
+        iso3166-2: VN-20
+      names:
+        - name: Thái Bình
+          sources: [iso3166-2]
+    
+
+    # Thái Nguyên
+    - codes:
+        iso3166-2: VN-69
+      names:
+        - name: Thái Nguyên
+          sources: [iso3166-2]
+    
+
+    # Thừa Thiên-Huế
+    - codes:
+        iso3166-2: VN-26
+      names:
+        - name: Thừa Thiên-Huế
+          sources: [iso3166-2]
+    
+
+    # Tiền Giang
+    - codes:
+        iso3166-2: VN-46
+      names:
+        - name: Tiền Giang
+          sources: [iso3166-2]
+    
+
+    # Trà Vinh
+    - codes:
+        iso3166-2: VN-51
+      names:
+        - name: Trà Vinh
+          sources: [iso3166-2]
+    
+
+    # Tuyên Quang
+    - codes:
+        iso3166-2: VN-07
+      names:
+        - name: Tuyên Quang
+          sources: [iso3166-2]
+    
+
+    # Tây Ninh
+    - codes:
+        iso3166-2: VN-37
+      names:
+        - name: Tây Ninh
+          sources: [iso3166-2]
+    
+
+    # Vĩnh Long
+    - codes:
+        iso3166-2: VN-49
+      names:
+        - name: Vĩnh Long
+          sources: [iso3166-2]
+    
+
+    # Vĩnh Phúc
+    - codes:
+        iso3166-2: VN-70
+      names:
+        - name: Vĩnh Phúc
+          sources: [iso3166-2]
+    
+
+    # Yên Bái
+    - codes:
+        iso3166-2: VN-06
+      names:
+        - name: Yên Bái
+          sources: [iso3166-2]
+    
+
+    # Điện Biên
+    - codes:
+        iso3166-2: VN-71
+      names:
+        - name: Điện Biên
+          sources: [iso3166-2]
+    
+
+    # Đà Nẵng
+    - codes:
+        iso3166-2: VN-DN
+      names:
+        - name: Đà Nẵng
+          sources: [iso3166-2]
+    
+
+    # Đắk Lắk
+    - codes:
+        iso3166-2: VN-33
+      names:
+        - name: Đắk Lắk
+          sources: [iso3166-2]
+    
+
+    # Đắk Nông
+    - codes:
+        iso3166-2: VN-72
+      names:
+        - name: Đắk Nông
+          sources: [iso3166-2]
+    
+
+    # Đồng Nai
+    - codes:
+        iso3166-2: VN-39
+      names:
+        - name: Đồng Nai
+          sources: [iso3166-2]
+    
+
+    # Đồng Tháp
+    - codes:
+        iso3166-2: VN-45
+      names:
+        - name: Đồng Tháp
+          sources: [iso3166-2]

@@ -1,0 +1,924 @@
+iso3166-1: PH
+complete: false
+regions:
+    
+
+    # Abra
+    - codes:
+        iso3166-2: PH-ABR
+      names:
+        - name: Abra
+          sources: [iso3166-2]
+    
+
+    # Administratibo ng Kordilyera
+    - codes:
+        iso3166-2: PH-15
+      names:
+        - name: Administratibo ng Kordilyera
+          sources: [iso3166-2]
+        - name: Cordillera Administrative
+          sources: [iso3166-2]
+    
+
+    # Agusan del Norte
+    - codes:
+        iso3166-2: PH-AGN
+      names:
+        - name: Agusan del Norte
+          sources: [iso3166-2]
+        - name: Hilagang Agusan
+          sources: [iso3166-2]
+    
+
+    # Agusan del Sur
+    - codes:
+        iso3166-2: PH-AGS
+      names:
+        - name: Agusan del Sur
+          sources: [iso3166-2]
+        - name: Timog Agusan
+          sources: [iso3166-2]
+    
+
+    # Aklan
+    - codes:
+        iso3166-2: PH-AKL
+      names:
+        - name: Aklan
+          sources: [iso3166-2]
+    
+
+    # Albay
+    - codes:
+        iso3166-2: PH-ALB
+      names:
+        - name: Albay
+          sources: [iso3166-2]
+    
+
+    # Antike
+    - codes:
+        iso3166-2: PH-ANT
+      names:
+        - name: Antike
+          sources: [iso3166-2]
+        - name: Antique
+          sources: [iso3166-2]
+    
+
+    # Apayao
+    - codes:
+        iso3166-2: PH-APA
+      names:
+        - name: Apayao
+          sources: [iso3166-2]
+        - name: Apayaw
+          sources: [iso3166-2]
+    
+
+    # Aurora
+    - codes:
+        iso3166-2: PH-AUR
+      names:
+        - name: Aurora
+          sources: [iso3166-2]
+    
+
+    # Basilan
+    - codes:
+        iso3166-2: PH-BAS
+      names:
+        - name: Basilan
+          sources: [iso3166-2]
+    
+
+    # Bataan
+    - codes:
+        iso3166-2: PH-BAN
+      names:
+        - name: Bataan
+          sources: [iso3166-2]
+    
+
+    # Batanes
+    - codes:
+        iso3166-2: PH-BTN
+      names:
+        - name: Batanes
+          sources: [iso3166-2]
+    
+
+    # Batangas
+    - codes:
+        iso3166-2: PH-BTG
+      names:
+        - name: Batangas
+          sources: [iso3166-2]
+    
+
+    # Benget
+    - codes:
+        iso3166-2: PH-BEN
+      names:
+        - name: Benget
+          sources: [iso3166-2]
+        - name: Benguet
+          sources: [iso3166-2]
+    
+
+    # Bicol
+    - codes:
+        iso3166-2: PH-05
+      names:
+        - name: Bicol
+          sources: [iso3166-2]
+        - name: Bikol
+          sources: [iso3166-2]
+    
+
+    # Biliran
+    - codes:
+        iso3166-2: PH-BIL
+      names:
+        - name: Biliran
+          sources: [iso3166-2]
+    
+
+    # Bohol
+    - codes:
+        iso3166-2: PH-BOH
+      names:
+        - name: Bohol
+          sources: [iso3166-2]
+    
+
+    # Bukidnon
+    - codes:
+        iso3166-2: PH-BUK
+      names:
+        - name: Bukidnon
+          sources: [iso3166-2]
+    
+
+    # Bulacan
+    - codes:
+        iso3166-2: PH-BUL
+      names:
+        - name: Bulacan
+          sources: [iso3166-2]
+        - name: Bulakan
+          sources: [iso3166-2]
+    
+
+    # Cagayan Valley
+    - codes:
+        iso3166-2: PH-02
+      names:
+        - name: Cagayan Valley
+          sources: [iso3166-2]
+        - name: Lambak ng Kagayan
+          sources: [iso3166-2]
+    
+
+    # Calabarzon
+    - codes:
+        iso3166-2: PH-40
+      names:
+        - name: Calabarzon
+          sources: [iso3166-2]
+    
+
+    # Camarines Norte
+    - codes:
+        iso3166-2: PH-CAN
+      names:
+        - name: Camarines Norte
+          sources: [iso3166-2]
+        - name: Hilagang Kamarines
+          sources: [iso3166-2]
+    
+
+    # Camiguin
+    - codes:
+        iso3166-2: PH-CAM
+      names:
+        - name: Camiguin
+          sources: [iso3166-2]
+        - name: Kamigin
+          sources: [iso3166-2]
+    
+
+    # Caraga
+    - codes:
+        iso3166-2: PH-13
+      names:
+        - name: Caraga
+          sources: [iso3166-2]
+        - name: Karaga
+          sources: [iso3166-2]
+    
+
+    # Cavite
+    - codes:
+        iso3166-2: PH-CAV
+      names:
+        - name: Cavite
+          sources: [iso3166-2]
+        - name: Kabite
+          sources: [iso3166-2]
+    
+
+    # Central Luzon
+    - codes:
+        iso3166-2: PH-03
+      names:
+        - name: Central Luzon
+          sources: [iso3166-2]
+        - name: Gitnang Luson
+          sources: [iso3166-2]
+    
+
+    # Central Visayas
+    - codes:
+        iso3166-2: PH-07
+      names:
+        - name: Central Visayas
+          sources: [iso3166-2]
+        - name: Gitnang Bisaya
+          sources: [iso3166-2]
+    
+
+    # Cotabato
+    - codes:
+        iso3166-2: PH-NCO
+      names:
+        - name: Cotabato
+          sources: [iso3166-2]
+        - name: Kotabato
+          sources: [iso3166-2]
+    
+
+    # Dabaw
+    - codes:
+        iso3166-2: PH-11
+      names:
+        - name: Dabaw
+          sources: [iso3166-2]
+        - name: Davao
+          sources: [iso3166-2]
+    
+
+    # Davao de Oro
+    - codes:
+        iso3166-2: PH-COM
+      names:
+        - name: Davao de Oro
+          sources: [iso3166-2]
+    
+
+    # Davao del Sur
+    - codes:
+        iso3166-2: PH-DAS
+      names:
+        - name: Davao del Sur
+          sources: [iso3166-2]
+        - name: Timog Dabaw
+          sources: [iso3166-2]
+    
+
+    # Dinagat Islands
+    - codes:
+        iso3166-2: PH-DIN
+      names:
+        - name: Dinagat Islands
+          sources: [iso3166-2]
+        - name: Pulo ng Dinagat
+          sources: [iso3166-2]
+    
+
+    # Eastern Samar
+    - codes:
+        iso3166-2: PH-EAS
+      names:
+        - name: Eastern Samar
+          sources: [iso3166-2]
+        - name: Silangang Samar
+          sources: [iso3166-2]
+    
+
+    # Eastern Visayas
+    - codes:
+        iso3166-2: PH-08
+      names:
+        - name: Eastern Visayas
+          sources: [iso3166-2]
+        - name: Silangang Bisaya
+          sources: [iso3166-2]
+    
+
+    # Gimaras
+    - codes:
+        iso3166-2: PH-GUI
+      names:
+        - name: Gimaras
+          sources: [iso3166-2]
+        - name: Guimaras
+          sources: [iso3166-2]
+    
+
+    # Davao del Norte
+    - codes:
+        iso3166-2: PH-DAV
+      names:
+        - name: Davao del Norte
+          sources: [iso3166-2]
+        - name: Hilagang Dabaw
+          sources: [iso3166-2]
+    
+
+    # Hilagang Lanaw
+    - codes:
+        iso3166-2: PH-LAN
+      names:
+        - name: Hilagang Lanaw
+          sources: [iso3166-2]
+        - name: Lanao del Norte
+          sources: [iso3166-2]
+    
+
+    # Hilagang Sambuwangga
+    - codes:
+        iso3166-2: PH-ZAN
+      names:
+        - name: Hilagang Sambuwangga
+          sources: [iso3166-2]
+        - name: Zamboanga del Norte
+          sources: [iso3166-2]
+    
+
+    # Ifugao
+    - codes:
+        iso3166-2: PH-IFU
+      names:
+        - name: Ifugao
+          sources: [iso3166-2]
+        - name: Ipugaw
+          sources: [iso3166-2]
+    
+
+    # Hilagang Iloko
+    - codes:
+        iso3166-2: PH-ILN
+      names:
+        - name: Hilagang Iloko
+          sources: [iso3166-2]
+        - name: Ilocos Norte
+          sources: [iso3166-2]
+    
+
+    # Iloilo
+    - codes:
+        iso3166-2: PH-ILI
+      names:
+        - name: Iloilo
+          sources: [iso3166-2]
+    
+
+    # Ilocos
+    - codes:
+        iso3166-2: PH-01
+      names:
+        - name: Ilocos
+          sources: [iso3166-2]
+        - name: Iloko
+          sources: [iso3166-2]
+    
+
+    # Isabela
+    - codes:
+        iso3166-2: PH-ISA
+      names:
+        - name: Isabela
+          sources: [iso3166-2]
+    
+
+    # Cagayan
+    - codes:
+        iso3166-2: PH-CAG
+      names:
+        - name: Cagayan
+          sources: [iso3166-2]
+        - name: Kagayan
+          sources: [iso3166-2]
+    
+
+    # Kalinga
+    - codes:
+        iso3166-2: PH-KAL
+      names:
+        - name: Kalinga
+          sources: [iso3166-2]
+    
+
+    # Davao Occidental
+    - codes:
+        iso3166-2: PH-DVO
+      names:
+        - name: Davao Occidental
+          sources: [iso3166-2]
+        - name: Kanlurang Dabaw
+          sources: [iso3166-2]
+    
+
+    # Kanlurang Misamis
+    - codes:
+        iso3166-2: PH-MSC
+      names:
+        - name: Kanlurang Misamis
+          sources: [iso3166-2]
+        - name: Misamis Occidental
+          sources: [iso3166-2]
+    
+
+    # Capiz
+    - codes:
+        iso3166-2: PH-CAP
+      names:
+        - name: Capiz
+          sources: [iso3166-2]
+        - name: Kapis
+          sources: [iso3166-2]
+    
+
+    # Catanduanes
+    - codes:
+        iso3166-2: PH-CAT
+      names:
+        - name: Catanduanes
+          sources: [iso3166-2]
+        - name: Katanduwanes
+          sources: [iso3166-2]
+    
+
+    # Katimogang Leyte
+    - codes:
+        iso3166-2: PH-SLE
+      names:
+        - name: Katimogang Leyte
+          sources: [iso3166-2]
+        - name: Southern Leyte
+          sources: [iso3166-2]
+    
+
+    # La Union
+    - codes:
+        iso3166-2: PH-LUN
+      names:
+        - name: La Union
+          sources: [iso3166-2]
+        - name: La Unyon
+          sources: [iso3166-2]
+    
+
+    # Laguna
+    - codes:
+        iso3166-2: PH-LAG
+      names:
+        - name: Laguna
+          sources: [iso3166-2]
+    
+
+    # Leyte
+    - codes:
+        iso3166-2: PH-LEY
+      names:
+        - name: Leyte
+          sources: [iso3166-2]
+    
+
+    # Magindanaw
+    - codes:
+        iso3166-2: PH-MAG
+      names:
+        - name: Magindanaw
+          sources: [iso3166-2]
+        - name: Maguindanao
+          sources: [iso3166-2]
+    
+
+    # Marinduke
+    - codes:
+        iso3166-2: PH-MAD
+      names:
+        - name: Marinduke
+          sources: [iso3166-2]
+        - name: Marinduque
+          sources: [iso3166-2]
+    
+
+    # Masbate
+    - codes:
+        iso3166-2: PH-MAS
+      names:
+        - name: Masbate
+          sources: [iso3166-2]
+    
+
+    # Mimaropa
+    - codes:
+        iso3166-2: PH-41
+      names:
+        - name: Mimaropa
+          sources: [iso3166-2]
+    
+
+    # Kanlurang Mindoro
+    - codes:
+        iso3166-2: PH-MDC
+      names:
+        - name: Kanlurang Mindoro
+          sources: [iso3166-2]
+        - name: Mindoro Occidental
+          sources: [iso3166-2]
+    
+
+    # Mindoro Oriental
+    - codes:
+        iso3166-2: PH-MDR
+      names:
+        - name: Mindoro Oriental
+          sources: [iso3166-2]
+        - name: Silangang Mindoro
+          sources: [iso3166-2]
+    
+
+    # Misamis Oriental
+    - codes:
+        iso3166-2: PH-MSR
+      names:
+        - name: Misamis Oriental
+          sources: [iso3166-2]
+        - name: Silangang Misamis
+          sources: [iso3166-2]
+    
+
+    # Autonomous in Muslim Mindanao
+    - codes:
+        iso3166-2: PH-14
+      names:
+        - name: Autonomous in Muslim Mindanao
+          sources: [iso3166-2]
+        - name: Nagsasariling Muslim sa Mindanaw
+          sources: [iso3166-2]
+    
+
+    # National
+    - codes:
+        iso3166-2: PH-00
+      names:
+        - name: National
+          sources: [iso3166-2]
+        - name: Pambansang Punong
+          sources: [iso3166-2]
+    
+
+    # Kanlurang Negros
+    - codes:
+        iso3166-2: PH-NEC
+      names:
+        - name: Kanlurang Negros
+          sources: [iso3166-2]
+        - name: Negros Occidental
+          sources: [iso3166-2]
+    
+
+    # Negros Oriental
+    - codes:
+        iso3166-2: PH-NER
+      names:
+        - name: Negros Oriental
+          sources: [iso3166-2]
+        - name: Silangang Negros
+          sources: [iso3166-2]
+    
+
+    # Hilagang Mindanaw
+    - codes:
+        iso3166-2: PH-10
+      names:
+        - name: Hilagang Mindanaw
+          sources: [iso3166-2]
+        - name: Northern Mindanao
+          sources: [iso3166-2]
+    
+
+    # Hilagang Samar
+    - codes:
+        iso3166-2: PH-NSA
+      names:
+        - name: Hilagang Samar
+          sources: [iso3166-2]
+        - name: Northern Samar
+          sources: [iso3166-2]
+    
+
+    # Nueva Ecija
+    - codes:
+        iso3166-2: PH-NUE
+      names:
+        - name: Nueva Ecija
+          sources: [iso3166-2]
+        - name: Nuweva Esiha
+          sources: [iso3166-2]
+    
+
+    # Nueva Vizcaya
+    - codes:
+        iso3166-2: PH-NUV
+      names:
+        - name: Nueva Vizcaya
+          sources: [iso3166-2]
+        - name: Nuweva Biskaya
+          sources: [iso3166-2]
+    
+
+    # Palawan
+    - codes:
+        iso3166-2: PH-PLW
+      names:
+        - name: Palawan
+          sources: [iso3166-2]
+    
+
+    # Pampanga
+    - codes:
+        iso3166-2: PH-PAM
+      names:
+        - name: Pampanga
+          sources: [iso3166-2]
+    
+
+    # Pangasinan
+    - codes:
+        iso3166-2: PH-PAN
+      names:
+        - name: Pangasinan
+          sources: [iso3166-2]
+    
+
+    # Keson
+    - codes:
+        iso3166-2: PH-QUE
+      names:
+        - name: Keson
+          sources: [iso3166-2]
+        - name: Quezon
+          sources: [iso3166-2]
+    
+
+    # Kirino
+    - codes:
+        iso3166-2: PH-QUI
+      names:
+        - name: Kirino
+          sources: [iso3166-2]
+        - name: Quirino
+          sources: [iso3166-2]
+    
+
+    # Risal
+    - codes:
+        iso3166-2: PH-RIZ
+      names:
+        - name: Risal
+          sources: [iso3166-2]
+        - name: Rizal
+          sources: [iso3166-2]
+    
+
+    # Romblon
+    - codes:
+        iso3166-2: PH-ROM
+      names:
+        - name: Romblon
+          sources: [iso3166-2]
+    
+
+    # Samar
+    - codes:
+        iso3166-2: PH-WSA
+      names:
+        - name: Samar
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Western Samar
+          sources: [iso3166-2]
+    
+
+    # Sarangani
+    - codes:
+        iso3166-2: PH-SAR
+      names:
+        - name: Sarangani
+          sources: [iso3166-2]
+    
+
+    # Cebu
+    - codes:
+        iso3166-2: PH-CEB
+      names:
+        - name: Cebu
+          sources: [iso3166-2]
+        - name: Sebu
+          sources: [iso3166-2]
+    
+
+    # Davao Oriental
+    - codes:
+        iso3166-2: PH-DAO
+      names:
+        - name: Davao Oriental
+          sources: [iso3166-2]
+        - name: Silangang Dabaw
+          sources: [iso3166-2]
+    
+
+    # Sikihor
+    - codes:
+        iso3166-2: PH-SIG
+      names:
+        - name: Sikihor
+          sources: [iso3166-2]
+        - name: Siquijor
+          sources: [iso3166-2]
+    
+
+    # Soccsksargen
+    - codes:
+        iso3166-2: PH-12
+      names:
+        - name: Soccsksargen
+          sources: [iso3166-2]
+    
+
+    # Sorsogon
+    - codes:
+        iso3166-2: PH-SOR
+      names:
+        - name: Sorsogon
+          sources: [iso3166-2]
+    
+
+    # Sultan Kudarat
+    - codes:
+        iso3166-2: PH-SUK
+      names:
+        - name: Sultan Kudarat
+          sources: [iso3166-2]
+    
+
+    # Sulu
+    - codes:
+        iso3166-2: PH-SLU
+      names:
+        - name: Sulu
+          sources: [iso3166-2]
+    
+
+    # Hilagang Surigaw
+    - codes:
+        iso3166-2: PH-SUN
+      names:
+        - name: Hilagang Surigaw
+          sources: [iso3166-2]
+        - name: Surigao del Norte
+          sources: [iso3166-2]
+    
+
+    # Surigao del Sur
+    - codes:
+        iso3166-2: PH-SUR
+      names:
+        - name: Surigao del Sur
+          sources: [iso3166-2]
+        - name: Timog Surigaw
+          sources: [iso3166-2]
+    
+
+    # Tangway ng Sambuwangga
+    - codes:
+        iso3166-2: PH-09
+      names:
+        - name: Tangway ng Sambuwangga
+          sources: [iso3166-2]
+        - name: Zamboanga Peninsula
+          sources: [iso3166-2]
+    
+
+    # Tarlac
+    - codes:
+        iso3166-2: PH-TAR
+      names:
+        - name: Tarlac
+          sources: [iso3166-2]
+        - name: Tarlak
+          sources: [iso3166-2]
+    
+
+    # Tawi-Tawi
+    - codes:
+        iso3166-2: PH-TAW
+      names:
+        - name: Tawi-Tawi
+          sources: [iso3166-2]
+    
+
+    # Ilocos Sur
+    - codes:
+        iso3166-2: PH-ILS
+      names:
+        - name: Ilocos Sur
+          sources: [iso3166-2]
+        - name: Timog Iloko
+          sources: [iso3166-2]
+    
+
+    # Camarines Sur
+    - codes:
+        iso3166-2: PH-CAS
+      names:
+        - name: Camarines Sur
+          sources: [iso3166-2]
+        - name: Timog Kamarines
+          sources: [iso3166-2]
+    
+
+    # South Cotabato
+    - codes:
+        iso3166-2: PH-SCO
+      names:
+        - name: South Cotabato
+          sources: [iso3166-2]
+        - name: Timog Kotabato
+          sources: [iso3166-2]
+    
+
+    # Lanao del Sur
+    - codes:
+        iso3166-2: PH-LAS
+      names:
+        - name: Lanao del Sur
+          sources: [iso3166-2]
+        - name: Timog Lanaw
+          sources: [iso3166-2]
+    
+
+    # Timog Sambuwangga
+    - codes:
+        iso3166-2: PH-ZAS
+      names:
+        - name: Timog Sambuwangga
+          sources: [iso3166-2]
+        - name: Zamboanga del Sur
+          sources: [iso3166-2]
+    
+
+    # Kanlurang Bisaya
+    - codes:
+        iso3166-2: PH-06
+      names:
+        - name: Kanlurang Bisaya
+          sources: [iso3166-2]
+        - name: Western Visayas
+          sources: [iso3166-2]
+    
+
+    # Sambales
+    - codes:
+        iso3166-2: PH-ZMB
+      names:
+        - name: Sambales
+          sources: [iso3166-2]
+        - name: Zambales
+          sources: [iso3166-2]
+    
+
+    # Sambuwangga Sibugay
+    - codes:
+        iso3166-2: PH-ZSI
+      names:
+        - name: Sambuwangga Sibugay
+          sources: [iso3166-2]
+        - name: Zamboanga Sibugay
+          sources: [iso3166-2]
+    
+
+    # Mountain
+    - codes:
+        iso3166-2: PH-MOU
+      names:
+        - name: Mountain
+          sources: [iso3166-2]
+        - name: g Bulubundukin
+          sources: [iso3166-2]

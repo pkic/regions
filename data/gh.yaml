@@ -1,0 +1,131 @@
+iso3166-1: GH
+complete: false
+regions:
+    
+
+    # Ahafo
+    - codes:
+        iso3166-2: GH-AF
+      names:
+        - name: Ahafo
+          sources: [iso3166-2]
+    
+
+    # Ashanti
+    - codes:
+        iso3166-2: GH-AH
+      names:
+        - name: Ashanti
+          sources: [iso3166-2]
+    
+
+    # Bono
+    - codes:
+        iso3166-2: GH-BO
+      names:
+        - name: Bono
+          sources: [iso3166-2]
+    
+
+    # Bono East
+    - codes:
+        iso3166-2: GH-BE
+      names:
+        - name: Bono East
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: GH-CP
+      names:
+        - name: Central
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: GH-EP
+      names:
+        - name: Eastern
+          sources: [iso3166-2]
+    
+
+    # Greater Accra
+    - codes:
+        iso3166-2: GH-AA
+      names:
+        - name: Greater Accra
+          sources: [iso3166-2]
+    
+
+    # North East
+    - codes:
+        iso3166-2: GH-NE
+      names:
+        - name: North East
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: GH-NP
+      names:
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Oti
+    - codes:
+        iso3166-2: GH-OT
+      names:
+        - name: Oti
+          sources: [iso3166-2]
+    
+
+    # Savannah
+    - codes:
+        iso3166-2: GH-SV
+      names:
+        - name: Savannah
+          sources: [iso3166-2]
+    
+
+    # Upper East
+    - codes:
+        iso3166-2: GH-UE
+      names:
+        - name: Upper East
+          sources: [iso3166-2]
+    
+
+    # Upper West
+    - codes:
+        iso3166-2: GH-UW
+      names:
+        - name: Upper West
+          sources: [iso3166-2]
+    
+
+    # Volta
+    - codes:
+        iso3166-2: GH-TV
+      names:
+        - name: Volta
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: GH-WP
+      names:
+        - name: Western
+          sources: [iso3166-2]
+    
+
+    # Western North
+    - codes:
+        iso3166-2: GH-WN
+      names:
+        - name: Western North
+          sources: [iso3166-2]

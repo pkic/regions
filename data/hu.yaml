@@ -1,0 +1,922 @@
+name: Hungary
+iso3166-1: HU
+complete: false
+regions:
+    
+
+    # Northern Alföld
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7900
+      names:
+        - name: Alfold do Norte
+          languages: [pt]
+          sources: [euvoc]
+        - name: Alfoldi Verior
+          languages: [sq]
+          sources: [euvoc]
+        - name: Alföld septentrional
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Alföld settentrionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Alföld-ul de Nord
+          languages: [ro]
+          sources: [euvoc]
+        - name: Il-wita tat-tramuntana
+          languages: [mt]
+          sources: [euvoc]
+        - name: Llanura Septentrional
+          languages: [es]
+          sources: [euvoc]
+        - name: Noord-Alföld
+          languages: [nl]
+          sources: [euvoc]
+        - name: Nord-Alföld
+          languages: [de]
+          sources: [euvoc]
+        - name: Norra slättlandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Northern Alföld
+          languages: [en]
+          sources: [euvoc]
+        - name: Pohjois-Alföld
+          languages: [fi]
+          sources: [euvoc]
+        - name: Põhja-Alföld
+          languages: [et]
+          sources: [euvoc]
+        - name: Severni Alföld
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severní Alföld
+          languages: [cs]
+          sources: [euvoc]
+        - name: Severný Alföld
+          languages: [sk]
+          sources: [euvoc]
+        - name: Sjeverni Alföld
+          languages: [hr]
+          sources: [euvoc]
+        - name: Wielka Równina Północna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Ziemeļalfolda
+          languages: [lv]
+          sources: [euvoc]
+        - name: Észac-Alföld
+          languages: [da]
+          sources: [euvoc]
+        - name: Észak-Alföld
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurės Alfeldas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρειο Alföld
+          languages: [el]
+          sources: [euvoc]
+        - name: Северен Алфьолд
+          languages: [bg]
+          sources: [euvoc]
+        - name: Северна Котлина
+          languages: [mk]
+          sources: [euvoc]
+        - name: Северна Низија
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Southern Alföld
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7899
+      names:
+        - name: Alfold do Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Alfoldi Jugor
+          languages: [sq]
+          sources: [euvoc]
+        - name: Alföld meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Alföld méridional
+          languages: [fr, ga]
+          sources: [euvoc]
+        - name: Alföld-ul de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Del-Alföld
+          languages: [da]
+          sources: [euvoc]
+        - name: Dienvidalfolda
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dél-Alföld
+          languages: [hu]
+          sources: [euvoc]
+        - name: Etelä-Alföld
+          languages: [fi]
+          sources: [euvoc]
+        - name: Il-wita tan-nofsinhar
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jižní Alföld
+          languages: [cs]
+          sources: [euvoc]
+        - name: Južni Alföld
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Južný Alföld
+          languages: [sk]
+          sources: [euvoc]
+        - name: Llanura Meridional
+          languages: [es]
+          sources: [euvoc]
+        - name: Lõuna-Alföld
+          languages: [et]
+          sources: [euvoc]
+        - name: Pietų Alfeldas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Southern Alföld
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra slättlandet
+          languages: [sv]
+          sources: [euvoc]
+        - name: Süd-Alföld
+          languages: [de]
+          sources: [euvoc]
+        - name: Wielka Równina Południowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zuid-Alföld
+          languages: [nl]
+          sources: [euvoc]
+        - name: Νότιο Alföld
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужна Котлина
+          languages: [mk]
+          sources: [euvoc]
+        - name: Јужна Низија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Южен Алфьолд
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Baranya
+    - codes:
+        iso3166-2: HU-BA
+      names:
+        - name: Baranya
+          sources: [iso3166-2]
+    
+
+    # Borsod-Abaúj-Zemplén
+    - codes:
+        iso3166-2: HU-BZ
+      names:
+        - name: Borsod-Abaúj-Zemplén
+          sources: [iso3166-2]
+    
+
+    # Budapest
+    - codes:
+        iso3166-2: HU-BU
+      names:
+        - name: Budapest
+          sources: [iso3166-2]
+    
+
+    # Bács-Kiskun
+    - codes:
+        iso3166-2: HU-BK
+      names:
+        - name: Bács-Kiskun
+          sources: [iso3166-2]
+    
+
+    # Békés
+    - codes:
+        iso3166-2: HU-BE
+      names:
+        - name: Békés
+          sources: [iso3166-2]
+    
+
+    # Békéscsaba
+    - codes:
+        iso3166-2: HU-BC
+      names:
+        - name: Békéscsaba
+          sources: [iso3166-2]
+    
+
+    # Central Hungary
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7901
+      names:
+        - name: Centraal-Hongarije
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Hungary
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Ungern
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centrālungārija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Det Centrale Ungarn
+          languages: [da]
+          sources: [euvoc]
+        - name: Hongrie centrale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Hungaria Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Hungria Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Hungría Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Kesk-Ungari
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Unkari
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Magyarország
+          languages: [hu]
+          sources: [euvoc]
+        - name: L-Ungerija Ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Mittelungarn
+          languages: [de]
+          sources: [euvoc]
+        - name: Osrednja Madžarska
+          languages: [sl]
+          sources: [euvoc]
+        - name: Središnja Mađarska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Maďarsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Maďarsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Ungaria Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Ungheria centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Vidurio Vengrija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Węgry Środkowe
+          languages: [pl]
+          sources: [euvoc]
+        - name: Κεντρική Ουγγαρία
+          languages: [el]
+          sources: [euvoc]
+        - name: Средна Унгарија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Средња Мађарска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Централна Унгария
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Central Transdanubia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7903
+      names:
+        - name: Centraal-Trans-Danubië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Transdanubia
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Transdanubien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centrālaizdonava
+          languages: [lv]
+          sources: [euvoc]
+        - name: Det Centrale Transdanubien
+          languages: [da]
+          sources: [euvoc]
+        - name: It-Transdanubia Ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kesk-Dunántúl
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Transdanubia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Dunántúl
+          languages: [hu]
+          sources: [euvoc]
+        - name: Osrednja Madžarska zahodno od Donave
+          languages: [sl]
+          sources: [euvoc]
+        - name: Srednje Podunavlje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Zadunajsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Zadunají
+          languages: [cs]
+          sources: [euvoc]
+        - name: Transdanubia Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Transdanubia Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Transdanubie centrale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Transdanubio Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Transdanubio centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Transdanúbia Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Transdunajski Środkowy
+          languages: [pl]
+          sources: [euvoc]
+        - name: Vidurio Dunantūlis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zentraltransdanubien
+          languages: [de]
+          sources: [euvoc]
+        - name: Κεντρική Υπερδουναβία
+          languages: [el]
+          sources: [euvoc]
+        - name: Средно Подунавје
+          languages: [mk]
+          sources: [euvoc]
+        - name: Средње Подунавље
+          languages: [sr]
+          sources: [euvoc]
+        - name: Централна Трансданубия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Csongrád
+    - codes:
+        iso3166-2: HU-CS
+      names:
+        - name: Csongrád
+          sources: [iso3166-2]
+    
+
+    # Debrecen
+    - codes:
+        iso3166-2: HU-DE
+      names:
+        - name: Debrecen
+          sources: [iso3166-2]
+    
+
+    # Southern Transdanubia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7904
+      names:
+        - name: Det Sydlige Transdanubien
+          languages: [da]
+          sources: [euvoc]
+        - name: Dienvidaizdonava
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dél-Dunántúl
+          languages: [hu]
+          sources: [euvoc]
+        - name: Etelä-Transdanubia
+          languages: [fi]
+          sources: [euvoc]
+        - name: It-Transdanubia tat-Tramuntana
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jižní Zadunají
+          languages: [cs]
+          sources: [euvoc]
+        - name: Južno Podunavlje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Južné Zadunajsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Lõuna-Dunántúl
+          languages: [et]
+          sources: [euvoc]
+        - name: Pietų Dunantūlis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Southern Transdanubia
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra Transdanubien
+          languages: [sv]
+          sources: [euvoc]
+        - name: Transdanubia Jugore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Transdanubia Meridională
+          languages: [ro]
+          sources: [euvoc]
+        - name: Transdanubie méridionale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Transdanubio Meridional
+          languages: [es]
+          sources: [euvoc]
+        - name: Transdanubio meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Transdanúbia do Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Transdunajski Południowy
+          languages: [pl]
+          sources: [euvoc]
+        - name: Zuid-Trans-Danubië
+          languages: [nl]
+          sources: [euvoc]
+        - name: morda Južna prekodonavska
+          languages: [sl]
+          sources: [euvoc]
+        - name: südliches Transdanubien
+          languages: [de]
+          sources: [euvoc]
+        - name: Νότια Υπερδουναβία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужно Подунавје
+          languages: [mk]
+          sources: [euvoc]
+        - name: Јужно Подунавље
+          languages: [sr]
+          sources: [euvoc]
+        - name: Южна Трансданубия
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Western Transdanubia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7905
+      names:
+        - name: Det Vestlige Transdanubien
+          languages: [da]
+          sources: [euvoc]
+        - name: It-Transdanubia tal-Punent
+          languages: [mt]
+          sources: [euvoc]
+        - name: Länsi-Transdanubia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Nyugat-Dunántúl
+          languages: [hu]
+          sources: [euvoc]
+        - name: Põhja-Dunántúl
+          languages: [et]
+          sources: [euvoc]
+        - name: Rietumaizdonava
+          languages: [lv]
+          sources: [euvoc]
+        - name: Transdanubia Occidentală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Transdanubia Perëndimore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Transdanubie occidentale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Transdanubio Occidental
+          languages: [es]
+          sources: [euvoc]
+        - name: Transdanubio occidentale
+          languages: [it]
+          sources: [euvoc]
+        - name: Transdanúbia Ocidental
+          languages: [pt]
+          sources: [euvoc]
+        - name: Transdunajski Zachodni
+          languages: [pl]
+          sources: [euvoc]
+        - name: Vakarų Dunantūlis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Västra Transdanubien
+          languages: [sv]
+          sources: [euvoc]
+        - name: West-Trans-Danubië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Western Transdanubia
+          languages: [en]
+          sources: [euvoc]
+        - name: Zahodna Madžarska zahodno od Donave
+          languages: [sl]
+          sources: [euvoc]
+        - name: Zapadno Podunavlje
+          languages: [hr]
+          sources: [euvoc]
+        - name: Západné Zadunajsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Západní Zadunají
+          languages: [cs]
+          sources: [euvoc]
+        - name: westliches Transdanubien
+          languages: [de]
+          sources: [euvoc]
+        - name: Δυτική Υπερδουναβία
+          languages: [el]
+          sources: [euvoc]
+        - name: Западна Трансданубия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Западно Подунавје
+          languages: [mk]
+          sources: [euvoc]
+        - name: Западно Подунавље
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Dunaújváros
+    - codes:
+        iso3166-2: HU-DU
+      names:
+        - name: Dunaújváros
+          sources: [iso3166-2]
+    
+
+    # Eger
+    - codes:
+        iso3166-2: HU-EG
+      names:
+        - name: Eger
+          sources: [iso3166-2]
+    
+
+    # Fejér
+    - codes:
+        iso3166-2: HU-FE
+      names:
+        - name: Fejér
+          sources: [iso3166-2]
+    
+
+    # Győr
+    - codes:
+        iso3166-2: HU-GY
+      names:
+        - name: Győr
+          sources: [iso3166-2]
+    
+
+    # Győr-Moson-Sopron
+    - codes:
+        iso3166-2: HU-GS
+      names:
+        - name: Győr-Moson-Sopron
+          sources: [iso3166-2]
+    
+
+    # Hajdú-Bihar
+    - codes:
+        iso3166-2: HU-HB
+      names:
+        - name: Hajdú-Bihar
+          sources: [iso3166-2]
+    
+
+    # Heves
+    - codes:
+        iso3166-2: HU-HE
+      names:
+        - name: Heves
+          sources: [iso3166-2]
+    
+
+    # Northern Hungary
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7902
+      names:
+        - name: Hongrie septentrionale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Hungaria Veriore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Hungria do Norte
+          languages: [pt]
+          sources: [euvoc]
+        - name: Hungría Septentrional
+          languages: [es]
+          sources: [euvoc]
+        - name: L-Ungerija tat-Tramuntana
+          languages: [mt]
+          sources: [euvoc]
+        - name: Noord-Hongarije
+          languages: [nl]
+          sources: [euvoc]
+        - name: Nordungarn
+          languages: [da, de]
+          sources: [euvoc]
+        - name: Norra Ungern
+          languages: [sv]
+          sources: [euvoc]
+        - name: Northern Hungary
+          languages: [en]
+          sources: [euvoc]
+        - name: Pohjois-Unkari
+          languages: [fi]
+          sources: [euvoc]
+        - name: Põhja-Ungari
+          languages: [et]
+          sources: [euvoc]
+        - name: Severna Madžarska
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severné Maďarsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Severní Maďarsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sjeverna Mađarska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Ungaria Septentrională
+          languages: [ro]
+          sources: [euvoc]
+        - name: Ungheria settentrionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Węgry Północne
+          languages: [pl]
+          sources: [euvoc]
+        - name: Ziemeļungārija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Észak-Magyarország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurės Vengrija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρεια Ουγγαρία
+          languages: [el]
+          sources: [euvoc]
+        - name: Северна Мађарска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Северна Унгария
+          languages: [bg]
+          sources: [euvoc]
+        - name: Северна Унгарија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Hódmezővásárhely
+    - codes:
+        iso3166-2: HU-HV
+      names:
+        - name: Hódmezővásárhely
+          sources: [iso3166-2]
+    
+
+    # Jász-Nagykun-Szolnok
+    - codes:
+        iso3166-2: HU-JN
+      names:
+        - name: Jász-Nagykun-Szolnok
+          sources: [iso3166-2]
+    
+
+    # Kaposvár
+    - codes:
+        iso3166-2: HU-KV
+      names:
+        - name: Kaposvár
+          sources: [iso3166-2]
+    
+
+    # Kecskemét
+    - codes:
+        iso3166-2: HU-KM
+      names:
+        - name: Kecskemét
+          sources: [iso3166-2]
+    
+
+    # Komárom-Esztergom
+    - codes:
+        iso3166-2: HU-KE
+      names:
+        - name: Komárom-Esztergom
+          sources: [iso3166-2]
+    
+
+    # Miskolc
+    - codes:
+        iso3166-2: HU-MI
+      names:
+        - name: Miskolc
+          sources: [iso3166-2]
+    
+
+    # Nagykanizsa
+    - codes:
+        iso3166-2: HU-NK
+      names:
+        - name: Nagykanizsa
+          sources: [iso3166-2]
+    
+
+    # Nyíregyháza
+    - codes:
+        iso3166-2: HU-NY
+      names:
+        - name: Nyíregyháza
+          sources: [iso3166-2]
+    
+
+    # Nógrád
+    - codes:
+        iso3166-2: HU-NO
+      names:
+        - name: Nógrád
+          sources: [iso3166-2]
+    
+
+    # Pest
+    - codes:
+        iso3166-2: HU-PE
+      names:
+        - name: Pest
+          sources: [iso3166-2]
+    
+
+    # Pécs
+    - codes:
+        iso3166-2: HU-PS
+      names:
+        - name: Pécs
+          sources: [iso3166-2]
+    
+
+    # Salgótarján
+    - codes:
+        iso3166-2: HU-ST
+      names:
+        - name: Salgótarján
+          sources: [iso3166-2]
+    
+
+    # Somogy
+    - codes:
+        iso3166-2: HU-SO
+      names:
+        - name: Somogy
+          sources: [iso3166-2]
+    
+
+    # Sopron
+    - codes:
+        iso3166-2: HU-SN
+      names:
+        - name: Sopron
+          sources: [iso3166-2]
+    
+
+    # Szabolcs-Szatmár-Bereg
+    - codes:
+        iso3166-2: HU-SZ
+      names:
+        - name: Szabolcs-Szatmár-Bereg
+          sources: [iso3166-2]
+    
+
+    # Szeged
+    - codes:
+        iso3166-2: HU-SD
+      names:
+        - name: Szeged
+          sources: [iso3166-2]
+    
+
+    # Szekszárd
+    - codes:
+        iso3166-2: HU-SS
+      names:
+        - name: Szekszárd
+          sources: [iso3166-2]
+    
+
+    # Szolnok
+    - codes:
+        iso3166-2: HU-SK
+      names:
+        - name: Szolnok
+          sources: [iso3166-2]
+    
+
+    # Szombathely
+    - codes:
+        iso3166-2: HU-SH
+      names:
+        - name: Szombathely
+          sources: [iso3166-2]
+    
+
+    # Székesfehérvár
+    - codes:
+        iso3166-2: HU-SF
+      names:
+        - name: Székesfehérvár
+          sources: [iso3166-2]
+    
+
+    # Tatabánya
+    - codes:
+        iso3166-2: HU-TB
+      names:
+        - name: Tatabánya
+          sources: [iso3166-2]
+    
+
+    # Tolna
+    - codes:
+        iso3166-2: HU-TO
+      names:
+        - name: Tolna
+          sources: [iso3166-2]
+    
+
+    # Vas
+    - codes:
+        iso3166-2: HU-VA
+      names:
+        - name: Vas
+          sources: [iso3166-2]
+    
+
+    # Veszprém
+    - codes:
+        iso3166-2: HU-VM
+      names:
+        - name: Veszprém
+          sources: [iso3166-2]
+    
+
+    # Zala
+    - codes:
+        iso3166-2: HU-ZA
+      names:
+        - name: Zala
+          sources: [iso3166-2]
+    
+
+    # Zalaegerszeg
+    - codes:
+        iso3166-2: HU-ZE
+      names:
+        - name: Zalaegerszeg
+          sources: [iso3166-2]
+    
+
+    # Érd
+    - codes:
+        iso3166-2: HU-ER
+      names:
+        - name: Érd
+          sources: [iso3166-2]

@@ -1,0 +1,59 @@
+iso3166-1: CR
+complete: false
+regions:
+    
+
+    # Alajuela
+    - codes:
+        iso3166-2: CR-A
+      names:
+        - name: Alajuela
+          sources: [iso3166-2]
+    
+
+    # Cartago
+    - codes:
+        iso3166-2: CR-C
+      names:
+        - name: Cartago
+          sources: [iso3166-2]
+    
+
+    # Guanacaste
+    - codes:
+        iso3166-2: CR-G
+      names:
+        - name: Guanacaste
+          sources: [iso3166-2]
+    
+
+    # Heredia
+    - codes:
+        iso3166-2: CR-H
+      names:
+        - name: Heredia
+          sources: [iso3166-2]
+    
+
+    # Limón
+    - codes:
+        iso3166-2: CR-L
+      names:
+        - name: Limón
+          sources: [iso3166-2]
+    
+
+    # Puntarenas
+    - codes:
+        iso3166-2: CR-P
+      names:
+        - name: Puntarenas
+          sources: [iso3166-2]
+    
+
+    # San José
+    - codes:
+        iso3166-2: CR-SJ
+      names:
+        - name: San José
+          sources: [iso3166-2]

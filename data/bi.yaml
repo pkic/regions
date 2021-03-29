@@ -1,0 +1,147 @@
+iso3166-1: BI
+complete: false
+regions:
+    
+
+    # Bubanza
+    - codes:
+        iso3166-2: BI-BB
+      names:
+        - name: Bubanza
+          sources: [iso3166-2]
+    
+
+    # Bujumbura Mairie
+    - codes:
+        iso3166-2: BI-BM
+      names:
+        - name: Bujumbura Mairie
+          sources: [iso3166-2]
+    
+
+    # Bujumbura Rural
+    - codes:
+        iso3166-2: BI-BL
+      names:
+        - name: Bujumbura Rural
+          sources: [iso3166-2]
+    
+
+    # Bururi
+    - codes:
+        iso3166-2: BI-BR
+      names:
+        - name: Bururi
+          sources: [iso3166-2]
+    
+
+    # Cankuzo
+    - codes:
+        iso3166-2: BI-CA
+      names:
+        - name: Cankuzo
+          sources: [iso3166-2]
+    
+
+    # Cibitoke
+    - codes:
+        iso3166-2: BI-CI
+      names:
+        - name: Cibitoke
+          sources: [iso3166-2]
+    
+
+    # Gitega
+    - codes:
+        iso3166-2: BI-GI
+      names:
+        - name: Gitega
+          sources: [iso3166-2]
+    
+
+    # Karuzi
+    - codes:
+        iso3166-2: BI-KR
+      names:
+        - name: Karuzi
+          sources: [iso3166-2]
+    
+
+    # Kayanza
+    - codes:
+        iso3166-2: BI-KY
+      names:
+        - name: Kayanza
+          sources: [iso3166-2]
+    
+
+    # Kirundo
+    - codes:
+        iso3166-2: BI-KI
+      names:
+        - name: Kirundo
+          sources: [iso3166-2]
+    
+
+    # Makamba
+    - codes:
+        iso3166-2: BI-MA
+      names:
+        - name: Makamba
+          sources: [iso3166-2]
+    
+
+    # Muramvya
+    - codes:
+        iso3166-2: BI-MU
+      names:
+        - name: Muramvya
+          sources: [iso3166-2]
+    
+
+    # Muyinga
+    - codes:
+        iso3166-2: BI-MY
+      names:
+        - name: Muyinga
+          sources: [iso3166-2]
+    
+
+    # Mwaro
+    - codes:
+        iso3166-2: BI-MW
+      names:
+        - name: Mwaro
+          sources: [iso3166-2]
+    
+
+    # Ngozi
+    - codes:
+        iso3166-2: BI-NG
+      names:
+        - name: Ngozi
+          sources: [iso3166-2]
+    
+
+    # Rumonge
+    - codes:
+        iso3166-2: BI-RM
+      names:
+        - name: Rumonge
+          sources: [iso3166-2]
+    
+
+    # Rutana
+    - codes:
+        iso3166-2: BI-RT
+      names:
+        - name: Rutana
+          sources: [iso3166-2]
+    
+
+    # Ruyigi
+    - codes:
+        iso3166-2: BI-RY
+      names:
+        - name: Ruyigi
+          sources: [iso3166-2]

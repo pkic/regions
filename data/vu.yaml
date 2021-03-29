@@ -1,0 +1,51 @@
+iso3166-1: VU
+complete: false
+regions:
+    
+
+    # Malampa
+    - codes:
+        iso3166-2: VU-MAP
+      names:
+        - name: Malampa
+          sources: [iso3166-2]
+    
+
+    # Pénama
+    - codes:
+        iso3166-2: VU-PAM
+      names:
+        - name: Pénama
+          sources: [iso3166-2]
+    
+
+    # Sanma
+    - codes:
+        iso3166-2: VU-SAM
+      names:
+        - name: Sanma
+          sources: [iso3166-2]
+    
+
+    # Shéfa
+    - codes:
+        iso3166-2: VU-SEE
+      names:
+        - name: Shéfa
+          sources: [iso3166-2]
+    
+
+    # Taféa
+    - codes:
+        iso3166-2: VU-TAE
+      names:
+        - name: Taféa
+          sources: [iso3166-2]
+    
+
+    # Torba
+    - codes:
+        iso3166-2: VU-TOB
+      names:
+        - name: Torba
+          sources: [iso3166-2]

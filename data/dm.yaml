@@ -1,0 +1,83 @@
+iso3166-1: DM
+complete: false
+regions:
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: DM-02
+      names:
+        - name: Saint Andrew
+          sources: [iso3166-2]
+    
+
+    # Saint David
+    - codes:
+        iso3166-2: DM-03
+      names:
+        - name: Saint David
+          sources: [iso3166-2]
+    
+
+    # Saint George
+    - codes:
+        iso3166-2: DM-04
+      names:
+        - name: Saint George
+          sources: [iso3166-2]
+    
+
+    # Saint John
+    - codes:
+        iso3166-2: DM-05
+      names:
+        - name: Saint John
+          sources: [iso3166-2]
+    
+
+    # Saint Joseph
+    - codes:
+        iso3166-2: DM-06
+      names:
+        - name: Saint Joseph
+          sources: [iso3166-2]
+    
+
+    # Saint Luke
+    - codes:
+        iso3166-2: DM-07
+      names:
+        - name: Saint Luke
+          sources: [iso3166-2]
+    
+
+    # Saint Mark
+    - codes:
+        iso3166-2: DM-08
+      names:
+        - name: Saint Mark
+          sources: [iso3166-2]
+    
+
+    # Saint Patrick
+    - codes:
+        iso3166-2: DM-09
+      names:
+        - name: Saint Patrick
+          sources: [iso3166-2]
+    
+
+    # Saint Paul
+    - codes:
+        iso3166-2: DM-10
+      names:
+        - name: Saint Paul
+          sources: [iso3166-2]
+    
+
+    # Saint Peter
+    - codes:
+        iso3166-2: DM-11
+      names:
+        - name: Saint Peter
+          sources: [iso3166-2]

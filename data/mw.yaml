@@ -1,0 +1,257 @@
+iso3166-1: MW
+complete: false
+regions:
+    
+
+    # Balaka
+    - codes:
+        iso3166-2: MW-BA
+      names:
+        - name: Balaka
+          sources: [iso3166-2]
+    
+
+    # Blantyre
+    - codes:
+        iso3166-2: MW-BL
+      names:
+        - name: Blantyre
+          sources: [iso3166-2]
+    
+
+    # Chakumpoto
+    - codes:
+        iso3166-2: MW-N
+      names:
+        - name: Chakumpoto
+          sources: [iso3166-2]
+        - name: Northern
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: MW-C
+      names:
+        - name: Central
+          sources: [iso3166-2]
+        - name: Chapakati
+          sources: [iso3166-2]
+    
+
+    # Chikwawa
+    - codes:
+        iso3166-2: MW-CK
+      names:
+        - name: Chikwawa
+          sources: [iso3166-2]
+    
+
+    # Chiradzulu
+    - codes:
+        iso3166-2: MW-CR
+      names:
+        - name: Chiradzulu
+          sources: [iso3166-2]
+    
+
+    # Chitipa
+    - codes:
+        iso3166-2: MW-CT
+      names:
+        - name: Chitipa
+          sources: [iso3166-2]
+    
+
+    # Dedza
+    - codes:
+        iso3166-2: MW-DE
+      names:
+        - name: Dedza
+          sources: [iso3166-2]
+    
+
+    # Dowa
+    - codes:
+        iso3166-2: MW-DO
+      names:
+        - name: Dowa
+          sources: [iso3166-2]
+    
+
+    # Karonga
+    - codes:
+        iso3166-2: MW-KR
+      names:
+        - name: Karonga
+          sources: [iso3166-2]
+    
+
+    # Kasungu
+    - codes:
+        iso3166-2: MW-KS
+      names:
+        - name: Kasungu
+          sources: [iso3166-2]
+    
+
+    # Likoma
+    - codes:
+        iso3166-2: MW-LK
+      names:
+        - name: Likoma
+          sources: [iso3166-2]
+    
+
+    # Lilongwe
+    - codes:
+        iso3166-2: MW-LI
+      names:
+        - name: Lilongwe
+          sources: [iso3166-2]
+    
+
+    # Machinga
+    - codes:
+        iso3166-2: MW-MH
+      names:
+        - name: Machinga
+          sources: [iso3166-2]
+    
+
+    # Mangochi
+    - codes:
+        iso3166-2: MW-MG
+      names:
+        - name: Mangochi
+          sources: [iso3166-2]
+    
+
+    # Mchinji
+    - codes:
+        iso3166-2: MW-MC
+      names:
+        - name: Mchinji
+          sources: [iso3166-2]
+    
+
+    # Mulanje
+    - codes:
+        iso3166-2: MW-MU
+      names:
+        - name: Mulanje
+          sources: [iso3166-2]
+    
+
+    # Mwanza
+    - codes:
+        iso3166-2: MW-MW
+      names:
+        - name: Mwanza
+          sources: [iso3166-2]
+    
+
+    # Mzimba
+    - codes:
+        iso3166-2: MW-MZ
+      names:
+        - name: Mzimba
+          sources: [iso3166-2]
+    
+
+    # Neno
+    - codes:
+        iso3166-2: MW-NE
+      names:
+        - name: Neno
+          sources: [iso3166-2]
+    
+
+    # Nkhata Bay
+    - codes:
+        iso3166-2: MW-NB
+      names:
+        - name: Nkhata Bay
+          sources: [iso3166-2]
+    
+
+    # Nkhotakota
+    - codes:
+        iso3166-2: MW-NK
+      names:
+        - name: Nkhotakota
+          sources: [iso3166-2]
+    
+
+    # Nsanje
+    - codes:
+        iso3166-2: MW-NS
+      names:
+        - name: Nsanje
+          sources: [iso3166-2]
+    
+
+    # Ntcheu
+    - codes:
+        iso3166-2: MW-NU
+      names:
+        - name: Ntcheu
+          sources: [iso3166-2]
+    
+
+    # Ntchisi
+    - codes:
+        iso3166-2: MW-NI
+      names:
+        - name: Ntchisi
+          sources: [iso3166-2]
+    
+
+    # Phalombe
+    - codes:
+        iso3166-2: MW-PH
+      names:
+        - name: Phalombe
+          sources: [iso3166-2]
+    
+
+    # Rumphi
+    - codes:
+        iso3166-2: MW-RU
+      names:
+        - name: Rumphi
+          sources: [iso3166-2]
+    
+
+    # Salima
+    - codes:
+        iso3166-2: MW-SA
+      names:
+        - name: Salima
+          sources: [iso3166-2]
+    
+
+    # Chakumwera
+    - codes:
+        iso3166-2: MW-S
+      names:
+        - name: Chakumwera
+          sources: [iso3166-2]
+        - name: Southern
+          sources: [iso3166-2]
+    
+
+    # Thyolo
+    - codes:
+        iso3166-2: MW-TH
+      names:
+        - name: Thyolo
+          sources: [iso3166-2]
+    
+
+    # Zomba
+    - codes:
+        iso3166-2: MW-ZO
+      names:
+        - name: Zomba
+          sources: [iso3166-2]

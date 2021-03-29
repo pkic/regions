@@ -1,0 +1,97 @@
+iso3166-1: OM
+complete: false
+regions:
+    
+
+    # Ad Dākhilīyah
+    - codes:
+        iso3166-2: OM-DA
+      names:
+        - name: Ad Dākhilīyah
+          sources: [iso3166-2]
+    
+
+    # Al Buraymī
+    - codes:
+        iso3166-2: OM-BU
+      names:
+        - name: Al Buraymī
+          sources: [iso3166-2]
+    
+
+    # Al Wusţá
+    - codes:
+        iso3166-2: OM-WU
+      names:
+        - name: Al Wusţá
+          sources: [iso3166-2]
+    
+
+    # Az̧ Z̧āhirah
+    - codes:
+        iso3166-2: OM-ZA
+      names:
+        - name: Az̧ Z̧āhirah
+          sources: [iso3166-2]
+    
+
+    # Janūb al Bāţinah
+    - codes:
+        iso3166-2: OM-BJ
+      names:
+        - name: Janūb al Bāţinah
+          sources: [iso3166-2]
+    
+
+    # Janūb ash Sharqīyah
+    - codes:
+        iso3166-2: OM-SJ
+      names:
+        - name: Janūb ash Sharqīyah
+          sources: [iso3166-2]
+    
+
+    # Masqaţ
+    - codes:
+        iso3166-2: OM-MA
+      names:
+        - name: Masqaţ
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Muscat
+          sources: [iso3166-2]
+    
+
+    # Musandam
+    - codes:
+        iso3166-2: OM-MU
+      names:
+        - name: Musandam
+          sources: [iso3166-2]
+    
+
+    # Shamāl al Bāţinah
+    - codes:
+        iso3166-2: OM-BS
+      names:
+        - name: Shamāl al Bāţinah
+          sources: [iso3166-2]
+    
+
+    # Shamāl ash Sharqīyah
+    - codes:
+        iso3166-2: OM-SS
+      names:
+        - name: Shamāl ash Sharqīyah
+          sources: [iso3166-2]
+    
+
+    # Z̧ufār
+    - codes:
+        iso3166-2: OM-ZU
+      names:
+        - name: Dhofar
+          sources: [iso3166-2]
+        - name: Z̧ufār
+          languages: [en]
+          sources: [iso3166-2]

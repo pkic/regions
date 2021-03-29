@@ -1,0 +1,27 @@
+iso3166-1: SH
+complete: false
+regions:
+    
+
+    # Ascension
+    - codes:
+        iso3166-2: SH-AC
+      names:
+        - name: Ascension
+          sources: [iso3166-2]
+    
+
+    # Saint Helena
+    - codes:
+        iso3166-2: SH-HL
+      names:
+        - name: Saint Helena
+          sources: [iso3166-2]
+    
+
+    # Tristan da Cunha
+    - codes:
+        iso3166-2: SH-TA
+      names:
+        - name: Tristan da Cunha
+          sources: [iso3166-2]

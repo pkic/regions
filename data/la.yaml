@@ -1,0 +1,187 @@
+iso3166-1: LA
+complete: false
+regions:
+    
+
+    # Attapu
+    - codes:
+        iso3166-2: LA-AT
+      names:
+        - name: Attapeu
+          sources: [iso3166-2]
+        - name: Attapu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bokèo
+    - codes:
+        iso3166-2: LA-BK
+      names:
+        - name: Bokèo
+          sources: [iso3166-2]
+    
+
+    # Bolikhamxai
+    - codes:
+        iso3166-2: LA-BL
+      names:
+        - name: Bolikhamxai
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Borikhamxay
+          sources: [iso3166-2]
+    
+
+    # Champasak
+    - codes:
+        iso3166-2: LA-CH
+      names:
+        - name: Champasack
+          sources: [iso3166-2]
+        - name: Champasak
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Houaphan
+    - codes:
+        iso3166-2: LA-HO
+      names:
+        - name: Houaphan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Huaphanh
+          sources: [iso3166-2]
+    
+
+    # Khammouan
+    - codes:
+        iso3166-2: LA-KH
+      names:
+        - name: Khammouan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Khammuane
+          sources: [iso3166-2]
+    
+
+    # Louang Namtha
+    - codes:
+        iso3166-2: LA-LM
+      names:
+        - name: Louang Namtha
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Luangnamtha
+          sources: [iso3166-2]
+    
+
+    # Louangphabang
+    - codes:
+        iso3166-2: LA-LP
+      names:
+        - name: Louangphabang
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Luangprabang
+          sources: [iso3166-2]
+    
+
+    # Oudômxai
+    - codes:
+        iso3166-2: LA-OU
+      names:
+        - name: Oudomxay
+          sources: [iso3166-2]
+        - name: Oudômxai
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Phôngsali
+    - codes:
+        iso3166-2: LA-PH
+      names:
+        - name: Phongsaly
+          sources: [iso3166-2]
+        - name: Phôngsali
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Salavan
+    - codes:
+        iso3166-2: LA-SL
+      names:
+        - name: Salavan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Saravane
+          sources: [iso3166-2]
+    
+
+    # Savannakhét
+    - codes:
+        iso3166-2: LA-SV
+      names:
+        - name: Savannakhet
+          sources: [iso3166-2]
+        - name: Savannakhét
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Viangchan
+    - codes:
+        iso3166-2: LA-VT
+      names:
+        - name: Viangchan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Vientiane
+          sources: [iso3166-2]
+    
+
+    # Xaignabouli
+    - codes:
+        iso3166-2: LA-XA
+      names:
+        - name: Xaignabouli
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Xayabury
+          sources: [iso3166-2]
+    
+
+    # Xaisômboun
+    - codes:
+        iso3166-2: LA-XS
+      names:
+        - name: Xaisômboun
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Xaysomboon
+          sources: [iso3166-2]
+    
+
+    # Xiangkhouang
+    - codes:
+        iso3166-2: LA-XI
+      names:
+        - name: Xiangkhouang
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Xiengkhuang
+          sources: [iso3166-2]
+    
+
+    # Xékong
+    - codes:
+        iso3166-2: LA-XE
+      names:
+        - name: Sekong
+          sources: [iso3166-2]
+        - name: Xékong
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,1098 @@
+name: Estonia
+iso3166-1: EE
+complete: false
+regions:
+    
+
+    # Alutaguse
+    - codes:
+        iso3166-2: EE-130
+      names:
+        - name: Alutaguse
+          sources: [iso3166-2]
+    
+
+    # Anija
+    - codes:
+        iso3166-2: EE-141
+      names:
+        - name: Anija
+          sources: [iso3166-2]
+    
+
+    # Antsla
+    - codes:
+        iso3166-2: EE-142
+      names:
+        - name: Antsla
+          sources: [iso3166-2]
+    
+
+    # Central Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7858
+      names:
+        - name: Centraal-Estland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Central Estonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrala Estland
+          languages: [sv]
+          sources: [euvoc]
+        - name: Centrāligaunija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Estonia Central
+          languages: [es]
+          sources: [euvoc]
+        - name: Estonia Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Estonia Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Estonia centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Estonia Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Estonie centrale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Estónia Central
+          languages: [pt]
+          sources: [euvoc]
+        - name: Kesk-Eesti
+          languages: [da, et]
+          sources: [euvoc]
+        - name: Keski-Viro
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Észtország
+          languages: [hu]
+          sources: [euvoc]
+        - name: L-Estonja Ċentrali
+          languages: [mt]
+          sources: [euvoc]
+        - name: Mittelestland
+          languages: [de]
+          sources: [euvoc]
+        - name: Osrednja Estonija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Središnja Estonija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Estónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Estonsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Vidurio Estija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Κεντρική Εσθονία
+          languages: [el]
+          sources: [euvoc]
+        - name: Средња Естонија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Централна Естония
+          languages: [bg]
+          sources: [euvoc]
+        - name: Централна Естонија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Southern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7860
+      names:
+        - name: Dienvidigaunija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dél-Észtország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Estonia Jugore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Estonia Meridional
+          languages: [es]
+          sources: [euvoc]
+        - name: Estonia Południowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Estonia de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Estonia meridionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Estonie du Sud
+          languages: [fr]
+          sources: [euvoc]
+        - name: Estónia do Sul
+          languages: [pt]
+          sources: [euvoc]
+        - name: Etelä-Viro
+          languages: [fi]
+          sources: [euvoc]
+        - name: Jižní Estonsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Južna Estonija
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Južné Estónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: L-Estonja tan-Nofsinhar
+          languages: [mt]
+          sources: [euvoc]
+        - name: Lõuna-Eesti
+          languages: [da, et]
+          sources: [euvoc]
+        - name: Pietų Estija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Southern Estonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Södra Estland
+          languages: [sv]
+          sources: [euvoc]
+        - name: Südestland
+          languages: [de]
+          sources: [euvoc]
+        - name: Zuid-Estland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Νότια Εσθονία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужна Естонија
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Южна Естония
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Elva
+    - codes:
+        iso3166-2: EE-171
+      names:
+        - name: Elva
+          sources: [iso3166-2]
+    
+
+    # North-eastern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7859
+      names:
+        - name: Estonia Nororiental
+          languages: [es]
+          sources: [euvoc]
+        - name: Estonia Północno-Wschodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Estonia Verilindore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Estonia de Nord-Est
+          languages: [ro]
+          sources: [euvoc]
+        - name: Estonia nordorientale
+          languages: [it]
+          sources: [euvoc]
+        - name: Estonie du Nord-Est
+          languages: [fr]
+          sources: [euvoc]
+        - name: Estónia Nordeste
+          languages: [pt]
+          sources: [euvoc]
+        - name: Kirde-Eesti
+          languages: [da, et]
+          sources: [euvoc]
+        - name: Koillis-Viro
+          languages: [fi]
+          sources: [euvoc]
+        - name: L-Estonja tal-Grigal
+          languages: [mt]
+          sources: [euvoc]
+        - name: Nordostestland
+          languages: [de]
+          sources: [euvoc]
+        - name: Nordöstra Estland
+          languages: [sv]
+          sources: [euvoc]
+        - name: North-eastern Estonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Oost-Estland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Severovzhodna Estonija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severovýchodné Estónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Severovýchodní Estonsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sjeveroistočna Estonija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Ziemeļaustrumigaunija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Északkelet-Észtország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurės Rytų Estija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρειοανατολική Εσθονία
+          languages: [el]
+          sources: [euvoc]
+        - name: Североизточна Естония
+          languages: [bg]
+          sources: [euvoc]
+        - name: Североисточна Естонија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Western Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7857
+      names:
+        - name: Estonia Occidental
+          languages: [es]
+          sources: [euvoc]
+        - name: Estonia Occidentală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Estonia Perëndimore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Estonia Zachodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Estonia occidentale
+          languages: [it]
+          sources: [euvoc]
+        - name: Estonie occidentale
+          languages: [fr]
+          sources: [euvoc]
+        - name: Estónia Ocidental
+          languages: [pt]
+          sources: [euvoc]
+        - name: L-Estonja tal-punent
+          languages: [mt]
+          sources: [euvoc]
+        - name: Länsi-Viro
+          languages: [fi]
+          sources: [euvoc]
+        - name: Lääne-Eesti
+          languages: [da, et]
+          sources: [euvoc]
+        - name: Nyugat-Észtország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Rietumigaunija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Vakarų Estija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Västra Estland
+          languages: [sv]
+          sources: [euvoc]
+        - name: West-Estland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Western Estonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Westestland
+          languages: [de]
+          sources: [euvoc]
+        - name: Zahodna Estonija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Zapadna Estonija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Západné Estónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Západní Estonsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Δυτική Εσθονία
+          languages: [el]
+          sources: [euvoc]
+        - name: Западна Естония
+          languages: [bg]
+          sources: [euvoc]
+        - name: Западна Естонија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Northern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7856
+      names:
+        - name: Estonia Północna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Estonia Septentrional
+          languages: [es]
+          sources: [euvoc]
+        - name: Estonia Veriore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Estonia de Nord
+          languages: [ro]
+          sources: [euvoc]
+        - name: Estonia settentrionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Estonie du Nord
+          languages: [fr]
+          sources: [euvoc]
+        - name: Estónia do Norte
+          languages: [pt]
+          sources: [euvoc]
+        - name: L-Estonja tat-tramuntana
+          languages: [mt]
+          sources: [euvoc]
+        - name: Noord-Estland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Nordestland
+          languages: [de]
+          sources: [euvoc]
+        - name: Norra Estland
+          languages: [sv]
+          sources: [euvoc]
+        - name: Northern Estonia
+          languages: [en]
+          sources: [euvoc]
+        - name: Pohjois-Viro
+          languages: [fi]
+          sources: [euvoc]
+        - name: Põhja-Eesti
+          languages: [da, et]
+          sources: [euvoc]
+        - name: Severna Estonija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severné Estónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Severní Estonsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sjeverna Estonija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Ziemeļigaunija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Észak-Észtország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurės Estija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρεια Εσθονία
+          languages: [el]
+          sources: [euvoc]
+        - name: Северна Естония
+          languages: [bg]
+          sources: [euvoc]
+        - name: Северна Естонија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Haapsalu
+    - codes:
+        iso3166-2: EE-184
+      names:
+        - name: Haapsalu
+          sources: [iso3166-2]
+    
+
+    # Haljala
+    - codes:
+        iso3166-2: EE-191
+      names:
+        - name: Haljala
+          sources: [iso3166-2]
+    
+
+    # Harjumaa
+    - codes:
+        iso3166-2: EE-37
+      names:
+        - name: Harjumaa
+          sources: [iso3166-2]
+    
+
+    # Harku
+    - codes:
+        iso3166-2: EE-198
+      names:
+        - name: Harku
+          sources: [iso3166-2]
+    
+
+    # Hiiumaa
+    - codes:
+        iso3166-2: EE-39
+      names:
+        - name: Hiiumaa
+          sources: [iso3166-2]
+    
+
+    # Häädemeeste
+    - codes:
+        iso3166-2: EE-214
+      names:
+        - name: Häädemeeste
+          sources: [iso3166-2]
+    
+
+    # Ida-Virumaa
+    - codes:
+        iso3166-2: EE-45
+      names:
+        - name: Ida-Virumaa
+          sources: [iso3166-2]
+    
+
+    # Järva
+    - codes:
+        iso3166-2: EE-255
+      names:
+        - name: Järva
+          sources: [iso3166-2]
+    
+
+    # Järvamaa
+    - codes:
+        iso3166-2: EE-52
+      names:
+        - name: Järvamaa
+          sources: [iso3166-2]
+    
+
+    # Jõelähtme
+    - codes:
+        iso3166-2: EE-245
+      names:
+        - name: Jõelähtme
+          sources: [iso3166-2]
+    
+
+    # Jõgeva
+    - codes:
+        iso3166-2: EE-247
+      names:
+        - name: Jõgeva
+          sources: [iso3166-2]
+    
+
+    # Jõgevamaa
+    - codes:
+        iso3166-2: EE-50
+      names:
+        - name: Jõgevamaa
+          sources: [iso3166-2]
+    
+
+    # Jõhvi
+    - codes:
+        iso3166-2: EE-251
+      names:
+        - name: Jõhvi
+          sources: [iso3166-2]
+    
+
+    # Kadrina
+    - codes:
+        iso3166-2: EE-272
+      names:
+        - name: Kadrina
+          sources: [iso3166-2]
+    
+
+    # Kambja
+    - codes:
+        iso3166-2: EE-283
+      names:
+        - name: Kambja
+          sources: [iso3166-2]
+    
+
+    # Kanepi
+    - codes:
+        iso3166-2: EE-284
+      names:
+        - name: Kanepi
+          sources: [iso3166-2]
+    
+
+    # Kastre
+    - codes:
+        iso3166-2: EE-291
+      names:
+        - name: Kastre
+          sources: [iso3166-2]
+    
+
+    # Kehtna
+    - codes:
+        iso3166-2: EE-293
+      names:
+        - name: Kehtna
+          sources: [iso3166-2]
+    
+
+    # Keila
+    - codes:
+        iso3166-2: EE-296
+      names:
+        - name: Keila
+          sources: [iso3166-2]
+    
+
+    # Kihnu
+    - codes:
+        iso3166-2: EE-303
+      names:
+        - name: Kihnu
+          sources: [iso3166-2]
+    
+
+    # Kiili
+    - codes:
+        iso3166-2: EE-305
+      names:
+        - name: Kiili
+          sources: [iso3166-2]
+    
+
+    # Kohila
+    - codes:
+        iso3166-2: EE-317
+      names:
+        - name: Kohila
+          sources: [iso3166-2]
+    
+
+    # Kohtla-Järve
+    - codes:
+        iso3166-2: EE-321
+      names:
+        - name: Kohtla-Järve
+          sources: [iso3166-2]
+    
+
+    # Kose
+    - codes:
+        iso3166-2: EE-338
+      names:
+        - name: Kose
+          sources: [iso3166-2]
+    
+
+    # Kuusalu
+    - codes:
+        iso3166-2: EE-353
+      names:
+        - name: Kuusalu
+          sources: [iso3166-2]
+    
+
+    # Loksa
+    - codes:
+        iso3166-2: EE-424
+      names:
+        - name: Loksa
+          sources: [iso3166-2]
+    
+
+    # Luunja
+    - codes:
+        iso3166-2: EE-432
+      names:
+        - name: Luunja
+          sources: [iso3166-2]
+    
+
+    # Lääne-Harju
+    - codes:
+        iso3166-2: EE-431
+      names:
+        - name: Lääne-Harju
+          sources: [iso3166-2]
+    
+
+    # Lääne-Nigula
+    - codes:
+        iso3166-2: EE-441
+      names:
+        - name: Lääne-Nigula
+          sources: [iso3166-2]
+    
+
+    # Lääne-Virumaa
+    - codes:
+        iso3166-2: EE-60
+      names:
+        - name: Lääne-Virumaa
+          sources: [iso3166-2]
+    
+
+    # Läänemaa
+    - codes:
+        iso3166-2: EE-56
+      names:
+        - name: Läänemaa
+          sources: [iso3166-2]
+    
+
+    # Lääneranna
+    - codes:
+        iso3166-2: EE-430
+      names:
+        - name: Lääneranna
+          sources: [iso3166-2]
+    
+
+    # Lüganuse
+    - codes:
+        iso3166-2: EE-442
+      names:
+        - name: Lüganuse
+          sources: [iso3166-2]
+    
+
+    # Maardu
+    - codes:
+        iso3166-2: EE-446
+      names:
+        - name: Maardu
+          sources: [iso3166-2]
+    
+
+    # Muhu
+    - codes:
+        iso3166-2: EE-478
+      names:
+        - name: Muhu
+          sources: [iso3166-2]
+    
+
+    # Mulgi
+    - codes:
+        iso3166-2: EE-480
+      names:
+        - name: Mulgi
+          sources: [iso3166-2]
+    
+
+    # Mustvee
+    - codes:
+        iso3166-2: EE-486
+      names:
+        - name: Mustvee
+          sources: [iso3166-2]
+    
+
+    # Märjamaa
+    - codes:
+        iso3166-2: EE-503
+      names:
+        - name: Märjamaa
+          sources: [iso3166-2]
+    
+
+    # Narva
+    - codes:
+        iso3166-2: EE-511
+      names:
+        - name: Narva
+          sources: [iso3166-2]
+    
+
+    # Narva-Jõesuu
+    - codes:
+        iso3166-2: EE-514
+      names:
+        - name: Narva-Jõesuu
+          sources: [iso3166-2]
+    
+
+    # Nõo
+    - codes:
+        iso3166-2: EE-528
+      names:
+        - name: Nõo
+          sources: [iso3166-2]
+    
+
+    # Otepää
+    - codes:
+        iso3166-2: EE-557
+      names:
+        - name: Otepää
+          sources: [iso3166-2]
+    
+
+    # Paide
+    - codes:
+        iso3166-2: EE-567
+      names:
+        - name: Paide
+          sources: [iso3166-2]
+    
+
+    # Peipsiääre
+    - codes:
+        iso3166-2: EE-586
+      names:
+        - name: Peipsiääre
+          sources: [iso3166-2]
+    
+
+    # Pärnu
+    - codes:
+        iso3166-2: EE-624
+      names:
+        - name: Pärnu
+          sources: [iso3166-2]
+    
+
+    # Pärnumaa
+    - codes:
+        iso3166-2: EE-68
+      names:
+        - name: Pärnumaa
+          sources: [iso3166-2]
+    
+
+    # Põhja-Pärnumaa
+    - codes:
+        iso3166-2: EE-638
+      names:
+        - name: Põhja-Pärnumaa
+          sources: [iso3166-2]
+    
+
+    # Põhja-Sakala
+    - codes:
+        iso3166-2: EE-615
+      names:
+        - name: Põhja-Sakala
+          sources: [iso3166-2]
+    
+
+    # Põltsamaa
+    - codes:
+        iso3166-2: EE-618
+      names:
+        - name: Põltsamaa
+          sources: [iso3166-2]
+    
+
+    # Põlva
+    - codes:
+        iso3166-2: EE-622
+      names:
+        - name: Põlva
+          sources: [iso3166-2]
+    
+
+    # Põlvamaa
+    - codes:
+        iso3166-2: EE-64
+      names:
+        - name: Põlvamaa
+          sources: [iso3166-2]
+    
+
+    # Raasiku
+    - codes:
+        iso3166-2: EE-651
+      names:
+        - name: Raasiku
+          sources: [iso3166-2]
+    
+
+    # Rae
+    - codes:
+        iso3166-2: EE-653
+      names:
+        - name: Rae
+          sources: [iso3166-2]
+    
+
+    # Rakvere
+    - codes:
+        iso3166-2: EE-663
+      names:
+        - name: Rakvere
+          sources: [iso3166-2]
+    
+
+    # Rapla
+    - codes:
+        iso3166-2: EE-668
+      names:
+        - name: Rapla
+          sources: [iso3166-2]
+    
+
+    # Raplamaa
+    - codes:
+        iso3166-2: EE-71
+      names:
+        - name: Raplamaa
+          sources: [iso3166-2]
+    
+
+    # Ruhnu
+    - codes:
+        iso3166-2: EE-689
+      names:
+        - name: Ruhnu
+          sources: [iso3166-2]
+    
+
+    # Räpina
+    - codes:
+        iso3166-2: EE-708
+      names:
+        - name: Räpina
+          sources: [iso3166-2]
+    
+
+    # Rõuge
+    - codes:
+        iso3166-2: EE-698
+      names:
+        - name: Rõuge
+          sources: [iso3166-2]
+    
+
+    # Saarde
+    - codes:
+        iso3166-2: EE-712
+      names:
+        - name: Saarde
+          sources: [iso3166-2]
+    
+
+    # Saaremaa
+    - codes:
+        iso3166-2: EE-74
+      names:
+        - name: Saaremaa
+          sources: [iso3166-2]
+    
+
+    # Saku
+    - codes:
+        iso3166-2: EE-719
+      names:
+        - name: Saku
+          sources: [iso3166-2]
+    
+
+    # Saue
+    - codes:
+        iso3166-2: EE-726
+      names:
+        - name: Saue
+          sources: [iso3166-2]
+    
+
+    # Setomaa
+    - codes:
+        iso3166-2: EE-732
+      names:
+        - name: Setomaa
+          sources: [iso3166-2]
+    
+
+    # Sillamäe
+    - codes:
+        iso3166-2: EE-735
+      names:
+        - name: Sillamäe
+          sources: [iso3166-2]
+    
+
+    # Tallinn
+    - codes:
+        iso3166-2: EE-784
+      names:
+        - name: Tallinn
+          sources: [iso3166-2]
+    
+
+    # Tapa
+    - codes:
+        iso3166-2: EE-792
+      names:
+        - name: Tapa
+          sources: [iso3166-2]
+    
+
+    # Tartu
+    - codes:
+        iso3166-2: EE-796
+      names:
+        - name: Tartu
+          sources: [iso3166-2]
+    
+
+    # Tartumaa
+    - codes:
+        iso3166-2: EE-79
+      names:
+        - name: Tartumaa
+          sources: [iso3166-2]
+    
+
+    # Toila
+    - codes:
+        iso3166-2: EE-803
+      names:
+        - name: Toila
+          sources: [iso3166-2]
+    
+
+    # Tori
+    - codes:
+        iso3166-2: EE-809
+      names:
+        - name: Tori
+          sources: [iso3166-2]
+    
+
+    # Tõrva
+    - codes:
+        iso3166-2: EE-824
+      names:
+        - name: Tõrva
+          sources: [iso3166-2]
+    
+
+    # Türi
+    - codes:
+        iso3166-2: EE-834
+      names:
+        - name: Türi
+          sources: [iso3166-2]
+    
+
+    # Valga
+    - codes:
+        iso3166-2: EE-855
+      names:
+        - name: Valga
+          sources: [iso3166-2]
+    
+
+    # Valgamaa
+    - codes:
+        iso3166-2: EE-81
+      names:
+        - name: Valgamaa
+          sources: [iso3166-2]
+    
+
+    # Viimsi
+    - codes:
+        iso3166-2: EE-890
+      names:
+        - name: Viimsi
+          sources: [iso3166-2]
+    
+
+    # Viljandi
+    - codes:
+        iso3166-2: EE-899
+      names:
+        - name: Viljandi
+          sources: [iso3166-2]
+    
+
+    # Viljandimaa
+    - codes:
+        iso3166-2: EE-84
+      names:
+        - name: Viljandimaa
+          sources: [iso3166-2]
+    
+
+    # Vinni
+    - codes:
+        iso3166-2: EE-901
+      names:
+        - name: Vinni
+          sources: [iso3166-2]
+    
+
+    # Viru-Nigula
+    - codes:
+        iso3166-2: EE-903
+      names:
+        - name: Viru-Nigula
+          sources: [iso3166-2]
+    
+
+    # Vormsi
+    - codes:
+        iso3166-2: EE-907
+      names:
+        - name: Vormsi
+          sources: [iso3166-2]
+    
+
+    # Väike-Maarja
+    - codes:
+        iso3166-2: EE-928
+      names:
+        - name: Väike-Maarja
+          sources: [iso3166-2]
+    
+
+    # Võru
+    - codes:
+        iso3166-2: EE-919
+      names:
+        - name: Võru
+          sources: [iso3166-2]
+    
+
+    # Võrumaa
+    - codes:
+        iso3166-2: EE-87
+      names:
+        - name: Võrumaa
+          sources: [iso3166-2]

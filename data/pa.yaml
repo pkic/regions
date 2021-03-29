@@ -1,0 +1,110 @@
+iso3166-1: PA
+complete: false
+regions:
+    
+
+    # Bocas del Toro
+    - codes:
+        iso3166-2: PA-1
+      names:
+        - name: Bocas del Toro
+          sources: [iso3166-2]
+    
+
+    # Chiriquí
+    - codes:
+        iso3166-2: PA-4
+      names:
+        - name: Chiriquí
+          sources: [iso3166-2]
+    
+
+    # Coclé
+    - codes:
+        iso3166-2: PA-2
+      names:
+        - name: Coclé
+          sources: [iso3166-2]
+    
+
+    # Colón
+    - codes:
+        iso3166-2: PA-3
+      names:
+        - name: Colón
+          sources: [iso3166-2]
+    
+
+    # Darién
+    - codes:
+        iso3166-2: PA-5
+      names:
+        - name: Darién
+          sources: [iso3166-2]
+    
+
+    # Emberá
+    - codes:
+        iso3166-2: PA-EM
+      names:
+        - name: Emberá
+          sources: [iso3166-2]
+    
+
+    # Guna Yala
+    - codes:
+        iso3166-2: PA-KY
+      names:
+        - name: Guna Yala
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kuna Yala
+          sources: [iso3166-2]
+    
+
+    # Herrera
+    - codes:
+        iso3166-2: PA-6
+      names:
+        - name: Herrera
+          sources: [iso3166-2]
+    
+
+    # Los Santos
+    - codes:
+        iso3166-2: PA-7
+      names:
+        - name: Los Santos
+          sources: [iso3166-2]
+    
+
+    # Ngöbe-Buglé
+    - codes:
+        iso3166-2: PA-NB
+      names:
+        - name: Ngöbe-Buglé
+          sources: [iso3166-2]
+    
+
+    # Panamá
+    - codes:
+        iso3166-2: PA-8
+      names:
+        - name: Panamá
+          sources: [iso3166-2]
+    
+
+    # Panamá Oeste
+    - codes:
+        iso3166-2: PA-10
+      names:
+        - name: Panamá Oeste
+          sources: [iso3166-2]
+    
+
+    # Veraguas
+    - codes:
+        iso3166-2: PA-9
+      names:
+        - name: Veraguas
+          sources: [iso3166-2]

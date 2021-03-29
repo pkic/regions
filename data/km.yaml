@@ -1,0 +1,45 @@
+iso3166-1: KM
+complete: false
+regions:
+    
+
+    # Andjouân
+    - codes:
+        iso3166-2: KM-A
+      names:
+        - name: Andjouân
+          sources: [iso3166-2]
+        - name: Anjouan
+          sources: [iso3166-2]
+        - name: Anjwān
+          sources: [iso3166-2]
+        - name: Ndzuwani
+          sources: [iso3166-2]
+    
+
+    # Mohéli
+    - codes:
+        iso3166-2: KM-M
+      names:
+        - name: Mohéli
+          sources: [iso3166-2]
+        - name: Moûhîlî
+          sources: [iso3166-2]
+        - name: Mwali
+          sources: [iso3166-2]
+        - name: Mūhīlī
+          sources: [iso3166-2]
+    
+
+    # Andjazîdja
+    - codes:
+        iso3166-2: KM-G
+      names:
+        - name: Andjazîdja
+          sources: [iso3166-2]
+        - name: Anjazījah
+          sources: [iso3166-2]
+        - name: Grande Comore
+          sources: [iso3166-2]
+        - name: Ngazidja
+          sources: [iso3166-2]

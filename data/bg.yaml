@@ -1,0 +1,1939 @@
+name: Bulgaria
+iso3166-1: BG
+complete: false
+regions:
+    
+
+    # Blagoevgrad
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8333
+        iso3166-2: BG-01
+      names:
+        - name: ''' Blagoevgrad'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Blagoevgrad
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Blagoevgrad régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Blagoevgradas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Blagoevgraden
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Blagoevgradi
+          languages: [et]
+          sources: [euvoc]
+        - name: Blagoevgradin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Blagoevgradska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Blagoevgradská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Blagojevgradas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Błagojewgrad
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Blagoevgrad
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Blagoevgrad
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Blagoevgradit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Blagoevgrad
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Blagoevgrad
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Blagoevgrad
+          languages: [el]
+          sources: [euvoc]
+        - name: Благоевградска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Burgas
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8329
+        iso3166-2: BG-02
+      names:
+        - name: ''' Burgas'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Bourgas
+          languages: [fr]
+          sources: [euvoc]
+        - name: Burgas
+          languages: [de, en, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Burgas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Burgasas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Burgase
+          languages: [et]
+          sources: [euvoc]
+        - name: Burgasen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Burgasin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Burgaska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Burgaská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Burgasz régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: a Burgas
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Burgas
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Burgasit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Burgas
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Burgas
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Μπουργάς
+          languages: [el]
+          sources: [euvoc]
+        - name: Бургаска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Dobrich
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8318
+        iso3166-2: BG-08
+      names:
+        - name: ''' Dobrich'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Dobrich
+          languages: [de, en, fr, ga, nl, pt]
+          sources: [euvoc, iso3166-2]
+        - name: Dobrich apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Dobrich régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Dobrichas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Dobrichen
+          languages: [da]
+          sources: [euvoc]
+        - name: Dobrichi
+          languages: [et]
+          sources: [euvoc]
+        - name: Dobrichin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Dobricz
+          languages: [pl]
+          sources: [euvoc]
+        - name: Dobritjen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Dobrič
+          languages: [sl]
+          sources: [euvoc]
+        - name: Dobrička
+          languages: [hr]
+          sources: [euvoc]
+        - name: Dobričská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Dobrici
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Dobrich
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Dobriçit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Dobrič
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Dobrich
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Dobrich
+          languages: [el]
+          sources: [euvoc]
+        - name: Добричка
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Gabrovo
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8312
+        iso3166-2: BG-07
+      names:
+        - name: ''' Gabrovo'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Gabrovo
+          languages: [de, en, et, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Gabrovo apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Gabrovo régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Gabrovoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Gabrovoen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Gabrovon
+          languages: [fi]
+          sources: [euvoc]
+        - name: Gabrovska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Gabrovská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Gabrowo
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Gabrovo
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Gabrovo
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Gabrovës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Gabrovo
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Gabrovo
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Gabrovo
+          languages: [el]
+          sources: [euvoc]
+        - name: Габровска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Haskovo
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8305
+        iso3166-2: BG-26
+      names:
+        - name: ''' Haskovo'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Chaskovoen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Chaskovská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Chaskowo
+          languages: [pl]
+          sources: [euvoc]
+        - name: Haskovas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Haskovo
+          languages: [de, en, et, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Haskovo régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Haskovoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Haskovoen
+          languages: [da]
+          sources: [euvoc]
+        - name: Haskovon
+          languages: [fi]
+          sources: [euvoc]
+        - name: Haskovska
+          languages: [hr]
+          sources: [euvoc]
+        - name: a Hascovo
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Haskovo
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Haskovës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Chaskovo
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Haskovo
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Haskovo
+          languages: [el]
+          sources: [euvoc]
+        - name: Хасковска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Kardzhali
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8306
+        iso3166-2: BG-09
+      names:
+        - name: ''' Kardzhali'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kardjali
+          languages: [fr]
+          sources: [euvoc]
+        - name: Kardzhali
+          languages: [de, en, et, ga, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Kardzhali apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Kardzhali régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Kardzhalias
+          languages: [lt]
+          sources: [euvoc]
+        - name: Kardzhalien
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Kardzhalin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Kardzjali
+          languages: [nl]
+          sources: [euvoc]
+        - name: Kardžalská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Krdžalijska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Kyrdżali
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Cargeali
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Kardzhali
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Karxhalit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Kărdžali
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Kardjali
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Kardzhali
+          languages: [el]
+          sources: [euvoc]
+        - name: Карџалијска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Крџалиска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Кърджалийска
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Kyustendil
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8334
+        iso3166-2: BG-10
+      names:
+        - name: ''' Kyustendil'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Kiustendil
+          languages: [fr]
+          sources: [euvoc]
+        - name: Kiustendił
+          languages: [pl]
+          sources: [euvoc]
+        - name: Kjustendilen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Kjustendilska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Kjustendilská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Kyustendil
+          languages: [de, en, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Kyustendil apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Kyustendil régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Kyustendilas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Kyustendilen
+          languages: [da]
+          sources: [euvoc]
+        - name: Kyustendili
+          languages: [et]
+          sources: [euvoc]
+        - name: Kyustendilin
+          languages: [fi]
+          sources: [euvoc]
+        - name: a Kiustendil
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Kyustendil
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Kjustendilit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Kjustendil
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Kyustendil
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Kyustendil
+          languages: [el]
+          sources: [euvoc]
+        - name: Ћустендилска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Ќустендилска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Кюстендилска
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Lovech
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8313
+        iso3166-2: BG-11
+      names:
+        - name: ''' Lovech'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Lovech
+          languages: [de, en, fr, ga, nl, pt]
+          sources: [euvoc, iso3166-2]
+        - name: Lovech régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Lovechas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Lovechen
+          languages: [da]
+          sources: [euvoc]
+        - name: Lovechi
+          languages: [et]
+          sources: [euvoc]
+        - name: Lovechin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Lovetjen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Loveč
+          languages: [sl]
+          sources: [euvoc]
+        - name: Lovečas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Lovečská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Loveška
+          languages: [hr]
+          sources: [euvoc]
+        - name: a Loveci
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Lovech
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Lovekut
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Loveč
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Lovech
+          languages: [es]
+          sources: [euvoc]
+        - name: Łowecz
+          languages: [pl]
+          sources: [euvoc]
+        - name: περιοχή Lovech
+          languages: [el]
+          sources: [euvoc]
+        - name: Ловечка
+          languages: [mk]
+          sources: [euvoc]
+        - name: Ловешка
+          languages: [bg, sr]
+          sources: [euvoc]
+    
+
+    # Montana
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8325
+        iso3166-2: BG-12
+      names:
+        - name: ''' Montana'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Montana
+          languages: [de, en, et, fr, ga, hr, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Montana apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Montana régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Montanaas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Montanaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Montanan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Montanská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Montana
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Montana
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Montanës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Montana
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Montana
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Montana
+          languages: [el]
+          sources: [euvoc]
+        - name: Монтана
+          languages: [bg, sr]
+          sources: [euvoc]
+        - name: Монтанска
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Pazardzhik
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8307
+        iso3166-2: BG-13
+      names:
+        - name: ''' Pazardzhik'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Pazardjik
+          languages: [fr]
+          sources: [euvoc]
+        - name: Pazardzhik
+          languages: [de, en, ga, pt]
+          sources: [euvoc, iso3166-2]
+        - name: Pazardzhik régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Pazardzhikas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pazardzhiken
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Pazardzhiki
+          languages: [et]
+          sources: [euvoc]
+        - name: Pazardzhikin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Pazardzjik
+          languages: [nl]
+          sources: [euvoc]
+        - name: Pazardżik
+          languages: [pl]
+          sources: [euvoc]
+        - name: Pazardžická oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Pazardžik
+          languages: [sl]
+          sources: [euvoc]
+        - name: Pazardžikas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Pazardžiška
+          languages: [hr]
+          sources: [euvoc]
+        - name: a Pazargik
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Pazardzhik
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Pazarxhikut
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Pazardžik
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Pazardjik
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Pazardzhik
+          languages: [el]
+          sources: [euvoc]
+        - name: Пазарджишка
+          languages: [bg]
+          sources: [euvoc]
+        - name: Пазарџичка
+          languages: [mk]
+          sources: [euvoc]
+        - name: Пазарџишка
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Pernik
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8335
+        iso3166-2: BG-14
+      names:
+        - name: ''' Pernik'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Pernik
+          languages: [de, en, fr, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Pernik régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Pernikas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pernikas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Perniken
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Perniki
+          languages: [et]
+          sources: [euvoc]
+        - name: Pernikin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Perniška
+          languages: [hr]
+          sources: [euvoc]
+        - name: Pernišská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Pernik
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Pernik
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Pernikut
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Pernik
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Pernik
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Pernik
+          languages: [el]
+          sources: [euvoc]
+        - name: Перничка
+          languages: [mk]
+          sources: [euvoc]
+        - name: Пернишка
+          languages: [bg, sr]
+          sources: [euvoc]
+    
+
+    # Pleven
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8314
+        iso3166-2: BG-15
+      names:
+        - name: ''' Pleven'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Pleven
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Pleven régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Plevenas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Plevenas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Plevenen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Pleveni
+          languages: [et]
+          sources: [euvoc]
+        - name: Plevenin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Plevenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Plevenská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Plewen
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Plevna
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Pleven
+          languages: [it]
+          sources: [euvoc]
+        - name: krahina e Plevenit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Pleven
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Pleven
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Pleven
+          languages: [el]
+          sources: [euvoc]
+        - name: Плевенска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Plovdiv
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8308
+        iso3166-2: BG-16
+      names:
+        - name: ''' Plovdiv'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Plodvivas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Plovdiv
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Plovdiv régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Plovdivas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Plovdiven
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Plovdivi
+          languages: [et]
+          sources: [euvoc]
+        - name: Plovdivin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Plovdivska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Plovdivská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Płowdiw
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Plovdiv
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Plovdiv
+          languages: [it]
+          sources: [euvoc]
+        - name: krahina e Plovdivit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Plovdiv
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Plovdiv
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Plovdiv
+          languages: [el]
+          sources: [euvoc]
+        - name: Пловдивска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Razgrad
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8319
+        iso3166-2: BG-17
+      names:
+        - name: ''' Razgrad'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Razgrad
+          languages: [de, en, fr, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Razgrad régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Razgradas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Razgradas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Razgraden
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Razgradi
+          languages: [et]
+          sources: [euvoc]
+        - name: Razgradin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Razgradska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Razgradská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Rajgrad
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Razgrad
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Razgradit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Razgrad
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Razgrad
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Razgrad
+          languages: [el]
+          sources: [euvoc]
+        - name: Разградска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Ruse
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8315
+        iso3166-2: BG-18
+      names:
+        - name: ''' Ruse'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Ruse
+          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Ruse apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Ruse régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Ruseas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ruseen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Rusen
+          languages: [fi]
+          sources: [euvoc]
+        - name: Rusenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Russká oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Ruse
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Ruse
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Rusesë
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Ruse
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Ruse
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Ruse
+          languages: [el]
+          sources: [euvoc]
+        - name: Русенска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Shumen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8320
+        iso3166-2: BG-27
+      names:
+        - name: ''' Shumen'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Shumen
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Shumen régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Shumenas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Shumenen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Shumeni
+          languages: [et]
+          sources: [euvoc]
+        - name: Shumenin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Szumen
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Șumen
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Shumen
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Shumenit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n de Shumen
+          languages: [es]
+          sources: [euvoc]
+        - name: n Šumen
+          languages: [sk]
+          sources: [euvoc]
+        - name: Šumenas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Šumenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Šumenská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: περιοχή Shumen
+          languages: [el]
+          sources: [euvoc]
+        - name: Шуменска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Silistra
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8321
+        iso3166-2: BG-19
+      names:
+        - name: ''' Silistra'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Silisterská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Silistra
+          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Silistra régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Silistraas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Silistraen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Silistran
+          languages: [fi]
+          sources: [euvoc]
+        - name: Silistras apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Silistrenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: a Silistra
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Silistra
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Silistrës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Silistra
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Silistra
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Silistra
+          languages: [el]
+          sources: [euvoc]
+        - name: Силистранска
+          languages: [sr]
+          sources: [euvoc]
+        - name: Силистренска
+          languages: [bg, mk]
+          sources: [euvoc]
+    
+
+    # Sliven
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8330
+        iso3166-2: BG-20
+      names:
+        - name: ''' Sliven'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Sliven
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Sliven régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Slivenas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Slivenen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Sliveni
+          languages: [et]
+          sources: [euvoc]
+        - name: Slivenin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Slivenoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Slivenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Slivenská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sliwen
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Sliven
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Sliven
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Slivenit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Sliven
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Sliven
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Sliven
+          languages: [el]
+          sources: [euvoc]
+        - name: Сливенска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Smolyan
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8309
+        iso3166-2: BG-21
+      names:
+        - name: ''' Smolyan'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Smolian
+          languages: [fr, pl]
+          sources: [euvoc]
+        - name: Smoljanen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Smoljanska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Smoljanská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Smolyan
+          languages: [de, en, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Smolyan régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Smolyanas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Smolyanen
+          languages: [da]
+          sources: [euvoc]
+        - name: Smolyani
+          languages: [et]
+          sources: [euvoc]
+        - name: Smolyanin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Smoļanas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: a Smolian
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Smolyan
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Smoljanit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Smoljan
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Smolyan
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Smolyan
+          languages: [el]
+          sources: [euvoc]
+        - name: Смолянска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Смолјанска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Смољанска
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Stara Zagora
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8310
+        iso3166-2: BG-24
+      names:
+        - name: ''' Stara Zagora'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Stara Zagora
+          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Stara Zagora apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Stara Zagora régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Stara Zagoraas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Stara Zagoraen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Stara Zagoran
+          languages: [fi]
+          sources: [euvoc]
+        - name: Starozagorska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Starozagorská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Stara Zagora
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Stara Zagora
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Stara Zagorës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Stara Zagora
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Stara Zagora
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Stara Zagora
+          languages: [el]
+          sources: [euvoc]
+        - name: Старозагорска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Targovishte
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8322
+        iso3166-2: BG-25
+      names:
+        - name: ''' Targovishte'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Targovishte
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Targovishte régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Targovishteas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Targovishteen
+          languages: [da]
+          sources: [euvoc]
+        - name: Targovishten
+          languages: [fi]
+          sources: [euvoc]
+        - name: Targovisjteen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Targovišhtes apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Trgoviška
+          languages: [hr]
+          sources: [euvoc]
+        - name: Tyrgowiszte
+          languages: [pl]
+          sources: [euvoc]
+        - name: Târgovişte
+          languages: [et]
+          sources: [euvoc]
+        - name: Tărgovištská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: a Târgoviște
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Targovishte
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Targovishtës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Targovište
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Targovishte
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Targovishte
+          languages: [el]
+          sources: [euvoc]
+        - name: Трговишка
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Търговищка
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Varna
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8323
+        iso3166-2: BG-03
+      names:
+        - name: ''' Varna'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Varna
+          languages: [de, en, et, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Varnaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Varnan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Varnas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Varnenska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Varnosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Varnská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Várna régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Warna
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Varna
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Varna
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Varnës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Varna
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Varna
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Βάρνας
+          languages: [el]
+          sources: [euvoc]
+        - name: Варненска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Veliko Tarnovo
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8316
+        iso3166-2: BG-04
+      names:
+        - name: ''' Veliko Tarnovo'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Veliko Tarnovo
+          languages: [de, en, et, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Veliko Tarnovo apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Veliko Tarnovo régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Veliko Tarnovoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Veliko Tarnovoen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Veliko Tarnovon
+          languages: [fi]
+          sources: [euvoc]
+        - name: Velikotrnovska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Velikotărnovská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Wielkie Tyrnowo
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Veliko Târnovo
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Veliko Tarnovo
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Veliko Tarnovos
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Veliko Tarnovo
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Veliko Tarnovo
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Veliko Tarnovo
+          languages: [el]
+          sources: [euvoc]
+        - name: Великотрновска
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Великотърновска
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Vidin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8326
+        iso3166-2: BG-05
+      names:
+        - name: ''' Vidin'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Vidin
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Vidin régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Vidinas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vidinas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Vidinen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Vidini
+          languages: [et]
+          sources: [euvoc]
+        - name: Vidinin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Vidinska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Vidinská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Widin
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Vidin
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Vidin
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Vidinit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Vidin
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Vidin
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Vidin
+          languages: [el]
+          sources: [euvoc]
+        - name: Видинска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Vratza
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8327
+        iso3166-2: BG-06
+      names:
+        - name: ''' Vratsa'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Vracká oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Vratsa
+          languages: [de, et, fr, ga, pt]
+          sources: [euvoc, iso3166-2]
+        - name: Vratza
+          languages: [en, nl]
+          sources: [euvoc]
+        - name: Vratza apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Vratza régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Vratzaas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Vratzaen
+          languages: [da, sv]
+          sources: [euvoc]
+        - name: Vratzan
+          languages: [fi]
+          sources: [euvoc]
+        - name: Vrača
+          languages: [sl]
+          sources: [euvoc]
+        - name: Vračanska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Wraca
+          languages: [pl]
+          sources: [euvoc]
+        - name: a Vrața
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Vratza
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Vracas
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Vraca
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Vratsa
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Vratza
+          languages: [el]
+          sources: [euvoc]
+        - name: Врачанска
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Yambol
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8331
+        iso3166-2: BG-28
+      names:
+        - name: ''' Yambol'
+          languages: [mt]
+          sources: [euvoc]
+        - name: Jambolas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Jambolen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Jambolska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Jambolská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Jamboł
+          languages: [pl]
+          sources: [euvoc]
+        - name: Yambol
+          languages: [de, en, fr, ga, nl, pt, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Yambol régió
+          languages: [hu]
+          sources: [euvoc]
+        - name: Yambolas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Yambolen
+          languages: [da]
+          sources: [euvoc]
+        - name: Yamboli
+          languages: [et]
+          sources: [euvoc]
+        - name: Yambolin
+          languages: [fi]
+          sources: [euvoc]
+        - name: a Iambol
+          languages: [ro]
+          sources: [euvoc]
+        - name: e Yambol
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Jambolit
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Jambol
+          languages: [sk]
+          sources: [euvoc]
+        - name: n de Yambol
+          languages: [es]
+          sources: [euvoc]
+        - name: περιοχή Yambol
+          languages: [el]
+          sources: [euvoc]
+        - name: Јамболска
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Ямболска
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Yugoiztochen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8328
+      names:
+        - name: Bułgaria Południowo-Wschodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Jugoistočen
+          languages: [hr]
+          sources: [euvoc]
+        - name: Jugoiztoçeni
+          languages: [sq]
+          sources: [euvoc]
+        - name: Yugoiztochen
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Југоисточен
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Югоизточен
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Yugozapaden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8332
+      names:
+        - name: Bułgaria Południowo-Zachodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Jugozapaden
+          languages: [hr]
+          sources: [euvoc]
+        - name: Jugozapadeni
+          languages: [sq]
+          sources: [euvoc]
+        - name: Yugozapaden
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Југозападен
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Югозападен
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Yuzhen tsentralen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8304
+      names:
+        - name: Bułgaria Południowo-Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Juzheni qendror
+          languages: [sq]
+          sources: [euvoc]
+        - name: Južen centralen
+          languages: [hr]
+          sources: [euvoc]
+        - name: Yuzhen tsentralen
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Јужен Централен
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Южен централен
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Severoiztochen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8317
+      names:
+        - name: Bułgaria Północno-Wschodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Severoiztochen
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Severoiztoçeni
+          languages: [sq]
+          sources: [euvoc]
+        - name: Severoiztočen
+          languages: [hr]
+          sources: [euvoc]
+        - name: Североизточен
+          languages: [bg]
+          sources: [euvoc]
+        - name: Североисточен
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Severozapaden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8324
+      names:
+        - name: Bułgaria Północno-Zachodnia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Severozapaden
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Severozapadeni
+          languages: [sq]
+          sources: [euvoc]
+        - name: Северозападен
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Severen tsentralen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8311
+      names:
+        - name: Bułgaria Północno-Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Severen centralen
+          languages: [hr, sq]
+          sources: [euvoc]
+        - name: Severen tsentralen
+          languages: [cs, da, de, el, en, es, et, fi, fr, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Северен Централен
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Sofia City
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8337
+      names:
+        - name: Chathair Shóifia
+          languages: [ga]
+          sources: [euvoc]
+        - name: Grada Sofije
+          languages: [hr]
+          sources: [euvoc]
+        - name: Sofia City
+          languages: [en]
+          sources: [euvoc]
+        - name: Sofia Stadt
+          languages: [de]
+          sources: [euvoc]
+        - name: Sofia linna
+          languages: [et]
+          sources: [euvoc]
+        - name: Sofia miestoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Sofia stad
+          languages: [nl]
+          sources: [euvoc]
+        - name: Sofia stads
+          languages: [sv]
+          sources: [euvoc]
+        - name: Sofiabyen
+          languages: [da]
+          sources: [euvoc]
+        - name: Sofian kaupungin
+          languages: [fi]
+          sources: [euvoc]
+        - name: Sofija mesto
+          languages: [sl]
+          sources: [euvoc]
+        - name: Sofijas pilsēta
+          languages: [lv]
+          sources: [euvoc]
+        - name: Szófia város régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: a municipalității Sofia
+          languages: [ro]
+          sources: [euvoc]
+        - name: da cidade de Sófia
+          languages: [pt]
+          sources: [euvoc]
+        - name: e della città di Sofia
+          languages: [it]
+          sources: [euvoc]
+        - name: i i qytetit të Sofies
+          languages: [sq]
+          sources: [euvoc]
+        - name: l-Belt ta' Sofia
+          languages: [mt]
+          sources: [euvoc]
+        - name: la Ville de Sofia
+          languages: [fr]
+          sources: [euvoc]
+        - name: miasto Sofia
+          languages: [pl]
+          sources: [euvoc]
+        - name: n de la ciudad de Sofía
+          languages: [es]
+          sources: [euvoc]
+        - name: n mesta Sofie
+          languages: [sk]
+          sources: [euvoc]
+        - name: oblast Sofija město
+          languages: [cs]
+          sources: [euvoc]
+        - name: περιοχή πόλης Σόφιας
+          languages: [el]
+          sources: [euvoc]
+        - name: Град Софија
+          languages: [mk]
+          sources: [euvoc]
+        - name: София-град
+          languages: [bg]
+          sources: [euvoc]
+        - name: Софија-град
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Sofia District
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8336
+        iso3166-2: BG-23
+      names:
+        - name: Cheantar Shóifia
+          languages: [ga]
+          sources: [euvoc]
+        - name: Sofia
+          languages: [et]
+          sources: [euvoc, iso3166-2]
+        - name: Sofia District
+          languages: [en, nl]
+          sources: [euvoc]
+        - name: Sofia distrikts
+          languages: [sv]
+          sources: [euvoc]
+        - name: Sofia-Bezirk
+          languages: [de]
+          sources: [euvoc]
+        - name: Sofiadistriktsen
+          languages: [da]
+          sources: [euvoc]
+        - name: Sofian
+          languages: [fi]
+          sources: [euvoc]
+        - name: Sofijas apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Sofijosoas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Sofijska
+          languages: [hr]
+          sources: [euvoc]
+        - name: Sofijski o
+          languages: [sl]
+          sources: [euvoc]
+        - name: Sofijská oblast
+          languages: [cs]
+          sources: [euvoc]
+        - name: Szófia körzet régiója
+          languages: [hu]
+          sources: [euvoc]
+        - name: a districtului Sofia
+          languages: [ro]
+          sources: [euvoc]
+        - name: d-Distrett ta' Sofia
+          languages: [mt]
+          sources: [euvoc]
+        - name: do Distrito de Sófia
+          languages: [pt]
+          sources: [euvoc]
+        - name: du District de Sofia
+          languages: [fr]
+          sources: [euvoc]
+        - name: e del distretto di Sofia
+          languages: [it]
+          sources: [euvoc]
+        - name: i i qarkut të Sofies
+          languages: [sq]
+          sources: [euvoc]
+        - name: n del distrito de Sofía
+          languages: [es]
+          sources: [euvoc]
+        - name: n okresu Sofie
+          languages: [sk]
+          sources: [euvoc]
+        - name: okręg Sofia
+          languages: [pl]
+          sources: [euvoc]
+        - name: περιοχής Σόφιας
+          languages: [el]
+          sources: [euvoc]
+        - name: Софийска
+          languages: [bg]
+          sources: [euvoc]
+        - name: Софиска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Софијска
+          languages: [sr]
+          sources: [euvoc]

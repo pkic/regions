@@ -1,0 +1,251 @@
+iso3166-1: MH
+complete: false
+regions:
+    
+
+    # Aelok
+    - codes:
+        iso3166-2: MH-ALK
+      names:
+        - name: Aelok
+          sources: [iso3166-2]
+        - name: Ailuk
+          sources: [iso3166-2]
+    
+
+    # Aelōn̄ḷapḷap
+    - codes:
+        iso3166-2: MH-ALL
+      names:
+        - name: Aelōn̄ḷapḷap
+          sources: [iso3166-2]
+        - name: Ailinglaplap
+          sources: [iso3166-2]
+    
+
+    # Arno
+    - codes:
+        iso3166-2: MH-ARN
+      names:
+        - name: Arno
+          sources: [iso3166-2]
+        - name: Arṇo
+          sources: [iso3166-2]
+    
+
+    # Aur
+    - codes:
+        iso3166-2: MH-AUR
+      names:
+        - name: Aur
+          sources: [iso3166-2]
+    
+
+    # Bikini & Kili
+    - codes:
+        iso3166-2: MH-KIL
+      names:
+        - name: Bikini & Kili
+          sources: [iso3166-2]
+        - name: Pikinni & Kōle
+          sources: [iso3166-2]
+    
+
+    # Enewetak & Ujelang
+    - codes:
+        iso3166-2: MH-ENI
+      names:
+        - name: Enewetak & Ujelang
+          sources: [iso3166-2]
+        - name: Ānewetak & Wūjlan̄
+          sources: [iso3166-2]
+    
+
+    # Ebon
+    - codes:
+        iso3166-2: MH-EBO
+      names:
+        - name: Ebon
+          sources: [iso3166-2]
+        - name: Epoon
+          sources: [iso3166-2]
+    
+
+    # Jabat
+    - codes:
+        iso3166-2: MH-JAB
+      names:
+        - name: Jabat
+          sources: [iso3166-2]
+        - name: Jebat
+          sources: [iso3166-2]
+    
+
+    # Jaluit
+    - codes:
+        iso3166-2: MH-JAL
+      names:
+        - name: Jaluit
+          sources: [iso3166-2]
+        - name: Jālwōj
+          sources: [iso3166-2]
+    
+
+    # Kuwajleen
+    - codes:
+        iso3166-2: MH-KWA
+      names:
+        - name: Kuwajleen
+          sources: [iso3166-2]
+        - name: Kwajalein
+          sources: [iso3166-2]
+    
+
+    # Lae
+    - codes:
+        iso3166-2: MH-LAE
+      names:
+        - name: Lae
+          sources: [iso3166-2]
+    
+
+    # Ellep
+    - codes:
+        iso3166-2: MH-LIB
+      names:
+        - name: Ellep
+          sources: [iso3166-2]
+        - name: Lib
+          sources: [iso3166-2]
+    
+
+    # Likiep
+    - codes:
+        iso3166-2: MH-LIK
+      names:
+        - name: Likiep
+          sources: [iso3166-2]
+    
+
+    # Mejit
+    - codes:
+        iso3166-2: MH-MEJ
+      names:
+        - name: Mejit
+          sources: [iso3166-2]
+        - name: Mājej
+          sources: [iso3166-2]
+    
+
+    # Mile
+    - codes:
+        iso3166-2: MH-MIL
+      names:
+        - name: Mile
+          sources: [iso3166-2]
+        - name: Mili
+          sources: [iso3166-2]
+    
+
+    # Majuro
+    - codes:
+        iso3166-2: MH-MAJ
+      names:
+        - name: Majuro
+          sources: [iso3166-2]
+        - name: Mājro
+          sources: [iso3166-2]
+    
+
+    # Namdrik
+    - codes:
+        iso3166-2: MH-NMK
+      names:
+        - name: Namdrik
+          sources: [iso3166-2]
+        - name: Naṃdik
+          sources: [iso3166-2]
+    
+
+    # Namu
+    - codes:
+        iso3166-2: MH-NMU
+      names:
+        - name: Namu
+          sources: [iso3166-2]
+        - name: Naṃo
+          sources: [iso3166-2]
+    
+
+    # Ralik chain
+    - codes:
+        iso3166-2: MH-L
+      names:
+        - name: Ralik chain
+          sources: [iso3166-2]
+    
+
+    # Ratak chain
+    - codes:
+        iso3166-2: MH-T
+      names:
+        - name: Ratak chain
+          sources: [iso3166-2]
+    
+
+    # Rongelap
+    - codes:
+        iso3166-2: MH-RON
+      names:
+        - name: Rongelap
+          sources: [iso3166-2]
+        - name: Ron̄ḷap
+          sources: [iso3166-2]
+    
+
+    # Ujae
+    - codes:
+        iso3166-2: MH-UJA
+      names:
+        - name: Ujae
+          sources: [iso3166-2]
+    
+
+    # Utrik
+    - codes:
+        iso3166-2: MH-UTI
+      names:
+        - name: Utrik
+          sources: [iso3166-2]
+        - name: Utrōk
+          sources: [iso3166-2]
+    
+
+    # Wotje
+    - codes:
+        iso3166-2: MH-WTJ
+      names:
+        - name: Wotje
+          sources: [iso3166-2]
+        - name: Wōjjā
+          sources: [iso3166-2]
+    
+
+    # Wotho
+    - codes:
+        iso3166-2: MH-WTH
+      names:
+        - name: Wotho
+          sources: [iso3166-2]
+        - name: Wōtto
+          sources: [iso3166-2]
+    
+
+    # Maloelap
+    - codes:
+        iso3166-2: MH-MAL
+      names:
+        - name: Maloelap
+          sources: [iso3166-2]
+        - name: Ṃaḷoeḷap
+          sources: [iso3166-2]

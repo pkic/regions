@@ -1,0 +1,287 @@
+iso3166-1: SC
+complete: false
+regions:
+    
+
+    # Ans Bwalo
+    - codes:
+        iso3166-2: SC-02
+      names:
+        - name: Ans Bwalo
+          sources: [iso3166-2]
+        - name: Anse Boileau
+          sources: [iso3166-2]
+    
+
+    # Ans Royal
+    - codes:
+        iso3166-2: SC-05
+      names:
+        - name: Ans Royal
+          sources: [iso3166-2]
+        - name: Anse Royale
+          sources: [iso3166-2]
+    
+
+    # Ans o Pen
+    - codes:
+        iso3166-2: SC-01
+      names:
+        - name: Ans o Pen
+          sources: [iso3166-2]
+        - name: Anse aux Pins
+          sources: [iso3166-2]
+    
+
+    # Ans Etwal
+    - codes:
+        iso3166-2: SC-03
+      names:
+        - name: Ans Etwal
+          sources: [iso3166-2]
+        - name: Anse Etoile
+          sources: [iso3166-2]
+        - name: Anse Étoile
+          sources: [iso3166-2]
+    
+
+    # Au Cap
+    - codes:
+        iso3166-2: SC-04
+      names:
+        - name: Au Cap
+          sources: [iso3166-2]
+        - name: O Kap
+          sources: [iso3166-2]
+    
+
+    # Baie Lazare
+    - codes:
+        iso3166-2: SC-06
+      names:
+        - name: Baie Lazare
+          sources: [iso3166-2]
+        - name: Be Lazar
+          sources: [iso3166-2]
+    
+
+    # Baie Sainte Anne
+    - codes:
+        iso3166-2: SC-07
+      names:
+        - name: Baie Sainte Anne
+          sources: [iso3166-2]
+        - name: Baie Sainte-Anne
+          sources: [iso3166-2]
+        - name: Be Sent Ann
+          sources: [iso3166-2]
+    
+
+    # Beau Vallon
+    - codes:
+        iso3166-2: SC-08
+      names:
+        - name: Beau Vallon
+          sources: [iso3166-2]
+        - name: Bovalon
+          sources: [iso3166-2]
+    
+
+    # Bel Air
+    - codes:
+        iso3166-2: SC-09
+      names:
+        - name: Bel Air
+          sources: [iso3166-2]
+        - name: Beler
+          sources: [iso3166-2]
+    
+
+    # Bel Ombre
+    - codes:
+        iso3166-2: SC-10
+      names:
+        - name: Bel Ombre
+          sources: [iso3166-2]
+        - name: Belonm
+          sources: [iso3166-2]
+    
+
+    # Cascade
+    - codes:
+        iso3166-2: SC-11
+      names:
+        - name: Cascade
+          sources: [iso3166-2]
+        - name: Kaskad
+          sources: [iso3166-2]
+    
+
+    # English River
+    - codes:
+        iso3166-2: SC-16
+      names:
+        - name: English River
+          sources: [iso3166-2]
+        - name: La Rivière Anglaise
+          sources: [iso3166-2]
+        - name: Larivyer Anglez
+          sources: [iso3166-2]
+    
+
+    # Glacis
+    - codes:
+        iso3166-2: SC-12
+      names:
+        - name: Glacis
+          sources: [iso3166-2]
+        - name: Glasi
+          sources: [iso3166-2]
+    
+
+    # Grand Ans Mae
+    - codes:
+        iso3166-2: SC-13
+      names:
+        - name: Grand Ans Mae
+          sources: [iso3166-2]
+        - name: Grand Anse Mahe
+          sources: [iso3166-2]
+        - name: Grand'Anse Mahé
+          sources: [iso3166-2]
+    
+
+    # Grand Ans Pralen
+    - codes:
+        iso3166-2: SC-14
+      names:
+        - name: Grand Ans Pralen
+          sources: [iso3166-2]
+        - name: Grand Anse Praslin
+          sources: [iso3166-2]
+        - name: Grand'Anse Praslin
+          sources: [iso3166-2]
+    
+
+    # Ile Perseverance I
+    - codes:
+        iso3166-2: SC-26
+      names:
+        - name: Ile Perseverance I
+          sources: [iso3166-2]
+        - name: Île Persévérance I
+          sources: [iso3166-2]
+    
+
+    # Ile Perseverance II
+    - codes:
+        iso3166-2: SC-27
+      names:
+        - name: Ile Perseverance II
+          sources: [iso3166-2]
+        - name: Île Persévérance II
+          sources: [iso3166-2]
+    
+
+    # La Digue
+    - codes:
+        iso3166-2: SC-15
+      names:
+        - name: La Digue
+          sources: [iso3166-2]
+        - name: Ladig
+          sources: [iso3166-2]
+    
+
+    # Lemamel
+    - codes:
+        iso3166-2: SC-24
+      names:
+        - name: Lemamel
+          sources: [iso3166-2]
+        - name: Les Mamelles
+          sources: [iso3166-2]
+    
+
+    # Mon Bikston
+    - codes:
+        iso3166-2: SC-17
+      names:
+        - name: Mon Bikston
+          sources: [iso3166-2]
+        - name: Mont Buxton
+          sources: [iso3166-2]
+    
+
+    # Mon Fleri
+    - codes:
+        iso3166-2: SC-18
+      names:
+        - name: Mon Fleri
+          sources: [iso3166-2]
+        - name: Mont Fleuri
+          sources: [iso3166-2]
+    
+
+    # Plaisance
+    - codes:
+        iso3166-2: SC-19
+      names:
+        - name: Plaisance
+          sources: [iso3166-2]
+        - name: Plezans
+          sources: [iso3166-2]
+    
+
+    # Porglo
+    - codes:
+        iso3166-2: SC-21
+      names:
+        - name: Porglo
+          sources: [iso3166-2]
+        - name: Port Glaud
+          sources: [iso3166-2]
+    
+
+    # Pointe La Rue
+    - codes:
+        iso3166-2: SC-20
+      names:
+        - name: Pointe La Rue
+          sources: [iso3166-2]
+        - name: Pointe Larue
+          sources: [iso3166-2]
+        - name: Pwent Lari
+          sources: [iso3166-2]
+    
+
+    # Roche Caiman
+    - codes:
+        iso3166-2: SC-25
+      names:
+        - name: Roche Caiman
+          sources: [iso3166-2]
+        - name: Roche Caïman
+          sources: [iso3166-2]
+        - name: Ros Kaiman
+          sources: [iso3166-2]
+    
+
+    # Saint Louis
+    - codes:
+        iso3166-2: SC-22
+      names:
+        - name: Saint Louis
+          sources: [iso3166-2]
+        - name: Saint-Louis
+          sources: [iso3166-2]
+        - name: Sen Lwi
+          sources: [iso3166-2]
+    
+
+    # Takamaka
+    - codes:
+        iso3166-2: SC-23
+      names:
+        - name: Takamaka
+          sources: [iso3166-2]
