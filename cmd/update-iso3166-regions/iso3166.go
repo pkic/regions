@@ -114,6 +114,7 @@ func (iso *ISO3166) getRegions(c *regions.Country) error {
 		// ISO 3166-2 CSV file
 		regionType := record[3]
 		regionCode := strings.ToUpper(record[4])
+		regionLang := strings.ToLower(record[5])
 		regionName := filterValue(record[7])
 		regionNameLocal := filterValue(record[8])
 
@@ -124,17 +125,12 @@ func (iso *ISO3166) getRegions(c *regions.Country) error {
 		}
 
 		r := c.GetOrCreateRegion([]string{regionName, regionNameLocal}, sourceIdentifier, regionCode)
+		err = r.Add(regionName, regionLang, sourceIdentifier)
+		if err != nil {
+			return err
+		}
 		if regionNameLocal != "" {
-			err = r.Add(regionName, "en", sourceIdentifier)
-			if err != nil {
-				return err
-			}
-			err = r.Add(regionNameLocal, "", sourceIdentifier)
-			if err != nil {
-				return err
-			}
-		} else {
-			err = r.Add(regionName, "", sourceIdentifier)
+			err = r.Add(regionNameLocal, regionLang, sourceIdentifier)
 			if err != nil {
 				return err
 			}
