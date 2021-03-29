@@ -8,6 +8,7 @@ regions:
         iso3166-2: GN-BE
       names:
         - name: Beyla
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: GN-BF
       names:
         - name: Boffa
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: GN-BK
       names:
         - name: Boké
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: GN-C
       names:
         - name: Conakry
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: GN-CO
       names:
         - name: Coyah
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: GN-DB
       names:
         - name: Dabola
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: GN-DL
       names:
         - name: Dalaba
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: GN-DI
       names:
         - name: Dinguiraye
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: GN-DU
       names:
         - name: Dubréka
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: GN-FA
       names:
         - name: Faranah
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: GN-FO
       names:
         - name: Forécariah
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: GN-FR
       names:
         - name: Fria
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: GN-GA
       names:
         - name: Gaoual
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: GN-GU
       names:
         - name: Guékédou
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: GN-KA
       names:
         - name: Kankan
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: GN-KD
       names:
         - name: Kindia
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: GN-KS
       names:
         - name: Kissidougou
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: GN-KB
       names:
         - name: Koubia
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: GN-KN
       names:
         - name: Koundara
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: GN-KO
       names:
         - name: Kouroussa
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: GN-KE
       names:
         - name: Kérouané
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: GN-LA
       names:
         - name: Labé
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: GN-LO
       names:
         - name: Lola
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: GN-LE
       names:
         - name: Lélouma
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: GN-MC
       names:
         - name: Macenta
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -208,6 +233,7 @@ regions:
         iso3166-2: GN-ML
       names:
         - name: Mali
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -216,6 +242,7 @@ regions:
         iso3166-2: GN-MM
       names:
         - name: Mamou
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -224,6 +251,7 @@ regions:
         iso3166-2: GN-MD
       names:
         - name: Mandiana
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -232,6 +260,7 @@ regions:
         iso3166-2: GN-NZ
       names:
         - name: Nzérékoré
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -240,6 +269,7 @@ regions:
         iso3166-2: GN-PI
       names:
         - name: Pita
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -248,6 +278,7 @@ regions:
         iso3166-2: GN-SI
       names:
         - name: Siguiri
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -256,6 +287,7 @@ regions:
         iso3166-2: GN-TO
       names:
         - name: Tougué
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -264,6 +296,7 @@ regions:
         iso3166-2: GN-TE
       names:
         - name: Télimélé
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -272,4 +305,5 @@ regions:
         iso3166-2: GN-YO
       names:
         - name: Yomou
+          languages: [fr]
           sources: [iso3166-2]

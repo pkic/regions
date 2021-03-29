@@ -8,6 +8,7 @@ regions:
         iso3166-2: CR-A
       names:
         - name: Alajuela
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: CR-C
       names:
         - name: Cartago
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: CR-G
       names:
         - name: Guanacaste
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: CR-H
       names:
         - name: Heredia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: CR-L
       names:
         - name: Limón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: CR-P
       names:
         - name: Puntarenas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,4 +62,5 @@ regions:
         iso3166-2: CR-SJ
       names:
         - name: San José
+          languages: [es]
           sources: [iso3166-2]

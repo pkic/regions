@@ -9,6 +9,7 @@ regions:
         iso3166-2: AL-01
       names:
         - name: Berat
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: AL-09
       names:
         - name: Dibër
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: AL-02
       names:
         - name: Durrës
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -33,6 +36,7 @@ regions:
         iso3166-2: AL-03
       names:
         - name: Elbasan
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -41,6 +45,7 @@ regions:
         iso3166-2: AL-04
       names:
         - name: Fier
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -49,6 +54,7 @@ regions:
         iso3166-2: AL-05
       names:
         - name: Gjirokastër
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -57,6 +63,7 @@ regions:
         iso3166-2: AL-06
       names:
         - name: Korçë
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -65,6 +72,7 @@ regions:
         iso3166-2: AL-07
       names:
         - name: Kukës
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -73,6 +81,7 @@ regions:
         iso3166-2: AL-08
       names:
         - name: Lezhë
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -81,6 +90,7 @@ regions:
         iso3166-2: AL-10
       names:
         - name: Shkodër
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -89,6 +99,7 @@ regions:
         iso3166-2: AL-11
       names:
         - name: Tiranë
+          languages: [sq]
           sources: [iso3166-2]
     
 
@@ -97,4 +108,5 @@ regions:
         iso3166-2: AL-12
       names:
         - name: Vlorë
+          languages: [sq]
           sources: [iso3166-2]

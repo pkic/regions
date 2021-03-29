@@ -13,7 +13,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Blagoevgrad
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Blagoevgrad régió
           languages: [hu]
@@ -77,7 +77,7 @@ regions:
           languages: [fr]
           sources: [euvoc]
         - name: Burgas
-          languages: [de, en, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Burgas apgabals
           languages: [lv]
@@ -135,7 +135,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Dobrich
-          languages: [de, en, fr, ga, nl, pt]
+          languages: [bg, de, en, fr, ga, nl, pt]
           sources: [euvoc, iso3166-2]
         - name: Dobrich apgabals
           languages: [lv]
@@ -202,7 +202,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Gabrovo
-          languages: [de, en, et, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Gabrovo apgabals
           languages: [lv]
@@ -272,7 +272,7 @@ regions:
           languages: [lv]
           sources: [euvoc]
         - name: Haskovo
-          languages: [de, en, et, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Haskovo régió
           languages: [hu]
@@ -324,7 +324,7 @@ regions:
           languages: [fr]
           sources: [euvoc]
         - name: Kardzhali
-          languages: [de, en, et, ga, pt, sl]
+          languages: [bg, de, en, et, ga, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Kardzhali apgabals
           languages: [lv]
@@ -406,7 +406,7 @@ regions:
           languages: [cs]
           sources: [euvoc]
         - name: Kyustendil
-          languages: [de, en, ga, nl, pt, sl]
+          languages: [bg, de, en, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Kyustendil apgabals
           languages: [lv]
@@ -464,7 +464,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Lovech
-          languages: [de, en, fr, ga, nl, pt]
+          languages: [bg, de, en, fr, ga, nl, pt]
           sources: [euvoc, iso3166-2]
         - name: Lovech régió
           languages: [hu]
@@ -534,7 +534,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Montana
-          languages: [de, en, et, fr, ga, hr, nl, pl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, hr, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Montana apgabals
           languages: [lv]
@@ -592,7 +592,7 @@ regions:
           languages: [fr]
           sources: [euvoc]
         - name: Pazardzhik
-          languages: [de, en, ga, pt]
+          languages: [bg, de, en, ga, pt]
           sources: [euvoc, iso3166-2]
         - name: Pazardzhik régió
           languages: [hu]
@@ -665,7 +665,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Pernik
-          languages: [de, en, fr, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Pernik régió
           languages: [hu]
@@ -726,7 +726,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Pleven
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Pleven régió
           languages: [hu]
@@ -790,7 +790,7 @@ regions:
           languages: [lt]
           sources: [euvoc]
         - name: Plovdiv
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Plovdiv régió
           languages: [hu]
@@ -848,7 +848,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Razgrad
-          languages: [de, en, fr, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Razgrad régió
           languages: [hu]
@@ -906,7 +906,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Ruse
-          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Ruse apgabals
           languages: [lv]
@@ -961,7 +961,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Shumen
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Shumen régió
           languages: [hu]
@@ -1025,7 +1025,7 @@ regions:
           languages: [cs]
           sources: [euvoc]
         - name: Silistra
-          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Silistra régió
           languages: [hu]
@@ -1080,7 +1080,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Sliven
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Sliven régió
           languages: [hu]
@@ -1153,7 +1153,7 @@ regions:
           languages: [cs]
           sources: [euvoc]
         - name: Smolyan
-          languages: [de, en, ga, nl, pt, sl]
+          languages: [bg, de, en, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Smolyan régió
           languages: [hu]
@@ -1211,7 +1211,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Stara Zagora
-          languages: [de, en, et, fr, ga, nl, pl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Stara Zagora apgabals
           languages: [lv]
@@ -1266,7 +1266,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Targovishte
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Targovishte régió
           languages: [hu]
@@ -1333,7 +1333,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Varna
-          languages: [de, en, et, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Varnaen
           languages: [da, sv]
@@ -1391,7 +1391,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Veliko Tarnovo
-          languages: [de, en, et, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, et, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Veliko Tarnovo apgabals
           languages: [lv]
@@ -1452,7 +1452,7 @@ regions:
           languages: [mt]
           sources: [euvoc]
         - name: Vidin
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Vidin régió
           languages: [hu]
@@ -1516,7 +1516,7 @@ regions:
           languages: [cs]
           sources: [euvoc]
         - name: Vratsa
-          languages: [de, et, fr, ga, pt]
+          languages: [bg, de, et, fr, ga, pt]
           sources: [euvoc, iso3166-2]
         - name: Vratza
           languages: [en, nl]
@@ -1592,7 +1592,7 @@ regions:
           languages: [pl]
           sources: [euvoc]
         - name: Yambol
-          languages: [de, en, fr, ga, nl, pt, sl]
+          languages: [bg, de, en, fr, ga, nl, pt, sl]
           sources: [euvoc, iso3166-2]
         - name: Yambol régió
           languages: [hu]
@@ -1863,7 +1863,7 @@ regions:
           languages: [ga]
           sources: [euvoc]
         - name: Sofia
-          languages: [et]
+          languages: [bg, et]
           sources: [euvoc, iso3166-2]
         - name: Sofia District
           languages: [en, nl]

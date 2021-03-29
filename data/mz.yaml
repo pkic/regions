@@ -8,6 +8,7 @@ regions:
         iso3166-2: MZ-P
       names:
         - name: Cabo Delgado
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: MZ-G
       names:
         - name: Gaza
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: MZ-I
       names:
         - name: Inhambane
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: MZ-B
       names:
         - name: Manica
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: MZ-MPM
       names:
         - name: Maputo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: MZ-N
       names:
         - name: Nampula
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: MZ-A
       names:
         - name: Niassa
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: MZ-S
       names:
         - name: Sofala
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: MZ-T
       names:
         - name: Tete
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -80,4 +89,5 @@ regions:
         iso3166-2: MZ-Q
       names:
         - name: Zambézia
+          languages: [pt]
           sources: [iso3166-2]

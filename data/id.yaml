@@ -8,6 +8,7 @@ regions:
         iso3166-2: ID-AC
       names:
         - name: Aceh
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: ID-BA
       names:
         - name: Bali
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: ID-BT
       names:
         - name: Banten
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: ID-BE
       names:
         - name: Bengkulu
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -40,17 +44,19 @@ regions:
         iso3166-2: ID-GO
       names:
         - name: Gorontalo
+          languages: [id]
           sources: [iso3166-2]
     
 
-    # Jakarta Raya
+    # DKI Jakarta; DKI
     - codes:
         iso3166-2: ID-JK
       names:
         - name: DKI Jakarta; DKI
+          languages: [id]
           sources: [iso3166-2]
         - name: Jakarta Raya
-          languages: [en]
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -59,6 +65,7 @@ regions:
         iso3166-2: ID-JA
       names:
         - name: Jambi
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -67,6 +74,7 @@ regions:
         iso3166-2: ID-JW
       names:
         - name: Jawa
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -75,6 +83,7 @@ regions:
         iso3166-2: ID-JB
       names:
         - name: Jawa Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -83,6 +92,7 @@ regions:
         iso3166-2: ID-JT
       names:
         - name: Jawa Tengah
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: ID-JI
       names:
         - name: Jawa Timur
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -99,6 +110,7 @@ regions:
         iso3166-2: ID-KA
       names:
         - name: Kalimantan
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -107,6 +119,7 @@ regions:
         iso3166-2: ID-KB
       names:
         - name: Kalimantan Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -115,6 +128,7 @@ regions:
         iso3166-2: ID-KS
       names:
         - name: Kalimantan Selatan
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -123,6 +137,7 @@ regions:
         iso3166-2: ID-KT
       names:
         - name: Kalimantan Tengah
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -131,6 +146,7 @@ regions:
         iso3166-2: ID-KI
       names:
         - name: Kalimantan Timur
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -139,6 +155,7 @@ regions:
         iso3166-2: ID-KU
       names:
         - name: Kalimantan Utara
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -147,6 +164,7 @@ regions:
         iso3166-2: ID-BB
       names:
         - name: Kepulauan Bangka Belitung
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -155,6 +173,7 @@ regions:
         iso3166-2: ID-KR
       names:
         - name: Kepulauan Riau
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -163,6 +182,7 @@ regions:
         iso3166-2: ID-LA
       names:
         - name: Lampung
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -171,6 +191,7 @@ regions:
         iso3166-2: ID-ML
       names:
         - name: Maluku
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -179,6 +200,7 @@ regions:
         iso3166-2: ID-MU
       names:
         - name: Maluku Utara
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -187,6 +209,7 @@ regions:
         iso3166-2: ID-NU
       names:
         - name: Nusa Tenggara
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -195,6 +218,7 @@ regions:
         iso3166-2: ID-NB
       names:
         - name: Nusa Tenggara Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -203,6 +227,7 @@ regions:
         iso3166-2: ID-NT
       names:
         - name: Nusa Tenggara Timur
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -211,6 +236,7 @@ regions:
         iso3166-2: ID-PP
       names:
         - name: Papua
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -219,6 +245,7 @@ regions:
         iso3166-2: ID-PB
       names:
         - name: Papua Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -227,6 +254,7 @@ regions:
         iso3166-2: ID-RI
       names:
         - name: Riau
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -235,6 +263,7 @@ regions:
         iso3166-2: ID-SL
       names:
         - name: Sulawesi
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -243,6 +272,7 @@ regions:
         iso3166-2: ID-SR
       names:
         - name: Sulawesi Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -251,6 +281,7 @@ regions:
         iso3166-2: ID-SN
       names:
         - name: Sulawesi Selatan
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -259,6 +290,7 @@ regions:
         iso3166-2: ID-ST
       names:
         - name: Sulawesi Tengah
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -267,6 +299,7 @@ regions:
         iso3166-2: ID-SG
       names:
         - name: Sulawesi Tenggara
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -275,6 +308,7 @@ regions:
         iso3166-2: ID-SA
       names:
         - name: Sulawesi Utara
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -283,6 +317,7 @@ regions:
         iso3166-2: ID-SM
       names:
         - name: Sumatera
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -291,6 +326,7 @@ regions:
         iso3166-2: ID-SB
       names:
         - name: Sumatera Barat
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -299,6 +335,7 @@ regions:
         iso3166-2: ID-SS
       names:
         - name: Sumatera Selatan
+          languages: [id]
           sources: [iso3166-2]
     
 
@@ -307,15 +344,17 @@ regions:
         iso3166-2: ID-SU
       names:
         - name: Sumatera Utara
+          languages: [id]
           sources: [iso3166-2]
     
 
-    # Yogyakarta
+    # DI Yogya; DIY
     - codes:
         iso3166-2: ID-YO
       names:
         - name: DI Yogya; DIY
+          languages: [id]
           sources: [iso3166-2]
         - name: Yogyakarta
-          languages: [en]
+          languages: [id]
           sources: [iso3166-2]

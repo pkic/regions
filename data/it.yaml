@@ -58,6 +58,7 @@ regions:
         iso3166-2: IT-AG
       names:
         - name: Agrigento
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -66,6 +67,7 @@ regions:
         iso3166-2: IT-AL
       names:
         - name: Alessandria
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -74,6 +76,7 @@ regions:
         iso3166-2: IT-AN
       names:
         - name: Ancona
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -189,6 +192,7 @@ regions:
         iso3166-2: IT-AR
       names:
         - name: Arezzo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -197,6 +201,7 @@ regions:
         iso3166-2: IT-AP
       names:
         - name: Ascoli Piceno
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -205,6 +210,7 @@ regions:
         iso3166-2: IT-AT
       names:
         - name: Asti
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -375,6 +381,7 @@ regions:
         iso3166-2: IT-AV
       names:
         - name: Avellino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -383,6 +390,7 @@ regions:
         iso3166-2: IT-BA
       names:
         - name: Bari
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -391,6 +399,7 @@ regions:
         iso3166-2: IT-BT
       names:
         - name: Barletta-Andria-Trani
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -421,6 +430,7 @@ regions:
         iso3166-2: IT-BL
       names:
         - name: Belluno
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -429,6 +439,7 @@ regions:
         iso3166-2: IT-BN
       names:
         - name: Benevento
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -486,6 +497,7 @@ regions:
         iso3166-2: IT-BG
       names:
         - name: Bergamo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -494,6 +506,7 @@ regions:
         iso3166-2: IT-BI
       names:
         - name: Biella
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -502,6 +515,7 @@ regions:
         iso3166-2: IT-BO
       names:
         - name: Bologna
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -510,8 +524,10 @@ regions:
         iso3166-2: IT-BZ
       names:
         - name: Bolzano
+          languages: [it]
           sources: [iso3166-2]
         - name: Bozen
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -520,6 +536,7 @@ regions:
         iso3166-2: IT-BS
       names:
         - name: Brescia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -528,6 +545,7 @@ regions:
         iso3166-2: IT-BR
       names:
         - name: Brindisi
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -536,6 +554,7 @@ regions:
         iso3166-2: IT-CA
       names:
         - name: Cagliari
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -590,6 +609,7 @@ regions:
         iso3166-2: IT-CL
       names:
         - name: Caltanissetta
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -647,6 +667,7 @@ regions:
         iso3166-2: IT-CB
       names:
         - name: Campobasso
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -655,6 +676,7 @@ regions:
         iso3166-2: IT-CE
       names:
         - name: Caserta
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -663,6 +685,7 @@ regions:
         iso3166-2: IT-CT
       names:
         - name: Catania
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -671,6 +694,7 @@ regions:
         iso3166-2: IT-CZ
       names:
         - name: Catanzaro
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -740,6 +764,7 @@ regions:
         iso3166-2: IT-CH
       names:
         - name: Chieti
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -748,6 +773,7 @@ regions:
         iso3166-2: IT-CO
       names:
         - name: Como
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -756,6 +782,7 @@ regions:
         iso3166-2: IT-CS
       names:
         - name: Cosenza
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -764,6 +791,7 @@ regions:
         iso3166-2: IT-CR
       names:
         - name: Cremona
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -772,6 +800,7 @@ regions:
         iso3166-2: IT-KR
       names:
         - name: Crotone
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -780,6 +809,7 @@ regions:
         iso3166-2: IT-CN
       names:
         - name: Cuneo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -840,6 +870,7 @@ regions:
         iso3166-2: IT-EN
       names:
         - name: Enna
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -848,6 +879,7 @@ regions:
         iso3166-2: IT-FM
       names:
         - name: Fermo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -856,6 +888,7 @@ regions:
         iso3166-2: IT-FE
       names:
         - name: Ferrara
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -864,6 +897,7 @@ regions:
         iso3166-2: IT-FI
       names:
         - name: Firenze
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -872,6 +906,7 @@ regions:
         iso3166-2: IT-FG
       names:
         - name: Foggia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -880,6 +915,7 @@ regions:
         iso3166-2: IT-FC
       names:
         - name: Forlì-Cesena
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -942,6 +978,7 @@ regions:
         iso3166-2: IT-36
       names:
         - name: Friuli Venezia Giulia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -950,6 +987,7 @@ regions:
         iso3166-2: IT-FR
       names:
         - name: Frosinone
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -958,6 +996,7 @@ regions:
         iso3166-2: IT-GE
       names:
         - name: Genova
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -966,6 +1005,7 @@ regions:
         iso3166-2: IT-GO
       names:
         - name: Gorizia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -974,6 +1014,7 @@ regions:
         iso3166-2: IT-GR
       names:
         - name: Grosseto
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -982,6 +1023,7 @@ regions:
         iso3166-2: IT-IM
       names:
         - name: Imperia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -990,6 +1032,7 @@ regions:
         iso3166-2: IT-IS
       names:
         - name: Isernia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1059,6 +1102,7 @@ regions:
         iso3166-2: IT-AQ
       names:
         - name: L'Aquila
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1067,6 +1111,7 @@ regions:
         iso3166-2: IT-SP
       names:
         - name: La Spezia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1155,6 +1200,7 @@ regions:
         iso3166-2: IT-LT
       names:
         - name: Latina
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1163,6 +1209,7 @@ regions:
         iso3166-2: IT-LE
       names:
         - name: Lecce
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1171,6 +1218,7 @@ regions:
         iso3166-2: IT-LC
       names:
         - name: Lecco
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1222,6 +1270,7 @@ regions:
         iso3166-2: IT-LI
       names:
         - name: Livorno
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1230,6 +1279,7 @@ regions:
         iso3166-2: IT-LO
       names:
         - name: Lodi
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1278,6 +1328,7 @@ regions:
         iso3166-2: IT-LU
       names:
         - name: Lucca
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1286,6 +1337,7 @@ regions:
         iso3166-2: IT-MC
       names:
         - name: Macerata
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1294,6 +1346,7 @@ regions:
         iso3166-2: IT-MN
       names:
         - name: Mantova
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1302,6 +1355,7 @@ regions:
         iso3166-2: IT-MS
       names:
         - name: Massa-Carrara
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1310,6 +1364,7 @@ regions:
         iso3166-2: IT-MT
       names:
         - name: Matera
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1318,6 +1373,7 @@ regions:
         iso3166-2: IT-ME
       names:
         - name: Messina
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1326,6 +1382,7 @@ regions:
         iso3166-2: IT-MI
       names:
         - name: Milano
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1334,6 +1391,7 @@ regions:
         iso3166-2: IT-MO
       names:
         - name: Modena
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1364,6 +1422,7 @@ regions:
         iso3166-2: IT-MB
       names:
         - name: Monza e Brianza
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1372,6 +1431,7 @@ regions:
         iso3166-2: IT-NA
       names:
         - name: Napoli
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1380,6 +1440,7 @@ regions:
         iso3166-2: IT-NO
       names:
         - name: Novara
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1388,6 +1449,7 @@ regions:
         iso3166-2: IT-NU
       names:
         - name: Nuoro
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1436,6 +1498,7 @@ regions:
         iso3166-2: IT-OR
       names:
         - name: Oristano
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1444,6 +1507,7 @@ regions:
         iso3166-2: IT-PD
       names:
         - name: Padova
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1452,6 +1516,7 @@ regions:
         iso3166-2: IT-PA
       names:
         - name: Palermo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1460,6 +1525,7 @@ regions:
         iso3166-2: IT-PR
       names:
         - name: Parma
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1468,6 +1534,7 @@ regions:
         iso3166-2: IT-PV
       names:
         - name: Pavia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1476,6 +1543,7 @@ regions:
         iso3166-2: IT-PG
       names:
         - name: Perugia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1484,6 +1552,7 @@ regions:
         iso3166-2: IT-PU
       names:
         - name: Pesaro e Urbino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1492,6 +1561,7 @@ regions:
         iso3166-2: IT-PE
       names:
         - name: Pescara
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1500,6 +1570,7 @@ regions:
         iso3166-2: IT-PC
       names:
         - name: Piacenza
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1551,6 +1622,7 @@ regions:
         iso3166-2: IT-PI
       names:
         - name: Pisa
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1559,6 +1631,7 @@ regions:
         iso3166-2: IT-PT
       names:
         - name: Pistoia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1567,6 +1640,7 @@ regions:
         iso3166-2: IT-PN
       names:
         - name: Pordenone
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1575,6 +1649,7 @@ regions:
         iso3166-2: IT-PZ
       names:
         - name: Potenza
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1583,6 +1658,7 @@ regions:
         iso3166-2: IT-PO
       names:
         - name: Prato
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1591,6 +1667,7 @@ regions:
         iso3166-2: IT-RG
       names:
         - name: Ragusa
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1599,6 +1676,7 @@ regions:
         iso3166-2: IT-RA
       names:
         - name: Ravenna
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1607,6 +1685,7 @@ regions:
         iso3166-2: IT-RC
       names:
         - name: Reggio Calabria
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1615,6 +1694,7 @@ regions:
         iso3166-2: IT-RE
       names:
         - name: Reggio Emilia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1623,6 +1703,7 @@ regions:
         iso3166-2: IT-RI
       names:
         - name: Rieti
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1631,6 +1712,7 @@ regions:
         iso3166-2: IT-RN
       names:
         - name: Rimini
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1639,6 +1721,7 @@ regions:
         iso3166-2: IT-RM
       names:
         - name: Roma
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1647,6 +1730,7 @@ regions:
         iso3166-2: IT-RO
       names:
         - name: Rovigo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1655,6 +1739,7 @@ regions:
         iso3166-2: IT-SA
       names:
         - name: Salerno
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1663,6 +1748,7 @@ regions:
         iso3166-2: IT-SS
       names:
         - name: Sassari
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1671,6 +1757,7 @@ regions:
         iso3166-2: IT-SV
       names:
         - name: Savona
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1743,6 +1830,7 @@ regions:
         iso3166-2: IT-SI
       names:
         - name: Siena
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1751,6 +1839,7 @@ regions:
         iso3166-2: IT-SR
       names:
         - name: Siracusa
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1759,6 +1848,7 @@ regions:
         iso3166-2: IT-SO
       names:
         - name: Sondrio
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1767,6 +1857,7 @@ regions:
         iso3166-2: IT-SU
       names:
         - name: Sud Sardegna
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1775,6 +1866,7 @@ regions:
         iso3166-2: IT-TA
       names:
         - name: Taranto
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1783,6 +1875,7 @@ regions:
         iso3166-2: IT-TE
       names:
         - name: Teramo
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1791,6 +1884,7 @@ regions:
         iso3166-2: IT-TR
       names:
         - name: Terni
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1799,6 +1893,7 @@ regions:
         iso3166-2: IT-TO
       names:
         - name: Torino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1844,6 +1939,7 @@ regions:
         iso3166-2: IT-TP
       names:
         - name: Trapani
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1852,6 +1948,7 @@ regions:
         iso3166-2: IT-TN
       names:
         - name: Trento
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1860,6 +1957,7 @@ regions:
         iso3166-2: IT-TV
       names:
         - name: Treviso
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1868,6 +1966,7 @@ regions:
         iso3166-2: IT-TS
       names:
         - name: Trieste
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1876,6 +1975,7 @@ regions:
         iso3166-2: IT-UD
       names:
         - name: Udine
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1884,6 +1984,7 @@ regions:
         iso3166-2: IT-VA
       names:
         - name: Varese
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1892,6 +1993,7 @@ regions:
         iso3166-2: IT-VE
       names:
         - name: Venezia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1900,6 +2002,7 @@ regions:
         iso3166-2: IT-VB
       names:
         - name: Verbano-Cusio-Ossola
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1908,6 +2011,7 @@ regions:
         iso3166-2: IT-VC
       names:
         - name: Vercelli
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1916,6 +2020,7 @@ regions:
         iso3166-2: IT-VR
       names:
         - name: Verona
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1924,6 +2029,7 @@ regions:
         iso3166-2: IT-VV
       names:
         - name: Vibo Valentia
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1932,6 +2038,7 @@ regions:
         iso3166-2: IT-VI
       names:
         - name: Vicenza
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -1940,4 +2047,5 @@ regions:
         iso3166-2: IT-VT
       names:
         - name: Viterbo
+          languages: [it]
           sources: [iso3166-2]

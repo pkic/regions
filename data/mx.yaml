@@ -8,6 +8,7 @@ regions:
         iso3166-2: MX-AGU
       names:
         - name: Aguascalientes
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: MX-BCN
       names:
         - name: Baja California
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: MX-BCS
       names:
         - name: Baja California Sur
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: MX-CAM
       names:
         - name: Campeche
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: MX-CHP
       names:
         - name: Chiapas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: MX-CHH
       names:
         - name: Chihuahua
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,17 +62,19 @@ regions:
         iso3166-2: MX-CMX
       names:
         - name: Ciudad de México
+          languages: [es]
           sources: [iso3166-2]
     
 
-    # Coahuila de Zaragoza
+    # Coahuila
     - codes:
         iso3166-2: MX-COA
       names:
         - name: Coahuila
+          languages: [es]
           sources: [iso3166-2]
         - name: Coahuila de Zaragoza
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -75,6 +83,7 @@ regions:
         iso3166-2: MX-COL
       names:
         - name: Colima
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -83,6 +92,7 @@ regions:
         iso3166-2: MX-DUR
       names:
         - name: Durango
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: MX-GUA
       names:
         - name: Guanajuato
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -99,6 +110,7 @@ regions:
         iso3166-2: MX-GRO
       names:
         - name: Guerrero
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -107,6 +119,7 @@ regions:
         iso3166-2: MX-HID
       names:
         - name: Hidalgo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -115,17 +128,19 @@ regions:
         iso3166-2: MX-JAL
       names:
         - name: Jalisco
+          languages: [es]
           sources: [iso3166-2]
     
 
-    # Michoacán de Ocampo
+    # Michoacán
     - codes:
         iso3166-2: MX-MIC
       names:
         - name: Michoacán
+          languages: [es]
           sources: [iso3166-2]
         - name: Michoacán de Ocampo
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -134,6 +149,7 @@ regions:
         iso3166-2: MX-MOR
       names:
         - name: Morelos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -142,6 +158,7 @@ regions:
         iso3166-2: MX-MEX
       names:
         - name: México
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -150,6 +167,7 @@ regions:
         iso3166-2: MX-NAY
       names:
         - name: Nayarit
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -158,6 +176,7 @@ regions:
         iso3166-2: MX-NLE
       names:
         - name: Nuevo León
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -166,6 +185,7 @@ regions:
         iso3166-2: MX-OAX
       names:
         - name: Oaxaca
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -174,6 +194,7 @@ regions:
         iso3166-2: MX-PUE
       names:
         - name: Puebla
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -182,6 +203,7 @@ regions:
         iso3166-2: MX-QUE
       names:
         - name: Querétaro
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -190,6 +212,7 @@ regions:
         iso3166-2: MX-ROO
       names:
         - name: Quintana Roo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -198,6 +221,7 @@ regions:
         iso3166-2: MX-SLP
       names:
         - name: San Luis Potosí
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -206,6 +230,7 @@ regions:
         iso3166-2: MX-SIN
       names:
         - name: Sinaloa
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -214,6 +239,7 @@ regions:
         iso3166-2: MX-SON
       names:
         - name: Sonora
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -222,6 +248,7 @@ regions:
         iso3166-2: MX-TAB
       names:
         - name: Tabasco
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -230,6 +257,7 @@ regions:
         iso3166-2: MX-TAM
       names:
         - name: Tamaulipas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -238,17 +266,19 @@ regions:
         iso3166-2: MX-TLA
       names:
         - name: Tlaxcala
+          languages: [es]
           sources: [iso3166-2]
     
 
-    # Veracruz de Ignacio de la Llave
+    # Veracruz
     - codes:
         iso3166-2: MX-VER
       names:
         - name: Veracruz
+          languages: [es]
           sources: [iso3166-2]
         - name: Veracruz de Ignacio de la Llave
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -257,6 +287,7 @@ regions:
         iso3166-2: MX-YUC
       names:
         - name: Yucatán
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -265,4 +296,5 @@ regions:
         iso3166-2: MX-ZAC
       names:
         - name: Zacatecas
+          languages: [es]
           sources: [iso3166-2]

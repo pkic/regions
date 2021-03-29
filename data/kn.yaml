@@ -8,6 +8,7 @@ regions:
         iso3166-2: KN-01
       names:
         - name: Christ Church Nichola Town
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: KN-N
       names:
         - name: Nevis
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: KN-02
       names:
         - name: Saint Anne Sandy Point
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: KN-03
       names:
         - name: Saint George Basseterre
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: KN-04
       names:
         - name: Saint George Gingerland
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: KN-05
       names:
         - name: Saint James Windward
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: KN-06
       names:
         - name: Saint John Capisterre
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: KN-07
       names:
         - name: Saint John Figtree
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: KN-K
       names:
         - name: Saint Kitts
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: KN-08
       names:
         - name: Saint Mary Cayon
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: KN-09
       names:
         - name: Saint Paul Capisterre
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: KN-10
       names:
         - name: Saint Paul Charlestown
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: KN-11
       names:
         - name: Saint Peter Basseterre
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: KN-12
       names:
         - name: Saint Thomas Lowland
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: KN-13
       names:
         - name: Saint Thomas Middle Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -128,4 +143,5 @@ regions:
         iso3166-2: KN-15
       names:
         - name: Trinity Palmetto Point
+          languages: [en]
           sources: [iso3166-2]

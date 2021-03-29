@@ -8,6 +8,7 @@ regions:
         iso3166-2: NR-01
       names:
         - name: Aiwo
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: NR-02
       names:
         - name: Anabar
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: NR-03
       names:
         - name: Anetan
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -32,17 +35,19 @@ regions:
         iso3166-2: NR-04
       names:
         - name: Anibare
+          languages: [en, na]
           sources: [iso3166-2]
     
 
-    # Baitsi
+    # Baiti
     - codes:
         iso3166-2: NR-05
       names:
         - name: Baiti
+          languages: [en, na]
           sources: [iso3166-2]
         - name: Baitsi
-          languages: [en]
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -51,6 +56,7 @@ regions:
         iso3166-2: NR-06
       names:
         - name: Boe
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -59,6 +65,7 @@ regions:
         iso3166-2: NR-07
       names:
         - name: Buada
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -67,6 +74,7 @@ regions:
         iso3166-2: NR-08
       names:
         - name: Denigomodu
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -75,6 +83,7 @@ regions:
         iso3166-2: NR-09
       names:
         - name: Ewa
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -83,6 +92,7 @@ regions:
         iso3166-2: NR-10
       names:
         - name: Ijuw
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: NR-11
       names:
         - name: Meneng
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -99,6 +110,7 @@ regions:
         iso3166-2: NR-12
       names:
         - name: Nibok
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -107,6 +119,7 @@ regions:
         iso3166-2: NR-13
       names:
         - name: Uaboe
+          languages: [en, na]
           sources: [iso3166-2]
     
 
@@ -115,4 +128,5 @@ regions:
         iso3166-2: NR-14
       names:
         - name: Yaren
+          languages: [en, na]
           sources: [iso3166-2]

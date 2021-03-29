@@ -8,6 +8,7 @@ regions:
         iso3166-2: HN-AT
       names:
         - name: Atlántida
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: HN-CH
       names:
         - name: Choluteca
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: HN-CL
       names:
         - name: Colón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: HN-CM
       names:
         - name: Comayagua
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: HN-CP
       names:
         - name: Copán
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: HN-CR
       names:
         - name: Cortés
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: HN-EP
       names:
         - name: El Paraíso
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: HN-FM
       names:
         - name: Francisco Morazán
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: HN-GD
       names:
         - name: Gracias a Dios
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: HN-IN
       names:
         - name: Intibucá
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: HN-IB
       names:
         - name: Islas de la Bahía
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: HN-LP
       names:
         - name: La Paz
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: HN-LE
       names:
         - name: Lempira
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: HN-OC
       names:
         - name: Ocotepeque
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: HN-OL
       names:
         - name: Olancho
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: HN-SB
       names:
         - name: Santa Bárbara
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: HN-VA
       names:
         - name: Valle
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -144,4 +161,5 @@ regions:
         iso3166-2: HN-YO
       names:
         - name: Yoro
+          languages: [es]
           sources: [iso3166-2]

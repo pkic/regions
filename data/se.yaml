@@ -1152,6 +1152,7 @@ regions:
         iso3166-2: SE-AB
       names:
         - name: Stockholms län
+          languages: [sv]
           sources: [iso3166-2]
     
 

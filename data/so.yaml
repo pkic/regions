@@ -8,6 +8,7 @@ regions:
         iso3166-2: SO-AW
       names:
         - name: Awdal
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: SO-BK
       names:
         - name: Bakool
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: SO-BN
       names:
         - name: Banaadir
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: SO-BR
       names:
         - name: Bari
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: SO-BY
       names:
         - name: Bay
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: SO-GA
       names:
         - name: Galguduud
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: SO-GE
       names:
         - name: Gedo
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: SO-HI
       names:
         - name: Hiiraan
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: SO-JD
       names:
         - name: Jubbada Dhexe
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: SO-JH
       names:
         - name: Jubbada Hoose
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: SO-MU
       names:
         - name: Mudug
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: SO-NU
       names:
         - name: Nugaal
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: SO-SA
       names:
         - name: Sanaag
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: SO-SD
       names:
         - name: Shabeellaha Dhexe
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: SO-SH
       names:
         - name: Shabeellaha Hoose
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: SO-SO
       names:
         - name: Sool
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: SO-TO
       names:
         - name: Togdheer
+          languages: [so]
           sources: [iso3166-2]
     
 
@@ -144,4 +161,5 @@ regions:
         iso3166-2: SO-WO
       names:
         - name: Woqooyi Galbeed
+          languages: [so]
           sources: [iso3166-2]

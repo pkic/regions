@@ -9,6 +9,7 @@ regions:
         iso3166-2: CZ-201
       names:
         - name: Benešov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: CZ-202
       names:
         - name: Beroun
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: CZ-641
       names:
         - name: Blansko
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -203,6 +206,7 @@ regions:
         iso3166-2: CZ-642
       names:
         - name: Brno-město
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -211,6 +215,7 @@ regions:
         iso3166-2: CZ-643
       names:
         - name: Brno-venkov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -219,6 +224,7 @@ regions:
         iso3166-2: CZ-801
       names:
         - name: Bruntál
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -227,6 +233,7 @@ regions:
         iso3166-2: CZ-644
       names:
         - name: Břeclav
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -235,6 +242,7 @@ regions:
         iso3166-2: CZ-411
       names:
         - name: Cheb
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -243,6 +251,7 @@ regions:
         iso3166-2: CZ-422
       names:
         - name: Chomutov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -251,6 +260,7 @@ regions:
         iso3166-2: CZ-531
       names:
         - name: Chrudim
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -344,6 +354,7 @@ regions:
         iso3166-2: CZ-321
       names:
         - name: Domažlice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -352,6 +363,7 @@ regions:
         iso3166-2: CZ-421
       names:
         - name: Děčín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -360,6 +372,7 @@ regions:
         iso3166-2: CZ-802
       names:
         - name: Frýdek-Místek
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -368,6 +381,7 @@ regions:
         iso3166-2: CZ-631
       names:
         - name: Havlíčkův Brod
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -376,6 +390,7 @@ regions:
         iso3166-2: CZ-645
       names:
         - name: Hodonín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -394,7 +409,7 @@ regions:
           languages: [lt]
           sources: [euvoc]
         - name: Hradec Králové
-          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Hradec Królowej
           languages: [pl]
@@ -424,6 +439,7 @@ regions:
         iso3166-2: CZ-512
       names:
         - name: Jablonec nad Nisou
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -432,6 +448,7 @@ regions:
         iso3166-2: CZ-711
       names:
         - name: Jeseník
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -440,6 +457,7 @@ regions:
         iso3166-2: CZ-632
       names:
         - name: Jihlava
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -448,6 +466,7 @@ regions:
         iso3166-2: CZ-313
       names:
         - name: Jindřichův Hradec
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -456,6 +475,7 @@ regions:
         iso3166-2: CZ-522
       names:
         - name: Jičín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -474,7 +494,7 @@ regions:
           languages: [lv, mt, sq]
           sources: [euvoc]
         - name: Karlovy Vary
-          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Karlovy Varųas
           languages: [lt]
@@ -498,6 +518,7 @@ regions:
         iso3166-2: CZ-803
       names:
         - name: Karviná
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -506,6 +527,7 @@ regions:
         iso3166-2: CZ-203
       names:
         - name: Kladno
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -514,6 +536,7 @@ regions:
         iso3166-2: CZ-322
       names:
         - name: Klatovy
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -522,6 +545,7 @@ regions:
         iso3166-2: CZ-204
       names:
         - name: Kolín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -530,6 +554,7 @@ regions:
         iso3166-2: CZ-721
       names:
         - name: Kroměříž
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -538,6 +563,7 @@ regions:
         iso3166-2: CZ-205
       names:
         - name: Kutná Hora
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -547,7 +573,7 @@ regions:
         iso3166-2: CZ-513
       names:
         - name: Liberec
-          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Liberecký
           languages: [cs, sk]
@@ -580,6 +606,7 @@ regions:
         iso3166-2: CZ-423
       names:
         - name: Litoměřice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -588,6 +615,7 @@ regions:
         iso3166-2: CZ-424
       names:
         - name: Louny
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -596,6 +624,7 @@ regions:
         iso3166-2: CZ-207
       names:
         - name: Mladá Boleslav
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -686,6 +715,7 @@ regions:
         iso3166-2: CZ-425
       names:
         - name: Most
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -694,6 +724,7 @@ regions:
         iso3166-2: CZ-206
       names:
         - name: Mělník
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -702,6 +733,7 @@ regions:
         iso3166-2: CZ-804
       names:
         - name: Nový Jičín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -710,6 +742,7 @@ regions:
         iso3166-2: CZ-208
       names:
         - name: Nymburk
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -718,6 +751,7 @@ regions:
         iso3166-2: CZ-523
       names:
         - name: Náchod
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -727,7 +761,7 @@ regions:
         iso3166-2: CZ-712
       names:
         - name: Olomouc
-          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Olomouca
           languages: [lv]
@@ -763,6 +797,7 @@ regions:
         iso3166-2: CZ-805
       names:
         - name: Opava
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -771,6 +806,7 @@ regions:
         iso3166-2: CZ-806
       names:
         - name: Ostrava-město
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -783,7 +819,7 @@ regions:
           languages: [sq]
           sources: [euvoc]
         - name: Pardubice
-          languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Pardubický
           languages: [cs, sk]
@@ -810,6 +846,7 @@ regions:
         iso3166-2: CZ-633
       names:
         - name: Pelhřimov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -864,6 +901,7 @@ regions:
         iso3166-2: CZ-324
       names:
         - name: Plzeň-jih
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -872,6 +910,7 @@ regions:
         iso3166-2: CZ-323
       names:
         - name: Plzeň-město
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -880,6 +919,7 @@ regions:
         iso3166-2: CZ-325
       names:
         - name: Plzeň-sever
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -931,6 +971,7 @@ regions:
         iso3166-2: CZ-315
       names:
         - name: Prachatice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -939,6 +980,7 @@ regions:
         iso3166-2: CZ-209
       names:
         - name: Praha-východ
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -947,6 +989,7 @@ regions:
         iso3166-2: CZ-20A
       names:
         - name: Praha-západ
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -955,6 +998,7 @@ regions:
         iso3166-2: CZ-713
       names:
         - name: Prostějov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -963,6 +1007,7 @@ regions:
         iso3166-2: CZ-314
       names:
         - name: Písek
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -971,6 +1016,7 @@ regions:
         iso3166-2: CZ-714
       names:
         - name: Přerov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -979,6 +1025,7 @@ regions:
         iso3166-2: CZ-20B
       names:
         - name: Příbram
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -987,6 +1034,7 @@ regions:
         iso3166-2: CZ-20C
       names:
         - name: Rakovník
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -995,6 +1043,7 @@ regions:
         iso3166-2: CZ-326
       names:
         - name: Rokycany
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1003,6 +1052,7 @@ regions:
         iso3166-2: CZ-524
       names:
         - name: Rychnov nad Kněžnou
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1011,6 +1061,7 @@ regions:
         iso3166-2: CZ-514
       names:
         - name: Semily
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1019,6 +1070,7 @@ regions:
         iso3166-2: CZ-413
       names:
         - name: Sokolov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1027,6 +1079,7 @@ regions:
         iso3166-2: CZ-316
       names:
         - name: Strakonice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1035,6 +1088,7 @@ regions:
         iso3166-2: CZ-533
       names:
         - name: Svitavy
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1043,6 +1097,7 @@ regions:
         iso3166-2: CZ-327
       names:
         - name: Tachov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1051,6 +1106,7 @@ regions:
         iso3166-2: CZ-426
       names:
         - name: Teplice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1059,6 +1115,7 @@ regions:
         iso3166-2: CZ-525
       names:
         - name: Trutnov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1067,6 +1124,7 @@ regions:
         iso3166-2: CZ-317
       names:
         - name: Tábor
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1075,6 +1133,7 @@ regions:
         iso3166-2: CZ-634
       names:
         - name: Třebíč
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1083,6 +1142,7 @@ regions:
         iso3166-2: CZ-722
       names:
         - name: Uherské Hradiště
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1113,7 +1173,7 @@ regions:
           languages: [es, et, nl]
           sources: [euvoc]
         - name: Ústí nad Labem
-          languages: [en]
+          languages: [cs, en]
           sources: [euvoc, iso3166-2]
         - name: Ūsčioas
           languages: [lt]
@@ -1168,6 +1228,7 @@ regions:
         iso3166-2: CZ-723
       names:
         - name: Vsetín
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1176,6 +1237,7 @@ regions:
         iso3166-2: CZ-646
       names:
         - name: Vyškov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1200,7 +1262,7 @@ regions:
           languages: [lt]
           sources: [euvoc]
         - name: Zlín
-          languages: [da, de, el, en, es, et, fi, fr, hu, it, nl, pt, ro, sv]
+          languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, nl, pt, ro, sv]
           sources: [euvoc, iso3166-2]
         - name: Zlínsky
           languages: [sk]
@@ -1221,6 +1283,7 @@ regions:
         iso3166-2: CZ-647
       names:
         - name: Znojmo
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1229,6 +1292,7 @@ regions:
         iso3166-2: CZ-534
       names:
         - name: Ústí nad Orlicí
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1237,6 +1301,7 @@ regions:
         iso3166-2: CZ-511
       names:
         - name: Česká Lípa
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1245,6 +1310,7 @@ regions:
         iso3166-2: CZ-311
       names:
         - name: České Budějovice
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1253,6 +1319,7 @@ regions:
         iso3166-2: CZ-312
       names:
         - name: Český Krumlov
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1261,6 +1328,7 @@ regions:
         iso3166-2: CZ-715
       names:
         - name: Šumperk
+          languages: [cs]
           sources: [iso3166-2]
     
 
@@ -1269,4 +1337,5 @@ regions:
         iso3166-2: CZ-635
       names:
         - name: Žďár nad Sázavou
+          languages: [cs]
           sources: [iso3166-2]

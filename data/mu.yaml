@@ -8,6 +8,7 @@ regions:
         iso3166-2: MU-AG
       names:
         - name: Agalega Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: MU-BL
       names:
         - name: Black River
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -27,6 +29,7 @@ regions:
           languages: [en]
           sources: [iso3166-2]
         - name: Saint Brandon Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -35,6 +38,7 @@ regions:
         iso3166-2: MU-FL
       names:
         - name: Flacq
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -43,6 +47,7 @@ regions:
         iso3166-2: MU-GP
       names:
         - name: Grand Port
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -51,6 +56,7 @@ regions:
         iso3166-2: MU-MO
       names:
         - name: Moka
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -59,6 +65,7 @@ regions:
         iso3166-2: MU-PA
       names:
         - name: Pamplemousses
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -67,6 +74,7 @@ regions:
         iso3166-2: MU-PW
       names:
         - name: Plaines Wilhems
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -75,6 +83,7 @@ regions:
         iso3166-2: MU-PL
       names:
         - name: Port Louis
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -83,6 +92,7 @@ regions:
         iso3166-2: MU-RR
       names:
         - name: Rivière du Rempart
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: MU-RO
       names:
         - name: Rodrigues Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -99,4 +110,5 @@ regions:
         iso3166-2: MU-SA
       names:
         - name: Savanne
+          languages: [en]
           sources: [iso3166-2]

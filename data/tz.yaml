@@ -8,6 +8,7 @@ regions:
         iso3166-2: TZ-01
       names:
         - name: Arusha
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -16,8 +17,10 @@ regions:
         iso3166-2: TZ-19
       names:
         - name: Coast
+          languages: [en]
           sources: [iso3166-2]
         - name: Pwani
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -26,6 +29,7 @@ regions:
         iso3166-2: TZ-02
       names:
         - name: Dar es Salaam
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -34,6 +38,7 @@ regions:
         iso3166-2: TZ-03
       names:
         - name: Dodoma
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -42,6 +47,7 @@ regions:
         iso3166-2: TZ-27
       names:
         - name: Geita
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -50,6 +56,7 @@ regions:
         iso3166-2: TZ-04
       names:
         - name: Iringa
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -58,6 +65,7 @@ regions:
         iso3166-2: TZ-05
       names:
         - name: Kagera
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -66,6 +74,7 @@ regions:
         iso3166-2: TZ-28
       names:
         - name: Katavi
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -74,6 +83,7 @@ regions:
         iso3166-2: TZ-08
       names:
         - name: Kigoma
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -82,26 +92,31 @@ regions:
         iso3166-2: TZ-09
       names:
         - name: Kilimanjaro
+          languages: [sw]
           sources: [iso3166-2]
     
 
-    # Kusini Pemba
+    # Pemba South
     - codes:
         iso3166-2: TZ-10
       names:
         - name: Kusini Pemba
+          languages: [sw]
           sources: [iso3166-2]
         - name: Pemba South
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Kusini Unguja
+    # Zanzibar South
     - codes:
         iso3166-2: TZ-11
       names:
         - name: Kusini Unguja
+          languages: [sw]
           sources: [iso3166-2]
         - name: Zanzibar South
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -110,6 +125,7 @@ regions:
         iso3166-2: TZ-12
       names:
         - name: Lindi
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -118,6 +134,7 @@ regions:
         iso3166-2: TZ-26
       names:
         - name: Manyara
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -126,6 +143,7 @@ regions:
         iso3166-2: TZ-13
       names:
         - name: Mara
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -134,6 +152,7 @@ regions:
         iso3166-2: TZ-14
       names:
         - name: Mbeya
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -142,6 +161,7 @@ regions:
         iso3166-2: TZ-16
       names:
         - name: Morogoro
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -150,6 +170,7 @@ regions:
         iso3166-2: TZ-17
       names:
         - name: Mtwara
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -158,6 +179,7 @@ regions:
         iso3166-2: TZ-18
       names:
         - name: Mwanza
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -166,16 +188,19 @@ regions:
         iso3166-2: TZ-29
       names:
         - name: Njombe
+          languages: [sw]
           sources: [iso3166-2]
     
 
-    # Kaskazini Pemba
+    # Pemba North
     - codes:
         iso3166-2: TZ-06
       names:
         - name: Kaskazini Pemba
+          languages: [sw]
           sources: [iso3166-2]
         - name: Pemba North
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -184,6 +209,7 @@ regions:
         iso3166-2: TZ-20
       names:
         - name: Rukwa
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -192,6 +218,7 @@ regions:
         iso3166-2: TZ-21
       names:
         - name: Ruvuma
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -200,6 +227,7 @@ regions:
         iso3166-2: TZ-22
       names:
         - name: Shinyanga
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -208,6 +236,7 @@ regions:
         iso3166-2: TZ-30
       names:
         - name: Simiyu
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -216,6 +245,7 @@ regions:
         iso3166-2: TZ-23
       names:
         - name: Singida
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -224,6 +254,7 @@ regions:
         iso3166-2: TZ-31
       names:
         - name: Songwe
+          languages: [en, sw]
           sources: [iso3166-2]
     
 
@@ -232,6 +263,7 @@ regions:
         iso3166-2: TZ-24
       names:
         - name: Tabora
+          languages: [sw]
           sources: [iso3166-2]
     
 
@@ -240,24 +272,29 @@ regions:
         iso3166-2: TZ-25
       names:
         - name: Tanga
+          languages: [sw]
           sources: [iso3166-2]
     
 
-    # Kaskazini Unguja
+    # Zanzibar North
     - codes:
         iso3166-2: TZ-07
       names:
         - name: Kaskazini Unguja
+          languages: [sw]
           sources: [iso3166-2]
         - name: Zanzibar North
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Mjini Magharibi
+    # Zanzibar West
     - codes:
         iso3166-2: TZ-15
       names:
         - name: Mjini Magharibi
+          languages: [sw]
           sources: [iso3166-2]
         - name: Zanzibar West
+          languages: [en]
           sources: [iso3166-2]

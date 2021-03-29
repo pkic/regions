@@ -60,8 +60,10 @@ regions:
         iso3166-2: FI-01
       names:
         - name: Ahvenanmaan
+          languages: [fi]
           sources: [iso3166-2]
         - name: Landskapet Åland
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -223,8 +225,10 @@ regions:
         iso3166-2: FI-19
       names:
         - name: Egentliga Finland
+          languages: [sv]
           sources: [iso3166-2]
         - name: Varsinais-Suomi
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -233,8 +237,10 @@ regions:
         iso3166-2: FI-02
       names:
         - name: Etelä-Karjala
+          languages: [fi]
           sources: [iso3166-2]
         - name: Södra Karelen
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -243,8 +249,10 @@ regions:
         iso3166-2: FI-03
       names:
         - name: Etelä-Pohjanmaa
+          languages: [fi]
           sources: [iso3166-2]
         - name: Södra Österbotten
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -253,8 +261,10 @@ regions:
         iso3166-2: FI-04
       names:
         - name: Etelä-Savo
+          languages: [fi]
           sources: [iso3166-2]
         - name: Södra Savolax
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -341,8 +351,10 @@ regions:
         iso3166-2: FI-05
       names:
         - name: Kainuu
+          languages: [fi]
           sources: [iso3166-2]
         - name: Kajanaland
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -351,8 +363,10 @@ regions:
         iso3166-2: FI-06
       names:
         - name: Egentliga Tavastland
+          languages: [sv]
           sources: [iso3166-2]
         - name: Kanta-Häme
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -361,8 +375,10 @@ regions:
         iso3166-2: FI-07
       names:
         - name: Keski-Pohjanmaa
+          languages: [fi]
           sources: [iso3166-2]
         - name: Mellersta Österbotten
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -371,8 +387,10 @@ regions:
         iso3166-2: FI-09
       names:
         - name: Kymenlaakso
+          languages: [fi]
           sources: [iso3166-2]
         - name: Kymmenedalen
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -445,8 +463,10 @@ regions:
         iso3166-2: FI-08
       names:
         - name: Keski-Suomi
+          languages: [fi]
           sources: [iso3166-2]
         - name: Mellersta Finland
+          languages: [sv]
           sources: [iso3166-2]
     
 
@@ -455,8 +475,10 @@ regions:
         iso3166-2: FI-15
       names:
         - name: Norra Savolax
+          languages: [sv]
           sources: [iso3166-2]
         - name: Pohjois-Savo
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -465,8 +487,10 @@ regions:
         iso3166-2: FI-18
       names:
         - name: Nyland
+          languages: [sv]
           sources: [iso3166-2]
         - name: Uusimaa
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -496,8 +520,10 @@ regions:
         iso3166-2: FI-11
       names:
         - name: Birkaland
+          languages: [sv]
           sources: [iso3166-2]
         - name: Pirkanmaa
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -506,8 +532,10 @@ regions:
         iso3166-2: FI-13
       names:
         - name: Norra Karelen
+          languages: [sv]
           sources: [iso3166-2]
         - name: Pohjois-Karjala
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -516,8 +544,10 @@ regions:
         iso3166-2: FI-14
       names:
         - name: Norra Österbotten
+          languages: [sv]
           sources: [iso3166-2]
         - name: Pohjois-Pohjanmaa
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -526,8 +556,10 @@ regions:
         iso3166-2: FI-16
       names:
         - name: Päijänne-Tavastland
+          languages: [sv]
           sources: [iso3166-2]
         - name: Päijät-Häme
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -536,8 +568,10 @@ regions:
         iso3166-2: FI-17
       names:
         - name: Satakunda
+          languages: [sv]
           sources: [iso3166-2]
         - name: Satakunta
+          languages: [fi]
           sources: [iso3166-2]
     
 
@@ -546,6 +580,8 @@ regions:
         iso3166-2: FI-12
       names:
         - name: Pohjanmaa
+          languages: [fi]
           sources: [iso3166-2]
         - name: Österbotten
+          languages: [sv]
           sources: [iso3166-2]

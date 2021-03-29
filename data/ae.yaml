@@ -3,14 +3,15 @@ complete: false
 regions:
     
 
-    # Abū Z̧aby
+    # Abu Dhabi
     - codes:
         iso3166-2: AE-AZ
       names:
         - name: Abu Dhabi
+          languages: [ar]
           sources: [iso3166-2]
         - name: Abū Z̧aby
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -19,9 +20,10 @@ regions:
         iso3166-2: AE-FU
       names:
         - name: Al Fujayrah
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
         - name: Fujairah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -30,42 +32,46 @@ regions:
         iso3166-2: AE-SH
       names:
         - name: Ash Shāriqah
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
         - name: Sharjah
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Dubayy
+    # Dubai
     - codes:
         iso3166-2: AE-DU
       names:
         - name: Dubai
+          languages: [ar]
           sources: [iso3166-2]
         - name: Dubayy
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Ra’s al Khaymah
+    # Ras Al Khaimah
     - codes:
         iso3166-2: AE-RK
       names:
         - name: Ras Al Khaimah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Ra’s al Khaymah
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Umm al Qaywayn
+    # Umm Al Quwain
     - codes:
         iso3166-2: AE-UQ
       names:
         - name: Umm Al Quwain
+          languages: [ar]
           sources: [iso3166-2]
         - name: Umm al Qaywayn
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -74,4 +80,5 @@ regions:
         iso3166-2: AE-AJ
       names:
         - name: ‘Ajmān
+          languages: [ar]
           sources: [iso3166-2]

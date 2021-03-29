@@ -8,6 +8,7 @@ regions:
         iso3166-2: CM-AD
       names:
         - name: Adamaoua
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: CM-CE
       names:
         - name: Centre
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
@@ -24,18 +26,22 @@ regions:
         iso3166-2: CM-ES
       names:
         - name: East
+          languages: [en]
           sources: [iso3166-2]
         - name: Est
+          languages: [fr]
           sources: [iso3166-2]
     
 
-    # Extrême-Nord
+    # Far North
     - codes:
         iso3166-2: CM-EN
       names:
         - name: Extrême-Nord
+          languages: [fr]
           sources: [iso3166-2]
         - name: Far North
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -44,36 +50,43 @@ regions:
         iso3166-2: CM-LT
       names:
         - name: Littoral
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Nord-Ouest
+    # North-West
     - codes:
         iso3166-2: CM-NW
       names:
         - name: Nord-Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: North-West
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Nord
+    # North
     - codes:
         iso3166-2: CM-NO
       names:
         - name: Nord
+          languages: [fr]
           sources: [iso3166-2]
         - name: North
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Ouest
+    # West
     - codes:
         iso3166-2: CM-OU
       names:
         - name: Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: West
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -82,8 +95,10 @@ regions:
         iso3166-2: CM-SU
       names:
         - name: South
+          languages: [en]
           sources: [iso3166-2]
         - name: Sud
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -92,6 +107,8 @@ regions:
         iso3166-2: CM-SW
       names:
         - name: South-West
+          languages: [en]
           sources: [iso3166-2]
         - name: Sud-Ouest
+          languages: [fr]
           sources: [iso3166-2]

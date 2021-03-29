@@ -8,8 +8,10 @@ regions:
         iso3166-2: TD-BA
       names:
         - name: Al Baţḩā’
+          languages: [ar]
           sources: [iso3166-2]
         - name: Batha
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -18,11 +20,13 @@ regions:
         iso3166-2: TD-BG
       names:
         - name: Bahr el Ghazal
-          languages: [en]
+          languages: [fr]
           sources: [iso3166-2]
         - name: Barh-el-Ghazal
+          languages: [fr]
           sources: [iso3166-2]
         - name: Baḩr al Ghazāl
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -31,8 +35,10 @@ regions:
         iso3166-2: TD-BO
       names:
         - name: Borkou
+          languages: [fr]
           sources: [iso3166-2]
         - name: Būrkū
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -41,8 +47,10 @@ regions:
         iso3166-2: TD-EO
       names:
         - name: Ennedi-Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: Inīdī al Gharbī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -51,8 +59,10 @@ regions:
         iso3166-2: TD-EE
       names:
         - name: Ennedi-Est
+          languages: [fr]
           sources: [iso3166-2]
         - name: Inīdī ash Sharqī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -61,8 +71,10 @@ regions:
         iso3166-2: TD-KA
       names:
         - name: Kanem
+          languages: [fr]
           sources: [iso3166-2]
         - name: Kānim
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -71,8 +83,10 @@ regions:
         iso3166-2: TD-LC
       names:
         - name: Al Buḩayrah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Lac
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -81,8 +95,10 @@ regions:
         iso3166-2: TD-LO
       names:
         - name: Logone-Occidental
+          languages: [fr]
           sources: [iso3166-2]
         - name: Lūghūn al Gharbī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -91,8 +107,10 @@ regions:
         iso3166-2: TD-LR
       names:
         - name: Logone-Oriental
+          languages: [fr]
           sources: [iso3166-2]
         - name: Lūghūn ash Sharqī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -101,8 +119,10 @@ regions:
         iso3166-2: TD-MA
       names:
         - name: Mandoul
+          languages: [fr]
           sources: [iso3166-2]
         - name: Māndūl
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -111,8 +131,10 @@ regions:
         iso3166-2: TD-ME
       names:
         - name: Mayo-Kebbi-Est
+          languages: [fr]
           sources: [iso3166-2]
         - name: Māyū Kībbī ash Sharqī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -121,8 +143,10 @@ regions:
         iso3166-2: TD-MO
       names:
         - name: Mayo-Kebbi-Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: Māyū Kībbī al Gharbī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -131,8 +155,10 @@ regions:
         iso3166-2: TD-MC
       names:
         - name: Moyen-Chari
+          languages: [fr]
           sources: [iso3166-2]
         - name: Shārī al Awsaţ
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -141,8 +167,10 @@ regions:
         iso3166-2: TD-OD
       names:
         - name: Ouaddaï
+          languages: [fr]
           sources: [iso3166-2]
         - name: Waddāy
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -151,8 +179,10 @@ regions:
         iso3166-2: TD-GR
       names:
         - name: Guéra
+          languages: [fr]
           sources: [iso3166-2]
         - name: Qīrā
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -161,8 +191,10 @@ regions:
         iso3166-2: TD-SA
       names:
         - name: Salamat
+          languages: [fr]
           sources: [iso3166-2]
         - name: Salāmāt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -171,8 +203,10 @@ regions:
         iso3166-2: TD-CB
       names:
         - name: Chari-Baguirmi
+          languages: [fr]
           sources: [iso3166-2]
         - name: Shārī Bāqirmī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -181,8 +215,10 @@ regions:
         iso3166-2: TD-SI
       names:
         - name: Sila
+          languages: [fr]
           sources: [iso3166-2]
         - name: Sīlā
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -191,8 +227,10 @@ regions:
         iso3166-2: TD-TI
       names:
         - name: Tibastī
+          languages: [ar]
           sources: [iso3166-2]
         - name: Tibesti
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -201,8 +239,10 @@ regions:
         iso3166-2: TD-TA
       names:
         - name: Tandjilé
+          languages: [fr]
           sources: [iso3166-2]
         - name: Tānjīlī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -211,8 +251,10 @@ regions:
         iso3166-2: TD-ND
       names:
         - name: Madīnat Injamīnā
+          languages: [ar]
           sources: [iso3166-2]
         - name: Ville de Ndjamena
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -221,8 +263,10 @@ regions:
         iso3166-2: TD-WF
       names:
         - name: Wadi Fira
+          languages: [fr]
           sources: [iso3166-2]
         - name: Wādī Fīrā’
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -231,6 +275,8 @@ regions:
         iso3166-2: TD-HL
       names:
         - name: Hadjer Lamis
+          languages: [fr]
           sources: [iso3166-2]
         - name: Ḩajjar Lamīs
+          languages: [ar]
           sources: [iso3166-2]

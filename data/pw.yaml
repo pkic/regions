@@ -8,6 +8,7 @@ regions:
         iso3166-2: PW-002
       names:
         - name: Aimeliik
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: PW-004
       names:
         - name: Airai
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: PW-010
       names:
         - name: Angaur
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: PW-050
       names:
         - name: Hatohobei
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: PW-100
       names:
         - name: Kayangel
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: PW-150
       names:
         - name: Koror
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: PW-212
       names:
         - name: Melekeok
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: PW-214
       names:
         - name: Ngaraard
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: PW-218
       names:
         - name: Ngarchelong
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: PW-222
       names:
         - name: Ngardmau
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: PW-224
       names:
         - name: Ngatpang
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: PW-226
       names:
         - name: Ngchesar
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: PW-227
       names:
         - name: Ngeremlengui
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: PW-228
       names:
         - name: Ngiwal
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: PW-350
       names:
         - name: Peleliu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -128,4 +143,5 @@ regions:
         iso3166-2: PW-370
       names:
         - name: Sonsorol
+          languages: [en]
           sources: [iso3166-2]

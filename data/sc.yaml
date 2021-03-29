@@ -3,45 +3,50 @@ complete: false
 regions:
     
 
-    # Ans Bwalo
+    # Anse Boileau
     - codes:
         iso3166-2: SC-02
       names:
         - name: Ans Bwalo
           sources: [iso3166-2]
         - name: Anse Boileau
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Ans Royal
+    # Anse Royale
     - codes:
         iso3166-2: SC-05
       names:
         - name: Ans Royal
           sources: [iso3166-2]
         - name: Anse Royale
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Ans o Pen
+    # Anse aux Pins
     - codes:
         iso3166-2: SC-01
       names:
         - name: Ans o Pen
           sources: [iso3166-2]
         - name: Anse aux Pins
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Ans Etwal
+    # Anse Etoile
     - codes:
         iso3166-2: SC-03
       names:
         - name: Ans Etwal
           sources: [iso3166-2]
         - name: Anse Etoile
+          languages: [en]
           sources: [iso3166-2]
         - name: Anse Étoile
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -50,6 +55,7 @@ regions:
         iso3166-2: SC-04
       names:
         - name: Au Cap
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: O Kap
           sources: [iso3166-2]
@@ -60,6 +66,7 @@ regions:
         iso3166-2: SC-06
       names:
         - name: Baie Lazare
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Be Lazar
           sources: [iso3166-2]
@@ -70,8 +77,10 @@ regions:
         iso3166-2: SC-07
       names:
         - name: Baie Sainte Anne
+          languages: [en]
           sources: [iso3166-2]
         - name: Baie Sainte-Anne
+          languages: [fr]
           sources: [iso3166-2]
         - name: Be Sent Ann
           sources: [iso3166-2]
@@ -82,6 +91,7 @@ regions:
         iso3166-2: SC-08
       names:
         - name: Beau Vallon
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Bovalon
           sources: [iso3166-2]
@@ -92,6 +102,7 @@ regions:
         iso3166-2: SC-09
       names:
         - name: Bel Air
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Beler
           sources: [iso3166-2]
@@ -102,6 +113,7 @@ regions:
         iso3166-2: SC-10
       names:
         - name: Bel Ombre
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Belonm
           sources: [iso3166-2]
@@ -112,6 +124,7 @@ regions:
         iso3166-2: SC-11
       names:
         - name: Cascade
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Kaskad
           sources: [iso3166-2]
@@ -122,8 +135,10 @@ regions:
         iso3166-2: SC-16
       names:
         - name: English River
+          languages: [en]
           sources: [iso3166-2]
         - name: La Rivière Anglaise
+          languages: [fr]
           sources: [iso3166-2]
         - name: Larivyer Anglez
           sources: [iso3166-2]
@@ -134,32 +149,37 @@ regions:
         iso3166-2: SC-12
       names:
         - name: Glacis
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Glasi
           sources: [iso3166-2]
     
 
-    # Grand Ans Mae
+    # Grand Anse Mahe
     - codes:
         iso3166-2: SC-13
       names:
         - name: Grand Ans Mae
           sources: [iso3166-2]
         - name: Grand Anse Mahe
+          languages: [en]
           sources: [iso3166-2]
         - name: Grand'Anse Mahé
+          languages: [fr]
           sources: [iso3166-2]
     
 
-    # Grand Ans Pralen
+    # Grand Anse Praslin
     - codes:
         iso3166-2: SC-14
       names:
         - name: Grand Ans Pralen
           sources: [iso3166-2]
         - name: Grand Anse Praslin
+          languages: [en]
           sources: [iso3166-2]
         - name: Grand'Anse Praslin
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -168,8 +188,10 @@ regions:
         iso3166-2: SC-26
       names:
         - name: Ile Perseverance I
+          languages: [en]
           sources: [iso3166-2]
         - name: Île Persévérance I
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -178,8 +200,10 @@ regions:
         iso3166-2: SC-27
       names:
         - name: Ile Perseverance II
+          languages: [en]
           sources: [iso3166-2]
         - name: Île Persévérance II
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -188,38 +212,42 @@ regions:
         iso3166-2: SC-15
       names:
         - name: La Digue
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Ladig
           sources: [iso3166-2]
     
 
-    # Lemamel
+    # Les Mamelles
     - codes:
         iso3166-2: SC-24
       names:
         - name: Lemamel
           sources: [iso3166-2]
         - name: Les Mamelles
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Mon Bikston
+    # Mont Buxton
     - codes:
         iso3166-2: SC-17
       names:
         - name: Mon Bikston
           sources: [iso3166-2]
         - name: Mont Buxton
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Mon Fleri
+    # Mont Fleuri
     - codes:
         iso3166-2: SC-18
       names:
         - name: Mon Fleri
           sources: [iso3166-2]
         - name: Mont Fleuri
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
@@ -228,28 +256,32 @@ regions:
         iso3166-2: SC-19
       names:
         - name: Plaisance
+          languages: [en, fr]
           sources: [iso3166-2]
         - name: Plezans
           sources: [iso3166-2]
     
 
-    # Porglo
+    # Port Glaud
     - codes:
         iso3166-2: SC-21
       names:
         - name: Porglo
           sources: [iso3166-2]
         - name: Port Glaud
+          languages: [en, fr]
           sources: [iso3166-2]
     
 
-    # Pointe La Rue
+    # Pointe Larue
     - codes:
         iso3166-2: SC-20
       names:
         - name: Pointe La Rue
+          languages: [fr]
           sources: [iso3166-2]
         - name: Pointe Larue
+          languages: [en]
           sources: [iso3166-2]
         - name: Pwent Lari
           sources: [iso3166-2]
@@ -260,8 +292,10 @@ regions:
         iso3166-2: SC-25
       names:
         - name: Roche Caiman
+          languages: [en]
           sources: [iso3166-2]
         - name: Roche Caïman
+          languages: [fr]
           sources: [iso3166-2]
         - name: Ros Kaiman
           sources: [iso3166-2]
@@ -272,8 +306,10 @@ regions:
         iso3166-2: SC-22
       names:
         - name: Saint Louis
+          languages: [en]
           sources: [iso3166-2]
         - name: Saint-Louis
+          languages: [fr]
           sources: [iso3166-2]
         - name: Sen Lwi
           sources: [iso3166-2]
@@ -284,4 +320,5 @@ regions:
         iso3166-2: SC-23
       names:
         - name: Takamaka
+          languages: [en, fr]
           sources: [iso3166-2]

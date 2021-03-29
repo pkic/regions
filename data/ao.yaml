@@ -8,6 +8,7 @@ regions:
         iso3166-2: AO-BGO
       names:
         - name: Bengo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: AO-BGU
       names:
         - name: Benguela
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: AO-BIE
       names:
         - name: Bié
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: AO-CAB
       names:
         - name: Cabinda
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -40,9 +44,10 @@ regions:
         iso3166-2: AO-CCU
       names:
         - name: Cuando Cubango
-          languages: [en]
+          languages: [pt]
           sources: [iso3166-2]
         - name: Kuando Kubango
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -51,9 +56,10 @@ regions:
         iso3166-2: AO-CNO
       names:
         - name: Cuanza-Norte
-          languages: [en]
+          languages: [pt]
           sources: [iso3166-2]
         - name: Kwanza Norte
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -62,9 +68,10 @@ regions:
         iso3166-2: AO-CUS
       names:
         - name: Cuanza-Sul
-          languages: [en]
+          languages: [pt]
           sources: [iso3166-2]
         - name: Kwanza Sul
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -73,6 +80,7 @@ regions:
         iso3166-2: AO-CNN
       names:
         - name: Cunene
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -81,6 +89,7 @@ regions:
         iso3166-2: AO-HUA
       names:
         - name: Huambo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -89,6 +98,7 @@ regions:
         iso3166-2: AO-HUI
       names:
         - name: Huíla
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -97,6 +107,7 @@ regions:
         iso3166-2: AO-LUA
       names:
         - name: Luanda
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -105,6 +116,7 @@ regions:
         iso3166-2: AO-LNO
       names:
         - name: Lunda-Norte
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -113,6 +125,7 @@ regions:
         iso3166-2: AO-LSU
       names:
         - name: Lunda-Sul
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -121,6 +134,7 @@ regions:
         iso3166-2: AO-MAL
       names:
         - name: Malange
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -129,6 +143,7 @@ regions:
         iso3166-2: AO-MOX
       names:
         - name: Moxico
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -137,6 +152,7 @@ regions:
         iso3166-2: AO-NAM
       names:
         - name: Namibe
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -145,6 +161,7 @@ regions:
         iso3166-2: AO-UIG
       names:
         - name: Uíge
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -153,4 +170,5 @@ regions:
         iso3166-2: AO-ZAI
       names:
         - name: Zaire
+          languages: [pt]
           sources: [iso3166-2]

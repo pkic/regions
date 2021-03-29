@@ -63,6 +63,7 @@ regions:
         iso3166-2: FR-01
       names:
         - name: Ain
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -71,6 +72,7 @@ regions:
         iso3166-2: FR-02
       names:
         - name: Aisne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -151,6 +153,7 @@ regions:
         iso3166-2: FR-03
       names:
         - name: Allier
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -159,6 +162,7 @@ regions:
         iso3166-2: FR-06
       names:
         - name: Alpes-Maritimes
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -167,6 +171,7 @@ regions:
         iso3166-2: FR-04
       names:
         - name: Alpes-de-Haute-Provence
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -420,6 +425,7 @@ regions:
         iso3166-2: FR-08
       names:
         - name: Ardennes
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -428,6 +434,7 @@ regions:
         iso3166-2: FR-07
       names:
         - name: Ardèche
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -478,6 +485,7 @@ regions:
         iso3166-2: FR-09
       names:
         - name: Ariège
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -486,6 +494,7 @@ regions:
         iso3166-2: FR-10
       names:
         - name: Aube
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -494,6 +503,7 @@ regions:
         iso3166-2: FR-11
       names:
         - name: Aude
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -502,6 +512,7 @@ regions:
         iso3166-2: FR-12
       names:
         - name: Aveyron
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -510,6 +521,7 @@ regions:
         iso3166-2: FR-67
       names:
         - name: Bas-Rhin
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -621,6 +633,7 @@ regions:
         iso3166-2: FR-13
       names:
         - name: Bouches-du-Rhône
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -678,6 +691,7 @@ regions:
         iso3166-2: FR-14
       names:
         - name: Calvados
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -686,6 +700,7 @@ regions:
         iso3166-2: FR-15
       names:
         - name: Cantal
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -746,6 +761,7 @@ regions:
         iso3166-2: FR-16
       names:
         - name: Charente
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -754,6 +770,7 @@ regions:
         iso3166-2: FR-17
       names:
         - name: Charente-Maritime
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -762,6 +779,7 @@ regions:
         iso3166-2: FR-18
       names:
         - name: Cher
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -770,6 +788,7 @@ regions:
         iso3166-2: FR-CP
       names:
         - name: Clipperton
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -778,6 +797,7 @@ regions:
         iso3166-2: FR-19
       names:
         - name: Corrèze
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -823,6 +843,7 @@ regions:
         iso3166-2: FR-2A
       names:
         - name: Corse-du-Sud
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -831,6 +852,7 @@ regions:
         iso3166-2: FR-23
       names:
         - name: Creuse
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -839,6 +861,7 @@ regions:
         iso3166-2: FR-21
       names:
         - name: Côte-d'Or
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -847,6 +870,7 @@ regions:
         iso3166-2: FR-22
       names:
         - name: Côtes-d'Armor
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -855,6 +879,7 @@ regions:
         iso3166-2: FR-79
       names:
         - name: Deux-Sèvres
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -887,6 +912,7 @@ regions:
         iso3166-2: FR-24
       names:
         - name: Dordogne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -895,6 +921,7 @@ regions:
         iso3166-2: FR-25
       names:
         - name: Doubs
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -903,6 +930,7 @@ regions:
         iso3166-2: FR-26
       names:
         - name: Drôme
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -911,6 +939,7 @@ regions:
         iso3166-2: FR-91
       names:
         - name: Essonne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -919,6 +948,7 @@ regions:
         iso3166-2: FR-27
       names:
         - name: Eure
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -927,6 +957,7 @@ regions:
         iso3166-2: FR-28
       names:
         - name: Eure-et-Loir
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -935,6 +966,7 @@ regions:
         iso3166-2: FR-29
       names:
         - name: Finistère
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -976,6 +1008,7 @@ regions:
         iso3166-2: FR-30
       names:
         - name: Gard
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -984,6 +1017,7 @@ regions:
         iso3166-2: FR-32
       names:
         - name: Gers
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -992,6 +1026,7 @@ regions:
         iso3166-2: FR-33
       names:
         - name: Gironde
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1000,6 +1035,7 @@ regions:
         iso3166-2: FR-GES
       names:
         - name: Grand-Est
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1008,6 +1044,7 @@ regions:
         iso3166-2: FR-GP
       names:
         - name: Guadeloupe
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1016,6 +1053,7 @@ regions:
         iso3166-2: FR-GF
       names:
         - name: Guyane
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1024,6 +1062,7 @@ regions:
         iso3166-2: FR-68
       names:
         - name: Haut-Rhin
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1032,6 +1071,7 @@ regions:
         iso3166-2: FR-2B
       names:
         - name: Haute-Corse
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1040,6 +1080,7 @@ regions:
         iso3166-2: FR-31
       names:
         - name: Haute-Garonne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1048,6 +1089,7 @@ regions:
         iso3166-2: FR-43
       names:
         - name: Haute-Loire
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1056,6 +1098,7 @@ regions:
         iso3166-2: FR-52
       names:
         - name: Haute-Marne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1064,6 +1107,7 @@ regions:
         iso3166-2: FR-74
       names:
         - name: Haute-Savoie
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1072,6 +1116,7 @@ regions:
         iso3166-2: FR-70
       names:
         - name: Haute-Saône
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1080,6 +1125,7 @@ regions:
         iso3166-2: FR-87
       names:
         - name: Haute-Vienne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1088,6 +1134,7 @@ regions:
         iso3166-2: FR-05
       names:
         - name: Hautes-Alpes
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1096,6 +1143,7 @@ regions:
         iso3166-2: FR-65
       names:
         - name: Hautes-Pyrénées
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1104,6 +1152,7 @@ regions:
         iso3166-2: FR-92
       names:
         - name: Hauts-de-Seine
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1112,6 +1161,7 @@ regions:
         iso3166-2: FR-34
       names:
         - name: Hérault
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1154,6 +1204,7 @@ regions:
         iso3166-2: FR-35
       names:
         - name: Ille-et-Vilaine
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1162,6 +1213,7 @@ regions:
         iso3166-2: FR-36
       names:
         - name: Indre
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1170,6 +1222,7 @@ regions:
         iso3166-2: FR-37
       names:
         - name: Indre-et-Loire
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1178,6 +1231,7 @@ regions:
         iso3166-2: FR-38
       names:
         - name: Isère
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1241,6 +1295,7 @@ regions:
         iso3166-2: FR-39
       names:
         - name: Jura
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1300,6 +1355,7 @@ regions:
         iso3166-2: FR-RE
       names:
         - name: La Réunion
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1308,6 +1364,7 @@ regions:
         iso3166-2: FR-40
       names:
         - name: Landes
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1389,7 +1446,7 @@ regions:
           languages: [pl]
           sources: [euvoc]
         - name: Loire
-          languages: [en, hr, hu, sl]
+          languages: [en, fr, hr, hu, sl]
           sources: [euvoc, iso3166-2]
         - name: Loiregebied
           languages: [nl]
@@ -1449,6 +1506,7 @@ regions:
         iso3166-2: FR-41
       names:
         - name: Loir-et-Cher
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1457,6 +1515,7 @@ regions:
         iso3166-2: FR-44
       names:
         - name: Loire-Atlantique
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1465,6 +1524,7 @@ regions:
         iso3166-2: FR-45
       names:
         - name: Loiret
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1518,6 +1578,7 @@ regions:
         iso3166-2: FR-46
       names:
         - name: Lot
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1526,6 +1587,7 @@ regions:
         iso3166-2: FR-47
       names:
         - name: Lot-et-Garonne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1534,6 +1596,7 @@ regions:
         iso3166-2: FR-48
       names:
         - name: Lozère
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1599,6 +1662,7 @@ regions:
         iso3166-2: FR-49
       names:
         - name: Maine-et-Loire
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1607,6 +1671,7 @@ regions:
         iso3166-2: FR-50
       names:
         - name: Manche
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1615,6 +1680,7 @@ regions:
         iso3166-2: FR-51
       names:
         - name: Marne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1623,6 +1689,7 @@ regions:
         iso3166-2: FR-MQ
       names:
         - name: Martinique
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1631,6 +1698,7 @@ regions:
         iso3166-2: FR-53
       names:
         - name: Mayenne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1639,6 +1707,7 @@ regions:
         iso3166-2: FR-YT
       names:
         - name: Mayotte
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1647,6 +1716,7 @@ regions:
         iso3166-2: FR-54
       names:
         - name: Meurthe-et-Moselle
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1655,6 +1725,7 @@ regions:
         iso3166-2: FR-55
       names:
         - name: Meuse
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1663,6 +1734,7 @@ regions:
         iso3166-2: FR-56
       names:
         - name: Morbihan
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1671,6 +1743,7 @@ regions:
         iso3166-2: FR-57
       names:
         - name: Moselle
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1679,6 +1752,7 @@ regions:
         iso3166-2: FR-58
       names:
         - name: Nièvre
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1687,6 +1761,7 @@ regions:
         iso3166-2: FR-59
       names:
         - name: Nord
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1759,6 +1834,7 @@ regions:
         iso3166-2: FR-NC
       names:
         - name: Nouvelle-Calédonie
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1816,6 +1892,7 @@ regions:
         iso3166-2: FR-60
       names:
         - name: Oise
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1824,6 +1901,7 @@ regions:
         iso3166-2: FR-61
       names:
         - name: Orne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1832,6 +1910,7 @@ regions:
         iso3166-2: FR-75
       names:
         - name: Paris
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1840,6 +1919,7 @@ regions:
         iso3166-2: FR-62
       names:
         - name: Pas-de-Calais
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1923,6 +2003,7 @@ regions:
         iso3166-2: FR-PF
       names:
         - name: Polynésie française
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1931,6 +2012,7 @@ regions:
         iso3166-2: FR-PAC
       names:
         - name: Provence-Alpes-Côte-d’Azur
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1939,6 +2021,7 @@ regions:
         iso3166-2: FR-63
       names:
         - name: Puy-de-Dôme
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1947,6 +2030,7 @@ regions:
         iso3166-2: FR-64
       names:
         - name: Pyrénées-Atlantiques
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -1955,6 +2039,7 @@ regions:
         iso3166-2: FR-66
       names:
         - name: Pyrénées-Orientales
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2011,6 +2096,7 @@ regions:
         iso3166-2: FR-69
       names:
         - name: Rhône
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2019,6 +2105,7 @@ regions:
         iso3166-2: FR-BL
       names:
         - name: Saint-Barthélemy
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2027,6 +2114,7 @@ regions:
         iso3166-2: FR-MF
       names:
         - name: Saint-Martin
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2035,6 +2123,7 @@ regions:
         iso3166-2: FR-PM
       names:
         - name: Saint-Pierre-et-Miquelon
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2043,6 +2132,7 @@ regions:
         iso3166-2: FR-72
       names:
         - name: Sarthe
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2051,6 +2141,7 @@ regions:
         iso3166-2: FR-73
       names:
         - name: Savoie
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2059,6 +2150,7 @@ regions:
         iso3166-2: FR-71
       names:
         - name: Saône-et-Loire
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2067,6 +2159,7 @@ regions:
         iso3166-2: FR-76
       names:
         - name: Seine-Maritime
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2075,6 +2168,7 @@ regions:
         iso3166-2: FR-93
       names:
         - name: Seine-Saint-Denis
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2083,6 +2177,7 @@ regions:
         iso3166-2: FR-77
       names:
         - name: Seine-et-Marne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2091,6 +2186,7 @@ regions:
         iso3166-2: FR-80
       names:
         - name: Somme
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2099,6 +2195,7 @@ regions:
         iso3166-2: FR-81
       names:
         - name: Tarn
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2107,6 +2204,7 @@ regions:
         iso3166-2: FR-82
       names:
         - name: Tarn-et-Garonne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2115,6 +2213,7 @@ regions:
         iso3166-2: FR-TF
       names:
         - name: Terres australes françaises
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2123,6 +2222,7 @@ regions:
         iso3166-2: FR-90
       names:
         - name: Territoire de Belfort
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2131,6 +2231,7 @@ regions:
         iso3166-2: FR-95
       names:
         - name: Val-d'Oise
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2139,6 +2240,7 @@ regions:
         iso3166-2: FR-94
       names:
         - name: Val-de-Marne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2147,6 +2249,7 @@ regions:
         iso3166-2: FR-83
       names:
         - name: Var
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2155,6 +2258,7 @@ regions:
         iso3166-2: FR-84
       names:
         - name: Vaucluse
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2163,6 +2267,7 @@ regions:
         iso3166-2: FR-85
       names:
         - name: Vendée
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2171,6 +2276,7 @@ regions:
         iso3166-2: FR-86
       names:
         - name: Vienne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2179,6 +2285,7 @@ regions:
         iso3166-2: FR-88
       names:
         - name: Vosges
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2187,6 +2294,7 @@ regions:
         iso3166-2: FR-WF
       names:
         - name: Wallis-et-Futuna
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2195,6 +2303,7 @@ regions:
         iso3166-2: FR-89
       names:
         - name: Yonne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -2203,4 +2312,5 @@ regions:
         iso3166-2: FR-78
       names:
         - name: Yvelines
+          languages: [fr]
           sources: [iso3166-2]

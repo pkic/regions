@@ -8,6 +8,7 @@ regions:
         iso3166-2: IN-AN
       names:
         - name: Andaman and Nicobar Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: IN-AP
       names:
         - name: Andhra Pradesh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: IN-AR
       names:
         - name: Arunāchal Pradesh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: IN-AS
       names:
         - name: Assam
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: IN-BR
       names:
         - name: Bihār
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: IN-CH
       names:
         - name: Chandigarh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: IN-CT
       names:
         - name: Chhattīsgarh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: IN-DL
       names:
         - name: Delhi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: IN-DH
       names:
         - name: Dādra and Nagar Haveli and Damān and Diu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: IN-GA
       names:
         - name: Goa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: IN-GJ
       names:
         - name: Gujarāt
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: IN-HR
       names:
         - name: Haryāna
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: IN-HP
       names:
         - name: Himāchal Pradesh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: IN-JK
       names:
         - name: Jammu and Kashmīr
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: IN-JH
       names:
         - name: Jhārkhand
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: IN-KA
       names:
         - name: Karnātaka
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: IN-KL
       names:
         - name: Kerala
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: IN-LA
       names:
         - name: Ladākh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: IN-LD
       names:
         - name: Lakshadweep
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: IN-MP
       names:
         - name: Madhya Pradesh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: IN-MH
       names:
         - name: Mahārāshtra
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: IN-MN
       names:
         - name: Manipur
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: IN-ML
       names:
         - name: Meghālaya
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: IN-MZ
       names:
         - name: Mizoram
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: IN-NL
       names:
         - name: Nāgāland
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -208,14 +233,16 @@ regions:
         iso3166-2: IN-OR
       names:
         - name: Odisha
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Puducherry
+    # Pondicherry
     - codes:
         iso3166-2: IN-PY
       names:
         - name: Pondicherry
+          languages: [en]
           sources: [iso3166-2]
         - name: Puducherry
           languages: [en]
@@ -227,6 +254,7 @@ regions:
         iso3166-2: IN-PB
       names:
         - name: Punjab
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -235,6 +263,7 @@ regions:
         iso3166-2: IN-RJ
       names:
         - name: Rājasthān
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -243,6 +272,7 @@ regions:
         iso3166-2: IN-SK
       names:
         - name: Sikkim
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -251,6 +281,7 @@ regions:
         iso3166-2: IN-TN
       names:
         - name: Tamil Nādu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -259,6 +290,7 @@ regions:
         iso3166-2: IN-TG
       names:
         - name: Telangāna
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -267,6 +299,7 @@ regions:
         iso3166-2: IN-TR
       names:
         - name: Tripura
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -275,6 +308,7 @@ regions:
         iso3166-2: IN-UP
       names:
         - name: Uttar Pradesh
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -283,6 +317,7 @@ regions:
         iso3166-2: IN-UT
       names:
         - name: Uttarākhand
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -291,4 +326,5 @@ regions:
         iso3166-2: IN-WB
       names:
         - name: West Bengal
+          languages: [en]
           sources: [iso3166-2]

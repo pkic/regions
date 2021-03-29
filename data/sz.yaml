@@ -8,6 +8,7 @@ regions:
         iso3166-2: SZ-HH
       names:
         - name: Hhohho
+          languages: [en, ss]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: SZ-LU
       names:
         - name: Lubombo
+          languages: [en, ss]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: SZ-MA
       names:
         - name: Manzini
+          languages: [en, ss]
           sources: [iso3166-2]
     
 
@@ -32,4 +35,5 @@ regions:
         iso3166-2: SZ-SH
       names:
         - name: Shiselweni
+          languages: [en, ss]
           sources: [iso3166-2]

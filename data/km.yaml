@@ -8,10 +8,13 @@ regions:
         iso3166-2: KM-A
       names:
         - name: Andjouân
+          languages: [ar]
           sources: [iso3166-2]
         - name: Anjouan
+          languages: [fr]
           sources: [iso3166-2]
         - name: Anjwān
+          languages: [ar]
           sources: [iso3166-2]
         - name: Ndzuwani
           sources: [iso3166-2]
@@ -22,12 +25,15 @@ regions:
         iso3166-2: KM-M
       names:
         - name: Mohéli
+          languages: [fr]
           sources: [iso3166-2]
         - name: Moûhîlî
+          languages: [ar]
           sources: [iso3166-2]
         - name: Mwali
           sources: [iso3166-2]
         - name: Mūhīlī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -36,10 +42,13 @@ regions:
         iso3166-2: KM-G
       names:
         - name: Andjazîdja
+          languages: [ar]
           sources: [iso3166-2]
         - name: Anjazījah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Grande Comore
+          languages: [fr]
           sources: [iso3166-2]
         - name: Ngazidja
           sources: [iso3166-2]

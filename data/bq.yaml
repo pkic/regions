@@ -8,6 +8,7 @@ regions:
         iso3166-2: BQ-BO
       names:
         - name: Bonaire
+          languages: [en, nl]
           sources: [iso3166-2]
         - name: Boneiru
           sources: [iso3166-2]
@@ -18,6 +19,7 @@ regions:
         iso3166-2: BQ-SA
       names:
         - name: Saba
+          languages: [en, nl]
           sources: [iso3166-2]
     
 
@@ -26,4 +28,5 @@ regions:
         iso3166-2: BQ-SE
       names:
         - name: Sint Eustatius
+          languages: [en, nl]
           sources: [iso3166-2]

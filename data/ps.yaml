@@ -3,23 +3,27 @@ complete: false
 regions:
     
 
-    # Bayt Laḩm
+    # Bethlehem
     - codes:
         iso3166-2: PS-BTH
       names:
         - name: Bayt Laḩm
+          languages: [ar]
           sources: [iso3166-2]
         - name: Bethlehem
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Dayr al Balaḩ
+    # Deir El Balah
     - codes:
         iso3166-2: PS-DEB
       names:
         - name: Dayr al Balaḩ
+          languages: [ar]
           sources: [iso3166-2]
         - name: Deir El Balah
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -28,48 +32,58 @@ regions:
         iso3166-2: PS-GZA
       names:
         - name: Gaza
+          languages: [en]
           sources: [iso3166-2]
         - name: Ghazzah
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Al Khalīl
+    # Hebron
     - codes:
         iso3166-2: PS-HBN
       names:
         - name: Al Khalīl
+          languages: [ar]
           sources: [iso3166-2]
         - name: Hebron
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Janīn
+    # Jenin
     - codes:
         iso3166-2: PS-JEN
       names:
         - name: Janīn
+          languages: [ar]
           sources: [iso3166-2]
         - name: Jenin
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Arīḩā wal Aghwār
+    # Jericho and Al Aghwar
     - codes:
         iso3166-2: PS-JRH
       names:
         - name: Arīḩā wal Aghwār
+          languages: [ar]
           sources: [iso3166-2]
         - name: Jericho and Al Aghwar
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Al Quds
+    # Jerusalem
     - codes:
         iso3166-2: PS-JEM
       names:
         - name: Al Quds
+          languages: [ar]
           sources: [iso3166-2]
         - name: Jerusalem
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -78,8 +92,10 @@ regions:
         iso3166-2: PS-KYS
       names:
         - name: Khan Yunis
+          languages: [en]
           sources: [iso3166-2]
         - name: Khān Yūnis
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -88,8 +104,10 @@ regions:
         iso3166-2: PS-NGZ
       names:
         - name: North Gaza
+          languages: [en]
           sources: [iso3166-2]
         - name: Shamāl Ghazzah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -98,8 +116,10 @@ regions:
         iso3166-2: PS-NBS
       names:
         - name: Nablus
+          languages: [en]
           sources: [iso3166-2]
         - name: Nāblus
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -108,8 +128,10 @@ regions:
         iso3166-2: PS-QQA
       names:
         - name: Qalqilya
+          languages: [en]
           sources: [iso3166-2]
         - name: Qalqīlyah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -118,8 +140,10 @@ regions:
         iso3166-2: PS-RFH
       names:
         - name: Rafah
+          languages: [en]
           sources: [iso3166-2]
         - name: Rafaḩ
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -128,8 +152,10 @@ regions:
         iso3166-2: PS-RBH
       names:
         - name: Ramallah
+          languages: [en]
           sources: [iso3166-2]
         - name: Rām Allāh wal Bīrah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -138,8 +164,10 @@ regions:
         iso3166-2: PS-SLT
       names:
         - name: Salfit
+          languages: [en]
           sources: [iso3166-2]
         - name: Salfīt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -148,8 +176,10 @@ regions:
         iso3166-2: PS-TBS
       names:
         - name: Tubas
+          languages: [en]
           sources: [iso3166-2]
         - name: Ţūbās
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -158,6 +188,8 @@ regions:
         iso3166-2: PS-TKM
       names:
         - name: Tulkarm
+          languages: [en]
           sources: [iso3166-2]
         - name: Ţūlkarm
+          languages: [ar]
           sources: [iso3166-2]

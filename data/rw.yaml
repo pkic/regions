@@ -3,15 +3,18 @@ complete: false
 regions:
     
 
-    # Amajyepfo
+    # Southern
     - codes:
         iso3166-2: RW-05
       names:
         - name: Amajyepfo
+          languages: [rw]
           sources: [iso3166-2]
         - name: Southern
+          languages: [en]
           sources: [iso3166-2]
         - name: Sud
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -20,22 +23,28 @@ regions:
         iso3166-2: RW-02
       names:
         - name: Eastern
+          languages: [en]
           sources: [iso3166-2]
         - name: Est
+          languages: [fr]
           sources: [iso3166-2]
         - name: Iburasirazuba
+          languages: [rw]
           sources: [iso3166-2]
     
 
-    # Amajyaruguru
+    # Northern
     - codes:
         iso3166-2: RW-03
       names:
         - name: Amajyaruguru
+          languages: [rw]
           sources: [iso3166-2]
         - name: Nord
+          languages: [fr]
           sources: [iso3166-2]
         - name: Northern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -44,20 +53,26 @@ regions:
         iso3166-2: RW-01
       names:
         - name: City of Kigali
+          languages: [en]
           sources: [iso3166-2]
         - name: Umujyi wa Kigali
+          languages: [rw]
           sources: [iso3166-2]
         - name: Ville de Kigali
+          languages: [fr]
           sources: [iso3166-2]
     
 
-    # Iburengerazuba
+    # Western
     - codes:
         iso3166-2: RW-04
       names:
         - name: Iburengerazuba
+          languages: [rw]
           sources: [iso3166-2]
         - name: Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: Western
+          languages: [en]
           sources: [iso3166-2]

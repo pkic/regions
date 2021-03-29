@@ -8,6 +8,7 @@ regions:
         iso3166-2: ST-02
       names:
         - name: Cantagalo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: ST-03
       names:
         - name: Caué
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: ST-04
       names:
         - name: Lembá
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: ST-05
       names:
         - name: Lobata
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: ST-06
       names:
         - name: Mé-Zóchi
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: ST-P
       names:
         - name: Príncipe
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -56,4 +62,5 @@ regions:
         iso3166-2: ST-01
       names:
         - name: Água Grande
+          languages: [pt]
           sources: [iso3166-2]

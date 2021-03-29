@@ -8,9 +8,10 @@ regions:
         iso3166-2: CL-AI
       names:
         - name: Aisén del General Carlos Ibañez del Campo
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
         - name: Aysén, Aisén
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -19,6 +20,7 @@ regions:
         iso3166-2: CL-AN
       names:
         - name: Antofagasta
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -27,6 +29,7 @@ regions:
         iso3166-2: CL-AP
       names:
         - name: Arica y Parinacota
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -35,6 +38,7 @@ regions:
         iso3166-2: CL-AT
       names:
         - name: Atacama
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -43,6 +47,7 @@ regions:
         iso3166-2: CL-BI
       names:
         - name: Biobío
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -51,6 +56,7 @@ regions:
         iso3166-2: CL-CO
       names:
         - name: Coquimbo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -59,6 +65,7 @@ regions:
         iso3166-2: CL-AR
       names:
         - name: La Araucanía
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -67,9 +74,10 @@ regions:
         iso3166-2: CL-LI
       names:
         - name: Libertador General Bernardo O'Higgins
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
         - name: O'Higgins
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -78,6 +86,7 @@ regions:
         iso3166-2: CL-LL
       names:
         - name: Los Lagos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -86,6 +95,7 @@ regions:
         iso3166-2: CL-LR
       names:
         - name: Los Ríos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -94,6 +104,7 @@ regions:
         iso3166-2: CL-MA
       names:
         - name: Magallanes
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -102,6 +113,7 @@ regions:
         iso3166-2: CL-ML
       names:
         - name: Maule
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -110,6 +122,7 @@ regions:
         iso3166-2: CL-TA
       names:
         - name: Tarapacá
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -118,6 +131,7 @@ regions:
         iso3166-2: CL-VS
       names:
         - name: Valparaíso
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -126,6 +140,7 @@ regions:
         iso3166-2: CL-RM
       names:
         - name: n Metropolitana de Santiago
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -134,4 +149,5 @@ regions:
         iso3166-2: CL-NB
       names:
         - name: Ñuble
+          languages: [es]
           sources: [iso3166-2]

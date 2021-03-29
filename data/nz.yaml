@@ -8,8 +8,10 @@ regions:
         iso3166-2: NZ-AUK
       names:
         - name: Auckland
+          languages: [en]
           sources: [iso3166-2]
         - name: Tāmaki-makau-rau
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -18,8 +20,10 @@ regions:
         iso3166-2: NZ-CIT
       names:
         - name: Chatham Islands Territory
+          languages: [en]
           sources: [iso3166-2]
         - name: Wharekauri
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -28,8 +32,10 @@ regions:
         iso3166-2: NZ-GIS
       names:
         - name: Gisborne
+          languages: [en]
           sources: [iso3166-2]
         - name: Tūranga nui a Kiwa
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -38,18 +44,22 @@ regions:
         iso3166-2: NZ-HKB
       names:
         - name: Hawke's Bay
+          languages: [en]
           sources: [iso3166-2]
         - name: Te Matau a Māui
+          languages: [mi]
           sources: [iso3166-2]
     
 
-    # Manawatu Whanganui
+    # Manawatu-Wanganui
     - codes:
         iso3166-2: NZ-MWT
       names:
         - name: Manawatu Whanganui
+          languages: [mi]
           sources: [iso3166-2]
         - name: Manawatu-Wanganui
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -58,16 +68,19 @@ regions:
         iso3166-2: NZ-MBH
       names:
         - name: Marlborough
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Murihiku
+    # Southland
     - codes:
         iso3166-2: NZ-STL
       names:
         - name: Murihiku
+          languages: [mi]
           sources: [iso3166-2]
         - name: Southland
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -76,8 +89,10 @@ regions:
         iso3166-2: NZ-NSN
       names:
         - name: Nelson
+          languages: [en]
           sources: [iso3166-2]
         - name: Whakatū
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -86,8 +101,10 @@ regions:
         iso3166-2: NZ-NTL
       names:
         - name: Northland
+          languages: [en]
           sources: [iso3166-2]
         - name: Te Tai tokerau
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -96,8 +113,10 @@ regions:
         iso3166-2: NZ-OTA
       names:
         - name: Otago
+          languages: [en]
           sources: [iso3166-2]
         - name: Ō Tākou
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -106,6 +125,7 @@ regions:
         iso3166-2: NZ-TKI
       names:
         - name: Taranaki
+          languages: [en, mi]
           sources: [iso3166-2]
     
 
@@ -114,6 +134,7 @@ regions:
         iso3166-2: NZ-TAS
       names:
         - name: Tasman
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -122,18 +143,22 @@ regions:
         iso3166-2: NZ-BOP
       names:
         - name: Bay of Plenty
+          languages: [en]
           sources: [iso3166-2]
         - name: Te Moana a Toi Te Huatahi
+          languages: [mi]
           sources: [iso3166-2]
     
 
-    # Te Taihau ā uru
+    # West Coast
     - codes:
         iso3166-2: NZ-WTC
       names:
         - name: Te Taihau ā uru
+          languages: [mi]
           sources: [iso3166-2]
         - name: West Coast
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -142,6 +167,7 @@ regions:
         iso3166-2: NZ-WKO
       names:
         - name: Waikato
+          languages: [mi]
           sources: [iso3166-2]
     
 
@@ -150,16 +176,20 @@ regions:
         iso3166-2: NZ-CAN
       names:
         - name: Canterbury
+          languages: [en]
           sources: [iso3166-2]
         - name: Waitaha
+          languages: [mi]
           sources: [iso3166-2]
     
 
-    # Te Whanga-nui-a-Tara
+    # Wellington
     - codes:
         iso3166-2: NZ-WGN
       names:
         - name: Te Whanga-nui-a-Tara
+          languages: [mi]
           sources: [iso3166-2]
         - name: Wellington
+          languages: [en]
           sources: [iso3166-2]

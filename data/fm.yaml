@@ -8,6 +8,7 @@ regions:
         iso3166-2: FM-TRK
       names:
         - name: Chuuk
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: FM-KSA
       names:
         - name: Kosrae
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: FM-PNI
       names:
         - name: Pohnpei
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,4 +35,5 @@ regions:
         iso3166-2: FM-YAP
       names:
         - name: Yap
+          languages: [en]
           sources: [iso3166-2]

@@ -3,43 +3,51 @@ complete: false
 regions:
     
 
-    # Al Baḩr al Aḩmar
+    # Red Sea
     - codes:
         iso3166-2: SD-RS
       names:
         - name: Al Baḩr al Aḩmar
+          languages: [ar]
           sources: [iso3166-2]
         - name: Red Sea
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Al Kharţūm
+    # Khartoum
     - codes:
         iso3166-2: SD-KH
       names:
         - name: Al Kharţūm
+          languages: [ar]
           sources: [iso3166-2]
         - name: Khartoum
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # An Nīl al Abyaḑ
+    # White Nile
     - codes:
         iso3166-2: SD-NW
       names:
         - name: An Nīl al Abyaḑ
+          languages: [ar]
           sources: [iso3166-2]
         - name: White Nile
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # An Nīl al Azraq
+    # Blue Nile
     - codes:
         iso3166-2: SD-NB
       names:
         - name: An Nīl al Azraq
+          languages: [ar]
           sources: [iso3166-2]
         - name: Blue Nile
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,38 +56,46 @@ regions:
         iso3166-2: SD-DE
       names:
         - name: East Darfur
+          languages: [en]
           sources: [iso3166-2]
         - name: Sharq Dārfūr
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Al Qaḑārif
+    # Gedaref
     - codes:
         iso3166-2: SD-GD
       names:
         - name: Al Qaḑārif
+          languages: [ar]
           sources: [iso3166-2]
         - name: Gedaref
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Al Jazīrah
+    # Gezira
     - codes:
         iso3166-2: SD-GZ
       names:
         - name: Al Jazīrah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Gezira
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Janūb Kurdufān
+    # South Kordofan
     - codes:
         iso3166-2: SD-KS
       names:
         - name: Janūb Kurdufān
+          languages: [ar]
           sources: [iso3166-2]
         - name: South Kordofan
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,18 +104,22 @@ regions:
         iso3166-2: SD-KA
       names:
         - name: Kassala
+          languages: [en]
           sources: [iso3166-2]
         - name: Kassalā
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Nahr an Nīl
+    # River Nile
     - codes:
         iso3166-2: SD-NR
       names:
         - name: Nahr an Nīl
+          languages: [ar]
           sources: [iso3166-2]
         - name: River Nile
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -108,8 +128,10 @@ regions:
         iso3166-2: SD-DN
       names:
         - name: North Darfur
+          languages: [en]
           sources: [iso3166-2]
         - name: Shamāl Dārfūr
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -118,18 +140,22 @@ regions:
         iso3166-2: SD-KN
       names:
         - name: North Kordofan
+          languages: [en]
           sources: [iso3166-2]
         - name: Shamāl Kurdufān
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Ash Shamālīyah
+    # Northern
     - codes:
         iso3166-2: SD-NO
       names:
         - name: Ash Shamālīyah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Northern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -138,18 +164,22 @@ regions:
         iso3166-2: SD-SI
       names:
         - name: Sennar
+          languages: [en]
           sources: [iso3166-2]
         - name: Sinnār
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Janūb Dārfūr
+    # South Darfur
     - codes:
         iso3166-2: SD-DS
       names:
         - name: Janūb Dārfūr
+          languages: [ar]
           sources: [iso3166-2]
         - name: South Darfur
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -161,29 +191,35 @@ regions:
           languages: [en]
           sources: [iso3166-2]
         - name: Wasaţ Dārfūr
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
         - name: Zalingei
+          languages: [en]
           sources: [iso3166-2]
         - name: Zālinjay
+          languages: [ar]
           sources: [iso3166-2]
     
 
-    # Gharb Dārfūr
+    # West Darfur
     - codes:
         iso3166-2: SD-DW
       names:
         - name: Gharb Dārfūr
+          languages: [ar]
           sources: [iso3166-2]
         - name: West Darfur
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Gharb Kurdufān
+    # West Kordofan
     - codes:
         iso3166-2: SD-GK
       names:
         - name: Gharb Kurdufān
+          languages: [ar]
           sources: [iso3166-2]
         - name: West Kordofan
+          languages: [en]
           sources: [iso3166-2]

@@ -8,6 +8,7 @@ regions:
         iso3166-2: KI-G
       names:
         - name: Gilbert Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: KI-L
       names:
         - name: Line Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,4 +26,5 @@ regions:
         iso3166-2: KI-P
       names:
         - name: Phoenix Islands
+          languages: [en]
           sources: [iso3166-2]

@@ -8,6 +8,7 @@ regions:
         iso3166-2: BS-AK
       names:
         - name: Acklins
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: BS-BY
       names:
         - name: Berry Islands
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: BS-BI
       names:
         - name: Bimini
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: BS-BP
       names:
         - name: Black Point
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: BS-CI
       names:
         - name: Cat Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: BS-CO
       names:
         - name: Central Abaco
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: BS-CS
       names:
         - name: Central Andros
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: BS-CE
       names:
         - name: Central Eleuthera
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: BS-FP
       names:
         - name: City of Freeport
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: BS-CK
       names:
         - name: Crooked Island and Long Cay
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: BS-EG
       names:
         - name: East Grand Bahama
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: BS-EX
       names:
         - name: Exuma
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: BS-GC
       names:
         - name: Grand Cay
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: BS-HI
       names:
         - name: Harbour Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: BS-HT
       names:
         - name: Hope Town
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: BS-IN
       names:
         - name: Inagua
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: BS-LI
       names:
         - name: Long Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: BS-MC
       names:
         - name: Mangrove Cay
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: BS-MG
       names:
         - name: Mayaguana
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: BS-MI
       names:
         - name: Moore's Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: BS-NP
       names:
         - name: New Providence
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: BS-NO
       names:
         - name: North Abaco
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: BS-NS
       names:
         - name: North Andros
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: BS-NE
       names:
         - name: North Eleuthera
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: BS-RI
       names:
         - name: Ragged Island
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -208,6 +233,7 @@ regions:
         iso3166-2: BS-RC
       names:
         - name: Rum Cay
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -216,6 +242,7 @@ regions:
         iso3166-2: BS-SS
       names:
         - name: San Salvador
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -224,6 +251,7 @@ regions:
         iso3166-2: BS-SO
       names:
         - name: South Abaco
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -232,6 +260,7 @@ regions:
         iso3166-2: BS-SA
       names:
         - name: South Andros
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -240,6 +269,7 @@ regions:
         iso3166-2: BS-SE
       names:
         - name: South Eleuthera
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -248,6 +278,7 @@ regions:
         iso3166-2: BS-SW
       names:
         - name: Spanish Wells
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -256,4 +287,5 @@ regions:
         iso3166-2: BS-WG
       names:
         - name: West Grand Bahama
+          languages: [en]
           sources: [iso3166-2]

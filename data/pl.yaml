@@ -1293,4 +1293,5 @@ regions:
         iso3166-2: PL-32
       names:
         - name: Zachodniopomorskie
+          languages: [pl]
           sources: [iso3166-2]

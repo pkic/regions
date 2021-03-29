@@ -8,6 +8,7 @@ regions:
         iso3166-2: SS-EC
       names:
         - name: Central Equatoria
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: SS-EE
       names:
         - name: Eastern Equatoria
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: SS-JG
       names:
         - name: Jonglei
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: SS-LK
       names:
         - name: Lakes
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: SS-BN
       names:
         - name: Northern Bahr el Ghazal
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: SS-UY
       names:
         - name: Unity
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: SS-NU
       names:
         - name: Upper Nile
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: SS-WR
       names:
         - name: Warrap
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: SS-BW
       names:
         - name: Western Bahr el  Ghazal
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,4 +89,5 @@ regions:
         iso3166-2: SS-EW
       names:
         - name: Western Equatoria
+          languages: [en]
           sources: [iso3166-2]

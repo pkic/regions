@@ -8,6 +8,7 @@ regions:
         iso3166-2: SH-AC
       names:
         - name: Ascension
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: SH-HL
       names:
         - name: Saint Helena
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,4 +26,5 @@ regions:
         iso3166-2: SH-TA
       names:
         - name: Tristan da Cunha
+          languages: [en]
           sources: [iso3166-2]

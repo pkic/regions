@@ -8,6 +8,7 @@ regions:
         iso3166-2: TW-CHA
       names:
         - name: Changhua
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: TW-CYQ
       names:
         - name: Chiayi
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: TW-HSZ
       names:
         - name: Hsinchu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: TW-HUA
       names:
         - name: Hualien
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: TW-KHH
       names:
         - name: Kaohsiung
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: TW-KEE
       names:
         - name: Keelung
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: TW-KIN
       names:
         - name: Kinmen
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: TW-LIE
       names:
         - name: Lienchiang
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: TW-MIA
       names:
         - name: Miaoli
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: TW-NAN
       names:
         - name: Nantou
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: TW-NWT
       names:
         - name: New Taipei
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: TW-PEN
       names:
         - name: Penghu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: TW-PIF
       names:
         - name: Pingtung
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: TW-TXG
       names:
         - name: Taichung
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: TW-TNN
       names:
         - name: Tainan
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: TW-TPE
       names:
         - name: Taipei
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: TW-TTT
       names:
         - name: Taitung
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: TW-TAO
       names:
         - name: Taoyuan
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: TW-ILA
       names:
         - name: Yilan
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -160,4 +179,5 @@ regions:
         iso3166-2: TW-YUN
       names:
         - name: Yunlin
+          languages: [zh]
           sources: [iso3166-2]

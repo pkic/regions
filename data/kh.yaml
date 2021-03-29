@@ -8,11 +8,13 @@ regions:
         iso3166-2: KH-1
       names:
         - name: Banteay Mean Choăy
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Banteay Meanchey
+          languages: [km]
           sources: [iso3166-2]
         - name: Bântéay Méanchey
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -21,11 +23,13 @@ regions:
         iso3166-2: KH-2
       names:
         - name: Baat Dambang
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Battambang
+          languages: [km]
           sources: [iso3166-2]
         - name: Bătdâmbâng
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -34,11 +38,13 @@ regions:
         iso3166-2: KH-3
       names:
         - name: Kampong Chaam
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kampong Cham
+          languages: [km]
           sources: [iso3166-2]
         - name: Kâmpóng Cham
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -47,21 +53,25 @@ regions:
         iso3166-2: KH-4
       names:
         - name: Kampong Chhnang
+          languages: [km]
           sources: [iso3166-2]
         - name: Kâmpóng Chhnăng
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Kampong Thum
+    # Kampong Thom
     - codes:
         iso3166-2: KH-6
       names:
         - name: Kampong Thom
+          languages: [km]
           sources: [iso3166-2]
         - name: Kampong Thum
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kâmpóng Thum
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -70,8 +80,10 @@ regions:
         iso3166-2: KH-7
       names:
         - name: Kampot
+          languages: [km]
           sources: [iso3166-2]
         - name: Kâmpôt
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -80,11 +92,13 @@ regions:
         iso3166-2: KH-8
       names:
         - name: Kandaal
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kandal
+          languages: [km]
           sources: [iso3166-2]
         - name: Kândal
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -93,11 +107,13 @@ regions:
         iso3166-2: KH-9
       names:
         - name: Kaoh Kong
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kaôh Kŏng
+          languages: [km]
           sources: [iso3166-2]
         - name: Koh Kong
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -106,24 +122,28 @@ regions:
         iso3166-2: KH-10
       names:
         - name: Kracheh
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kratie
+          languages: [km]
           sources: [iso3166-2]
         - name: Krâchéh
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Kampong Spueu
+    # Kampong Speu
     - codes:
         iso3166-2: KH-5
       names:
         - name: Kampong Speu
+          languages: [km]
           sources: [iso3166-2]
         - name: Kampong Spueu
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kâmpóng Spœ
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -132,11 +152,13 @@ regions:
         iso3166-2: KH-23
       names:
         - name: Kaeb
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Kep
+          languages: [km]
           sources: [iso3166-2]
         - name: Kêb
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -145,24 +167,28 @@ regions:
         iso3166-2: KH-11
       names:
         - name: Mondol Kiri
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Mondolkiri
+          languages: [km]
           sources: [iso3166-2]
         - name: Môndól Kiri
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Otdar Mean Chey
+    # Oddar Meanchey
     - codes:
         iso3166-2: KH-22
       names:
         - name: Oddar Meanchey
+          languages: [km]
           sources: [iso3166-2]
         - name: Otdar Mean Chey
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Ŏtdâr Méan Choăy
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -171,8 +197,10 @@ regions:
         iso3166-2: KH-24
       names:
         - name: Pailin
+          languages: [km]
           sources: [iso3166-2]
         - name: Pailĭn
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -181,8 +209,10 @@ regions:
         iso3166-2: KH-12
       names:
         - name: Phnom Penh
+          languages: [km]
           sources: [iso3166-2]
         - name: Phnum Pénh
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -191,24 +221,28 @@ regions:
         iso3166-2: KH-15
       names:
         - name: Pousaat
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Poŭthĭsăt
+          languages: [km]
           sources: [iso3166-2]
         - name: Pursat
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Prey Vêng
+    # Prey Veaeng
     - codes:
         iso3166-2: KH-14
       names:
         - name: Prey Veaeng
+          languages: [km]
           sources: [iso3166-2]
         - name: Prey Veng
+          languages: [km]
           sources: [iso3166-2]
         - name: Prey Vêng
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -217,11 +251,13 @@ regions:
         iso3166-2: KH-18
       names:
         - name: Preah Sihanouk
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Preăh Seihânŭ
+          languages: [km]
           sources: [iso3166-2]
         - name: Sihanoukville
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -230,21 +266,25 @@ regions:
         iso3166-2: KH-13
       names:
         - name: Preah Vihear
+          languages: [km]
           sources: [iso3166-2]
         - name: Preăh Vihéar
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Rotanak Kiri
+    # Ratanakiri
     - codes:
         iso3166-2: KH-16
       names:
         - name: Ratanakiri
+          languages: [km]
           sources: [iso3166-2]
         - name: Rotanak Kiri
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Rôtânôkiri
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -253,24 +293,28 @@ regions:
         iso3166-2: KH-17
       names:
         - name: Siem Reab
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Siem Reap
+          languages: [km]
           sources: [iso3166-2]
         - name: Siĕmréab
+          languages: [km]
           sources: [iso3166-2]
     
 
-    # Stueng Traeng
+    # Stoĕng Trêng
     - codes:
         iso3166-2: KH-19
       names:
         - name: Stoĕng Trêng
+          languages: [km]
           sources: [iso3166-2]
         - name: Stueng Traeng
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Stung Treng
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -279,11 +323,13 @@ regions:
         iso3166-2: KH-20
       names:
         - name: Svaay Rieng
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Svay Rieng
+          languages: [km]
           sources: [iso3166-2]
         - name: Svay Riĕng
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -292,11 +338,13 @@ regions:
         iso3166-2: KH-21
       names:
         - name: Taakaev
-          languages: [en]
+          languages: [km]
           sources: [iso3166-2]
         - name: Takeo
+          languages: [km]
           sources: [iso3166-2]
         - name: Takêv
+          languages: [km]
           sources: [iso3166-2]
     
 
@@ -305,6 +353,8 @@ regions:
         iso3166-2: KH-25
       names:
         - name: Tbong Khmum
+          languages: [km]
           sources: [iso3166-2]
         - name: Tbong Khmŭm
+          languages: [km]
           sources: [iso3166-2]

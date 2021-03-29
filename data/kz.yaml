@@ -9,10 +9,13 @@ regions:
         iso3166-2: KZ-AKM
       names:
         - name: Akmolinskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Akmolinskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Aqmola oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -21,10 +24,13 @@ regions:
         iso3166-2: KZ-AKT
       names:
         - name: Aktjubinskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Aktyubinskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Aqtöbe oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -33,6 +39,7 @@ regions:
         iso3166-2: KZ-ALA
       names:
         - name: Almaty
+          languages: [kk, ru]
           sources: [iso3166-2]
     
 
@@ -41,10 +48,13 @@ regions:
         iso3166-2: KZ-ALM
       names:
         - name: Almatinskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Almatinskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Almaty oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -53,10 +63,13 @@ regions:
         iso3166-2: KZ-ATY
       names:
         - name: Atyrauskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Atyrauskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Atyraū oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -65,10 +78,13 @@ regions:
         iso3166-2: KZ-ZAP
       names:
         - name: Batys Qazaqstan oblysy
+          languages: [kk]
           sources: [iso3166-2]
         - name: Zapadno-Kazahstanskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Zapadno-Kazakhstanskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -77,10 +93,13 @@ regions:
         iso3166-2: KZ-KAR
       names:
         - name: Karagandinskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Karagandinskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Qaraghandy oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -89,10 +108,13 @@ regions:
         iso3166-2: KZ-KUS
       names:
         - name: Kostanajskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Kostanayskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Qostanay oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -101,10 +123,13 @@ regions:
         iso3166-2: KZ-KZY
       names:
         - name: Kyzylordinskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Kyzylordinskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Qyzylorda oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -113,10 +138,13 @@ regions:
         iso3166-2: KZ-MAN
       names:
         - name: Mangghystaū oblysy
+          languages: [kk]
           sources: [iso3166-2]
         - name: Mangistauskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Mangystauskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -125,6 +153,7 @@ regions:
         iso3166-2: KZ-AST
       names:
         - name: Nur-Sultan
+          languages: [kk, ru]
           sources: [iso3166-2]
     
 
@@ -133,10 +162,13 @@ regions:
         iso3166-2: KZ-PAV
       names:
         - name: Pavlodar oblysy
+          languages: [kk]
           sources: [iso3166-2]
         - name: Pavlodarskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Pavlodarskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -145,10 +177,13 @@ regions:
         iso3166-2: KZ-SEV
       names:
         - name: Severo-Kazahstanskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Severo-Kazakhstanskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Soltüstik Qazaqstan oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -157,10 +192,13 @@ regions:
         iso3166-2: KZ-VOS
       names:
         - name: Shyghys Qazaqstan oblysy
+          languages: [kk]
           sources: [iso3166-2]
         - name: Vostochno-Kazakhstanskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Vostočno-Kazahstanskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -169,8 +207,10 @@ regions:
         iso3166-2: KZ-SHY
       names:
         - name: Shymkent
+          languages: [kk, ru]
           sources: [iso3166-2]
         - name: Šimkent
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -179,10 +219,13 @@ regions:
         iso3166-2: KZ-YUZ
       names:
         - name: Turkestankaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Turkestanskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Türkistan oblysy
+          languages: [kk]
           sources: [iso3166-2]
     
 
@@ -191,8 +234,11 @@ regions:
         iso3166-2: KZ-ZHA
       names:
         - name: Zhambyl oblysy
+          languages: [kk]
           sources: [iso3166-2]
         - name: Zhambylskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Žambylskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]

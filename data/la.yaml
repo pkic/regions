@@ -3,14 +3,15 @@ complete: false
 regions:
     
 
-    # Attapu
+    # Attapeu
     - codes:
         iso3166-2: LA-AT
       names:
         - name: Attapeu
+          languages: [lo]
           sources: [iso3166-2]
         - name: Attapu
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -19,6 +20,7 @@ regions:
         iso3166-2: LA-BK
       names:
         - name: Bokèo
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -27,20 +29,22 @@ regions:
         iso3166-2: LA-BL
       names:
         - name: Bolikhamxai
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Borikhamxay
+          languages: [lo]
           sources: [iso3166-2]
     
 
-    # Champasak
+    # Champasack
     - codes:
         iso3166-2: LA-CH
       names:
         - name: Champasack
+          languages: [lo]
           sources: [iso3166-2]
         - name: Champasak
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -49,9 +53,10 @@ regions:
         iso3166-2: LA-HO
       names:
         - name: Houaphan
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Huaphanh
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -60,9 +65,10 @@ regions:
         iso3166-2: LA-KH
       names:
         - name: Khammouan
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Khammuane
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -71,9 +77,10 @@ regions:
         iso3166-2: LA-LM
       names:
         - name: Louang Namtha
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Luangnamtha
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -82,31 +89,34 @@ regions:
         iso3166-2: LA-LP
       names:
         - name: Louangphabang
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Luangprabang
+          languages: [lo]
           sources: [iso3166-2]
     
 
-    # Oudômxai
+    # Oudomxay
     - codes:
         iso3166-2: LA-OU
       names:
         - name: Oudomxay
+          languages: [lo]
           sources: [iso3166-2]
         - name: Oudômxai
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
     
 
-    # Phôngsali
+    # Phongsaly
     - codes:
         iso3166-2: LA-PH
       names:
         - name: Phongsaly
+          languages: [lo]
           sources: [iso3166-2]
         - name: Phôngsali
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -115,20 +125,22 @@ regions:
         iso3166-2: LA-SL
       names:
         - name: Salavan
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Saravane
+          languages: [lo]
           sources: [iso3166-2]
     
 
-    # Savannakhét
+    # Savannakhet
     - codes:
         iso3166-2: LA-SV
       names:
         - name: Savannakhet
+          languages: [lo]
           sources: [iso3166-2]
         - name: Savannakhét
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -137,9 +149,10 @@ regions:
         iso3166-2: LA-VT
       names:
         - name: Viangchan
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Vientiane
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -148,9 +161,10 @@ regions:
         iso3166-2: LA-XA
       names:
         - name: Xaignabouli
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Xayabury
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -159,9 +173,10 @@ regions:
         iso3166-2: LA-XS
       names:
         - name: Xaisômboun
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Xaysomboon
+          languages: [lo]
           sources: [iso3166-2]
     
 
@@ -170,18 +185,20 @@ regions:
         iso3166-2: LA-XI
       names:
         - name: Xiangkhouang
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]
         - name: Xiengkhuang
+          languages: [lo]
           sources: [iso3166-2]
     
 
-    # Xékong
+    # Sekong
     - codes:
         iso3166-2: LA-XE
       names:
         - name: Sekong
+          languages: [lo]
           sources: [iso3166-2]
         - name: Xékong
-          languages: [en]
+          languages: [lo]
           sources: [iso3166-2]

@@ -8,6 +8,7 @@ regions:
         iso3166-2: SL-E
       names:
         - name: Eastern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: SL-NW
       names:
         - name: North Western
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: SL-N
       names:
         - name: Northern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: SL-S
       names:
         - name: Southern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,4 +44,5 @@ regions:
         iso3166-2: SL-W
       names:
         - name: Western Area
+          languages: [en]
           sources: [iso3166-2]

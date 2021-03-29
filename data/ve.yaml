@@ -8,6 +8,7 @@ regions:
         iso3166-2: VE-Z
       names:
         - name: Amazonas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: VE-B
       names:
         - name: Anzoátegui
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: VE-C
       names:
         - name: Apure
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: VE-D
       names:
         - name: Aragua
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: VE-E
       names:
         - name: Barinas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: VE-F
       names:
         - name: Bolívar
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: VE-G
       names:
         - name: Carabobo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: VE-H
       names:
         - name: Cojedes
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: VE-Y
       names:
         - name: Delta Amacuro
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: VE-W
       names:
         - name: Dependencias Federales
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: VE-A
       names:
         - name: Distrito
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: VE-I
       names:
         - name: Falcón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: VE-J
       names:
         - name: Guárico
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: VE-X
       names:
         - name: La Guaira
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: VE-K
       names:
         - name: Lara
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: VE-M
       names:
         - name: Miranda
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: VE-N
       names:
         - name: Monagas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: VE-L
       names:
         - name: Mérida
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: VE-O
       names:
         - name: Nueva Esparta
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: VE-P
       names:
         - name: Portuguesa
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: VE-R
       names:
         - name: Sucre
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: VE-T
       names:
         - name: Trujillo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: VE-S
       names:
         - name: Táchira
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: VE-U
       names:
         - name: Yaracuy
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -200,4 +224,5 @@ regions:
         iso3166-2: VE-V
       names:
         - name: Zulia
+          languages: [es]
           sources: [iso3166-2]

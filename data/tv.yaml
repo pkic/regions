@@ -8,6 +8,7 @@ regions:
         iso3166-2: TV-FUN
       names:
         - name: Funafuti
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: TV-NMG
       names:
         - name: Nanumaga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: TV-NMA
       names:
         - name: Nanumea
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: TV-NIT
       names:
         - name: Niutao
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: TV-NUI
       names:
         - name: Nui
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: TV-NKF
       names:
         - name: Nukufetau
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: TV-NKL
       names:
         - name: Nukulaelae
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,4 +71,5 @@ regions:
         iso3166-2: TV-VAI
       names:
         - name: Vaitupu
+          languages: [en]
           sources: [iso3166-2]

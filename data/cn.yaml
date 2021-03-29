@@ -8,18 +8,22 @@ regions:
         iso3166-2: CN-AH
       names:
         - name: Anhui Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
-    # Aomen Tebiexingzhengqu
+    # Macao SAR
     - codes:
         iso3166-2: CN-MO
       names:
         - name: Aomen Tebiexingzhengqu
+          languages: [zh]
           sources: [iso3166-2]
         - name: Macao SAR
+          languages: [en]
           sources: [iso3166-2]
         - name: Macau SAR
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -28,6 +32,7 @@ regions:
         iso3166-2: CN-BJ
       names:
         - name: Beijing Shi
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -36,6 +41,7 @@ regions:
         iso3166-2: CN-CQ
       names:
         - name: Chongqing Shi
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -44,6 +50,7 @@ regions:
         iso3166-2: CN-FJ
       names:
         - name: Fujian Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -52,6 +59,7 @@ regions:
         iso3166-2: CN-GS
       names:
         - name: Gansu Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -60,6 +68,7 @@ regions:
         iso3166-2: CN-GD
       names:
         - name: Guangdong Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -68,6 +77,7 @@ regions:
         iso3166-2: CN-GX
       names:
         - name: Guangxi Zhuangzu Zizhiqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -76,6 +86,7 @@ regions:
         iso3166-2: CN-GZ
       names:
         - name: Guizhou Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -84,6 +95,7 @@ regions:
         iso3166-2: CN-HI
       names:
         - name: Hainan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -92,6 +104,7 @@ regions:
         iso3166-2: CN-HE
       names:
         - name: Hebei Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -100,6 +113,7 @@ regions:
         iso3166-2: CN-HL
       names:
         - name: Heilongjiang Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -108,6 +122,7 @@ regions:
         iso3166-2: CN-HA
       names:
         - name: Henan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -116,6 +131,7 @@ regions:
         iso3166-2: CN-HB
       names:
         - name: Hubei Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -124,6 +140,7 @@ regions:
         iso3166-2: CN-HN
       names:
         - name: Hunan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -132,6 +149,7 @@ regions:
         iso3166-2: CN-JS
       names:
         - name: Jiangsu Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -140,6 +158,7 @@ regions:
         iso3166-2: CN-JX
       names:
         - name: Jiangxi Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -148,6 +167,7 @@ regions:
         iso3166-2: CN-JL
       names:
         - name: Jilin Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -156,6 +176,7 @@ regions:
         iso3166-2: CN-LN
       names:
         - name: Liaoning Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -164,6 +185,7 @@ regions:
         iso3166-2: CN-NM
       names:
         - name: Nei Mongol Zizhiqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -172,6 +194,7 @@ regions:
         iso3166-2: CN-NX
       names:
         - name: Ningxia Huizi Zizhiqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -180,6 +203,7 @@ regions:
         iso3166-2: CN-QH
       names:
         - name: Qinghai Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -188,6 +212,7 @@ regions:
         iso3166-2: CN-SN
       names:
         - name: Shaanxi Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -196,6 +221,7 @@ regions:
         iso3166-2: CN-SD
       names:
         - name: Shandong Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -204,6 +230,7 @@ regions:
         iso3166-2: CN-SH
       names:
         - name: Shanghai Shi
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -212,6 +239,7 @@ regions:
         iso3166-2: CN-SX
       names:
         - name: Shanxi Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -220,6 +248,7 @@ regions:
         iso3166-2: CN-SC
       names:
         - name: Sichuan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -228,6 +257,7 @@ regions:
         iso3166-2: CN-TW
       names:
         - name: Taiwan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -236,6 +266,7 @@ regions:
         iso3166-2: CN-TJ
       names:
         - name: Tianjin Shi
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -244,8 +275,10 @@ regions:
         iso3166-2: CN-HK
       names:
         - name: Hong Kong SAR
+          languages: [en]
           sources: [iso3166-2]
         - name: Xianggang Tebiexingzhengqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -254,6 +287,7 @@ regions:
         iso3166-2: CN-XJ
       names:
         - name: Xinjiang Uygur Zizhiqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -262,6 +296,7 @@ regions:
         iso3166-2: CN-XZ
       names:
         - name: Xizang Zizhiqu
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -270,6 +305,7 @@ regions:
         iso3166-2: CN-YN
       names:
         - name: Yunnan Sheng
+          languages: [zh]
           sources: [iso3166-2]
     
 
@@ -278,4 +314,5 @@ regions:
         iso3166-2: CN-ZJ
       names:
         - name: Zhejiang Sheng
+          languages: [zh]
           sources: [iso3166-2]

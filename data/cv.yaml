@@ -8,6 +8,7 @@ regions:
         iso3166-2: CV-BV
       names:
         - name: Boa Vista
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: CV-BR
       names:
         - name: Brava
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: CV-B
       names:
         - name: Ilhas de Barlavento
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: CV-S
       names:
         - name: Ilhas de Sotavento
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: CV-MA
       names:
         - name: Maio
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: CV-MO
       names:
         - name: Mosteiros
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: CV-PA
       names:
         - name: Paul
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: CV-PN
       names:
         - name: Porto Novo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: CV-PR
       names:
         - name: Praia
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: CV-RB
       names:
         - name: Ribeira Brava
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: CV-RG
       names:
         - name: Ribeira Grande
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: CV-RS
       names:
         - name: Ribeira Grande de Santiago
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: CV-SL
       names:
         - name: Sal
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: CV-CA
       names:
         - name: Santa Catarina
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: CV-CF
       names:
         - name: Santa Catarina do Fogo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: CV-CR
       names:
         - name: Santa Cruz
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: CV-SD
       names:
         - name: São Domingos
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: CV-SF
       names:
         - name: São Filipe
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: CV-SO
       names:
         - name: São Lourenço dos Órgãos
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: CV-SM
       names:
         - name: São Miguel
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: CV-SS
       names:
         - name: São Salvador do Mundo
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: CV-SV
       names:
         - name: São Vicente
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: CV-TA
       names:
         - name: Tarrafal
+          languages: [pt]
           sources: [iso3166-2]
     
 
@@ -192,4 +215,5 @@ regions:
         iso3166-2: CV-TS
       names:
         - name: Tarrafal de São Nicolau
+          languages: [pt]
           sources: [iso3166-2]

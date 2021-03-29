@@ -8,6 +8,7 @@ regions:
         iso3166-2: LY-BU
       names:
         - name: Al Buţnān
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: LY-JA
       names:
         - name: Al Jabal al Akhḑar
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: LY-JG
       names:
         - name: Al Jabal al Gharbī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: LY-JI
       names:
         - name: Al Jafārah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: LY-JU
       names:
         - name: Al Jufrah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: LY-KF
       names:
         - name: Al Kufrah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: LY-MJ
       names:
         - name: Al Marj
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: LY-MB
       names:
         - name: Al Marqab
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: LY-WA
       names:
         - name: Al Wāḩāt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: LY-NQ
       names:
         - name: An Nuqāţ al Khams
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: LY-ZA
       names:
         - name: Az Zāwiyah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: LY-BA
       names:
         - name: Banghāzī
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: LY-DR
       names:
         - name: Darnah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: LY-GT
       names:
         - name: Ghāt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: LY-MI
       names:
         - name: Mişrātah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: LY-MQ
       names:
         - name: Murzuq
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: LY-NL
       names:
         - name: Nālūt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: LY-SB
       names:
         - name: Sabhā
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: LY-SR
       names:
         - name: Surt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: LY-WD
       names:
         - name: Wādī al Ḩayāt
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: LY-WS
       names:
         - name: Wādī ash Shāţi’
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -176,4 +197,5 @@ regions:
         iso3166-2: LY-TB
       names:
         - name: Ţarābulus
+          languages: [ar]
           sources: [iso3166-2]

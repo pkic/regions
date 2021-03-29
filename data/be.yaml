@@ -484,6 +484,7 @@ regions:
         iso3166-2: BE-WBR
       names:
         - name: Brabant wallon
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -836,7 +837,7 @@ regions:
           languages: [en, hr, pl, sk]
           sources: [euvoc]
         - name: Hainaut
-          languages: [cs, hu]
+          languages: [cs, fr, hu]
           sources: [euvoc, iso3166-2]
         - name: Hainauti
           languages: [et]
@@ -1064,7 +1065,7 @@ regions:
           languages: [es]
           sources: [euvoc]
         - name: Liège
-          languages: [en, hu, pt, ro]
+          languages: [en, fr, hu, pt, ro]
           sources: [euvoc, iso3166-2]
         - name: Liège'i
           languages: [et]
@@ -1137,7 +1138,7 @@ regions:
           languages: [lv]
           sources: [euvoc]
         - name: Luxembourg
-          languages: [en, hu]
+          languages: [en, fr, hu]
           sources: [euvoc, iso3166-2]
         - name: Luxembourgi
           languages: [et]
@@ -1201,7 +1202,7 @@ regions:
           languages: [lt]
           sources: [euvoc]
         - name: Namur
-          languages: [cs, de, en, es, hr, hu, pt, ro, sk]
+          languages: [cs, de, en, es, fr, hr, hu, pt, ro, sk]
           sources: [euvoc, iso3166-2]
         - name: Namuri
           languages: [et]

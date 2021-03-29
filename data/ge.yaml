@@ -9,20 +9,22 @@ regions:
         iso3166-2: GE-AB
       names:
         - name: Abkhazia
-          languages: [en]
+          languages: [ka]
           sources: [iso3166-2]
         - name: Apkhazeti
+          languages: [ka]
           sources: [iso3166-2]
     
 
-    # Ajaria
+    # Ach'ara
     - codes:
         iso3166-2: GE-AJ
       names:
         - name: Ach'ara
+          languages: [ka]
           sources: [iso3166-2]
         - name: Ajaria
-          languages: [en]
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -31,6 +33,7 @@ regions:
         iso3166-2: GE-GU
       names:
         - name: Guria
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -39,6 +42,7 @@ regions:
         iso3166-2: GE-IM
       names:
         - name: Imereti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -47,6 +51,7 @@ regions:
         iso3166-2: GE-KA
       names:
         - name: K'akheti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -55,6 +60,7 @@ regions:
         iso3166-2: GE-KK
       names:
         - name: Kvemo Kartli
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -63,6 +69,7 @@ regions:
         iso3166-2: GE-MM
       names:
         - name: Mtskheta-Mtianeti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -71,6 +78,7 @@ regions:
         iso3166-2: GE-RL
       names:
         - name: Rach'a-Lechkhumi-Kvemo Svaneti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -79,6 +87,7 @@ regions:
         iso3166-2: GE-SZ
       names:
         - name: Samegrelo-Zemo Svaneti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -87,6 +96,7 @@ regions:
         iso3166-2: GE-SJ
       names:
         - name: Samtskhe-Javakheti
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -95,6 +105,7 @@ regions:
         iso3166-2: GE-SK
       names:
         - name: Shida Kartli
+          languages: [ka]
           sources: [iso3166-2]
     
 
@@ -103,4 +114,5 @@ regions:
         iso3166-2: GE-TB
       names:
         - name: Tbilisi
+          languages: [ka]
           sources: [iso3166-2]

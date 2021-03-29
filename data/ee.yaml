@@ -9,6 +9,7 @@ regions:
         iso3166-2: EE-130
       names:
         - name: Alutaguse
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: EE-141
       names:
         - name: Anija
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: EE-142
       names:
         - name: Antsla
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -189,6 +192,7 @@ regions:
         iso3166-2: EE-171
       names:
         - name: Elva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -431,6 +435,7 @@ regions:
         iso3166-2: EE-184
       names:
         - name: Haapsalu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -439,6 +444,7 @@ regions:
         iso3166-2: EE-191
       names:
         - name: Haljala
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -447,6 +453,7 @@ regions:
         iso3166-2: EE-37
       names:
         - name: Harjumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -455,6 +462,7 @@ regions:
         iso3166-2: EE-198
       names:
         - name: Harku
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -463,6 +471,7 @@ regions:
         iso3166-2: EE-39
       names:
         - name: Hiiumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -471,6 +480,7 @@ regions:
         iso3166-2: EE-214
       names:
         - name: Häädemeeste
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -479,6 +489,7 @@ regions:
         iso3166-2: EE-45
       names:
         - name: Ida-Virumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -487,6 +498,7 @@ regions:
         iso3166-2: EE-255
       names:
         - name: Järva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -495,6 +507,7 @@ regions:
         iso3166-2: EE-52
       names:
         - name: Järvamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -503,6 +516,7 @@ regions:
         iso3166-2: EE-245
       names:
         - name: Jõelähtme
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -511,6 +525,7 @@ regions:
         iso3166-2: EE-247
       names:
         - name: Jõgeva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -519,6 +534,7 @@ regions:
         iso3166-2: EE-50
       names:
         - name: Jõgevamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -527,6 +543,7 @@ regions:
         iso3166-2: EE-251
       names:
         - name: Jõhvi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -535,6 +552,7 @@ regions:
         iso3166-2: EE-272
       names:
         - name: Kadrina
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -543,6 +561,7 @@ regions:
         iso3166-2: EE-283
       names:
         - name: Kambja
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -551,6 +570,7 @@ regions:
         iso3166-2: EE-284
       names:
         - name: Kanepi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -559,6 +579,7 @@ regions:
         iso3166-2: EE-291
       names:
         - name: Kastre
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -567,6 +588,7 @@ regions:
         iso3166-2: EE-293
       names:
         - name: Kehtna
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -575,6 +597,7 @@ regions:
         iso3166-2: EE-296
       names:
         - name: Keila
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -583,6 +606,7 @@ regions:
         iso3166-2: EE-303
       names:
         - name: Kihnu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -591,6 +615,7 @@ regions:
         iso3166-2: EE-305
       names:
         - name: Kiili
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -599,6 +624,7 @@ regions:
         iso3166-2: EE-317
       names:
         - name: Kohila
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -607,6 +633,7 @@ regions:
         iso3166-2: EE-321
       names:
         - name: Kohtla-Järve
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -615,6 +642,7 @@ regions:
         iso3166-2: EE-338
       names:
         - name: Kose
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -623,6 +651,7 @@ regions:
         iso3166-2: EE-353
       names:
         - name: Kuusalu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -631,6 +660,7 @@ regions:
         iso3166-2: EE-424
       names:
         - name: Loksa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -639,6 +669,7 @@ regions:
         iso3166-2: EE-432
       names:
         - name: Luunja
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -647,6 +678,7 @@ regions:
         iso3166-2: EE-431
       names:
         - name: Lääne-Harju
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -655,6 +687,7 @@ regions:
         iso3166-2: EE-441
       names:
         - name: Lääne-Nigula
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -663,6 +696,7 @@ regions:
         iso3166-2: EE-60
       names:
         - name: Lääne-Virumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -671,6 +705,7 @@ regions:
         iso3166-2: EE-56
       names:
         - name: Läänemaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -679,6 +714,7 @@ regions:
         iso3166-2: EE-430
       names:
         - name: Lääneranna
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -687,6 +723,7 @@ regions:
         iso3166-2: EE-442
       names:
         - name: Lüganuse
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -695,6 +732,7 @@ regions:
         iso3166-2: EE-446
       names:
         - name: Maardu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -703,6 +741,7 @@ regions:
         iso3166-2: EE-478
       names:
         - name: Muhu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -711,6 +750,7 @@ regions:
         iso3166-2: EE-480
       names:
         - name: Mulgi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -719,6 +759,7 @@ regions:
         iso3166-2: EE-486
       names:
         - name: Mustvee
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -727,6 +768,7 @@ regions:
         iso3166-2: EE-503
       names:
         - name: Märjamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -735,6 +777,7 @@ regions:
         iso3166-2: EE-511
       names:
         - name: Narva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -743,6 +786,7 @@ regions:
         iso3166-2: EE-514
       names:
         - name: Narva-Jõesuu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -751,6 +795,7 @@ regions:
         iso3166-2: EE-528
       names:
         - name: Nõo
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -759,6 +804,7 @@ regions:
         iso3166-2: EE-557
       names:
         - name: Otepää
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -767,6 +813,7 @@ regions:
         iso3166-2: EE-567
       names:
         - name: Paide
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -775,6 +822,7 @@ regions:
         iso3166-2: EE-586
       names:
         - name: Peipsiääre
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -783,6 +831,7 @@ regions:
         iso3166-2: EE-624
       names:
         - name: Pärnu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -791,6 +840,7 @@ regions:
         iso3166-2: EE-68
       names:
         - name: Pärnumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -799,6 +849,7 @@ regions:
         iso3166-2: EE-638
       names:
         - name: Põhja-Pärnumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -807,6 +858,7 @@ regions:
         iso3166-2: EE-615
       names:
         - name: Põhja-Sakala
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -815,6 +867,7 @@ regions:
         iso3166-2: EE-618
       names:
         - name: Põltsamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -823,6 +876,7 @@ regions:
         iso3166-2: EE-622
       names:
         - name: Põlva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -831,6 +885,7 @@ regions:
         iso3166-2: EE-64
       names:
         - name: Põlvamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -839,6 +894,7 @@ regions:
         iso3166-2: EE-651
       names:
         - name: Raasiku
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -847,6 +903,7 @@ regions:
         iso3166-2: EE-653
       names:
         - name: Rae
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -855,6 +912,7 @@ regions:
         iso3166-2: EE-663
       names:
         - name: Rakvere
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -863,6 +921,7 @@ regions:
         iso3166-2: EE-668
       names:
         - name: Rapla
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -871,6 +930,7 @@ regions:
         iso3166-2: EE-71
       names:
         - name: Raplamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -879,6 +939,7 @@ regions:
         iso3166-2: EE-689
       names:
         - name: Ruhnu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -887,6 +948,7 @@ regions:
         iso3166-2: EE-708
       names:
         - name: Räpina
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -895,6 +957,7 @@ regions:
         iso3166-2: EE-698
       names:
         - name: Rõuge
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -903,6 +966,7 @@ regions:
         iso3166-2: EE-712
       names:
         - name: Saarde
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -911,6 +975,7 @@ regions:
         iso3166-2: EE-74
       names:
         - name: Saaremaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -919,6 +984,7 @@ regions:
         iso3166-2: EE-719
       names:
         - name: Saku
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -927,6 +993,7 @@ regions:
         iso3166-2: EE-726
       names:
         - name: Saue
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -935,6 +1002,7 @@ regions:
         iso3166-2: EE-732
       names:
         - name: Setomaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -943,6 +1011,7 @@ regions:
         iso3166-2: EE-735
       names:
         - name: Sillamäe
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -951,6 +1020,7 @@ regions:
         iso3166-2: EE-784
       names:
         - name: Tallinn
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -959,6 +1029,7 @@ regions:
         iso3166-2: EE-792
       names:
         - name: Tapa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -967,6 +1038,7 @@ regions:
         iso3166-2: EE-796
       names:
         - name: Tartu
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -975,6 +1047,7 @@ regions:
         iso3166-2: EE-79
       names:
         - name: Tartumaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -983,6 +1056,7 @@ regions:
         iso3166-2: EE-803
       names:
         - name: Toila
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -991,6 +1065,7 @@ regions:
         iso3166-2: EE-809
       names:
         - name: Tori
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -999,6 +1074,7 @@ regions:
         iso3166-2: EE-824
       names:
         - name: Tõrva
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1007,6 +1083,7 @@ regions:
         iso3166-2: EE-834
       names:
         - name: Türi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1015,6 +1092,7 @@ regions:
         iso3166-2: EE-855
       names:
         - name: Valga
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1023,6 +1101,7 @@ regions:
         iso3166-2: EE-81
       names:
         - name: Valgamaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1031,6 +1110,7 @@ regions:
         iso3166-2: EE-890
       names:
         - name: Viimsi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1039,6 +1119,7 @@ regions:
         iso3166-2: EE-899
       names:
         - name: Viljandi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1047,6 +1128,7 @@ regions:
         iso3166-2: EE-84
       names:
         - name: Viljandimaa
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1055,6 +1137,7 @@ regions:
         iso3166-2: EE-901
       names:
         - name: Vinni
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1063,6 +1146,7 @@ regions:
         iso3166-2: EE-903
       names:
         - name: Viru-Nigula
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1071,6 +1155,7 @@ regions:
         iso3166-2: EE-907
       names:
         - name: Vormsi
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1079,6 +1164,7 @@ regions:
         iso3166-2: EE-928
       names:
         - name: Väike-Maarja
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1087,6 +1173,7 @@ regions:
         iso3166-2: EE-919
       names:
         - name: Võru
+          languages: [et]
           sources: [iso3166-2]
     
 
@@ -1095,4 +1182,5 @@ regions:
         iso3166-2: EE-87
       names:
         - name: Võrumaa
+          languages: [et]
           sources: [iso3166-2]

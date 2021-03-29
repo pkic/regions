@@ -9,8 +9,10 @@ regions:
         iso3166-2: CY-06
       names:
         - name: Girne
+          languages: [tr]
           sources: [iso3166-2]
         - name: Keryneia
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -19,6 +21,7 @@ regions:
         iso3166-2: CY-03
       names:
         - name: Larnaka
+          languages: [el, tr]
           sources: [iso3166-2]
     
 
@@ -27,8 +30,10 @@ regions:
         iso3166-2: CY-01
       names:
         - name: Lefkosia
+          languages: [el]
           sources: [iso3166-2]
         - name: Lefkoşa
+          languages: [tr]
           sources: [iso3166-2]
     
 
@@ -37,8 +42,10 @@ regions:
         iso3166-2: CY-02
       names:
         - name: Lemesos
+          languages: [el]
           sources: [iso3166-2]
         - name: Leymasun
+          languages: [tr]
           sources: [iso3166-2]
     
 
@@ -47,8 +54,10 @@ regions:
         iso3166-2: CY-04
       names:
         - name: Ammochostos
+          languages: [el]
           sources: [iso3166-2]
         - name: Mağusa
+          languages: [tr]
           sources: [iso3166-2]
     
 
@@ -57,6 +66,8 @@ regions:
         iso3166-2: CY-05
       names:
         - name: Baf
+          languages: [tr]
           sources: [iso3166-2]
         - name: Pafos
+          languages: [el]
           sources: [iso3166-2]

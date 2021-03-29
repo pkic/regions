@@ -262,6 +262,7 @@ regions:
         iso3166-2: NL-FR
       names:
         - name: Fryslân
+          languages: [fy]
           sources: [iso3166-2]
     
 

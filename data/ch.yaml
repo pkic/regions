@@ -9,6 +9,7 @@ regions:
         iso3166-2: CH-AG
       names:
         - name: Aargau
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: CH-AR
       names:
         - name: Appenzell Ausserrhoden
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: CH-AI
       names:
         - name: Appenzell Innerrhoden
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -33,6 +36,7 @@ regions:
         iso3166-2: CH-BL
       names:
         - name: Basel-Landschaft
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -41,6 +45,7 @@ regions:
         iso3166-2: CH-BS
       names:
         - name: Basel-Stadt
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -49,8 +54,10 @@ regions:
         iso3166-2: CH-BE
       names:
         - name: Bern
+          languages: [de]
           sources: [iso3166-2]
         - name: Berne
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -59,8 +66,10 @@ regions:
         iso3166-2: CH-FR
       names:
         - name: Freiburg
+          languages: [de]
           sources: [iso3166-2]
         - name: Fribourg
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -69,6 +78,7 @@ regions:
         iso3166-2: CH-GE
       names:
         - name: Genève
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -77,6 +87,7 @@ regions:
         iso3166-2: CH-GL
       names:
         - name: Glarus
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -85,10 +96,13 @@ regions:
         iso3166-2: CH-GR
       names:
         - name: Graubünden
+          languages: [de]
           sources: [iso3166-2]
         - name: Grigioni
+          languages: [it]
           sources: [iso3166-2]
         - name: Grischun
+          languages: [rm]
           sources: [iso3166-2]
     
 
@@ -97,6 +111,7 @@ regions:
         iso3166-2: CH-JU
       names:
         - name: Jura
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -105,6 +120,7 @@ regions:
         iso3166-2: CH-LU
       names:
         - name: Luzern
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -113,6 +129,7 @@ regions:
         iso3166-2: CH-NE
       names:
         - name: Neuchâtel
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -121,6 +138,7 @@ regions:
         iso3166-2: CH-NW
       names:
         - name: Nidwalden
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -129,6 +147,7 @@ regions:
         iso3166-2: CH-OW
       names:
         - name: Obwalden
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -137,6 +156,7 @@ regions:
         iso3166-2: CH-SG
       names:
         - name: Sankt Gallen
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -145,6 +165,7 @@ regions:
         iso3166-2: CH-SH
       names:
         - name: Schaffhausen
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -153,6 +174,7 @@ regions:
         iso3166-2: CH-SZ
       names:
         - name: Schwyz
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -161,6 +183,7 @@ regions:
         iso3166-2: CH-SO
       names:
         - name: Solothurn
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -169,6 +192,7 @@ regions:
         iso3166-2: CH-TG
       names:
         - name: Thurgau
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -177,6 +201,7 @@ regions:
         iso3166-2: CH-TI
       names:
         - name: Ticino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -185,6 +210,7 @@ regions:
         iso3166-2: CH-UR
       names:
         - name: Uri
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -193,6 +219,7 @@ regions:
         iso3166-2: CH-VD
       names:
         - name: Vaud
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -201,8 +228,10 @@ regions:
         iso3166-2: CH-VS
       names:
         - name: Valais
+          languages: [fr]
           sources: [iso3166-2]
         - name: Wallis
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -211,6 +240,7 @@ regions:
         iso3166-2: CH-ZG
       names:
         - name: Zug
+          languages: [de]
           sources: [iso3166-2]
     
 
@@ -219,4 +249,5 @@ regions:
         iso3166-2: CH-ZH
       names:
         - name: Zürich
+          languages: [de]
           sources: [iso3166-2]

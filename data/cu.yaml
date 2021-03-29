@@ -8,6 +8,7 @@ regions:
         iso3166-2: CU-15
       names:
         - name: Artemisa
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: CU-09
       names:
         - name: Camagüey
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: CU-08
       names:
         - name: Ciego de Ávila
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: CU-06
       names:
         - name: Cienfuegos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: CU-12
       names:
         - name: Granma
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: CU-14
       names:
         - name: Guantánamo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: CU-11
       names:
         - name: Holguín
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: CU-99
       names:
         - name: Isla de la Juventud
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: CU-03
       names:
         - name: La Habana
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: CU-10
       names:
         - name: Las Tunas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: CU-04
       names:
         - name: Matanzas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: CU-16
       names:
         - name: Mayabeque
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: CU-01
       names:
         - name: Pinar del Río
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: CU-07
       names:
         - name: Sancti Spíritus
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: CU-13
       names:
         - name: Santiago de Cuba
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -128,4 +143,5 @@ regions:
         iso3166-2: CU-05
       names:
         - name: Villa Clara
+          languages: [es]
           sources: [iso3166-2]

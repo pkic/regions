@@ -8,6 +8,7 @@ regions:
         iso3166-2: AF-BDS
       names:
         - name: Badakhshān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: AF-BGL
       names:
         - name: Baghlān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: AF-BAL
       names:
         - name: Balkh
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: AF-BDG
       names:
         - name: Bādghīs
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: AF-BAM
       names:
         - name: Bāmyān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: AF-DAY
       names:
         - name: Dāykundī
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: AF-FRA
       names:
         - name: Farāh
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: AF-FYB
       names:
         - name: Fāryāb
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: AF-GHA
       names:
         - name: Ghaznī
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: AF-GHO
       names:
         - name: Ghōr
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: AF-HEL
       names:
         - name: Helmand
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: AF-HER
       names:
         - name: Herāt
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: AF-JOW
       names:
         - name: Jowzjān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: AF-KAN
       names:
         - name: Kandahār
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: AF-KHO
       names:
         - name: Khōst
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: AF-KNR
       names:
         - name: Kunaṟ
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: AF-KDZ
       names:
         - name: Kunduz
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: AF-KAB
       names:
         - name: Kābul
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: AF-KAP
       names:
         - name: Kāpīsā
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: AF-LAG
       names:
         - name: Laghmān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: AF-LOG
       names:
         - name: Lōgar
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: AF-NAN
       names:
         - name: Nangarhār
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: AF-NIM
       names:
         - name: Nīmrōz
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: AF-NUR
       names:
         - name: Nūristān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: AF-PIA
       names:
         - name: Paktiyā
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -208,6 +233,7 @@ regions:
         iso3166-2: AF-PKA
       names:
         - name: Paktīkā
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -216,6 +242,7 @@ regions:
         iso3166-2: AF-PAN
       names:
         - name: Panjshayr
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -224,6 +251,7 @@ regions:
         iso3166-2: AF-PAR
       names:
         - name: Parwān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -232,6 +260,7 @@ regions:
         iso3166-2: AF-SAM
       names:
         - name: Samangān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -240,6 +269,7 @@ regions:
         iso3166-2: AF-SAR
       names:
         - name: Sar-e Pul
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -248,6 +278,7 @@ regions:
         iso3166-2: AF-TAK
       names:
         - name: Takhār
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -256,6 +287,7 @@ regions:
         iso3166-2: AF-URU
       names:
         - name: Uruzgān
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -264,6 +296,7 @@ regions:
         iso3166-2: AF-WAR
       names:
         - name: Wardak
+          languages: [fa, ps]
           sources: [iso3166-2]
     
 
@@ -272,4 +305,5 @@ regions:
         iso3166-2: AF-ZAB
       names:
         - name: Zābul
+          languages: [fa, ps]
           sources: [iso3166-2]

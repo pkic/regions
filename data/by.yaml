@@ -9,12 +9,16 @@ regions:
         iso3166-2: BY-BR
       names:
         - name: Bresckaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Brestskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Brestskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Brestskaya voblasts'
+          languages: [be]
           sources: [iso3166-2]
     
 
@@ -23,8 +27,10 @@ regions:
         iso3166-2: BY-HM
       names:
         - name: Gorod Minsk
+          languages: [ru]
           sources: [iso3166-2]
         - name: Horad Minsk
+          languages: [be]
           sources: [iso3166-2]
     
 
@@ -33,12 +39,16 @@ regions:
         iso3166-2: BY-HR
       names:
         - name: Grodnenskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Grodnenskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Hrodzienskaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Hrodzyenskaya voblasts'
+          languages: [be]
           sources: [iso3166-2]
     
 
@@ -47,12 +57,16 @@ regions:
         iso3166-2: BY-HO
       names:
         - name: Gomel'skaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Gomel'skaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Homieĺskaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Homyel'skaya voblasts'
+          languages: [be]
           sources: [iso3166-2]
     
 
@@ -61,12 +75,16 @@ regions:
         iso3166-2: BY-MA
       names:
         - name: Mahilioŭskaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Mahilyowskaya voblasts'
+          languages: [be]
           sources: [iso3166-2]
         - name: Mogilevskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Mogilevskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
     
 
@@ -75,12 +93,16 @@ regions:
         iso3166-2: BY-MI
       names:
         - name: Minskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Minskaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Minskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Minskaya voblasts'
+          languages: [be]
           sources: [iso3166-2]
     
 
@@ -89,10 +111,14 @@ regions:
         iso3166-2: BY-VI
       names:
         - name: Viciebskaja voblasć
+          languages: [be]
           sources: [iso3166-2]
         - name: Vitebskaja oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Vitebskaya oblast'
+          languages: [ru]
           sources: [iso3166-2]
         - name: Vitsyebskaya voblasts'
+          languages: [be]
           sources: [iso3166-2]

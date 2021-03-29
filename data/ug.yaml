@@ -8,6 +8,7 @@ regions:
         iso3166-2: UG-314
       names:
         - name: Abim
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: UG-301
       names:
         - name: Adjumani
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: UG-322
       names:
         - name: Agago
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: UG-323
       names:
         - name: Alebtong
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: UG-315
       names:
         - name: Amolatar
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: UG-324
       names:
         - name: Amudat
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: UG-216
       names:
         - name: Amuria
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: UG-316
       names:
         - name: Amuru
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: UG-302
       names:
         - name: Apac
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: UG-303
       names:
         - name: Arua
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: UG-217
       names:
         - name: Budaka
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: UG-218
       names:
         - name: Bududa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: UG-201
       names:
         - name: Bugiri
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: UG-235
       names:
         - name: Bugweri
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: UG-420
       names:
         - name: Buhweju
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: UG-117
       names:
         - name: Buikwe
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: UG-219
       names:
         - name: Bukedea
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: UG-118
       names:
         - name: Bukomansibi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: UG-220
       names:
         - name: Bukwo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: UG-225
       names:
         - name: Bulambuli
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: UG-416
       names:
         - name: Buliisa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: UG-401
       names:
         - name: Bundibugyo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: UG-430
       names:
         - name: Bunyangabu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: UG-402
       names:
         - name: Bushenyi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: UG-202
       names:
         - name: Busia
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -208,6 +233,7 @@ regions:
         iso3166-2: UG-221
       names:
         - name: Butaleja
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -216,6 +242,7 @@ regions:
         iso3166-2: UG-119
       names:
         - name: Butambala
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -224,6 +251,7 @@ regions:
         iso3166-2: UG-233
       names:
         - name: Butebo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -232,6 +260,7 @@ regions:
         iso3166-2: UG-120
       names:
         - name: Buvuma
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -240,6 +269,7 @@ regions:
         iso3166-2: UG-226
       names:
         - name: Buyende
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -248,6 +278,7 @@ regions:
         iso3166-2: UG-C
       names:
         - name: Central
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -256,6 +287,7 @@ regions:
         iso3166-2: UG-317
       names:
         - name: Dokolo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -264,6 +296,7 @@ regions:
         iso3166-2: UG-E
       names:
         - name: Eastern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -272,6 +305,7 @@ regions:
         iso3166-2: UG-121
       names:
         - name: Gomba
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -280,6 +314,7 @@ regions:
         iso3166-2: UG-304
       names:
         - name: Gulu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -288,6 +323,7 @@ regions:
         iso3166-2: UG-403
       names:
         - name: Hoima
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -296,6 +332,7 @@ regions:
         iso3166-2: UG-417
       names:
         - name: Ibanda
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -304,6 +341,7 @@ regions:
         iso3166-2: UG-203
       names:
         - name: Iganga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -312,6 +350,7 @@ regions:
         iso3166-2: UG-418
       names:
         - name: Isingiro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -320,6 +359,7 @@ regions:
         iso3166-2: UG-204
       names:
         - name: Jinja
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -328,6 +368,7 @@ regions:
         iso3166-2: UG-318
       names:
         - name: Kaabong
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -336,6 +377,7 @@ regions:
         iso3166-2: UG-404
       names:
         - name: Kabale
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -344,6 +386,7 @@ regions:
         iso3166-2: UG-405
       names:
         - name: Kabarole
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -352,6 +395,7 @@ regions:
         iso3166-2: UG-213
       names:
         - name: Kaberamaido
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -360,6 +404,7 @@ regions:
         iso3166-2: UG-427
       names:
         - name: Kagadi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -368,6 +413,7 @@ regions:
         iso3166-2: UG-428
       names:
         - name: Kakumiro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -376,6 +422,7 @@ regions:
         iso3166-2: UG-237
       names:
         - name: Kalaki
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -384,6 +431,7 @@ regions:
         iso3166-2: UG-101
       names:
         - name: Kalangala
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -392,6 +440,7 @@ regions:
         iso3166-2: UG-222
       names:
         - name: Kaliro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -400,6 +449,7 @@ regions:
         iso3166-2: UG-122
       names:
         - name: Kalungu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -408,6 +458,7 @@ regions:
         iso3166-2: UG-102
       names:
         - name: Kampala
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -416,6 +467,7 @@ regions:
         iso3166-2: UG-205
       names:
         - name: Kamuli
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -424,6 +476,7 @@ regions:
         iso3166-2: UG-413
       names:
         - name: Kamwenge
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -432,6 +485,7 @@ regions:
         iso3166-2: UG-414
       names:
         - name: Kanungu
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -440,6 +494,7 @@ regions:
         iso3166-2: UG-206
       names:
         - name: Kapchorwa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -448,6 +503,7 @@ regions:
         iso3166-2: UG-236
       names:
         - name: Kapelebyong
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -456,6 +512,7 @@ regions:
         iso3166-2: UG-335
       names:
         - name: Karenga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -464,6 +521,7 @@ regions:
         iso3166-2: UG-126
       names:
         - name: Kasanda
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -472,6 +530,7 @@ regions:
         iso3166-2: UG-406
       names:
         - name: Kasese
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -480,6 +539,7 @@ regions:
         iso3166-2: UG-207
       names:
         - name: Katakwi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -488,6 +548,7 @@ regions:
         iso3166-2: UG-112
       names:
         - name: Kayunga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -496,6 +557,7 @@ regions:
         iso3166-2: UG-433
       names:
         - name: Kazo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -504,6 +566,7 @@ regions:
         iso3166-2: UG-407
       names:
         - name: Kibaale
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -512,6 +575,7 @@ regions:
         iso3166-2: UG-103
       names:
         - name: Kiboga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -520,6 +584,7 @@ regions:
         iso3166-2: UG-227
       names:
         - name: Kibuku
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -528,6 +593,7 @@ regions:
         iso3166-2: UG-432
       names:
         - name: Kikuube
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -536,6 +602,7 @@ regions:
         iso3166-2: UG-419
       names:
         - name: Kiruhura
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -544,6 +611,7 @@ regions:
         iso3166-2: UG-421
       names:
         - name: Kiryandongo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -552,6 +620,7 @@ regions:
         iso3166-2: UG-408
       names:
         - name: Kisoro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -560,6 +629,7 @@ regions:
         iso3166-2: UG-434
       names:
         - name: Kitagwenda
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -568,6 +638,7 @@ regions:
         iso3166-2: UG-305
       names:
         - name: Kitgum
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -576,6 +647,7 @@ regions:
         iso3166-2: UG-319
       names:
         - name: Koboko
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -584,6 +656,7 @@ regions:
         iso3166-2: UG-325
       names:
         - name: Kole
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -592,6 +665,7 @@ regions:
         iso3166-2: UG-306
       names:
         - name: Kotido
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -600,6 +674,7 @@ regions:
         iso3166-2: UG-208
       names:
         - name: Kumi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -608,6 +683,7 @@ regions:
         iso3166-2: UG-333
       names:
         - name: Kwania
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -616,6 +692,7 @@ regions:
         iso3166-2: UG-228
       names:
         - name: Kween
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -624,6 +701,7 @@ regions:
         iso3166-2: UG-123
       names:
         - name: Kyankwanzi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -632,6 +710,7 @@ regions:
         iso3166-2: UG-422
       names:
         - name: Kyegegwa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -640,6 +719,7 @@ regions:
         iso3166-2: UG-415
       names:
         - name: Kyenjojo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -648,6 +728,7 @@ regions:
         iso3166-2: UG-125
       names:
         - name: Kyotera
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -656,6 +737,7 @@ regions:
         iso3166-2: UG-326
       names:
         - name: Lamwo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -664,6 +746,7 @@ regions:
         iso3166-2: UG-307
       names:
         - name: Lira
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -672,6 +755,7 @@ regions:
         iso3166-2: UG-229
       names:
         - name: Luuka
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -680,6 +764,7 @@ regions:
         iso3166-2: UG-104
       names:
         - name: Luwero
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -688,6 +773,7 @@ regions:
         iso3166-2: UG-124
       names:
         - name: Lwengo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -696,6 +782,7 @@ regions:
         iso3166-2: UG-114
       names:
         - name: Lyantonde
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -704,6 +791,7 @@ regions:
         iso3166-2: UG-336
       names:
         - name: Madi-Okollo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -712,6 +800,7 @@ regions:
         iso3166-2: UG-223
       names:
         - name: Manafwa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -720,6 +809,7 @@ regions:
         iso3166-2: UG-320
       names:
         - name: Maracha
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -728,6 +818,7 @@ regions:
         iso3166-2: UG-105
       names:
         - name: Masaka
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -736,6 +827,7 @@ regions:
         iso3166-2: UG-409
       names:
         - name: Masindi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -744,6 +836,7 @@ regions:
         iso3166-2: UG-214
       names:
         - name: Mayuge
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -752,6 +845,7 @@ regions:
         iso3166-2: UG-209
       names:
         - name: Mbale
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -760,6 +854,7 @@ regions:
         iso3166-2: UG-410
       names:
         - name: Mbarara
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -768,6 +863,7 @@ regions:
         iso3166-2: UG-423
       names:
         - name: Mitooma
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -776,6 +872,7 @@ regions:
         iso3166-2: UG-115
       names:
         - name: Mityana
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -784,6 +881,7 @@ regions:
         iso3166-2: UG-308
       names:
         - name: Moroto
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -792,6 +890,7 @@ regions:
         iso3166-2: UG-309
       names:
         - name: Moyo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -800,6 +899,7 @@ regions:
         iso3166-2: UG-106
       names:
         - name: Mpigi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -808,6 +908,7 @@ regions:
         iso3166-2: UG-107
       names:
         - name: Mubende
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -816,6 +917,7 @@ regions:
         iso3166-2: UG-108
       names:
         - name: Mukono
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -824,6 +926,7 @@ regions:
         iso3166-2: UG-334
       names:
         - name: Nabilatuk
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -832,6 +935,7 @@ regions:
         iso3166-2: UG-311
       names:
         - name: Nakapiripirit
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -840,6 +944,7 @@ regions:
         iso3166-2: UG-116
       names:
         - name: Nakaseke
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -848,6 +953,7 @@ regions:
         iso3166-2: UG-109
       names:
         - name: Nakasongola
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -856,6 +962,7 @@ regions:
         iso3166-2: UG-230
       names:
         - name: Namayingo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -864,6 +971,7 @@ regions:
         iso3166-2: UG-234
       names:
         - name: Namisindwa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -872,6 +980,7 @@ regions:
         iso3166-2: UG-224
       names:
         - name: Namutumba
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -880,6 +989,7 @@ regions:
         iso3166-2: UG-327
       names:
         - name: Napak
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -888,6 +998,7 @@ regions:
         iso3166-2: UG-310
       names:
         - name: Nebbi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -896,6 +1007,7 @@ regions:
         iso3166-2: UG-231
       names:
         - name: Ngora
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -904,6 +1016,7 @@ regions:
         iso3166-2: UG-N
       names:
         - name: Northern
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -912,6 +1025,7 @@ regions:
         iso3166-2: UG-424
       names:
         - name: Ntoroko
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -920,6 +1034,7 @@ regions:
         iso3166-2: UG-411
       names:
         - name: Ntungamo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -928,6 +1043,7 @@ regions:
         iso3166-2: UG-328
       names:
         - name: Nwoya
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -936,6 +1052,7 @@ regions:
         iso3166-2: UG-337
       names:
         - name: Obongi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -944,6 +1061,7 @@ regions:
         iso3166-2: UG-331
       names:
         - name: Omoro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -952,6 +1070,7 @@ regions:
         iso3166-2: UG-329
       names:
         - name: Otuke
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -960,6 +1079,7 @@ regions:
         iso3166-2: UG-321
       names:
         - name: Oyam
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -968,6 +1088,7 @@ regions:
         iso3166-2: UG-312
       names:
         - name: Pader
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -976,6 +1097,7 @@ regions:
         iso3166-2: UG-332
       names:
         - name: Pakwach
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -984,6 +1106,7 @@ regions:
         iso3166-2: UG-210
       names:
         - name: Pallisa
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -992,6 +1115,7 @@ regions:
         iso3166-2: UG-110
       names:
         - name: Rakai
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1000,6 +1124,7 @@ regions:
         iso3166-2: UG-429
       names:
         - name: Rubanda
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1008,6 +1133,7 @@ regions:
         iso3166-2: UG-425
       names:
         - name: Rubirizi
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1016,6 +1142,7 @@ regions:
         iso3166-2: UG-431
       names:
         - name: Rukiga
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1024,6 +1151,7 @@ regions:
         iso3166-2: UG-412
       names:
         - name: Rukungiri
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1032,6 +1160,7 @@ regions:
         iso3166-2: UG-435
       names:
         - name: Rwampara
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1040,6 +1169,7 @@ regions:
         iso3166-2: UG-111
       names:
         - name: Sembabule
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1048,6 +1178,7 @@ regions:
         iso3166-2: UG-232
       names:
         - name: Serere
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1056,6 +1187,7 @@ regions:
         iso3166-2: UG-426
       names:
         - name: Sheema
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1064,6 +1196,7 @@ regions:
         iso3166-2: UG-215
       names:
         - name: Sironko
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1072,6 +1205,7 @@ regions:
         iso3166-2: UG-211
       names:
         - name: Soroti
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1080,6 +1214,7 @@ regions:
         iso3166-2: UG-212
       names:
         - name: Tororo
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1088,6 +1223,7 @@ regions:
         iso3166-2: UG-113
       names:
         - name: Wakiso
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1096,6 +1232,7 @@ regions:
         iso3166-2: UG-W
       names:
         - name: Western
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1104,6 +1241,7 @@ regions:
         iso3166-2: UG-313
       names:
         - name: Yumbe
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -1112,4 +1250,5 @@ regions:
         iso3166-2: UG-330
       names:
         - name: Zombo
+          languages: [en]
           sources: [iso3166-2]

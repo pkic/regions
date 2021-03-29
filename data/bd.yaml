@@ -8,6 +8,7 @@ regions:
         iso3166-2: BD-05
       names:
         - name: Bagerhat
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: BD-01
       names:
         - name: Bandarban
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: BD-02
       names:
         - name: Barguna
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: BD-A
       names:
         - name: Barishal
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: BD-07
       names:
         - name: Bhola
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: BD-03
       names:
         - name: Bogura
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: BD-04
       names:
         - name: Brahmanbaria
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: BD-09
       names:
         - name: Chandpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: BD-45
       names:
         - name: Chapai Nawabganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -80,9 +89,10 @@ regions:
         iso3166-2: BD-B
       names:
         - name: Chattogram
-          languages: [en]
+          languages: [bn]
           sources: [iso3166-2]
         - name: Chittagong
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: BD-12
       names:
         - name: Chuadanga
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -99,6 +110,7 @@ regions:
         iso3166-2: BD-11
       names:
         - name: Cox's Bazar
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -107,6 +119,7 @@ regions:
         iso3166-2: BD-08
       names:
         - name: Cumilla
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -115,6 +128,7 @@ regions:
         iso3166-2: BD-C
       names:
         - name: Dhaka
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -123,6 +137,7 @@ regions:
         iso3166-2: BD-14
       names:
         - name: Dinajpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -131,6 +146,7 @@ regions:
         iso3166-2: BD-15
       names:
         - name: Faridpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -139,6 +155,7 @@ regions:
         iso3166-2: BD-16
       names:
         - name: Feni
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -147,6 +164,7 @@ regions:
         iso3166-2: BD-19
       names:
         - name: Gaibandha
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -155,6 +173,7 @@ regions:
         iso3166-2: BD-18
       names:
         - name: Gazipur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -163,6 +182,7 @@ regions:
         iso3166-2: BD-17
       names:
         - name: Gopalganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -171,6 +191,7 @@ regions:
         iso3166-2: BD-20
       names:
         - name: Habiganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -179,6 +200,7 @@ regions:
         iso3166-2: BD-21
       names:
         - name: Jamalpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -187,6 +209,7 @@ regions:
         iso3166-2: BD-22
       names:
         - name: Jashore
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -195,6 +218,7 @@ regions:
         iso3166-2: BD-25
       names:
         - name: Jhalakathi
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -203,6 +227,7 @@ regions:
         iso3166-2: BD-23
       names:
         - name: Jhenaidah
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -211,6 +236,7 @@ regions:
         iso3166-2: BD-24
       names:
         - name: Joypurhat
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -219,6 +245,7 @@ regions:
         iso3166-2: BD-29
       names:
         - name: Khagrachhari
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -227,6 +254,7 @@ regions:
         iso3166-2: BD-D
       names:
         - name: Khulna
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -235,6 +263,7 @@ regions:
         iso3166-2: BD-26
       names:
         - name: Kishoreganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -243,6 +272,7 @@ regions:
         iso3166-2: BD-28
       names:
         - name: Kurigram
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -251,6 +281,7 @@ regions:
         iso3166-2: BD-30
       names:
         - name: Kushtia
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -259,6 +290,7 @@ regions:
         iso3166-2: BD-31
       names:
         - name: Lakshmipur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -267,6 +299,7 @@ regions:
         iso3166-2: BD-32
       names:
         - name: Lalmonirhat
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -275,6 +308,7 @@ regions:
         iso3166-2: BD-36
       names:
         - name: Madaripur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -283,6 +317,7 @@ regions:
         iso3166-2: BD-37
       names:
         - name: Magura
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -291,6 +326,7 @@ regions:
         iso3166-2: BD-33
       names:
         - name: Manikganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -299,6 +335,7 @@ regions:
         iso3166-2: BD-39
       names:
         - name: Meherpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -307,6 +344,7 @@ regions:
         iso3166-2: BD-38
       names:
         - name: Moulvibazar
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -315,6 +353,7 @@ regions:
         iso3166-2: BD-35
       names:
         - name: Munshiganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -323,6 +362,7 @@ regions:
         iso3166-2: BD-H
       names:
         - name: Mymensingh
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -331,6 +371,7 @@ regions:
         iso3166-2: BD-48
       names:
         - name: Naogaon
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -339,6 +380,7 @@ regions:
         iso3166-2: BD-43
       names:
         - name: Narail
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -347,6 +389,7 @@ regions:
         iso3166-2: BD-40
       names:
         - name: Narayanganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -355,6 +398,7 @@ regions:
         iso3166-2: BD-42
       names:
         - name: Narsingdi
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -363,6 +407,7 @@ regions:
         iso3166-2: BD-44
       names:
         - name: Natore
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -371,6 +416,7 @@ regions:
         iso3166-2: BD-41
       names:
         - name: Netrakona
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -379,6 +425,7 @@ regions:
         iso3166-2: BD-46
       names:
         - name: Nilphamari
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -387,6 +434,7 @@ regions:
         iso3166-2: BD-47
       names:
         - name: Noakhali
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -395,6 +443,7 @@ regions:
         iso3166-2: BD-49
       names:
         - name: Pabna
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -403,6 +452,7 @@ regions:
         iso3166-2: BD-52
       names:
         - name: Panchagarh
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -411,6 +461,7 @@ regions:
         iso3166-2: BD-51
       names:
         - name: Patuakhali
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -419,6 +470,7 @@ regions:
         iso3166-2: BD-50
       names:
         - name: Pirojpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -427,6 +479,7 @@ regions:
         iso3166-2: BD-53
       names:
         - name: Rajbari
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -435,6 +488,7 @@ regions:
         iso3166-2: BD-E
       names:
         - name: Rajshahi
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -443,6 +497,7 @@ regions:
         iso3166-2: BD-56
       names:
         - name: Rangamati
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -451,6 +506,7 @@ regions:
         iso3166-2: BD-F
       names:
         - name: Rangpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -459,6 +515,7 @@ regions:
         iso3166-2: BD-58
       names:
         - name: Satkhira
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -467,6 +524,7 @@ regions:
         iso3166-2: BD-62
       names:
         - name: Shariatpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -475,6 +533,7 @@ regions:
         iso3166-2: BD-57
       names:
         - name: Sherpur
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -483,6 +542,7 @@ regions:
         iso3166-2: BD-59
       names:
         - name: Sirajganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -491,6 +551,7 @@ regions:
         iso3166-2: BD-61
       names:
         - name: Sunamganj
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -499,6 +560,7 @@ regions:
         iso3166-2: BD-G
       names:
         - name: Sylhet
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -507,6 +569,7 @@ regions:
         iso3166-2: BD-63
       names:
         - name: Tangail
+          languages: [bn]
           sources: [iso3166-2]
     
 
@@ -515,4 +578,5 @@ regions:
         iso3166-2: BD-64
       names:
         - name: Thakurgaon
+          languages: [bn]
           sources: [iso3166-2]

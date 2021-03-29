@@ -3,23 +3,27 @@ complete: false
 regions:
     
 
-    # Aelok
+    # Ailuk
     - codes:
         iso3166-2: MH-ALK
       names:
         - name: Aelok
+          languages: [mh]
           sources: [iso3166-2]
         - name: Ailuk
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Aelōn̄ḷapḷap
+    # Ailinglaplap
     - codes:
         iso3166-2: MH-ALL
       names:
         - name: Aelōn̄ḷapḷap
+          languages: [mh]
           sources: [iso3166-2]
         - name: Ailinglaplap
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -28,8 +32,10 @@ regions:
         iso3166-2: MH-ARN
       names:
         - name: Arno
+          languages: [en]
           sources: [iso3166-2]
         - name: Arṇo
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -38,6 +44,7 @@ regions:
         iso3166-2: MH-AUR
       names:
         - name: Aur
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
@@ -46,8 +53,10 @@ regions:
         iso3166-2: MH-KIL
       names:
         - name: Bikini & Kili
+          languages: [en]
           sources: [iso3166-2]
         - name: Pikinni & Kōle
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -56,8 +65,10 @@ regions:
         iso3166-2: MH-ENI
       names:
         - name: Enewetak & Ujelang
+          languages: [en]
           sources: [iso3166-2]
         - name: Ānewetak & Wūjlan̄
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -66,8 +77,10 @@ regions:
         iso3166-2: MH-EBO
       names:
         - name: Ebon
+          languages: [en]
           sources: [iso3166-2]
         - name: Epoon
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -76,8 +89,10 @@ regions:
         iso3166-2: MH-JAB
       names:
         - name: Jabat
+          languages: [en]
           sources: [iso3166-2]
         - name: Jebat
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -86,18 +101,22 @@ regions:
         iso3166-2: MH-JAL
       names:
         - name: Jaluit
+          languages: [en]
           sources: [iso3166-2]
         - name: Jālwōj
+          languages: [mh]
           sources: [iso3166-2]
     
 
-    # Kuwajleen
+    # Kwajalein
     - codes:
         iso3166-2: MH-KWA
       names:
         - name: Kuwajleen
+          languages: [mh]
           sources: [iso3166-2]
         - name: Kwajalein
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -106,16 +125,19 @@ regions:
         iso3166-2: MH-LAE
       names:
         - name: Lae
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
-    # Ellep
+    # Lib
     - codes:
         iso3166-2: MH-LIB
       names:
         - name: Ellep
+          languages: [mh]
           sources: [iso3166-2]
         - name: Lib
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -124,6 +146,7 @@ regions:
         iso3166-2: MH-LIK
       names:
         - name: Likiep
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
@@ -132,18 +155,22 @@ regions:
         iso3166-2: MH-MEJ
       names:
         - name: Mejit
+          languages: [en]
           sources: [iso3166-2]
         - name: Mājej
+          languages: [mh]
           sources: [iso3166-2]
     
 
-    # Mile
+    # Mili
     - codes:
         iso3166-2: MH-MIL
       names:
         - name: Mile
+          languages: [mh]
           sources: [iso3166-2]
         - name: Mili
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -152,8 +179,10 @@ regions:
         iso3166-2: MH-MAJ
       names:
         - name: Majuro
+          languages: [en]
           sources: [iso3166-2]
         - name: Mājro
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -162,8 +191,10 @@ regions:
         iso3166-2: MH-NMK
       names:
         - name: Namdrik
+          languages: [en]
           sources: [iso3166-2]
         - name: Naṃdik
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -172,8 +203,10 @@ regions:
         iso3166-2: MH-NMU
       names:
         - name: Namu
+          languages: [en]
           sources: [iso3166-2]
         - name: Naṃo
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -182,6 +215,7 @@ regions:
         iso3166-2: MH-L
       names:
         - name: Ralik chain
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
@@ -190,6 +224,7 @@ regions:
         iso3166-2: MH-T
       names:
         - name: Ratak chain
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
@@ -198,8 +233,10 @@ regions:
         iso3166-2: MH-RON
       names:
         - name: Rongelap
+          languages: [en]
           sources: [iso3166-2]
         - name: Ron̄ḷap
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -208,6 +245,7 @@ regions:
         iso3166-2: MH-UJA
       names:
         - name: Ujae
+          languages: [en, mh]
           sources: [iso3166-2]
     
 
@@ -216,8 +254,10 @@ regions:
         iso3166-2: MH-UTI
       names:
         - name: Utrik
+          languages: [en]
           sources: [iso3166-2]
         - name: Utrōk
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -226,8 +266,10 @@ regions:
         iso3166-2: MH-WTJ
       names:
         - name: Wotje
+          languages: [en]
           sources: [iso3166-2]
         - name: Wōjjā
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -236,8 +278,10 @@ regions:
         iso3166-2: MH-WTH
       names:
         - name: Wotho
+          languages: [en]
           sources: [iso3166-2]
         - name: Wōtto
+          languages: [mh]
           sources: [iso3166-2]
     
 
@@ -246,6 +290,8 @@ regions:
         iso3166-2: MH-MAL
       names:
         - name: Maloelap
+          languages: [en]
           sources: [iso3166-2]
         - name: Ṃaḷoeḷap
+          languages: [mh]
           sources: [iso3166-2]

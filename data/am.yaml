@@ -8,6 +8,7 @@ regions:
         iso3166-2: AM-AG
       names:
         - name: Aragac̣otn
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: AM-AR
       names:
         - name: Ararat
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: AM-AV
       names:
         - name: Armavir
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: AM-ER
       names:
         - name: Erevan
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: AM-GR
       names:
         - name: Geġark'unik'
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: AM-KT
       names:
         - name: Kotayk'
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: AM-LO
       names:
         - name: Loṙi
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: AM-SU
       names:
         - name: Syunik'
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: AM-TV
       names:
         - name: Tavuš
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: AM-VD
       names:
         - name: Vayoć Jor
+          languages: [hy]
           sources: [iso3166-2]
     
 
@@ -88,4 +98,5 @@ regions:
         iso3166-2: AM-SH
       names:
         - name: Širak
+          languages: [hy]
           sources: [iso3166-2]

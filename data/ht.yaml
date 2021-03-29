@@ -8,8 +8,10 @@ regions:
         iso3166-2: HT-AR
       names:
         - name: Artibonite
+          languages: [fr]
           sources: [iso3166-2]
         - name: Latibonit
+          languages: [ht]
           sources: [iso3166-2]
     
 
@@ -18,8 +20,10 @@ regions:
         iso3166-2: HT-CE
       names:
         - name: Centre
+          languages: [fr]
           sources: [iso3166-2]
         - name: Sant
+          languages: [ht]
           sources: [iso3166-2]
     
 
@@ -28,8 +32,10 @@ regions:
         iso3166-2: HT-GA
       names:
         - name: Grandans
+          languages: [ht]
           sources: [iso3166-2]
         - name: Grande’Anse
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -38,8 +44,10 @@ regions:
         iso3166-2: HT-OU
       names:
         - name: Lwès
+          languages: [ht]
           sources: [iso3166-2]
         - name: Ouest
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -48,8 +56,10 @@ regions:
         iso3166-2: HT-NI
       names:
         - name: Nip
+          languages: [ht]
           sources: [iso3166-2]
         - name: Nippes
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -58,8 +68,10 @@ regions:
         iso3166-2: HT-ND
       names:
         - name: Nord
+          languages: [fr]
           sources: [iso3166-2]
         - name: Nò
+          languages: [ht]
           sources: [iso3166-2]
     
 
@@ -68,8 +80,10 @@ regions:
         iso3166-2: HT-NO
       names:
         - name: Nord-Ouest
+          languages: [fr]
           sources: [iso3166-2]
         - name: Nòdwès
+          languages: [ht]
           sources: [iso3166-2]
     
 
@@ -78,8 +92,10 @@ regions:
         iso3166-2: HT-NE
       names:
         - name: Nord-Est
+          languages: [fr]
           sources: [iso3166-2]
         - name: Nòdès
+          languages: [ht]
           sources: [iso3166-2]
     
 
@@ -88,8 +104,10 @@ regions:
         iso3166-2: HT-SD
       names:
         - name: Sid
+          languages: [ht]
           sources: [iso3166-2]
         - name: Sud
+          languages: [fr]
           sources: [iso3166-2]
     
 
@@ -98,6 +116,8 @@ regions:
         iso3166-2: HT-SE
       names:
         - name: Sidès
+          languages: [ht]
           sources: [iso3166-2]
         - name: Sud-Est
+          languages: [fr]
           sources: [iso3166-2]

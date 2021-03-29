@@ -8,8 +8,10 @@ regions:
         iso3166-2: NP-P1
       names:
         - name: "1"
+          languages: [en]
           sources: [iso3166-2]
         - name: Pradesh 1
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -18,8 +20,10 @@ regions:
         iso3166-2: NP-P2
       names:
         - name: "2"
+          languages: [en]
           sources: [iso3166-2]
         - name: Pradesh 2
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -28,8 +32,10 @@ regions:
         iso3166-2: NP-P5
       names:
         - name: "5"
+          languages: [en]
           sources: [iso3166-2]
         - name: Pradesh 5
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -38,6 +44,7 @@ regions:
         iso3166-2: NP-BA
       names:
         - name: Bagmati
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -46,19 +53,22 @@ regions:
         iso3166-2: NP-BH
       names:
         - name: Bheri
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Bāgmatī
+    # 3
     - codes:
         iso3166-2: NP-P3
       names:
         - name: "3"
-          sources: [iso3166-2]
-        - name: Bāgmatī
           languages: [en]
           sources: [iso3166-2]
+        - name: Bāgmatī
+          languages: [en, ne]
+          sources: [iso3166-2]
         - name: Pradesh 3
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -67,8 +77,10 @@ regions:
         iso3166-2: NP-1
       names:
         - name: Central
+          languages: [en]
           sources: [iso3166-2]
         - name: Madhyamanchal
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -77,6 +89,7 @@ regions:
         iso3166-2: NP-DH
       names:
         - name: Dhawalagiri
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -85,8 +98,10 @@ regions:
         iso3166-2: NP-4
       names:
         - name: Eastern
+          languages: [en]
           sources: [iso3166-2]
         - name: Purwanchal
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -95,21 +110,25 @@ regions:
         iso3166-2: NP-5
       names:
         - name: Far Western
+          languages: [en]
           sources: [iso3166-2]
         - name: Sudur Pashchimanchal
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Gandaki
+    # 4
     - codes:
         iso3166-2: NP-P4
       names:
         - name: "4"
-          sources: [iso3166-2]
-        - name: Gandaki
           languages: [en]
           sources: [iso3166-2]
+        - name: Gandaki
+          languages: [en, ne]
+          sources: [iso3166-2]
         - name: Pradesh 4
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -118,30 +137,34 @@ regions:
         iso3166-2: NP-JA
       names:
         - name: Janakpur
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Karnali
+    # 6
     - codes:
         iso3166-2: NP-P6
       names:
         - name: "6"
-          sources: [iso3166-2]
-        - name: Karnali
           languages: [en]
           sources: [iso3166-2]
+        - name: Karnali
+          languages: [en, ne]
+          sources: [iso3166-2]
         - name: Pradesh 6
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Kosi
+    # Koshi
     - codes:
         iso3166-2: NP-KO
       names:
         - name: Koshi
+          languages: [ne]
           sources: [iso3166-2]
         - name: Kosi
-          languages: [en]
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -150,6 +173,7 @@ regions:
         iso3166-2: NP-LU
       names:
         - name: Lumbini
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -158,6 +182,7 @@ regions:
         iso3166-2: NP-MA
       names:
         - name: Mahakali
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -166,16 +191,19 @@ regions:
         iso3166-2: NP-ME
       names:
         - name: Mechi
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Madhya Pashchimanchal
+    # Mid Western
     - codes:
         iso3166-2: NP-2
       names:
         - name: Madhya Pashchimanchal
+          languages: [ne]
           sources: [iso3166-2]
         - name: Mid Western
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -184,6 +212,7 @@ regions:
         iso3166-2: NP-NA
       names:
         - name: Narayani
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -192,6 +221,7 @@ regions:
         iso3166-2: NP-RA
       names:
         - name: Rapti
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -200,6 +230,7 @@ regions:
         iso3166-2: NP-SA
       names:
         - name: Sagarmatha
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -208,6 +239,7 @@ regions:
         iso3166-2: NP-SE
       names:
         - name: Seti
+          languages: [ne]
           sources: [iso3166-2]
     
 
@@ -216,19 +248,23 @@ regions:
         iso3166-2: NP-P7
       names:
         - name: Sudūr Pashchim
-          languages: [en]
+          languages: [en, ne]
           sources: [iso3166-2]
         - name: Sudūrpashchim; 7
+          languages: [en]
           sources: [iso3166-2]
         - name: Sudūrpashchim; Pradesh 7
+          languages: [ne]
           sources: [iso3166-2]
     
 
-    # Pashchimanchal
+    # Western
     - codes:
         iso3166-2: NP-3
       names:
         - name: Pashchimanchal
+          languages: [ne]
           sources: [iso3166-2]
         - name: Western
+          languages: [en]
           sources: [iso3166-2]

@@ -8,6 +8,7 @@ regions:
         iso3166-2: JO-BA
       names:
         - name: Al Balqā’
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: JO-KA
       names:
         - name: Al Karak
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: JO-MA
       names:
         - name: Al Mafraq
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -32,9 +35,10 @@ regions:
         iso3166-2: JO-AQ
       names:
         - name: Al ‘Aqabah
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
         - name: Aqaba
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -43,9 +47,10 @@ regions:
         iso3166-2: JO-AM
       names:
         - name: Al ‘A̅şimah
-          languages: [en]
+          languages: [ar]
           sources: [iso3166-2]
         - name: ‘Ammān
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -54,6 +59,7 @@ regions:
         iso3166-2: JO-AZ
       names:
         - name: Az Zarqā’
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -62,6 +68,7 @@ regions:
         iso3166-2: JO-AT
       names:
         - name: Aţ Ţafīlah
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -70,6 +77,7 @@ regions:
         iso3166-2: JO-IR
       names:
         - name: Irbid
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -78,6 +86,7 @@ regions:
         iso3166-2: JO-JA
       names:
         - name: Jarash
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -86,6 +95,7 @@ regions:
         iso3166-2: JO-MN
       names:
         - name: Ma‘ān
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -94,6 +104,7 @@ regions:
         iso3166-2: JO-MD
       names:
         - name: Mādabā
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -102,4 +113,5 @@ regions:
         iso3166-2: JO-AJ
       names:
         - name: ‘Ajlūn
+          languages: [ar]
           sources: [iso3166-2]

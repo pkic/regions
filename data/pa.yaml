@@ -8,6 +8,7 @@ regions:
         iso3166-2: PA-1
       names:
         - name: Bocas del Toro
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: PA-4
       names:
         - name: Chiriquí
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: PA-2
       names:
         - name: Coclé
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: PA-3
       names:
         - name: Colón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: PA-5
       names:
         - name: Darién
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: PA-EM
       names:
         - name: Emberá
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,9 +62,10 @@ regions:
         iso3166-2: PA-KY
       names:
         - name: Guna Yala
-          languages: [en]
+          languages: [es]
           sources: [iso3166-2]
         - name: Kuna Yala
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -67,6 +74,7 @@ regions:
         iso3166-2: PA-6
       names:
         - name: Herrera
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -75,6 +83,7 @@ regions:
         iso3166-2: PA-7
       names:
         - name: Los Santos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -83,6 +92,7 @@ regions:
         iso3166-2: PA-NB
       names:
         - name: Ngöbe-Buglé
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -91,6 +101,7 @@ regions:
         iso3166-2: PA-8
       names:
         - name: Panamá
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -99,6 +110,7 @@ regions:
         iso3166-2: PA-10
       names:
         - name: Panamá Oeste
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -107,4 +119,5 @@ regions:
         iso3166-2: PA-9
       names:
         - name: Veraguas
+          languages: [es]
           sources: [iso3166-2]

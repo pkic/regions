@@ -8,16 +8,19 @@ regions:
         iso3166-2: PH-ABR
       names:
         - name: Abra
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Administratibo ng Kordilyera
+    # Cordillera Administrative
     - codes:
         iso3166-2: PH-15
       names:
         - name: Administratibo ng Kordilyera
+          languages: [tl]
           sources: [iso3166-2]
         - name: Cordillera Administrative
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -26,8 +29,10 @@ regions:
         iso3166-2: PH-AGN
       names:
         - name: Agusan del Norte
+          languages: [en]
           sources: [iso3166-2]
         - name: Hilagang Agusan
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -36,8 +41,10 @@ regions:
         iso3166-2: PH-AGS
       names:
         - name: Agusan del Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Agusan
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -46,6 +53,7 @@ regions:
         iso3166-2: PH-AKL
       names:
         - name: Aklan
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -54,16 +62,19 @@ regions:
         iso3166-2: PH-ALB
       names:
         - name: Albay
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Antike
+    # Antique
     - codes:
         iso3166-2: PH-ANT
       names:
         - name: Antike
+          languages: [tl]
           sources: [iso3166-2]
         - name: Antique
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -72,8 +83,10 @@ regions:
         iso3166-2: PH-APA
       names:
         - name: Apayao
+          languages: [en]
           sources: [iso3166-2]
         - name: Apayaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -82,6 +95,7 @@ regions:
         iso3166-2: PH-AUR
       names:
         - name: Aurora
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -90,6 +104,7 @@ regions:
         iso3166-2: PH-BAS
       names:
         - name: Basilan
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -98,6 +113,7 @@ regions:
         iso3166-2: PH-BAN
       names:
         - name: Bataan
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -106,6 +122,7 @@ regions:
         iso3166-2: PH-BTN
       names:
         - name: Batanes
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -114,16 +131,19 @@ regions:
         iso3166-2: PH-BTG
       names:
         - name: Batangas
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Benget
+    # Benguet
     - codes:
         iso3166-2: PH-BEN
       names:
         - name: Benget
+          languages: [tl]
           sources: [iso3166-2]
         - name: Benguet
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -132,8 +152,10 @@ regions:
         iso3166-2: PH-05
       names:
         - name: Bicol
+          languages: [en]
           sources: [iso3166-2]
         - name: Bikol
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -142,6 +164,7 @@ regions:
         iso3166-2: PH-BIL
       names:
         - name: Biliran
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -150,6 +173,7 @@ regions:
         iso3166-2: PH-BOH
       names:
         - name: Bohol
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -158,6 +182,7 @@ regions:
         iso3166-2: PH-BUK
       names:
         - name: Bukidnon
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -166,8 +191,10 @@ regions:
         iso3166-2: PH-BUL
       names:
         - name: Bulacan
+          languages: [en]
           sources: [iso3166-2]
         - name: Bulakan
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -176,8 +203,10 @@ regions:
         iso3166-2: PH-02
       names:
         - name: Cagayan Valley
+          languages: [en]
           sources: [iso3166-2]
         - name: Lambak ng Kagayan
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -186,6 +215,7 @@ regions:
         iso3166-2: PH-40
       names:
         - name: Calabarzon
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -194,8 +224,10 @@ regions:
         iso3166-2: PH-CAN
       names:
         - name: Camarines Norte
+          languages: [en]
           sources: [iso3166-2]
         - name: Hilagang Kamarines
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -204,8 +236,10 @@ regions:
         iso3166-2: PH-CAM
       names:
         - name: Camiguin
+          languages: [en]
           sources: [iso3166-2]
         - name: Kamigin
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -214,8 +248,10 @@ regions:
         iso3166-2: PH-13
       names:
         - name: Caraga
+          languages: [en]
           sources: [iso3166-2]
         - name: Karaga
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -224,8 +260,10 @@ regions:
         iso3166-2: PH-CAV
       names:
         - name: Cavite
+          languages: [en]
           sources: [iso3166-2]
         - name: Kabite
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -234,8 +272,10 @@ regions:
         iso3166-2: PH-03
       names:
         - name: Central Luzon
+          languages: [en]
           sources: [iso3166-2]
         - name: Gitnang Luson
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -244,8 +284,10 @@ regions:
         iso3166-2: PH-07
       names:
         - name: Central Visayas
+          languages: [en]
           sources: [iso3166-2]
         - name: Gitnang Bisaya
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -254,18 +296,22 @@ regions:
         iso3166-2: PH-NCO
       names:
         - name: Cotabato
+          languages: [en]
           sources: [iso3166-2]
         - name: Kotabato
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Dabaw
+    # Davao
     - codes:
         iso3166-2: PH-11
       names:
         - name: Dabaw
+          languages: [tl]
           sources: [iso3166-2]
         - name: Davao
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -274,6 +320,7 @@ regions:
         iso3166-2: PH-COM
       names:
         - name: Davao de Oro
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -282,8 +329,10 @@ regions:
         iso3166-2: PH-DAS
       names:
         - name: Davao del Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Dabaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -292,8 +341,10 @@ regions:
         iso3166-2: PH-DIN
       names:
         - name: Dinagat Islands
+          languages: [en]
           sources: [iso3166-2]
         - name: Pulo ng Dinagat
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -302,8 +353,10 @@ regions:
         iso3166-2: PH-EAS
       names:
         - name: Eastern Samar
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Samar
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -312,18 +365,22 @@ regions:
         iso3166-2: PH-08
       names:
         - name: Eastern Visayas
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Bisaya
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Gimaras
+    # Guimaras
     - codes:
         iso3166-2: PH-GUI
       names:
         - name: Gimaras
+          languages: [tl]
           sources: [iso3166-2]
         - name: Guimaras
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -332,28 +389,34 @@ regions:
         iso3166-2: PH-DAV
       names:
         - name: Davao del Norte
+          languages: [en]
           sources: [iso3166-2]
         - name: Hilagang Dabaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Hilagang Lanaw
+    # Lanao del Norte
     - codes:
         iso3166-2: PH-LAN
       names:
         - name: Hilagang Lanaw
+          languages: [tl]
           sources: [iso3166-2]
         - name: Lanao del Norte
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Hilagang Sambuwangga
+    # Zamboanga del Norte
     - codes:
         iso3166-2: PH-ZAN
       names:
         - name: Hilagang Sambuwangga
+          languages: [tl]
           sources: [iso3166-2]
         - name: Zamboanga del Norte
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -362,18 +425,22 @@ regions:
         iso3166-2: PH-IFU
       names:
         - name: Ifugao
+          languages: [en]
           sources: [iso3166-2]
         - name: Ipugaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Hilagang Iloko
+    # Ilocos Norte
     - codes:
         iso3166-2: PH-ILN
       names:
         - name: Hilagang Iloko
+          languages: [tl]
           sources: [iso3166-2]
         - name: Ilocos Norte
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -382,6 +449,7 @@ regions:
         iso3166-2: PH-ILI
       names:
         - name: Iloilo
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -390,8 +458,10 @@ regions:
         iso3166-2: PH-01
       names:
         - name: Ilocos
+          languages: [en]
           sources: [iso3166-2]
         - name: Iloko
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -400,6 +470,7 @@ regions:
         iso3166-2: PH-ISA
       names:
         - name: Isabela
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -408,8 +479,10 @@ regions:
         iso3166-2: PH-CAG
       names:
         - name: Cagayan
+          languages: [en]
           sources: [iso3166-2]
         - name: Kagayan
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -418,6 +491,7 @@ regions:
         iso3166-2: PH-KAL
       names:
         - name: Kalinga
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -426,18 +500,22 @@ regions:
         iso3166-2: PH-DVO
       names:
         - name: Davao Occidental
+          languages: [en]
           sources: [iso3166-2]
         - name: Kanlurang Dabaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Kanlurang Misamis
+    # Misamis Occidental
     - codes:
         iso3166-2: PH-MSC
       names:
         - name: Kanlurang Misamis
+          languages: [tl]
           sources: [iso3166-2]
         - name: Misamis Occidental
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -446,8 +524,10 @@ regions:
         iso3166-2: PH-CAP
       names:
         - name: Capiz
+          languages: [en]
           sources: [iso3166-2]
         - name: Kapis
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -456,18 +536,22 @@ regions:
         iso3166-2: PH-CAT
       names:
         - name: Catanduanes
+          languages: [en]
           sources: [iso3166-2]
         - name: Katanduwanes
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Katimogang Leyte
+    # Southern Leyte
     - codes:
         iso3166-2: PH-SLE
       names:
         - name: Katimogang Leyte
+          languages: [tl]
           sources: [iso3166-2]
         - name: Southern Leyte
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -476,8 +560,10 @@ regions:
         iso3166-2: PH-LUN
       names:
         - name: La Union
+          languages: [en]
           sources: [iso3166-2]
         - name: La Unyon
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -486,6 +572,7 @@ regions:
         iso3166-2: PH-LAG
       names:
         - name: Laguna
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -494,26 +581,31 @@ regions:
         iso3166-2: PH-LEY
       names:
         - name: Leyte
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Magindanaw
+    # Maguindanao
     - codes:
         iso3166-2: PH-MAG
       names:
         - name: Magindanaw
+          languages: [tl]
           sources: [iso3166-2]
         - name: Maguindanao
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Marinduke
+    # Marinduque
     - codes:
         iso3166-2: PH-MAD
       names:
         - name: Marinduke
+          languages: [tl]
           sources: [iso3166-2]
         - name: Marinduque
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -522,6 +614,7 @@ regions:
         iso3166-2: PH-MAS
       names:
         - name: Masbate
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -530,16 +623,19 @@ regions:
         iso3166-2: PH-41
       names:
         - name: Mimaropa
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Kanlurang Mindoro
+    # Mindoro Occidental
     - codes:
         iso3166-2: PH-MDC
       names:
         - name: Kanlurang Mindoro
+          languages: [tl]
           sources: [iso3166-2]
         - name: Mindoro Occidental
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -548,8 +644,10 @@ regions:
         iso3166-2: PH-MDR
       names:
         - name: Mindoro Oriental
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Mindoro
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -558,8 +656,10 @@ regions:
         iso3166-2: PH-MSR
       names:
         - name: Misamis Oriental
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Misamis
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -568,8 +668,10 @@ regions:
         iso3166-2: PH-14
       names:
         - name: Autonomous in Muslim Mindanao
+          languages: [en]
           sources: [iso3166-2]
         - name: Nagsasariling Muslim sa Mindanaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -578,18 +680,22 @@ regions:
         iso3166-2: PH-00
       names:
         - name: National
+          languages: [en]
           sources: [iso3166-2]
         - name: Pambansang Punong
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Kanlurang Negros
+    # Negros Occidental
     - codes:
         iso3166-2: PH-NEC
       names:
         - name: Kanlurang Negros
+          languages: [tl]
           sources: [iso3166-2]
         - name: Negros Occidental
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -598,28 +704,34 @@ regions:
         iso3166-2: PH-NER
       names:
         - name: Negros Oriental
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Negros
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Hilagang Mindanaw
+    # Northern Mindanao
     - codes:
         iso3166-2: PH-10
       names:
         - name: Hilagang Mindanaw
+          languages: [tl]
           sources: [iso3166-2]
         - name: Northern Mindanao
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Hilagang Samar
+    # Northern Samar
     - codes:
         iso3166-2: PH-NSA
       names:
         - name: Hilagang Samar
+          languages: [tl]
           sources: [iso3166-2]
         - name: Northern Samar
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -628,8 +740,10 @@ regions:
         iso3166-2: PH-NUE
       names:
         - name: Nueva Ecija
+          languages: [en]
           sources: [iso3166-2]
         - name: Nuweva Esiha
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -638,8 +752,10 @@ regions:
         iso3166-2: PH-NUV
       names:
         - name: Nueva Vizcaya
+          languages: [en]
           sources: [iso3166-2]
         - name: Nuweva Biskaya
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -648,6 +764,7 @@ regions:
         iso3166-2: PH-PLW
       names:
         - name: Palawan
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -656,6 +773,7 @@ regions:
         iso3166-2: PH-PAM
       names:
         - name: Pampanga
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -664,36 +782,43 @@ regions:
         iso3166-2: PH-PAN
       names:
         - name: Pangasinan
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Keson
+    # Quezon
     - codes:
         iso3166-2: PH-QUE
       names:
         - name: Keson
+          languages: [tl]
           sources: [iso3166-2]
         - name: Quezon
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Kirino
+    # Quirino
     - codes:
         iso3166-2: PH-QUI
       names:
         - name: Kirino
+          languages: [tl]
           sources: [iso3166-2]
         - name: Quirino
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Risal
+    # Rizal
     - codes:
         iso3166-2: PH-RIZ
       names:
         - name: Risal
+          languages: [tl]
           sources: [iso3166-2]
         - name: Rizal
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -702,6 +827,7 @@ regions:
         iso3166-2: PH-ROM
       names:
         - name: Romblon
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -710,9 +836,10 @@ regions:
         iso3166-2: PH-WSA
       names:
         - name: Samar
-          languages: [en]
+          languages: [en, tl]
           sources: [iso3166-2]
         - name: Western Samar
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -721,6 +848,7 @@ regions:
         iso3166-2: PH-SAR
       names:
         - name: Sarangani
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -729,8 +857,10 @@ regions:
         iso3166-2: PH-CEB
       names:
         - name: Cebu
+          languages: [en]
           sources: [iso3166-2]
         - name: Sebu
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -739,18 +869,22 @@ regions:
         iso3166-2: PH-DAO
       names:
         - name: Davao Oriental
+          languages: [en]
           sources: [iso3166-2]
         - name: Silangang Dabaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Sikihor
+    # Siquijor
     - codes:
         iso3166-2: PH-SIG
       names:
         - name: Sikihor
+          languages: [tl]
           sources: [iso3166-2]
         - name: Siquijor
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -759,6 +893,7 @@ regions:
         iso3166-2: PH-12
       names:
         - name: Soccsksargen
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -767,6 +902,7 @@ regions:
         iso3166-2: PH-SOR
       names:
         - name: Sorsogon
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -775,6 +911,7 @@ regions:
         iso3166-2: PH-SUK
       names:
         - name: Sultan Kudarat
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -783,16 +920,19 @@ regions:
         iso3166-2: PH-SLU
       names:
         - name: Sulu
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
-    # Hilagang Surigaw
+    # Surigao del Norte
     - codes:
         iso3166-2: PH-SUN
       names:
         - name: Hilagang Surigaw
+          languages: [tl]
           sources: [iso3166-2]
         - name: Surigao del Norte
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -801,18 +941,22 @@ regions:
         iso3166-2: PH-SUR
       names:
         - name: Surigao del Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Surigaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Tangway ng Sambuwangga
+    # Zamboanga Peninsula
     - codes:
         iso3166-2: PH-09
       names:
         - name: Tangway ng Sambuwangga
+          languages: [tl]
           sources: [iso3166-2]
         - name: Zamboanga Peninsula
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -821,8 +965,10 @@ regions:
         iso3166-2: PH-TAR
       names:
         - name: Tarlac
+          languages: [en]
           sources: [iso3166-2]
         - name: Tarlak
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -831,6 +977,7 @@ regions:
         iso3166-2: PH-TAW
       names:
         - name: Tawi-Tawi
+          languages: [en, tl]
           sources: [iso3166-2]
     
 
@@ -839,8 +986,10 @@ regions:
         iso3166-2: PH-ILS
       names:
         - name: Ilocos Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Iloko
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -849,8 +998,10 @@ regions:
         iso3166-2: PH-CAS
       names:
         - name: Camarines Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Kamarines
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -859,8 +1010,10 @@ regions:
         iso3166-2: PH-SCO
       names:
         - name: South Cotabato
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Kotabato
+          languages: [tl]
           sources: [iso3166-2]
     
 
@@ -869,48 +1022,58 @@ regions:
         iso3166-2: PH-LAS
       names:
         - name: Lanao del Sur
+          languages: [en]
           sources: [iso3166-2]
         - name: Timog Lanaw
+          languages: [tl]
           sources: [iso3166-2]
     
 
-    # Timog Sambuwangga
+    # Zamboanga del Sur
     - codes:
         iso3166-2: PH-ZAS
       names:
         - name: Timog Sambuwangga
+          languages: [tl]
           sources: [iso3166-2]
         - name: Zamboanga del Sur
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Kanlurang Bisaya
+    # Western Visayas
     - codes:
         iso3166-2: PH-06
       names:
         - name: Kanlurang Bisaya
+          languages: [tl]
           sources: [iso3166-2]
         - name: Western Visayas
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Sambales
+    # Zambales
     - codes:
         iso3166-2: PH-ZMB
       names:
         - name: Sambales
+          languages: [tl]
           sources: [iso3166-2]
         - name: Zambales
+          languages: [en]
           sources: [iso3166-2]
     
 
-    # Sambuwangga Sibugay
+    # Zamboanga Sibugay
     - codes:
         iso3166-2: PH-ZSI
       names:
         - name: Sambuwangga Sibugay
+          languages: [tl]
           sources: [iso3166-2]
         - name: Zamboanga Sibugay
+          languages: [en]
           sources: [iso3166-2]
     
 
@@ -919,6 +1082,8 @@ regions:
         iso3166-2: PH-MOU
       names:
         - name: Mountain
+          languages: [en]
           sources: [iso3166-2]
         - name: g Bulubundukin
+          languages: [tl]
           sources: [iso3166-2]

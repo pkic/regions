@@ -8,6 +8,7 @@ regions:
         iso3166-2: DO-02
       names:
         - name: Azua
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: DO-03
       names:
         - name: Baoruco
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: DO-04
       names:
         - name: Barahona
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: DO-33
       names:
         - name: Cibao Nordeste
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: DO-34
       names:
         - name: Cibao Noroeste
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: DO-35
       names:
         - name: Cibao Norte
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: DO-36
       names:
         - name: Cibao Sur
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: DO-05
       names:
         - name: Dajabón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: DO-01
       names:
         - name: Distrito Nacional
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: DO-06
       names:
         - name: Duarte
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: DO-08
       names:
         - name: El Seibo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: DO-37
       names:
         - name: El Valle
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -104,6 +116,7 @@ regions:
         iso3166-2: DO-07
       names:
         - name: Elías Piña
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -112,6 +125,7 @@ regions:
         iso3166-2: DO-38
       names:
         - name: Enriquillo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -120,6 +134,7 @@ regions:
         iso3166-2: DO-09
       names:
         - name: Espaillat
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -128,6 +143,7 @@ regions:
         iso3166-2: DO-30
       names:
         - name: Hato Mayor
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -136,6 +152,7 @@ regions:
         iso3166-2: DO-19
       names:
         - name: Hermanas Mirabal
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -144,6 +161,7 @@ regions:
         iso3166-2: DO-39
       names:
         - name: Higuamo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -152,6 +170,7 @@ regions:
         iso3166-2: DO-10
       names:
         - name: Independencia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -160,6 +179,7 @@ regions:
         iso3166-2: DO-11
       names:
         - name: La Altagracia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -168,6 +188,7 @@ regions:
         iso3166-2: DO-12
       names:
         - name: La Romana
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -176,6 +197,7 @@ regions:
         iso3166-2: DO-13
       names:
         - name: La Vega
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -184,6 +206,7 @@ regions:
         iso3166-2: DO-14
       names:
         - name: María Trinidad Sánchez
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -192,6 +215,7 @@ regions:
         iso3166-2: DO-28
       names:
         - name: Monseñor Nouel
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -200,6 +224,7 @@ regions:
         iso3166-2: DO-15
       names:
         - name: Monte Cristi
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -208,6 +233,7 @@ regions:
         iso3166-2: DO-29
       names:
         - name: Monte Plata
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -216,6 +242,7 @@ regions:
         iso3166-2: DO-40
       names:
         - name: Ozama
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -224,6 +251,7 @@ regions:
         iso3166-2: DO-16
       names:
         - name: Pedernales
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -232,6 +260,7 @@ regions:
         iso3166-2: DO-17
       names:
         - name: Peravia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -240,6 +269,7 @@ regions:
         iso3166-2: DO-18
       names:
         - name: Puerto Plata
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -248,6 +278,7 @@ regions:
         iso3166-2: DO-20
       names:
         - name: Samaná
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -256,6 +287,7 @@ regions:
         iso3166-2: DO-21
       names:
         - name: San Cristóbal
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -264,6 +296,7 @@ regions:
         iso3166-2: DO-31
       names:
         - name: San José de Ocoa
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -272,6 +305,7 @@ regions:
         iso3166-2: DO-22
       names:
         - name: San Juan
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -280,6 +314,7 @@ regions:
         iso3166-2: DO-23
       names:
         - name: San Pedro de Macorís
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -288,6 +323,7 @@ regions:
         iso3166-2: DO-25
       names:
         - name: Santiago
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -296,6 +332,7 @@ regions:
         iso3166-2: DO-26
       names:
         - name: Santiago Rodríguez
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -304,6 +341,7 @@ regions:
         iso3166-2: DO-32
       names:
         - name: Santo Domingo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -312,6 +350,7 @@ regions:
         iso3166-2: DO-24
       names:
         - name: Sánchez Ramírez
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -320,6 +359,7 @@ regions:
         iso3166-2: DO-41
       names:
         - name: Valdesia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -328,6 +368,7 @@ regions:
         iso3166-2: DO-27
       names:
         - name: Valverde
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -336,4 +377,5 @@ regions:
         iso3166-2: DO-42
       names:
         - name: Yuma
+          languages: [es]
           sources: [iso3166-2]

@@ -9,6 +9,7 @@ regions:
         iso3166-2: ES-C
       names:
         - name: A Coruña
+          languages: [gl]
           sources: [iso3166-2]
     
 
@@ -17,8 +18,10 @@ regions:
         iso3166-2: ES-A
       names:
         - name: Alacant
+          languages: [ca]
           sources: [iso3166-2]
         - name: Alicante
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -27,6 +30,7 @@ regions:
         iso3166-2: ES-AB
       names:
         - name: Albacete
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -35,6 +39,7 @@ regions:
         iso3166-2: ES-AL
       names:
         - name: Almería
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -95,8 +100,10 @@ regions:
         iso3166-2: ES-VI
       names:
         - name: Araba
+          languages: [eu]
           sources: [iso3166-2]
         - name: Álava
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -235,6 +242,7 @@ regions:
         iso3166-2: ES-O
       names:
         - name: Asturias
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -243,6 +251,7 @@ regions:
         iso3166-2: ES-AS
       names:
         - name: Asturias, Principado de
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -273,7 +282,7 @@ regions:
           languages: [sq]
           sources: [euvoc]
         - name: Madrid
-          languages: [mt, nl, sk, sv]
+          languages: [es, mt, nl, sk, sv]
           sources: [euvoc, iso3166-2]
         - name: Madridas
           languages: [lt]
@@ -405,6 +414,7 @@ regions:
         iso3166-2: ES-BA
       names:
         - name: Badajoz
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -494,6 +504,7 @@ regions:
         iso3166-2: ES-B
       names:
         - name: Barcelona
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -536,6 +547,7 @@ regions:
           languages: [hu]
           sources: [euvoc]
         - name: Euskal Herria
+          languages: [eu]
           sources: [iso3166-2]
         - name: Il-pajjiż Bask
           languages: [mt]
@@ -574,6 +586,7 @@ regions:
         iso3166-2: ES-BI
       names:
         - name: Bizkaia
+          languages: [eu]
           sources: [iso3166-2]
     
 
@@ -582,6 +595,7 @@ regions:
         iso3166-2: ES-BU
       names:
         - name: Burgos
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -590,6 +604,7 @@ regions:
         iso3166-2: ES-CN
       names:
         - name: Canarias
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -883,8 +898,10 @@ regions:
         iso3166-2: ES-CS
       names:
         - name: Castelló
+          languages: [ca]
           sources: [iso3166-2]
         - name: Castellón
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -950,6 +967,7 @@ regions:
         iso3166-2: ES-CT
       names:
         - name: Catalunya
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -980,6 +998,7 @@ regions:
         iso3166-2: ES-CR
       names:
         - name: Ciudad Real
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -988,6 +1007,7 @@ regions:
         iso3166-2: ES-CU
       names:
         - name: Cuenca
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -996,6 +1016,7 @@ regions:
         iso3166-2: ES-CC
       names:
         - name: Cáceres
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1004,6 +1025,7 @@ regions:
         iso3166-2: ES-CA
       names:
         - name: Cádiz
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1012,6 +1034,7 @@ regions:
         iso3166-2: ES-CO
       names:
         - name: Córdoba
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1058,7 +1081,7 @@ regions:
           languages: [fr]
           sources: [euvoc]
         - name: Galicia
-          languages: [en, es, et, fi, mt, sq]
+          languages: [en, es, et, fi, gl, mt, sq]
           sources: [euvoc, iso3166-2]
         - name: Galicie
           languages: [cs]
@@ -1106,6 +1129,7 @@ regions:
         iso3166-2: ES-SS
       names:
         - name: Gipuzkoa
+          languages: [eu]
           sources: [iso3166-2]
     
 
@@ -1114,6 +1138,7 @@ regions:
         iso3166-2: ES-GI
       names:
         - name: Girona
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1122,6 +1147,7 @@ regions:
         iso3166-2: ES-GR
       names:
         - name: Granada
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1130,6 +1156,7 @@ regions:
         iso3166-2: ES-GU
       names:
         - name: Guadalajara
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1138,6 +1165,7 @@ regions:
         iso3166-2: ES-H
       names:
         - name: Huelva
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1146,6 +1174,7 @@ regions:
         iso3166-2: ES-HU
       names:
         - name: Huesca
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1154,6 +1183,7 @@ regions:
         iso3166-2: ES-PM
       names:
         - name: Illes Balears
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1162,6 +1192,7 @@ regions:
         iso3166-2: ES-J
       names:
         - name: Jaén
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1195,6 +1226,7 @@ regions:
         iso3166-2: ES-GC
       names:
         - name: Las Palmas
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1203,6 +1235,7 @@ regions:
         iso3166-2: ES-LE
       names:
         - name: León
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1211,6 +1244,7 @@ regions:
         iso3166-2: ES-L
       names:
         - name: Lleida
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1219,6 +1253,7 @@ regions:
         iso3166-2: ES-LU
       names:
         - name: Lugo
+          languages: [gl]
           sources: [iso3166-2]
     
 
@@ -1227,6 +1262,7 @@ regions:
         iso3166-2: ES-MD
       names:
         - name: Madrid, Comunidad de
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1267,7 +1303,7 @@ regions:
         iso3166-2: ES-MU
       names:
         - name: Murcia
-          languages: [de, en, et, hr, mt, nl, sk, sl, sv]
+          languages: [de, en, es, et, hr, mt, nl, sk, sl, sv]
           sources: [euvoc, iso3166-2]
         - name: Murciaen
           languages: [da]
@@ -1324,6 +1360,7 @@ regions:
         iso3166-2: ES-MC
       names:
         - name: Murcian de
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1332,6 +1369,7 @@ regions:
         iso3166-2: ES-MA
       names:
         - name: Málaga
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1341,6 +1379,7 @@ regions:
         iso3166-2: ES-NA
       names:
         - name: Nafarroa
+          languages: [eu]
           sources: [iso3166-2]
         - name: Navara
           languages: [lt, sq]
@@ -1367,8 +1406,10 @@ regions:
         iso3166-2: ES-NC
       names:
         - name: Nafarroako Foru Komunitatea
+          languages: [eu]
           sources: [iso3166-2]
         - name: Navarra, Comunidad Foral de
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1377,6 +1418,7 @@ regions:
         iso3166-2: ES-OR
       names:
         - name: Ourense
+          languages: [gl]
           sources: [iso3166-2]
     
 
@@ -1385,6 +1427,7 @@ regions:
         iso3166-2: ES-P
       names:
         - name: Palencia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1393,6 +1436,7 @@ regions:
         iso3166-2: ES-PO
       names:
         - name: Pontevedra
+          languages: [gl]
           sources: [iso3166-2]
     
 
@@ -1401,6 +1445,7 @@ regions:
         iso3166-2: ES-SA
       names:
         - name: Salamanca
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1409,6 +1454,7 @@ regions:
         iso3166-2: ES-TF
       names:
         - name: Santa Cruz de Tenerife
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1417,6 +1463,7 @@ regions:
         iso3166-2: ES-SG
       names:
         - name: Segovia
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1425,6 +1472,7 @@ regions:
         iso3166-2: ES-SE
       names:
         - name: Sevilla
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1433,6 +1481,7 @@ regions:
         iso3166-2: ES-SO
       names:
         - name: Soria
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1441,6 +1490,7 @@ regions:
         iso3166-2: ES-T
       names:
         - name: Tarragona
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1449,6 +1499,7 @@ regions:
         iso3166-2: ES-TE
       names:
         - name: Teruel
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1457,6 +1508,7 @@ regions:
         iso3166-2: ES-TO
       names:
         - name: Toledo
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1465,8 +1517,10 @@ regions:
         iso3166-2: ES-VC
       names:
         - name: Valenciana, Comunidad
+          languages: [es]
           sources: [iso3166-2]
         - name: Valenciana, Comunitat
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1475,6 +1529,7 @@ regions:
         iso3166-2: ES-VA
       names:
         - name: Valladolid
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1483,8 +1538,10 @@ regions:
         iso3166-2: ES-V
       names:
         - name: Valencia
+          languages: [es]
           sources: [iso3166-2]
         - name: València
+          languages: [ca]
           sources: [iso3166-2]
     
 
@@ -1493,6 +1550,7 @@ regions:
         iso3166-2: ES-ZA
       names:
         - name: Zamora
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1501,6 +1559,7 @@ regions:
         iso3166-2: ES-Z
       names:
         - name: Zaragoza
+          languages: [es]
           sources: [iso3166-2]
     
 
@@ -1509,4 +1568,5 @@ regions:
         iso3166-2: ES-AV
       names:
         - name: Ávila
+          languages: [es]
           sources: [iso3166-2]

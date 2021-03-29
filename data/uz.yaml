@@ -8,6 +8,7 @@ regions:
         iso3166-2: UZ-AN
       names:
         - name: Andijon
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -16,6 +17,7 @@ regions:
         iso3166-2: UZ-BU
       names:
         - name: Buxoro
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -24,6 +26,7 @@ regions:
         iso3166-2: UZ-FA
       names:
         - name: Farg‘ona
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -32,6 +35,7 @@ regions:
         iso3166-2: UZ-JI
       names:
         - name: Jizzax
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -40,6 +44,7 @@ regions:
         iso3166-2: UZ-NG
       names:
         - name: Namangan
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -48,6 +53,7 @@ regions:
         iso3166-2: UZ-NW
       names:
         - name: Navoiy
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -56,6 +62,7 @@ regions:
         iso3166-2: UZ-QA
       names:
         - name: Qashqadaryo
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -64,6 +71,7 @@ regions:
         iso3166-2: UZ-QR
       names:
         - name: Qoraqalpog‘iston Respublikasi
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -72,6 +80,7 @@ regions:
         iso3166-2: UZ-SA
       names:
         - name: Samarqand
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -80,6 +89,7 @@ regions:
         iso3166-2: UZ-SI
       names:
         - name: Sirdaryo
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -88,6 +98,7 @@ regions:
         iso3166-2: UZ-SU
       names:
         - name: Surxondaryo
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -96,6 +107,7 @@ regions:
         iso3166-2: UZ-TO
       names:
         - name: Toshkent
+          languages: [uz]
           sources: [iso3166-2]
     
 
@@ -104,4 +116,5 @@ regions:
         iso3166-2: UZ-XO
       names:
         - name: Xorazm
+          languages: [uz]
           sources: [iso3166-2]

@@ -9,6 +9,7 @@ regions:
         iso3166-2: SM-01
       names:
         - name: Acquaviva
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: SM-06
       names:
         - name: Borgo Maggiore
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: SM-02
       names:
         - name: Chiesanuova
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -33,9 +36,10 @@ regions:
         iso3166-2: SM-07
       names:
         - name: Città di San Marino
-          languages: [en]
+          languages: [it]
           sources: [iso3166-2]
         - name: San Marino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -44,6 +48,7 @@ regions:
         iso3166-2: SM-03
       names:
         - name: Domagnano
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -52,6 +57,7 @@ regions:
         iso3166-2: SM-04
       names:
         - name: Faetano
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -60,6 +66,7 @@ regions:
         iso3166-2: SM-05
       names:
         - name: Fiorentino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -68,6 +75,7 @@ regions:
         iso3166-2: SM-08
       names:
         - name: Montegiardino
+          languages: [it]
           sources: [iso3166-2]
     
 
@@ -76,4 +84,5 @@ regions:
         iso3166-2: SM-09
       names:
         - name: Serravalle
+          languages: [it]
           sources: [iso3166-2]

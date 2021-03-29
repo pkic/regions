@@ -9,6 +9,7 @@ regions:
         iso3166-2: MT-01
       names:
         - name: Attard
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -17,6 +18,7 @@ regions:
         iso3166-2: MT-02
       names:
         - name: Balzan
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -25,6 +27,7 @@ regions:
         iso3166-2: MT-03
       names:
         - name: Birgu
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -33,6 +36,7 @@ regions:
         iso3166-2: MT-04
       names:
         - name: Birkirkara
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -41,6 +45,7 @@ regions:
         iso3166-2: MT-05
       names:
         - name: Birżebbuġa
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -49,6 +54,7 @@ regions:
         iso3166-2: MT-06
       names:
         - name: Bormla
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -57,6 +63,7 @@ regions:
         iso3166-2: MT-07
       names:
         - name: Dingli
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -65,6 +72,7 @@ regions:
         iso3166-2: MT-08
       names:
         - name: Fgura
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -73,6 +81,7 @@ regions:
         iso3166-2: MT-09
       names:
         - name: Floriana
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -81,6 +90,7 @@ regions:
         iso3166-2: MT-10
       names:
         - name: Fontana
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -89,6 +99,7 @@ regions:
         iso3166-2: MT-11
       names:
         - name: Gudja
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -97,6 +108,7 @@ regions:
         iso3166-2: MT-13
       names:
         - name: Għajnsielem
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -105,6 +117,7 @@ regions:
         iso3166-2: MT-14
       names:
         - name: Għarb
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -113,6 +126,7 @@ regions:
         iso3166-2: MT-15
       names:
         - name: Għargħur
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -121,6 +135,7 @@ regions:
         iso3166-2: MT-16
       names:
         - name: Għasri
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -129,6 +144,7 @@ regions:
         iso3166-2: MT-17
       names:
         - name: Għaxaq
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -137,6 +153,7 @@ regions:
         iso3166-2: MT-12
       names:
         - name: Gżira
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -145,6 +162,7 @@ regions:
         iso3166-2: MT-19
       names:
         - name: Iklin
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -153,6 +171,7 @@ regions:
         iso3166-2: MT-20
       names:
         - name: Isla
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -161,6 +180,7 @@ regions:
         iso3166-2: MT-21
       names:
         - name: Kalkara
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -169,6 +189,7 @@ regions:
         iso3166-2: MT-22
       names:
         - name: Kerċem
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -177,6 +198,7 @@ regions:
         iso3166-2: MT-23
       names:
         - name: Kirkop
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -185,6 +207,7 @@ regions:
         iso3166-2: MT-24
       names:
         - name: Lija
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -193,6 +216,7 @@ regions:
         iso3166-2: MT-25
       names:
         - name: Luqa
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -201,6 +225,7 @@ regions:
         iso3166-2: MT-26
       names:
         - name: Marsa
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -209,6 +234,7 @@ regions:
         iso3166-2: MT-27
       names:
         - name: Marsaskala
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -217,6 +243,7 @@ regions:
         iso3166-2: MT-28
       names:
         - name: Marsaxlokk
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -225,6 +252,7 @@ regions:
         iso3166-2: MT-29
       names:
         - name: Mdina
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -233,6 +261,7 @@ regions:
         iso3166-2: MT-30
       names:
         - name: Mellieħa
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -241,6 +270,7 @@ regions:
         iso3166-2: MT-32
       names:
         - name: Mosta
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -249,6 +279,7 @@ regions:
         iso3166-2: MT-33
       names:
         - name: Mqabba
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -257,6 +288,7 @@ regions:
         iso3166-2: MT-34
       names:
         - name: Msida
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -265,6 +297,7 @@ regions:
         iso3166-2: MT-35
       names:
         - name: Mtarfa
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -273,6 +306,7 @@ regions:
         iso3166-2: MT-36
       names:
         - name: Munxar
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -281,6 +315,7 @@ regions:
         iso3166-2: MT-31
       names:
         - name: Mġarr
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -289,6 +324,7 @@ regions:
         iso3166-2: MT-37
       names:
         - name: Nadur
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -297,6 +333,7 @@ regions:
         iso3166-2: MT-38
       names:
         - name: Naxxar
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -305,6 +342,7 @@ regions:
         iso3166-2: MT-39
       names:
         - name: Paola
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -313,6 +351,7 @@ regions:
         iso3166-2: MT-40
       names:
         - name: Pembroke
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -321,6 +360,7 @@ regions:
         iso3166-2: MT-41
       names:
         - name: Pietà
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -329,6 +369,7 @@ regions:
         iso3166-2: MT-42
       names:
         - name: Qala
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -337,6 +378,7 @@ regions:
         iso3166-2: MT-43
       names:
         - name: Qormi
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -345,6 +387,7 @@ regions:
         iso3166-2: MT-44
       names:
         - name: Qrendi
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -353,8 +396,10 @@ regions:
         iso3166-2: MT-45
       names:
         - name: Rabat Gozo
+          languages: [en]
           sources: [iso3166-2]
         - name: Rabat Għawdex
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -363,6 +408,7 @@ regions:
         iso3166-2: MT-46
       names:
         - name: Rabat Malta
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -371,6 +417,7 @@ regions:
         iso3166-2: MT-47
       names:
         - name: Safi
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -379,8 +426,10 @@ regions:
         iso3166-2: MT-48
       names:
         - name: Saint Julian's
+          languages: [en]
           sources: [iso3166-2]
         - name: San Ġiljan
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -389,8 +438,10 @@ regions:
         iso3166-2: MT-50
       names:
         - name: Saint Lawrence
+          languages: [en]
           sources: [iso3166-2]
         - name: San Lawrenz
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -399,8 +450,10 @@ regions:
         iso3166-2: MT-51
       names:
         - name: Saint Paul's Bay
+          languages: [en]
           sources: [iso3166-2]
         - name: San Pawl il-Baħar
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -409,8 +462,10 @@ regions:
         iso3166-2: MT-49
       names:
         - name: Saint John
+          languages: [en]
           sources: [iso3166-2]
         - name: San Ġwann
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -419,6 +474,7 @@ regions:
         iso3166-2: MT-52
       names:
         - name: Sannat
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -427,8 +483,10 @@ regions:
         iso3166-2: MT-53
       names:
         - name: Saint Lucia's
+          languages: [en]
           sources: [iso3166-2]
         - name: Santa Luċija
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -437,6 +495,7 @@ regions:
         iso3166-2: MT-54
       names:
         - name: Santa Venera
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -445,6 +504,7 @@ regions:
         iso3166-2: MT-55
       names:
         - name: Siġġiewi
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -453,6 +513,7 @@ regions:
         iso3166-2: MT-56
       names:
         - name: Sliema
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -461,6 +522,7 @@ regions:
         iso3166-2: MT-57
       names:
         - name: Swieqi
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -469,6 +531,7 @@ regions:
         iso3166-2: MT-58
       names:
         - name: Ta' Xbiex
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -477,6 +540,7 @@ regions:
         iso3166-2: MT-59
       names:
         - name: Tarxien
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -485,6 +549,7 @@ regions:
         iso3166-2: MT-60
       names:
         - name: Valletta
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -493,6 +558,7 @@ regions:
         iso3166-2: MT-61
       names:
         - name: Xagħra
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -501,6 +567,7 @@ regions:
         iso3166-2: MT-62
       names:
         - name: Xewkija
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -509,6 +576,7 @@ regions:
         iso3166-2: MT-63
       names:
         - name: Xgħajra
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -517,6 +585,7 @@ regions:
         iso3166-2: MT-18
       names:
         - name: Ħamrun
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -525,6 +594,7 @@ regions:
         iso3166-2: MT-64
       names:
         - name: Żabbar
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -533,8 +603,10 @@ regions:
         iso3166-2: MT-65
       names:
         - name: Żebbuġ Gozo
+          languages: [en]
           sources: [iso3166-2]
         - name: Żebbuġ Għawdex
+          languages: [mt]
           sources: [iso3166-2]
     
 
@@ -543,6 +615,7 @@ regions:
         iso3166-2: MT-66
       names:
         - name: Żebbuġ Malta
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -551,6 +624,7 @@ regions:
         iso3166-2: MT-67
       names:
         - name: Żejtun
+          languages: [en, mt]
           sources: [iso3166-2]
     
 
@@ -559,4 +633,5 @@ regions:
         iso3166-2: MT-68
       names:
         - name: Żurrieq
+          languages: [en, mt]
           sources: [iso3166-2]

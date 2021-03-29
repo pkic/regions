@@ -93,6 +93,7 @@ regions:
         iso3166-2: GR-A
       names:
         - name: Anatolikí Makedonía kai Thráki
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -131,6 +132,7 @@ regions:
         iso3166-2: GR-I
       names:
         - name: Attikí
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -673,6 +675,7 @@ regions:
         iso3166-2: GR-G
       names:
         - name: Dytikí Elláda
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -681,6 +684,7 @@ regions:
         iso3166-2: GR-C
       names:
         - name: Dytikí Makedonía
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -780,7 +784,7 @@ regions:
           languages: [fr]
           sources: [euvoc]
         - name: Ípeiros
-          languages: [et]
+          languages: [el, et]
           sources: [euvoc, iso3166-2]
         - name: Ēpeira
           languages: [lv]
@@ -882,6 +886,7 @@ regions:
         iso3166-2: GR-F
       names:
         - name: Ionía Nísia
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -890,6 +895,7 @@ regions:
         iso3166-2: GR-B
       names:
         - name: Kentrikí Makedonía
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -898,6 +904,7 @@ regions:
         iso3166-2: GR-M
       names:
         - name: Kríti
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -987,6 +994,7 @@ regions:
         iso3166-2: GR-L
       names:
         - name: Nótio Aigaío
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -1052,6 +1060,7 @@ regions:
         iso3166-2: GR-J
       names:
         - name: Pelopónnisos
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -1060,6 +1069,7 @@ regions:
         iso3166-2: GR-H
       names:
         - name: Stereá Elláda
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -1125,6 +1135,7 @@ regions:
         iso3166-2: GR-E
       names:
         - name: Thessalía
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -1133,6 +1144,7 @@ regions:
         iso3166-2: GR-K
       names:
         - name: Vóreio Aigaío
+          languages: [el]
           sources: [iso3166-2]
     
 
@@ -1141,4 +1153,5 @@ regions:
         iso3166-2: GR-69
       names:
         - name: Ágion Óros
+          languages: [el]
           sources: [iso3166-2]

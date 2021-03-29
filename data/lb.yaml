@@ -8,8 +8,10 @@ regions:
         iso3166-2: LB-NA
       names:
         - name: An Nabaţīyah
+          languages: [ar]
           sources: [iso3166-2]
         - name: Nabatîyé
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -18,8 +20,10 @@ regions:
         iso3166-2: LB-AS
       names:
         - name: Ash Shimāl
+          languages: [ar]
           sources: [iso3166-2]
         - name: Liban-Nord
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -28,8 +32,10 @@ regions:
         iso3166-2: LB-BH
       names:
         - name: Baalbek-Hermel
+          languages: [ar]
           sources: [iso3166-2]
         - name: B‘alabak-Al Hirmil
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -38,8 +44,10 @@ regions:
         iso3166-2: LB-BA
       names:
         - name: Bayrūt
+          languages: [ar]
           sources: [iso3166-2]
         - name: Beyrouth
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -48,8 +56,10 @@ regions:
         iso3166-2: LB-BI
       names:
         - name: Al Biqā‘
+          languages: [ar]
           sources: [iso3166-2]
         - name: Béqaa
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -58,8 +68,10 @@ regions:
         iso3166-2: LB-JL
       names:
         - name: Jabal Lubnān
+          languages: [ar]
           sources: [iso3166-2]
         - name: Mont-Liban
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -68,8 +80,10 @@ regions:
         iso3166-2: LB-JA
       names:
         - name: Al Janūb
+          languages: [ar]
           sources: [iso3166-2]
         - name: Liban-Sud
+          languages: [ar]
           sources: [iso3166-2]
     
 
@@ -78,6 +92,8 @@ regions:
         iso3166-2: LB-AK
       names:
         - name: Aakkâr
+          languages: [ar]
           sources: [iso3166-2]
         - name: ‘Akkār
+          languages: [ar]
           sources: [iso3166-2]
