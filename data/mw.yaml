@@ -1,0 +1,291 @@
+iso3166-1: MW
+complete: false
+regions:
+    
+
+    # Balaka
+    - codes:
+        iso3166-2: MW-BA
+      names:
+        - name: Balaka
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Blantyre
+    - codes:
+        iso3166-2: MW-BL
+      names:
+        - name: Blantyre
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: MW-N
+      names:
+        - name: Chakumpoto
+          languages: [ny]
+          sources: [iso3166-2]
+        - name: Northern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: MW-C
+      names:
+        - name: Central
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Chapakati
+          languages: [ny]
+          sources: [iso3166-2]
+    
+
+    # Chikwawa
+    - codes:
+        iso3166-2: MW-CK
+      names:
+        - name: Chikwawa
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Chiradzulu
+    - codes:
+        iso3166-2: MW-CR
+      names:
+        - name: Chiradzulu
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Chitipa
+    - codes:
+        iso3166-2: MW-CT
+      names:
+        - name: Chitipa
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Dedza
+    - codes:
+        iso3166-2: MW-DE
+      names:
+        - name: Dedza
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Dowa
+    - codes:
+        iso3166-2: MW-DO
+      names:
+        - name: Dowa
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Karonga
+    - codes:
+        iso3166-2: MW-KR
+      names:
+        - name: Karonga
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Kasungu
+    - codes:
+        iso3166-2: MW-KS
+      names:
+        - name: Kasungu
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Likoma
+    - codes:
+        iso3166-2: MW-LK
+      names:
+        - name: Likoma
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Lilongwe
+    - codes:
+        iso3166-2: MW-LI
+      names:
+        - name: Lilongwe
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Machinga
+    - codes:
+        iso3166-2: MW-MH
+      names:
+        - name: Machinga
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Mangochi
+    - codes:
+        iso3166-2: MW-MG
+      names:
+        - name: Mangochi
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Mchinji
+    - codes:
+        iso3166-2: MW-MC
+      names:
+        - name: Mchinji
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Mulanje
+    - codes:
+        iso3166-2: MW-MU
+      names:
+        - name: Mulanje
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Mwanza
+    - codes:
+        iso3166-2: MW-MW
+      names:
+        - name: Mwanza
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Mzimba
+    - codes:
+        iso3166-2: MW-MZ
+      names:
+        - name: Mzimba
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Neno
+    - codes:
+        iso3166-2: MW-NE
+      names:
+        - name: Neno
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Nkhata Bay
+    - codes:
+        iso3166-2: MW-NB
+      names:
+        - name: Nkhata Bay
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Nkhotakota
+    - codes:
+        iso3166-2: MW-NK
+      names:
+        - name: Nkhotakota
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Nsanje
+    - codes:
+        iso3166-2: MW-NS
+      names:
+        - name: Nsanje
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Ntcheu
+    - codes:
+        iso3166-2: MW-NU
+      names:
+        - name: Ntcheu
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Ntchisi
+    - codes:
+        iso3166-2: MW-NI
+      names:
+        - name: Ntchisi
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Phalombe
+    - codes:
+        iso3166-2: MW-PH
+      names:
+        - name: Phalombe
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Rumphi
+    - codes:
+        iso3166-2: MW-RU
+      names:
+        - name: Rumphi
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Salima
+    - codes:
+        iso3166-2: MW-SA
+      names:
+        - name: Salima
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: MW-S
+      names:
+        - name: Chakumwera
+          languages: [ny]
+          sources: [iso3166-2]
+        - name: Southern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Thyolo
+    - codes:
+        iso3166-2: MW-TH
+      names:
+        - name: Thyolo
+          languages: [en, ny]
+          sources: [iso3166-2]
+    
+
+    # Zomba
+    - codes:
+        iso3166-2: MW-ZO
+      names:
+        - name: Zomba
+          languages: [en, ny]
+          sources: [iso3166-2]

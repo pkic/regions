@@ -1,0 +1,219 @@
+iso3166-1: AR
+complete: false
+regions:
+    
+
+    # Buenos Aires
+    - codes:
+        iso3166-2: AR-B
+      names:
+        - name: Buenos Aires
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Catamarca
+    - codes:
+        iso3166-2: AR-K
+      names:
+        - name: Catamarca
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chaco
+    - codes:
+        iso3166-2: AR-H
+      names:
+        - name: Chaco
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chubut
+    - codes:
+        iso3166-2: AR-U
+      names:
+        - name: Chubut
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Ciudad Autónoma de Buenos Aires
+    - codes:
+        iso3166-2: AR-C
+      names:
+        - name: Ciudad Autónoma de Buenos Aires
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Corrientes
+    - codes:
+        iso3166-2: AR-W
+      names:
+        - name: Corrientes
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Córdoba
+    - codes:
+        iso3166-2: AR-X
+      names:
+        - name: Córdoba
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Entre Ríos
+    - codes:
+        iso3166-2: AR-E
+      names:
+        - name: Entre Ríos
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Formosa
+    - codes:
+        iso3166-2: AR-P
+      names:
+        - name: Formosa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Jujuy
+    - codes:
+        iso3166-2: AR-Y
+      names:
+        - name: Jujuy
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # La Pampa
+    - codes:
+        iso3166-2: AR-L
+      names:
+        - name: La Pampa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # La Rioja
+    - codes:
+        iso3166-2: AR-F
+      names:
+        - name: La Rioja
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Mendoza
+    - codes:
+        iso3166-2: AR-M
+      names:
+        - name: Mendoza
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Misiones
+    - codes:
+        iso3166-2: AR-N
+      names:
+        - name: Misiones
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Neuquén
+    - codes:
+        iso3166-2: AR-Q
+      names:
+        - name: Neuquén
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Río Negro
+    - codes:
+        iso3166-2: AR-R
+      names:
+        - name: Río Negro
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Salta
+    - codes:
+        iso3166-2: AR-A
+      names:
+        - name: Salta
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Juan
+    - codes:
+        iso3166-2: AR-J
+      names:
+        - name: San Juan
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Luis
+    - codes:
+        iso3166-2: AR-D
+      names:
+        - name: San Luis
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Santa Cruz
+    - codes:
+        iso3166-2: AR-Z
+      names:
+        - name: Santa Cruz
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Santa Fe
+    - codes:
+        iso3166-2: AR-S
+      names:
+        - name: Santa Fe
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Santiago del Estero
+    - codes:
+        iso3166-2: AR-G
+      names:
+        - name: Santiago del Estero
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Tierra del Fuego
+    - codes:
+        iso3166-2: AR-V
+      names:
+        - name: Tierra del Fuego
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Tucumán
+    - codes:
+        iso3166-2: AR-T
+      names:
+        - name: Tucumán
+          languages: [es]
+          sources: [iso3166-2]

@@ -1,0 +1,1948 @@
+name: United Kingdom
+iso3166-1: GB
+complete: false
+regions:
+    
+
+    # Aberdeen City
+    - codes:
+        iso3166-2: GB-ABE
+      names:
+        - name: Aberdeen City
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Aberdeenshire
+    - codes:
+        iso3166-2: GB-ABD
+      names:
+        - name: Aberdeenshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Angus
+    - codes:
+        iso3166-2: GB-ANS
+      names:
+        - name: Angus
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Antrim and Newtownabbey
+    - codes:
+        iso3166-2: GB-ANN
+      names:
+        - name: Antrim and Newtownabbey
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ards and North Down
+    - codes:
+        iso3166-2: GB-AND
+      names:
+        - name: Ards and North Down
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Argyll and Bute
+    - codes:
+        iso3166-2: GB-AGB
+      names:
+        - name: Argyll and Bute
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Armagh City, Banbridge and Craigavon
+    - codes:
+        iso3166-2: GB-ABC
+      names:
+        - name: Armagh City, Banbridge and Craigavon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Barking and Dagenham
+    - codes:
+        iso3166-2: GB-BDG
+      names:
+        - name: Barking and Dagenham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Barnet
+    - codes:
+        iso3166-2: GB-BNE
+      names:
+        - name: Barnet
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Barnsley
+    - codes:
+        iso3166-2: GB-BNS
+      names:
+        - name: Barnsley
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bath and North East Somerset
+    - codes:
+        iso3166-2: GB-BAS
+      names:
+        - name: Bath and North East Somerset
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bedford
+    - codes:
+        iso3166-2: GB-BDF
+      names:
+        - name: Bedford
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Belfast City
+    - codes:
+        iso3166-2: GB-BFS
+      names:
+        - name: Belfast City
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bexley
+    - codes:
+        iso3166-2: GB-BEX
+      names:
+        - name: Bexley
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Birmingham
+    - codes:
+        iso3166-2: GB-BIR
+      names:
+        - name: Birmingham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Blackburn with Darwen
+    - codes:
+        iso3166-2: GB-BBD
+      names:
+        - name: Blackburn with Darwen
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Blackpool
+    - codes:
+        iso3166-2: GB-BPL
+      names:
+        - name: Blackpool
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Blaenau Gwent
+    - codes:
+        iso3166-2: GB-BGW
+      names:
+        - name: Blaenau Gwent
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bolton
+    - codes:
+        iso3166-2: GB-BOL
+      names:
+        - name: Bolton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bournemouth, Christchurch and Poole
+    - codes:
+        iso3166-2: GB-BCP
+      names:
+        - name: Bournemouth, Christchurch and Poole
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bracknell Forest
+    - codes:
+        iso3166-2: GB-BRC
+      names:
+        - name: Bracknell Forest
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bradford
+    - codes:
+        iso3166-2: GB-BRD
+      names:
+        - name: Bradford
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Brent
+    - codes:
+        iso3166-2: GB-BEN
+      names:
+        - name: Brent
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bridgend
+    - codes:
+        iso3166-2: GB-BGE
+      names:
+        - name: Bridgend
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Brighton and Hove
+    - codes:
+        iso3166-2: GB-BNH
+      names:
+        - name: Brighton and Hove
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bristol, City of
+    - codes:
+        iso3166-2: GB-BST
+      names:
+        - name: Bristol, City of
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bromley
+    - codes:
+        iso3166-2: GB-BRY
+      names:
+        - name: Bromley
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Buckinghamshire
+    - codes:
+        iso3166-2: GB-BKM
+      names:
+        - name: Buckinghamshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bury
+    - codes:
+        iso3166-2: GB-BUR
+      names:
+        - name: Bury
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Caerphilly
+    - codes:
+        iso3166-2: GB-CAY
+      names:
+        - name: Caerphilly
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Calderdale
+    - codes:
+        iso3166-2: GB-CLD
+      names:
+        - name: Calderdale
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cambridgeshire
+    - codes:
+        iso3166-2: GB-CAM
+      names:
+        - name: Cambridgeshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Camden
+    - codes:
+        iso3166-2: GB-CMD
+      names:
+        - name: Camden
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cardiff
+    - codes:
+        iso3166-2: GB-CRF
+      names:
+        - name: Cardiff
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Carmarthenshire
+    - codes:
+        iso3166-2: GB-CMN
+      names:
+        - name: Carmarthenshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Causeway Coast and Glens
+    - codes:
+        iso3166-2: GB-CCG
+      names:
+        - name: Causeway Coast and Glens
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central Bedfordshire
+    - codes:
+        iso3166-2: GB-CBF
+      names:
+        - name: Central Bedfordshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ceredigion
+    - codes:
+        iso3166-2: GB-CGN
+      names:
+        - name: Ceredigion
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cheshire East
+    - codes:
+        iso3166-2: GB-CHE
+      names:
+        - name: Cheshire East
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cheshire West and Chester
+    - codes:
+        iso3166-2: GB-CHW
+      names:
+        - name: Cheshire West and Chester
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Clackmannanshire
+    - codes:
+        iso3166-2: GB-CLK
+      names:
+        - name: Clackmannanshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Conwy
+    - codes:
+        iso3166-2: GB-CWY
+      names:
+        - name: Conwy
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cornwall
+    - codes:
+        iso3166-2: GB-CON
+      names:
+        - name: Cornwall
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Coventry
+    - codes:
+        iso3166-2: GB-COV
+      names:
+        - name: Coventry
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Croydon
+    - codes:
+        iso3166-2: GB-CRY
+      names:
+        - name: Croydon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cumbria
+    - codes:
+        iso3166-2: GB-CMA
+      names:
+        - name: Cumbria
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Darlington
+    - codes:
+        iso3166-2: GB-DAL
+      names:
+        - name: Darlington
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Denbighshire
+    - codes:
+        iso3166-2: GB-DEN
+      names:
+        - name: Denbighshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Derby
+    - codes:
+        iso3166-2: GB-DER
+      names:
+        - name: Derby
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Derbyshire
+    - codes:
+        iso3166-2: GB-DBY
+      names:
+        - name: Derbyshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Derry and Strabane
+    - codes:
+        iso3166-2: GB-DRS
+      names:
+        - name: Derry and Strabane
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Devon
+    - codes:
+        iso3166-2: GB-DEV
+      names:
+        - name: Devon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Doncaster
+    - codes:
+        iso3166-2: GB-DNC
+      names:
+        - name: Doncaster
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dorset
+    - codes:
+        iso3166-2: GB-DOR
+      names:
+        - name: Dorset
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dudley
+    - codes:
+        iso3166-2: GB-DUD
+      names:
+        - name: Dudley
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dumfries and Galloway
+    - codes:
+        iso3166-2: GB-DGY
+      names:
+        - name: Dumfries and Galloway
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dundee City
+    - codes:
+        iso3166-2: GB-DND
+      names:
+        - name: Dundee City
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Durham, County
+    - codes:
+        iso3166-2: GB-DUR
+      names:
+        - name: Durham, County
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ealing
+    - codes:
+        iso3166-2: GB-EAL
+      names:
+        - name: Ealing
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Ayrshire
+    - codes:
+        iso3166-2: GB-EAY
+      names:
+        - name: East Ayrshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Dunbartonshire
+    - codes:
+        iso3166-2: GB-EDU
+      names:
+        - name: East Dunbartonshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Lothian
+    - codes:
+        iso3166-2: GB-ELN
+      names:
+        - name: East Lothian
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Renfrewshire
+    - codes:
+        iso3166-2: GB-ERW
+      names:
+        - name: East Renfrewshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Riding of Yorkshire
+    - codes:
+        iso3166-2: GB-ERY
+      names:
+        - name: East Riding of Yorkshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Sussex
+    - codes:
+        iso3166-2: GB-ESX
+      names:
+        - name: East Sussex
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Edinburgh, City of
+    - codes:
+        iso3166-2: GB-EDH
+      names:
+        - name: Edinburgh, City of
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Eilean Siar
+    - codes:
+        iso3166-2: GB-ELS
+      names:
+        - name: Eilean Siar
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Enfield
+    - codes:
+        iso3166-2: GB-ENF
+      names:
+        - name: Enfield
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Essex
+    - codes:
+        iso3166-2: GB-ESS
+      names:
+        - name: Essex
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Falkirk
+    - codes:
+        iso3166-2: GB-FAL
+      names:
+        - name: Falkirk
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Fermanagh and Omagh
+    - codes:
+        iso3166-2: GB-FMO
+      names:
+        - name: Fermanagh and Omagh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Fife
+    - codes:
+        iso3166-2: GB-FIF
+      names:
+        - name: Fife
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Flintshire
+    - codes:
+        iso3166-2: GB-FLN
+      names:
+        - name: Flintshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gateshead
+    - codes:
+        iso3166-2: GB-GAT
+      names:
+        - name: Gateshead
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Glasgow City
+    - codes:
+        iso3166-2: GB-GLG
+      names:
+        - name: Glasgow City
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gloucestershire
+    - codes:
+        iso3166-2: GB-GLS
+      names:
+        - name: Gloucestershire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Greenwich
+    - codes:
+        iso3166-2: GB-GRE
+      names:
+        - name: Greenwich
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gwynedd
+    - codes:
+        iso3166-2: GB-GWN
+      names:
+        - name: Gwynedd
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hackney
+    - codes:
+        iso3166-2: GB-HCK
+      names:
+        - name: Hackney
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Halton
+    - codes:
+        iso3166-2: GB-HAL
+      names:
+        - name: Halton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hammersmith and Fulham
+    - codes:
+        iso3166-2: GB-HMF
+      names:
+        - name: Hammersmith and Fulham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hampshire
+    - codes:
+        iso3166-2: GB-HAM
+      names:
+        - name: Hampshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Haringey
+    - codes:
+        iso3166-2: GB-HRY
+      names:
+        - name: Haringey
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Harrow
+    - codes:
+        iso3166-2: GB-HRW
+      names:
+        - name: Harrow
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hartlepool
+    - codes:
+        iso3166-2: GB-HPL
+      names:
+        - name: Hartlepool
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Havering
+    - codes:
+        iso3166-2: GB-HAV
+      names:
+        - name: Havering
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Herefordshire
+    - codes:
+        iso3166-2: GB-HEF
+      names:
+        - name: Herefordshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hertfordshire
+    - codes:
+        iso3166-2: GB-HRT
+      names:
+        - name: Hertfordshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Highland
+    - codes:
+        iso3166-2: GB-HLD
+      names:
+        - name: Highland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hillingdon
+    - codes:
+        iso3166-2: GB-HIL
+      names:
+        - name: Hillingdon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hounslow
+    - codes:
+        iso3166-2: GB-HNS
+      names:
+        - name: Hounslow
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Inverclyde
+    - codes:
+        iso3166-2: GB-IVC
+      names:
+        - name: Inverclyde
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Isle of Anglesey
+    - codes:
+        iso3166-2: GB-AGY
+      names:
+        - name: Isle of Anglesey
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Isle of Wight
+    - codes:
+        iso3166-2: GB-IOW
+      names:
+        - name: Isle of Wight
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Isles of Scilly
+    - codes:
+        iso3166-2: GB-IOS
+      names:
+        - name: Isles of Scilly
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Islington
+    - codes:
+        iso3166-2: GB-ISL
+      names:
+        - name: Islington
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kensington and Chelsea
+    - codes:
+        iso3166-2: GB-KEC
+      names:
+        - name: Kensington and Chelsea
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kent
+    - codes:
+        iso3166-2: GB-KEN
+      names:
+        - name: Kent
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kingston upon Hull
+    - codes:
+        iso3166-2: GB-KHL
+      names:
+        - name: Kingston upon Hull
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kingston upon Thames
+    - codes:
+        iso3166-2: GB-KTT
+      names:
+        - name: Kingston upon Thames
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kirklees
+    - codes:
+        iso3166-2: GB-KIR
+      names:
+        - name: Kirklees
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Knowsley
+    - codes:
+        iso3166-2: GB-KWL
+      names:
+        - name: Knowsley
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lambeth
+    - codes:
+        iso3166-2: GB-LBH
+      names:
+        - name: Lambeth
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lancashire
+    - codes:
+        iso3166-2: GB-LAN
+      names:
+        - name: Lancashire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Leeds
+    - codes:
+        iso3166-2: GB-LDS
+      names:
+        - name: Leeds
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Leicester
+    - codes:
+        iso3166-2: GB-LCE
+      names:
+        - name: Leicester
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Leicestershire
+    - codes:
+        iso3166-2: GB-LEC
+      names:
+        - name: Leicestershire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lewisham
+    - codes:
+        iso3166-2: GB-LEW
+      names:
+        - name: Lewisham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lincolnshire
+    - codes:
+        iso3166-2: GB-LIN
+      names:
+        - name: Lincolnshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lisburn and Castlereagh
+    - codes:
+        iso3166-2: GB-LBC
+      names:
+        - name: Lisburn and Castlereagh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Liverpool
+    - codes:
+        iso3166-2: GB-LIV
+      names:
+        - name: Liverpool
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # London, City of
+    - codes:
+        iso3166-2: GB-LND
+      names:
+        - name: London, City of
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Luton
+    - codes:
+        iso3166-2: GB-LUT
+      names:
+        - name: Luton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Manchester
+    - codes:
+        iso3166-2: GB-MAN
+      names:
+        - name: Manchester
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Medway
+    - codes:
+        iso3166-2: GB-MDW
+      names:
+        - name: Medway
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Merthyr Tydfil
+    - codes:
+        iso3166-2: GB-MTY
+      names:
+        - name: Merthyr Tydfil
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Merton
+    - codes:
+        iso3166-2: GB-MRT
+      names:
+        - name: Merton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mid and East Antrim
+    - codes:
+        iso3166-2: GB-MEA
+      names:
+        - name: Mid and East Antrim
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mid-Ulster
+    - codes:
+        iso3166-2: GB-MUL
+      names:
+        - name: Mid-Ulster
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Middlesbrough
+    - codes:
+        iso3166-2: GB-MDB
+      names:
+        - name: Middlesbrough
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Midlothian
+    - codes:
+        iso3166-2: GB-MLN
+      names:
+        - name: Midlothian
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Milton Keynes
+    - codes:
+        iso3166-2: GB-MIK
+      names:
+        - name: Milton Keynes
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Monmouthshire
+    - codes:
+        iso3166-2: GB-MON
+      names:
+        - name: Monmouthshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Moray
+    - codes:
+        iso3166-2: GB-MRY
+      names:
+        - name: Moray
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Neath Port Talbot
+    - codes:
+        iso3166-2: GB-NTL
+      names:
+        - name: Neath Port Talbot
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Newcastle upon Tyne
+    - codes:
+        iso3166-2: GB-NET
+      names:
+        - name: Newcastle upon Tyne
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Newham
+    - codes:
+        iso3166-2: GB-NWM
+      names:
+        - name: Newham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Newport
+    - codes:
+        iso3166-2: GB-NWP
+      names:
+        - name: Newport
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Newry, Mourne and Down
+    - codes:
+        iso3166-2: GB-NMD
+      names:
+        - name: Newry, Mourne and Down
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Norfolk
+    - codes:
+        iso3166-2: GB-NFK
+      names:
+        - name: Norfolk
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Ayrshire
+    - codes:
+        iso3166-2: GB-NAY
+      names:
+        - name: North Ayrshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North East Lincolnshire
+    - codes:
+        iso3166-2: GB-NEL
+      names:
+        - name: North East Lincolnshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Lanarkshire
+    - codes:
+        iso3166-2: GB-NLK
+      names:
+        - name: North Lanarkshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Lincolnshire
+    - codes:
+        iso3166-2: GB-NLN
+      names:
+        - name: North Lincolnshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Somerset
+    - codes:
+        iso3166-2: GB-NSM
+      names:
+        - name: North Somerset
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Tyneside
+    - codes:
+        iso3166-2: GB-NTY
+      names:
+        - name: North Tyneside
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Yorkshire
+    - codes:
+        iso3166-2: GB-NYK
+      names:
+        - name: North Yorkshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Northamptonshire
+    - codes:
+        iso3166-2: GB-NTH
+      names:
+        - name: Northamptonshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Northumberland
+    - codes:
+        iso3166-2: GB-NBL
+      names:
+        - name: Northumberland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nottingham
+    - codes:
+        iso3166-2: GB-NGM
+      names:
+        - name: Nottingham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nottinghamshire
+    - codes:
+        iso3166-2: GB-NTT
+      names:
+        - name: Nottinghamshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oldham
+    - codes:
+        iso3166-2: GB-OLD
+      names:
+        - name: Oldham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Orkney Islands
+    - codes:
+        iso3166-2: GB-ORK
+      names:
+        - name: Orkney Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oxfordshire
+    - codes:
+        iso3166-2: GB-OXF
+      names:
+        - name: Oxfordshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pembrokeshire
+    - codes:
+        iso3166-2: GB-PEM
+      names:
+        - name: Pembrokeshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Perth and Kinross
+    - codes:
+        iso3166-2: GB-PKN
+      names:
+        - name: Perth and Kinross
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Peterborough
+    - codes:
+        iso3166-2: GB-PTE
+      names:
+        - name: Peterborough
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Plymouth
+    - codes:
+        iso3166-2: GB-PLY
+      names:
+        - name: Plymouth
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Portsmouth
+    - codes:
+        iso3166-2: GB-POR
+      names:
+        - name: Portsmouth
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Powys
+    - codes:
+        iso3166-2: GB-POW
+      names:
+        - name: Powys
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Reading
+    - codes:
+        iso3166-2: GB-RDG
+      names:
+        - name: Reading
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Redbridge
+    - codes:
+        iso3166-2: GB-RDB
+      names:
+        - name: Redbridge
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Redcar and Cleveland
+    - codes:
+        iso3166-2: GB-RCC
+      names:
+        - name: Redcar and Cleveland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Renfrewshire
+    - codes:
+        iso3166-2: GB-RFW
+      names:
+        - name: Renfrewshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rhondda Cynon Taff
+    - codes:
+        iso3166-2: GB-RCT
+      names:
+        - name: Rhondda Cynon Taff
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Richmond upon Thames
+    - codes:
+        iso3166-2: GB-RIC
+      names:
+        - name: Richmond upon Thames
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rochdale
+    - codes:
+        iso3166-2: GB-RCH
+      names:
+        - name: Rochdale
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rotherham
+    - codes:
+        iso3166-2: GB-ROT
+      names:
+        - name: Rotherham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rutland
+    - codes:
+        iso3166-2: GB-RUT
+      names:
+        - name: Rutland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Salford
+    - codes:
+        iso3166-2: GB-SLF
+      names:
+        - name: Salford
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sandwell
+    - codes:
+        iso3166-2: GB-SAW
+      names:
+        - name: Sandwell
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Scottish Borders
+    - codes:
+        iso3166-2: GB-SCB
+      names:
+        - name: Scottish Borders
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sefton
+    - codes:
+        iso3166-2: GB-SFT
+      names:
+        - name: Sefton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sheffield
+    - codes:
+        iso3166-2: GB-SHF
+      names:
+        - name: Sheffield
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Shetland Islands
+    - codes:
+        iso3166-2: GB-ZET
+      names:
+        - name: Shetland Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Shropshire
+    - codes:
+        iso3166-2: GB-SHR
+      names:
+        - name: Shropshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Slough
+    - codes:
+        iso3166-2: GB-SLG
+      names:
+        - name: Slough
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Solihull
+    - codes:
+        iso3166-2: GB-SOL
+      names:
+        - name: Solihull
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Somerset
+    - codes:
+        iso3166-2: GB-SOM
+      names:
+        - name: Somerset
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Ayrshire
+    - codes:
+        iso3166-2: GB-SAY
+      names:
+        - name: South Ayrshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Gloucestershire
+    - codes:
+        iso3166-2: GB-SGC
+      names:
+        - name: South Gloucestershire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Lanarkshire
+    - codes:
+        iso3166-2: GB-SLK
+      names:
+        - name: South Lanarkshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Tyneside
+    - codes:
+        iso3166-2: GB-STY
+      names:
+        - name: South Tyneside
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Southampton
+    - codes:
+        iso3166-2: GB-STH
+      names:
+        - name: Southampton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Southend-on-Sea
+    - codes:
+        iso3166-2: GB-SOS
+      names:
+        - name: Southend-on-Sea
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Southwark
+    - codes:
+        iso3166-2: GB-SWK
+      names:
+        - name: Southwark
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # St. Helens
+    - codes:
+        iso3166-2: GB-SHN
+      names:
+        - name: St. Helens
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Staffordshire
+    - codes:
+        iso3166-2: GB-STS
+      names:
+        - name: Staffordshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stirling
+    - codes:
+        iso3166-2: GB-STG
+      names:
+        - name: Stirling
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stockport
+    - codes:
+        iso3166-2: GB-SKP
+      names:
+        - name: Stockport
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stockton-on-Tees
+    - codes:
+        iso3166-2: GB-STT
+      names:
+        - name: Stockton-on-Tees
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stoke-on-Trent
+    - codes:
+        iso3166-2: GB-STE
+      names:
+        - name: Stoke-on-Trent
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Suffolk
+    - codes:
+        iso3166-2: GB-SFK
+      names:
+        - name: Suffolk
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sunderland
+    - codes:
+        iso3166-2: GB-SND
+      names:
+        - name: Sunderland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Surrey
+    - codes:
+        iso3166-2: GB-SRY
+      names:
+        - name: Surrey
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sutton
+    - codes:
+        iso3166-2: GB-STN
+      names:
+        - name: Sutton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Swansea
+    - codes:
+        iso3166-2: GB-SWA
+      names:
+        - name: Swansea
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Swindon
+    - codes:
+        iso3166-2: GB-SWD
+      names:
+        - name: Swindon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tameside
+    - codes:
+        iso3166-2: GB-TAM
+      names:
+        - name: Tameside
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Telford and Wrekin
+    - codes:
+        iso3166-2: GB-TFW
+      names:
+        - name: Telford and Wrekin
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Thurrock
+    - codes:
+        iso3166-2: GB-THR
+      names:
+        - name: Thurrock
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Torbay
+    - codes:
+        iso3166-2: GB-TOB
+      names:
+        - name: Torbay
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Torfaen
+    - codes:
+        iso3166-2: GB-TOF
+      names:
+        - name: Torfaen
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tower Hamlets
+    - codes:
+        iso3166-2: GB-TWH
+      names:
+        - name: Tower Hamlets
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Trafford
+    - codes:
+        iso3166-2: GB-TRF
+      names:
+        - name: Trafford
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vale of Glamorgan, The
+    - codes:
+        iso3166-2: GB-VGL
+      names:
+        - name: Vale of Glamorgan, The
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wakefield
+    - codes:
+        iso3166-2: GB-WKF
+      names:
+        - name: Wakefield
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Walsall
+    - codes:
+        iso3166-2: GB-WLL
+      names:
+        - name: Walsall
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Waltham Forest
+    - codes:
+        iso3166-2: GB-WFT
+      names:
+        - name: Waltham Forest
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wandsworth
+    - codes:
+        iso3166-2: GB-WND
+      names:
+        - name: Wandsworth
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Warrington
+    - codes:
+        iso3166-2: GB-WRT
+      names:
+        - name: Warrington
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Warwickshire
+    - codes:
+        iso3166-2: GB-WAR
+      names:
+        - name: Warwickshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Berkshire
+    - codes:
+        iso3166-2: GB-WBK
+      names:
+        - name: West Berkshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Dunbartonshire
+    - codes:
+        iso3166-2: GB-WDU
+      names:
+        - name: West Dunbartonshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Lothian
+    - codes:
+        iso3166-2: GB-WLN
+      names:
+        - name: West Lothian
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Sussex
+    - codes:
+        iso3166-2: GB-WSX
+      names:
+        - name: West Sussex
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Westminster
+    - codes:
+        iso3166-2: GB-WSM
+      names:
+        - name: Westminster
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wigan
+    - codes:
+        iso3166-2: GB-WGN
+      names:
+        - name: Wigan
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wiltshire
+    - codes:
+        iso3166-2: GB-WIL
+      names:
+        - name: Wiltshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Windsor and Maidenhead
+    - codes:
+        iso3166-2: GB-WNM
+      names:
+        - name: Windsor and Maidenhead
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wirral
+    - codes:
+        iso3166-2: GB-WRL
+      names:
+        - name: Wirral
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wokingham
+    - codes:
+        iso3166-2: GB-WOK
+      names:
+        - name: Wokingham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wolverhampton
+    - codes:
+        iso3166-2: GB-WLV
+      names:
+        - name: Wolverhampton
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Worcestershire
+    - codes:
+        iso3166-2: GB-WOR
+      names:
+        - name: Worcestershire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wrexham
+    - codes:
+        iso3166-2: GB-WRX
+      names:
+        - name: Wrexham
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # York
+    - codes:
+        iso3166-2: GB-YOR
+      names:
+        - name: York
+          languages: [en]
+          sources: [iso3166-2]

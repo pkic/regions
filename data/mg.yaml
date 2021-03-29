@@ -1,0 +1,57 @@
+iso3166-1: MG
+complete: false
+regions:
+    
+
+    # Antananarivo
+    - codes:
+        iso3166-2: MG-T
+      names:
+        - name: Antananarivo
+          languages: [mg]
+          sources: [iso3166-2]
+    
+
+    # Antsiranana
+    - codes:
+        iso3166-2: MG-D
+      names:
+        - name: Antsiranana
+          languages: [mg]
+          sources: [iso3166-2]
+    
+
+    # Fianarantsoa
+    - codes:
+        iso3166-2: MG-F
+      names:
+        - name: Fianarantsoa
+          languages: [mg]
+          sources: [iso3166-2]
+    
+
+    # Mahajanga
+    - codes:
+        iso3166-2: MG-M
+      names:
+        - name: Mahajanga
+          languages: [mg]
+          sources: [iso3166-2]
+    
+
+    # Toamasina
+    - codes:
+        iso3166-2: MG-A
+      names:
+        - name: Toamasina
+          languages: [mg]
+          sources: [iso3166-2]
+    
+
+    # Toliara
+    - codes:
+        iso3166-2: MG-U
+      names:
+        - name: Toliara
+          languages: [mg]
+          sources: [iso3166-2]

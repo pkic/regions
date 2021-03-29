@@ -1,0 +1,571 @@
+name: Portugal
+iso3166-1: PT
+complete: false
+regions:
+    
+
+    # Alentejo
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1177
+      names:
+        - name: Alenteho
+          languages: [sq]
+          sources: [euvoc]
+        - name: Alentejo
+          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Alentežas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Alentežu
+          languages: [lv]
+          sources: [euvoc]
+        - name: Αλεντέζου
+          languages: [el]
+          sources: [euvoc]
+        - name: Алентежо
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Алентежу
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Algarve
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1187
+      names:
+        - name: Algarbe
+          languages: [es]
+          sources: [euvoc]
+        - name: Algarve
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Algarvi
+          languages: [lv]
+          sources: [euvoc]
+        - name: Algarvė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Αλγκάρβε
+          languages: [el]
+          sources: [euvoc]
+        - name: Алгарве
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Azores
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5076
+      names:
+        - name: Assoorid
+          languages: [et]
+          sources: [euvoc]
+        - name: Azore
+          languages: [ro]
+          sources: [euvoc]
+        - name: Azoren
+          languages: [de, nl]
+          sources: [euvoc]
+        - name: Azorerna
+          languages: [sv]
+          sources: [euvoc]
+        - name: Azorerne
+          languages: [da]
+          sources: [euvoc]
+        - name: Azores
+          languages: [en, es]
+          sources: [euvoc]
+        - name: Azori
+          languages: [sl]
+          sources: [euvoc]
+        - name: Azori-szigetek
+          languages: [hu]
+          sources: [euvoc]
+        - name: Azorit
+          languages: [fi]
+          sources: [euvoc]
+        - name: Azorski Otoci
+          languages: [hr]
+          sources: [euvoc]
+        - name: Azoru salas
+          languages: [lv]
+          sources: [euvoc]
+        - name: Azory
+          languages: [cs, pl, sk]
+          sources: [euvoc]
+        - name: Azorų salos
+          languages: [lt]
+          sources: [euvoc]
+        - name: Azzorre
+          languages: [it]
+          sources: [euvoc]
+        - name: Açores
+          languages: [fr, ga, pt]
+          sources: [euvoc]
+        - name: Ir Awtonomu ta’ l-Azores
+          languages: [mt]
+          sources: [euvoc]
+        - name: Ishujt Azore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Αζόρες
+          languages: [el]
+          sources: [euvoc]
+        - name: Азорска острва
+          languages: [sr]
+          sources: [euvoc]
+        - name: Азорски Острови
+          languages: [bg, mk]
+          sources: [euvoc]
+    
+
+    # Aveiro
+    - codes:
+        iso3166-2: PT-01
+      names:
+        - name: Aveiro
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Beja
+    - codes:
+        iso3166-2: PT-02
+      names:
+        - name: Beja
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Braga
+    - codes:
+        iso3166-2: PT-03
+      names:
+        - name: Braga
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Bragança
+    - codes:
+        iso3166-2: PT-04
+      names:
+        - name: Bragança
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Castelo Branco
+    - codes:
+        iso3166-2: PT-05
+      names:
+        - name: Castelo Branco
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Central Portugal
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3394
+      names:
+        - name: Central Portugal
+          languages: [en]
+          sources: [euvoc]
+        - name: Centrālā Portugāle
+          languages: [lv]
+          sources: [euvoc]
+        - name: Kesk-Portugal
+          languages: [et]
+          sources: [euvoc]
+        - name: Keski-Portugali
+          languages: [fi]
+          sources: [euvoc]
+        - name: Közép-Portugália
+          languages: [hu]
+          sources: [euvoc]
+        - name: Midden-Portugal
+          languages: [nl]
+          sources: [euvoc]
+        - name: Midtportugal
+          languages: [da]
+          sources: [euvoc]
+        - name: Osrednja Portugalska
+          languages: [sl]
+          sources: [euvoc]
+        - name: Portogallo centrale
+          languages: [it]
+          sources: [euvoc]
+        - name: Portugal del Centro
+          languages: [es]
+          sources: [euvoc]
+        - name: Portugal du Centre
+          languages: [fr]
+          sources: [euvoc]
+        - name: Portugalia Centrală
+          languages: [ro]
+          sources: [euvoc]
+        - name: Portugalia Qendrore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Portugalia Środkowa
+          languages: [pl]
+          sources: [euvoc]
+        - name: Središnji Portugal
+          languages: [hr]
+          sources: [euvoc]
+        - name: Stredné Portugalsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Střední Portugalsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Vidurio Portugalija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Zentralportugal
+          languages: [de]
+          sources: [euvoc]
+        - name: centrala Portugal
+          languages: [sv]
+          sources: [euvoc]
+        - name: do Centro
+          languages: [pt]
+          sources: [euvoc]
+        - name: iċ-Ċentru tal-Portugall
+          languages: [mt]
+          sources: [euvoc]
+        - name: Κεντρική Πορτογαλία
+          languages: [el]
+          sources: [euvoc]
+        - name: Централна Португалия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Централна Португалија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Coimbra
+    - codes:
+        iso3166-2: PT-06
+      names:
+        - name: Coimbra
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Faro
+    - codes:
+        iso3166-2: PT-08
+      names:
+        - name: Faro
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Guarda
+    - codes:
+        iso3166-2: PT-09
+      names:
+        - name: Guarda
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Leiria
+    - codes:
+        iso3166-2: PT-10
+      names:
+        - name: Leiria
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Lisbon and the Tagus Valley
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3395
+      names:
+        - name: Lisabon a údolie Tagus
+          languages: [sk]
+          sources: [euvoc]
+        - name: Lisabon a údolí Teja
+          languages: [cs]
+          sources: [euvoc]
+        - name: Lisabon i dolina Tejo
+          languages: [hr]
+          sources: [euvoc]
+        - name: Lisabona ir Težo slėnis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Lisabona un Taho ieleja
+          languages: [lv]
+          sources: [euvoc]
+        - name: Lisabona și Vale Do Tejo
+          languages: [ro]
+          sources: [euvoc]
+        - name: Lisboa e vale do Tejo
+          languages: [pt]
+          sources: [euvoc]
+        - name: Lisboa y Valle del Tajo
+          languages: [es]
+          sources: [euvoc]
+        - name: Lisbon and the Tagus Valley
+          languages: [en]
+          sources: [euvoc]
+        - name: Lisbona dhe Lugina e Tagusit
+          languages: [sq]
+          sources: [euvoc]
+        - name: Lisbona e valle del Tago
+          languages: [it]
+          sources: [euvoc]
+        - name: Lisbona u l-Wied Tagu
+          languages: [mt]
+          sources: [euvoc]
+        - name: Lisbonne et vallée du Tage
+          languages: [fr]
+          sources: [euvoc]
+        - name: Lissabon en de Taagvallei
+          languages: [nl]
+          sources: [euvoc]
+        - name: Lissabon ja Tejo org
+          languages: [et]
+          sources: [euvoc]
+        - name: Lissabon ja Tejonlaakso
+          languages: [fi]
+          sources: [euvoc]
+        - name: Lissabon och Tejodalen
+          languages: [sv]
+          sources: [euvoc]
+        - name: Lissabon und Tal des Tejo
+          languages: [de]
+          sources: [euvoc]
+        - name: Lissabonen
+          languages: [da]
+          sources: [euvoc]
+        - name: Lisszabon és a Tejo völgye
+          languages: [hu]
+          sources: [euvoc]
+        - name: Lizbona i Dolina Tagu
+          languages: [pl]
+          sources: [euvoc]
+        - name: Lizbona in dolina reke Tajo
+          languages: [sl]
+          sources: [euvoc]
+        - name: Λισαβόνα και Κοιλάδα του Τάγου
+          languages: [el]
+          sources: [euvoc]
+        - name: Лисабон и Долината Тежо
+          languages: [mk]
+          sources: [euvoc]
+        - name: Лисабон и долина Тежа
+          languages: [sr]
+          sources: [euvoc]
+        - name: Лисабон и долината на Тежу
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Lisboa
+    - codes:
+        iso3166-2: PT-11
+      names:
+        - name: Lisboa
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Madeira
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1730
+      names:
+        - name: Madeira
+          languages: [cs, da, de, en, es, et, fi, hr, hu, lt, lv, mt, nl, pt, sk, sl, sq, sv]
+          sources: [euvoc]
+        - name: Madera
+          languages: [it, pl, ro]
+          sources: [euvoc]
+        - name: Madère
+          languages: [fr]
+          sources: [euvoc]
+        - name: Maidéara
+          languages: [ga]
+          sources: [euvoc]
+        - name: Μαδέρα
+          languages: [el]
+          sources: [euvoc]
+        - name: Мадеира
+          languages: [mk]
+          sources: [euvoc]
+        - name: Мадейра
+          languages: [bg]
+          sources: [euvoc]
+        - name: Мадера
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Northern Portugal
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3393
+      names:
+        - name: Noord-Portugal
+          languages: [nl]
+          sources: [euvoc]
+        - name: Nordportugal
+          languages: [da, de, sv]
+          sources: [euvoc]
+        - name: Northern Portugal
+          languages: [en]
+          sources: [euvoc]
+        - name: Pohjois-Portugali
+          languages: [fi]
+          sources: [euvoc]
+        - name: Portogallo settentrionale
+          languages: [it]
+          sources: [euvoc]
+        - name: Portugal del Norte
+          languages: [es]
+          sources: [euvoc]
+        - name: Portugal du Nord
+          languages: [fr]
+          sources: [euvoc]
+        - name: Portugalia Północna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Portugalia Veriore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Portugalia de Nord
+          languages: [ro]
+          sources: [euvoc]
+        - name: Põhja-Portugal
+          languages: [et]
+          sources: [euvoc]
+        - name: Severna Portugalska
+          languages: [sl]
+          sources: [euvoc]
+        - name: Severné Portugalsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Severní Portugalsko
+          languages: [cs]
+          sources: [euvoc]
+        - name: Sjeverni Portugal
+          languages: [hr]
+          sources: [euvoc]
+        - name: Ziemeļportugāle
+          languages: [lv]
+          sources: [euvoc]
+        - name: do Norte
+          languages: [pt]
+          sources: [euvoc]
+        - name: it-Tramuntana tal-Portugall
+          languages: [mt]
+          sources: [euvoc]
+        - name: Észak-Portugália
+          languages: [hu]
+          sources: [euvoc]
+        - name: Šiaurės Portugalija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Βόρεια Πορτογαλία
+          languages: [el]
+          sources: [euvoc]
+        - name: Северна Португалия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Северна Португалија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Portalegre
+    - codes:
+        iso3166-2: PT-12
+      names:
+        - name: Portalegre
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Porto
+    - codes:
+        iso3166-2: PT-13
+      names:
+        - name: Porto
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Santarém
+    - codes:
+        iso3166-2: PT-14
+      names:
+        - name: Santarém
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Setúbal
+    - codes:
+        iso3166-2: PT-15
+      names:
+        - name: Setúbal
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Viana do Castelo
+    - codes:
+        iso3166-2: PT-16
+      names:
+        - name: Viana do Castelo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Vila Real
+    - codes:
+        iso3166-2: PT-17
+      names:
+        - name: Vila Real
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Viseu
+    - codes:
+        iso3166-2: PT-18
+      names:
+        - name: Viseu
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # utónoma da Madeira
+    - codes:
+        iso3166-2: PT-30
+      names:
+        - name: utónoma da Madeira
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # utónoma dos Açores
+    - codes:
+        iso3166-2: PT-20
+      names:
+        - name: utónoma dos Açores
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Évora
+    - codes:
+        iso3166-2: PT-07
+      names:
+        - name: Évora
+          languages: [pt]
+          sources: [iso3166-2]

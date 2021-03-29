@@ -1,0 +1,201 @@
+iso3166-1: MN
+complete: false
+regions:
+    
+
+    # Arhangay
+    - codes:
+        iso3166-2: MN-073
+      names:
+        - name: Arhangay
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Bayan-Ölgiy
+    - codes:
+        iso3166-2: MN-071
+      names:
+        - name: Bayan-Ölgiy
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Bayanhongor
+    - codes:
+        iso3166-2: MN-069
+      names:
+        - name: Bayanhongor
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Bulgan
+    - codes:
+        iso3166-2: MN-067
+      names:
+        - name: Bulgan
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Darhan uul
+    - codes:
+        iso3166-2: MN-037
+      names:
+        - name: Darhan uul
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Dornod
+    - codes:
+        iso3166-2: MN-061
+      names:
+        - name: Dornod
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Dornogovĭ
+    - codes:
+        iso3166-2: MN-063
+      names:
+        - name: Dornogovĭ
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Dundgovĭ
+    - codes:
+        iso3166-2: MN-059
+      names:
+        - name: Dundgovĭ
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Dzavhan
+    - codes:
+        iso3166-2: MN-057
+      names:
+        - name: Dzavhan
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Govĭ-Altay
+    - codes:
+        iso3166-2: MN-065
+      names:
+        - name: Govĭ-Altay
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Govĭ-Sümber
+    - codes:
+        iso3166-2: MN-064
+      names:
+        - name: Govĭ-Sümber
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Hentiy
+    - codes:
+        iso3166-2: MN-039
+      names:
+        - name: Hentiy
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Hovd
+    - codes:
+        iso3166-2: MN-043
+      names:
+        - name: Hovd
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Hövsgöl
+    - codes:
+        iso3166-2: MN-041
+      names:
+        - name: Hövsgöl
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Orhon
+    - codes:
+        iso3166-2: MN-035
+      names:
+        - name: Orhon
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Selenge
+    - codes:
+        iso3166-2: MN-049
+      names:
+        - name: Selenge
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Sühbaatar
+    - codes:
+        iso3166-2: MN-051
+      names:
+        - name: Sühbaatar
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Töv
+    - codes:
+        iso3166-2: MN-047
+      names:
+        - name: Töv
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Ulaanbaatar
+    - codes:
+        iso3166-2: MN-1
+      names:
+        - name: Ulaanbaatar
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Uvs
+    - codes:
+        iso3166-2: MN-046
+      names:
+        - name: Uvs
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Ömnögovĭ
+    - codes:
+        iso3166-2: MN-053
+      names:
+        - name: Ömnögovĭ
+          languages: [mn]
+          sources: [iso3166-2]
+    
+
+    # Övörhangay
+    - codes:
+        iso3166-2: MN-055
+      names:
+        - name: Övörhangay
+          languages: [mn]
+          sources: [iso3166-2]

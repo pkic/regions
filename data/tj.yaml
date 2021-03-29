@@ -1,0 +1,48 @@
+iso3166-1: TJ
+complete: false
+regions:
+    
+
+    # Dushanbe
+    - codes:
+        iso3166-2: TJ-DU
+      names:
+        - name: Dushanbe
+          languages: [tg]
+          sources: [iso3166-2]
+    
+
+    # Khatlon
+    - codes:
+        iso3166-2: TJ-KT
+      names:
+        - name: Khatlon
+          languages: [tg]
+          sources: [iso3166-2]
+    
+
+    # Kŭhistoni Badakhshon
+    - codes:
+        iso3166-2: TJ-GB
+      names:
+        - name: Kŭhistoni Badakhshon
+          languages: [tg]
+          sources: [iso3166-2]
+    
+
+    # Sughd
+    - codes:
+        iso3166-2: TJ-SU
+      names:
+        - name: Sughd
+          languages: [tg]
+          sources: [iso3166-2]
+    
+
+    # nohiyahoi tobei jumhurí
+    - codes:
+        iso3166-2: TJ-RA
+      names:
+        - name: nohiyahoi tobei jumhurí
+          languages: [tg]
+          sources: [iso3166-2]

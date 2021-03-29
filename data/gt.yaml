@@ -1,0 +1,201 @@
+iso3166-1: GT
+complete: false
+regions:
+    
+
+    # Alta Verapaz
+    - codes:
+        iso3166-2: GT-AV
+      names:
+        - name: Alta Verapaz
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Baja Verapaz
+    - codes:
+        iso3166-2: GT-BV
+      names:
+        - name: Baja Verapaz
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chimaltenango
+    - codes:
+        iso3166-2: GT-CM
+      names:
+        - name: Chimaltenango
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chiquimula
+    - codes:
+        iso3166-2: GT-CQ
+      names:
+        - name: Chiquimula
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # El Progreso
+    - codes:
+        iso3166-2: GT-PR
+      names:
+        - name: El Progreso
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Escuintla
+    - codes:
+        iso3166-2: GT-ES
+      names:
+        - name: Escuintla
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Guatemala
+    - codes:
+        iso3166-2: GT-GU
+      names:
+        - name: Guatemala
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Huehuetenango
+    - codes:
+        iso3166-2: GT-HU
+      names:
+        - name: Huehuetenango
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Izabal
+    - codes:
+        iso3166-2: GT-IZ
+      names:
+        - name: Izabal
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Jalapa
+    - codes:
+        iso3166-2: GT-JA
+      names:
+        - name: Jalapa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Jutiapa
+    - codes:
+        iso3166-2: GT-JU
+      names:
+        - name: Jutiapa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Petén
+    - codes:
+        iso3166-2: GT-PE
+      names:
+        - name: Petén
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Quetzaltenango
+    - codes:
+        iso3166-2: GT-QZ
+      names:
+        - name: Quetzaltenango
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Quiché
+    - codes:
+        iso3166-2: GT-QC
+      names:
+        - name: Quiché
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Retalhuleu
+    - codes:
+        iso3166-2: GT-RE
+      names:
+        - name: Retalhuleu
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Sacatepéquez
+    - codes:
+        iso3166-2: GT-SA
+      names:
+        - name: Sacatepéquez
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Marcos
+    - codes:
+        iso3166-2: GT-SM
+      names:
+        - name: San Marcos
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Santa Rosa
+    - codes:
+        iso3166-2: GT-SR
+      names:
+        - name: Santa Rosa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Sololá
+    - codes:
+        iso3166-2: GT-SO
+      names:
+        - name: Sololá
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Suchitepéquez
+    - codes:
+        iso3166-2: GT-SU
+      names:
+        - name: Suchitepéquez
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Totonicapán
+    - codes:
+        iso3166-2: GT-TO
+      names:
+        - name: Totonicapán
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Zacapa
+    - codes:
+        iso3166-2: GT-ZA
+      names:
+        - name: Zacapa
+          languages: [es]
+          sources: [iso3166-2]

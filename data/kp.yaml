@@ -1,0 +1,150 @@
+iso3166-1: KP
+complete: false
+regions:
+    
+
+    # Hamgyǒng-namdo
+    - codes:
+        iso3166-2: KP-08
+      names:
+        - name: Hamgyǒng-namdo
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Hamkyeongnamto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Hamgyǒng-bukto
+    - codes:
+        iso3166-2: KP-09
+      names:
+        - name: Hamgyǒng-bukto
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Hamkyeongpukto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Hwanghae-namdo
+    - codes:
+        iso3166-2: KP-05
+      names:
+        - name: Hwanghae-namdo
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Hwanghainamto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Hwanghae-bukto
+    - codes:
+        iso3166-2: KP-06
+      names:
+        - name: Hwanghae-bukto
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Hwanghaipukto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Chagang-do
+    - codes:
+        iso3166-2: KP-04
+      names:
+        - name: Chagang-do
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Jakangto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Kangweonto
+    - codes:
+        iso3166-2: KP-07
+      names:
+        - name: Kangweonto
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Kangwǒn-do
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Nampho
+    - codes:
+        iso3166-2: KP-14
+      names:
+        - name: Nampho
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Namp’o
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # P'yǒngyang
+    - codes:
+        iso3166-2: KP-01
+      names:
+        - name: P'yǒngyang
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Phyeongyang
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # P'yǒngan-namdo
+    - codes:
+        iso3166-2: KP-02
+      names:
+        - name: P'yǒngan-namdo
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Phyeongannamto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # P'yǒngan-bukto
+    - codes:
+        iso3166-2: KP-03
+      names:
+        - name: P'yǒngan-bukto
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Phyeonganpukto
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Najin Sǒnbong
+    - codes:
+        iso3166-2: KP-13
+      names:
+        - name: Najin Sǒnbong
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Raseon
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Rasǒn
+          languages: [ko]
+          sources: [iso3166-2]
+    
+
+    # Ryanggang-do
+    - codes:
+        iso3166-2: KP-10
+      names:
+        - name: Ryanggang-do
+          languages: [ko]
+          sources: [iso3166-2]
+        - name: Ryangkangto
+          languages: [ko]
+          sources: [iso3166-2]

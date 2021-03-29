@@ -1,0 +1,102 @@
+iso3166-1: BB
+complete: false
+regions:
+    
+
+    # Christ Church
+    - codes:
+        iso3166-2: BB-01
+      names:
+        - name: Christ Church
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: BB-02
+      names:
+        - name: Saint Andrew
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint George
+    - codes:
+        iso3166-2: BB-03
+      names:
+        - name: Saint George
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint James
+    - codes:
+        iso3166-2: BB-04
+      names:
+        - name: Saint James
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint John
+    - codes:
+        iso3166-2: BB-05
+      names:
+        - name: Saint John
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Joseph
+    - codes:
+        iso3166-2: BB-06
+      names:
+        - name: Saint Joseph
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Lucy
+    - codes:
+        iso3166-2: BB-07
+      names:
+        - name: Saint Lucy
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Michael
+    - codes:
+        iso3166-2: BB-08
+      names:
+        - name: Saint Michael
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Peter
+    - codes:
+        iso3166-2: BB-09
+      names:
+        - name: Saint Peter
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Philip
+    - codes:
+        iso3166-2: BB-10
+      names:
+        - name: Saint Philip
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Thomas
+    - codes:
+        iso3166-2: BB-11
+      names:
+        - name: Saint Thomas
+          languages: [en]
+          sources: [iso3166-2]

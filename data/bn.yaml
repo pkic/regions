@@ -1,0 +1,42 @@
+iso3166-1: BN
+complete: false
+regions:
+    
+
+    # Belait
+    - codes:
+        iso3166-2: BN-BE
+      names:
+        - name: Belait
+          languages: [en, ms]
+          sources: [iso3166-2]
+    
+
+    # Brunei-Muara
+    - codes:
+        iso3166-2: BN-BM
+      names:
+        - name: Brunei dan Muara
+          languages: [ms]
+          sources: [iso3166-2]
+        - name: Brunei-Muara
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Temburong
+    - codes:
+        iso3166-2: BN-TE
+      names:
+        - name: Temburong
+          languages: [en, ms]
+          sources: [iso3166-2]
+    
+
+    # Tutong
+    - codes:
+        iso3166-2: BN-TU
+      names:
+        - name: Tutong
+          languages: [en, ms]
+          sources: [iso3166-2]

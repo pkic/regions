@@ -1,0 +1,48 @@
+iso3166-1: SL
+complete: false
+regions:
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: SL-E
+      names:
+        - name: Eastern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Western
+    - codes:
+        iso3166-2: SL-NW
+      names:
+        - name: North Western
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: SL-N
+      names:
+        - name: Northern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: SL-S
+      names:
+        - name: Southern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Western Area
+    - codes:
+        iso3166-2: SL-W
+      names:
+        - name: Western Area
+          languages: [en]
+          sources: [iso3166-2]

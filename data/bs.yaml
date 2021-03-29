@@ -1,0 +1,291 @@
+iso3166-1: BS
+complete: false
+regions:
+    
+
+    # Acklins
+    - codes:
+        iso3166-2: BS-AK
+      names:
+        - name: Acklins
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Berry Islands
+    - codes:
+        iso3166-2: BS-BY
+      names:
+        - name: Berry Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bimini
+    - codes:
+        iso3166-2: BS-BI
+      names:
+        - name: Bimini
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Black Point
+    - codes:
+        iso3166-2: BS-BP
+      names:
+        - name: Black Point
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cat Island
+    - codes:
+        iso3166-2: BS-CI
+      names:
+        - name: Cat Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central Abaco
+    - codes:
+        iso3166-2: BS-CO
+      names:
+        - name: Central Abaco
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central Andros
+    - codes:
+        iso3166-2: BS-CS
+      names:
+        - name: Central Andros
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central Eleuthera
+    - codes:
+        iso3166-2: BS-CE
+      names:
+        - name: Central Eleuthera
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # City of Freeport
+    - codes:
+        iso3166-2: BS-FP
+      names:
+        - name: City of Freeport
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Crooked Island and Long Cay
+    - codes:
+        iso3166-2: BS-CK
+      names:
+        - name: Crooked Island and Long Cay
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Grand Bahama
+    - codes:
+        iso3166-2: BS-EG
+      names:
+        - name: East Grand Bahama
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Exuma
+    - codes:
+        iso3166-2: BS-EX
+      names:
+        - name: Exuma
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grand Cay
+    - codes:
+        iso3166-2: BS-GC
+      names:
+        - name: Grand Cay
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Harbour Island
+    - codes:
+        iso3166-2: BS-HI
+      names:
+        - name: Harbour Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hope Town
+    - codes:
+        iso3166-2: BS-HT
+      names:
+        - name: Hope Town
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Inagua
+    - codes:
+        iso3166-2: BS-IN
+      names:
+        - name: Inagua
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Long Island
+    - codes:
+        iso3166-2: BS-LI
+      names:
+        - name: Long Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mangrove Cay
+    - codes:
+        iso3166-2: BS-MC
+      names:
+        - name: Mangrove Cay
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mayaguana
+    - codes:
+        iso3166-2: BS-MG
+      names:
+        - name: Mayaguana
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Moore's Island
+    - codes:
+        iso3166-2: BS-MI
+      names:
+        - name: Moore's Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # New Providence
+    - codes:
+        iso3166-2: BS-NP
+      names:
+        - name: New Providence
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Abaco
+    - codes:
+        iso3166-2: BS-NO
+      names:
+        - name: North Abaco
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Andros
+    - codes:
+        iso3166-2: BS-NS
+      names:
+        - name: North Andros
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Eleuthera
+    - codes:
+        iso3166-2: BS-NE
+      names:
+        - name: North Eleuthera
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ragged Island
+    - codes:
+        iso3166-2: BS-RI
+      names:
+        - name: Ragged Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rum Cay
+    - codes:
+        iso3166-2: BS-RC
+      names:
+        - name: Rum Cay
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # San Salvador
+    - codes:
+        iso3166-2: BS-SS
+      names:
+        - name: San Salvador
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Abaco
+    - codes:
+        iso3166-2: BS-SO
+      names:
+        - name: South Abaco
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Andros
+    - codes:
+        iso3166-2: BS-SA
+      names:
+        - name: South Andros
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Eleuthera
+    - codes:
+        iso3166-2: BS-SE
+      names:
+        - name: South Eleuthera
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Spanish Wells
+    - codes:
+        iso3166-2: BS-SW
+      names:
+        - name: Spanish Wells
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Grand Bahama
+    - codes:
+        iso3166-2: BS-WG
+      names:
+        - name: West Grand Bahama
+          languages: [en]
+          sources: [iso3166-2]

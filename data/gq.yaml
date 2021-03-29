@@ -1,0 +1,129 @@
+iso3166-1: GQ
+complete: false
+regions:
+    
+
+    # Annobon
+    - codes:
+        iso3166-2: GQ-AN
+      names:
+        - name: Annobon
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Annobón
+          languages: [es]
+          sources: [iso3166-2]
+        - name: Ano Bom
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Bioko Nord
+    - codes:
+        iso3166-2: GQ-BN
+      names:
+        - name: Bioko Nord
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Bioko Norte
+          languages: [es, pt]
+          sources: [iso3166-2]
+    
+
+    # Bioko Sud
+    - codes:
+        iso3166-2: GQ-BS
+      names:
+        - name: Bioko Sud
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Bioko Sul
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Bioko Sur
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Centro Sud
+    - codes:
+        iso3166-2: GQ-CS
+      names:
+        - name: Centro Sud
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Centro Sul
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Centro Sur
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Djibloho
+    - codes:
+        iso3166-2: GQ-DJ
+      names:
+        - name: Djibloho
+          languages: [es, fr, pt]
+          sources: [iso3166-2]
+    
+
+    # Insulaire
+    - codes:
+        iso3166-2: GQ-I
+      names:
+        - name: Insulaire
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Insular
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: n Insular
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Kié-Ntem
+    - codes:
+        iso3166-2: GQ-KN
+      names:
+        - name: Kié-Ntem
+          languages: [es, fr, pt]
+          sources: [iso3166-2]
+    
+
+    # Litoral
+    - codes:
+        iso3166-2: GQ-LI
+      names:
+        - name: Litoral
+          languages: [es, pt]
+          sources: [iso3166-2]
+        - name: Littoral
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Wele-Nzas
+    - codes:
+        iso3166-2: GQ-WN
+      names:
+        - name: Wele-Nzas
+          languages: [es, fr, pt]
+          sources: [iso3166-2]
+    
+
+    # Continental
+    - codes:
+        iso3166-2: GQ-C
+      names:
+        - name: Continental
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Continentale
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: n Continental
+          languages: [es]
+          sources: [iso3166-2]

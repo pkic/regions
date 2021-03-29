@@ -1,0 +1,129 @@
+iso3166-1: JM
+complete: false
+regions:
+    
+
+    # Clarendon
+    - codes:
+        iso3166-2: JM-13
+      names:
+        - name: Clarendon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hanover
+    - codes:
+        iso3166-2: JM-09
+      names:
+        - name: Hanover
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kingston
+    - codes:
+        iso3166-2: JM-01
+      names:
+        - name: Kingston
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Manchester
+    - codes:
+        iso3166-2: JM-12
+      names:
+        - name: Manchester
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Portland
+    - codes:
+        iso3166-2: JM-04
+      names:
+        - name: Portland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: JM-02
+      names:
+        - name: Saint Andrew
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Ann
+    - codes:
+        iso3166-2: JM-06
+      names:
+        - name: Saint Ann
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Catherine
+    - codes:
+        iso3166-2: JM-14
+      names:
+        - name: Saint Catherine
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Elizabeth
+    - codes:
+        iso3166-2: JM-11
+      names:
+        - name: Saint Elizabeth
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint James
+    - codes:
+        iso3166-2: JM-08
+      names:
+        - name: Saint James
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Mary
+    - codes:
+        iso3166-2: JM-05
+      names:
+        - name: Saint Mary
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Thomas
+    - codes:
+        iso3166-2: JM-03
+      names:
+        - name: Saint Thomas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Trelawny
+    - codes:
+        iso3166-2: JM-07
+      names:
+        - name: Trelawny
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Westmoreland
+    - codes:
+        iso3166-2: JM-10
+      names:
+        - name: Westmoreland
+          languages: [en]
+          sources: [iso3166-2]

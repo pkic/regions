@@ -1,0 +1,160 @@
+name: Luxembourg
+iso3166-1: LU
+complete: false
+regions:
+    
+
+    # Clerf
+    - codes:
+        iso3166-2: LU-CL
+      names:
+        - name: Clerf
+          languages: [de]
+          sources: [iso3166-2]
+        - name: Clervaux
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Klierf
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Diekirch
+    - codes:
+        iso3166-2: LU-DI
+      names:
+        - name: Diekirch
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Diekrech
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Echternach
+    - codes:
+        iso3166-2: LU-EC
+      names:
+        - name: Echternach
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Iechternach
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Esch an der Alzette
+    - codes:
+        iso3166-2: LU-ES
+      names:
+        - name: Esch an der Alzette
+          languages: [de]
+          sources: [iso3166-2]
+        - name: Esch-Uelzecht
+          languages: [lb]
+          sources: [iso3166-2]
+        - name: Esch-sur-Alzette
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Grevenmacher
+    - codes:
+        iso3166-2: LU-GR
+      names:
+        - name: Grevenmacher
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Gréivemaacher
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Capellen
+    - codes:
+        iso3166-2: LU-CA
+      names:
+        - name: Capellen
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Kapellen
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Luxembourg
+    - codes:
+        iso3166-2: LU-LU
+      names:
+        - name: Luxembourg
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Luxemburg
+          languages: [de]
+          sources: [iso3166-2]
+        - name: Lëtzebuerg
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Mersch
+    - codes:
+        iso3166-2: LU-ME
+      names:
+        - name: Mersch
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Miersch
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Redange
+    - codes:
+        iso3166-2: LU-RD
+      names:
+        - name: Redange
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Redingen
+          languages: [de]
+          sources: [iso3166-2]
+        - name: Réiden-Atert
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Remich
+    - codes:
+        iso3166-2: LU-RM
+      names:
+        - name: Remich
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Réimech
+          languages: [lb]
+          sources: [iso3166-2]
+    
+
+    # Veianen
+    - codes:
+        iso3166-2: LU-VD
+      names:
+        - name: Veianen
+          languages: [lb]
+          sources: [iso3166-2]
+        - name: Vianden
+          languages: [de, fr]
+          sources: [iso3166-2]
+    
+
+    # Wiltz
+    - codes:
+        iso3166-2: LU-WI
+      names:
+        - name: Wiltz
+          languages: [de, fr]
+          sources: [iso3166-2]
+        - name: Wolz
+          languages: [lb]
+          sources: [iso3166-2]

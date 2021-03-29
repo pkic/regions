@@ -1,0 +1,66 @@
+iso3166-1: ST
+complete: false
+regions:
+    
+
+    # Cantagalo
+    - codes:
+        iso3166-2: ST-02
+      names:
+        - name: Cantagalo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Caué
+    - codes:
+        iso3166-2: ST-03
+      names:
+        - name: Caué
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Lembá
+    - codes:
+        iso3166-2: ST-04
+      names:
+        - name: Lembá
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Lobata
+    - codes:
+        iso3166-2: ST-05
+      names:
+        - name: Lobata
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Mé-Zóchi
+    - codes:
+        iso3166-2: ST-06
+      names:
+        - name: Mé-Zóchi
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Príncipe
+    - codes:
+        iso3166-2: ST-P
+      names:
+        - name: Príncipe
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Água Grande
+    - codes:
+        iso3166-2: ST-01
+      names:
+        - name: Água Grande
+          languages: [pt]
+          sources: [iso3166-2]

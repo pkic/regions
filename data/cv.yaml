@@ -1,0 +1,219 @@
+iso3166-1: CV
+complete: false
+regions:
+    
+
+    # Boa Vista
+    - codes:
+        iso3166-2: CV-BV
+      names:
+        - name: Boa Vista
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Brava
+    - codes:
+        iso3166-2: CV-BR
+      names:
+        - name: Brava
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Ilhas de Barlavento
+    - codes:
+        iso3166-2: CV-B
+      names:
+        - name: Ilhas de Barlavento
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Ilhas de Sotavento
+    - codes:
+        iso3166-2: CV-S
+      names:
+        - name: Ilhas de Sotavento
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Maio
+    - codes:
+        iso3166-2: CV-MA
+      names:
+        - name: Maio
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Mosteiros
+    - codes:
+        iso3166-2: CV-MO
+      names:
+        - name: Mosteiros
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Paul
+    - codes:
+        iso3166-2: CV-PA
+      names:
+        - name: Paul
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Porto Novo
+    - codes:
+        iso3166-2: CV-PN
+      names:
+        - name: Porto Novo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Praia
+    - codes:
+        iso3166-2: CV-PR
+      names:
+        - name: Praia
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Ribeira Brava
+    - codes:
+        iso3166-2: CV-RB
+      names:
+        - name: Ribeira Brava
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Ribeira Grande
+    - codes:
+        iso3166-2: CV-RG
+      names:
+        - name: Ribeira Grande
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Ribeira Grande de Santiago
+    - codes:
+        iso3166-2: CV-RS
+      names:
+        - name: Ribeira Grande de Santiago
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Sal
+    - codes:
+        iso3166-2: CV-SL
+      names:
+        - name: Sal
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Santa Catarina
+    - codes:
+        iso3166-2: CV-CA
+      names:
+        - name: Santa Catarina
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Santa Catarina do Fogo
+    - codes:
+        iso3166-2: CV-CF
+      names:
+        - name: Santa Catarina do Fogo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Santa Cruz
+    - codes:
+        iso3166-2: CV-CR
+      names:
+        - name: Santa Cruz
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Domingos
+    - codes:
+        iso3166-2: CV-SD
+      names:
+        - name: São Domingos
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Filipe
+    - codes:
+        iso3166-2: CV-SF
+      names:
+        - name: São Filipe
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Lourenço dos Órgãos
+    - codes:
+        iso3166-2: CV-SO
+      names:
+        - name: São Lourenço dos Órgãos
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Miguel
+    - codes:
+        iso3166-2: CV-SM
+      names:
+        - name: São Miguel
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Salvador do Mundo
+    - codes:
+        iso3166-2: CV-SS
+      names:
+        - name: São Salvador do Mundo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # São Vicente
+    - codes:
+        iso3166-2: CV-SV
+      names:
+        - name: São Vicente
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Tarrafal
+    - codes:
+        iso3166-2: CV-TA
+      names:
+        - name: Tarrafal
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Tarrafal de São Nicolau
+    - codes:
+        iso3166-2: CV-TS
+      names:
+        - name: Tarrafal de São Nicolau
+          languages: [pt]
+          sources: [iso3166-2]

@@ -1,0 +1,111 @@
+iso3166-1: CG
+complete: false
+regions:
+    
+
+    # Bouenza
+    - codes:
+        iso3166-2: CG-11
+      names:
+        - name: Bouenza
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Brazzaville
+    - codes:
+        iso3166-2: CG-BZV
+      names:
+        - name: Brazzaville
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Cuvette
+    - codes:
+        iso3166-2: CG-8
+      names:
+        - name: Cuvette
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Cuvette-Ouest
+    - codes:
+        iso3166-2: CG-15
+      names:
+        - name: Cuvette-Ouest
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kouilou
+    - codes:
+        iso3166-2: CG-5
+      names:
+        - name: Kouilou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Likouala
+    - codes:
+        iso3166-2: CG-7
+      names:
+        - name: Likouala
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lékoumou
+    - codes:
+        iso3166-2: CG-2
+      names:
+        - name: Lékoumou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Niari
+    - codes:
+        iso3166-2: CG-9
+      names:
+        - name: Niari
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Plateaux
+    - codes:
+        iso3166-2: CG-14
+      names:
+        - name: Plateaux
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Pointe-Noire
+    - codes:
+        iso3166-2: CG-16
+      names:
+        - name: Pointe-Noire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Pool
+    - codes:
+        iso3166-2: CG-12
+      names:
+        - name: Pool
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sangha
+    - codes:
+        iso3166-2: CG-13
+      names:
+        - name: Sangha
+          languages: [fr]
+          sources: [iso3166-2]

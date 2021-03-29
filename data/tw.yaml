@@ -1,0 +1,183 @@
+iso3166-1: TW
+complete: false
+regions:
+    
+
+    # Changhua
+    - codes:
+        iso3166-2: TW-CHA
+      names:
+        - name: Changhua
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Chiayi
+    - codes:
+        iso3166-2: TW-CYQ
+      names:
+        - name: Chiayi
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Hsinchu
+    - codes:
+        iso3166-2: TW-HSZ
+      names:
+        - name: Hsinchu
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Hualien
+    - codes:
+        iso3166-2: TW-HUA
+      names:
+        - name: Hualien
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Kaohsiung
+    - codes:
+        iso3166-2: TW-KHH
+      names:
+        - name: Kaohsiung
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Keelung
+    - codes:
+        iso3166-2: TW-KEE
+      names:
+        - name: Keelung
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Kinmen
+    - codes:
+        iso3166-2: TW-KIN
+      names:
+        - name: Kinmen
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Lienchiang
+    - codes:
+        iso3166-2: TW-LIE
+      names:
+        - name: Lienchiang
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Miaoli
+    - codes:
+        iso3166-2: TW-MIA
+      names:
+        - name: Miaoli
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Nantou
+    - codes:
+        iso3166-2: TW-NAN
+      names:
+        - name: Nantou
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # New Taipei
+    - codes:
+        iso3166-2: TW-NWT
+      names:
+        - name: New Taipei
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Penghu
+    - codes:
+        iso3166-2: TW-PEN
+      names:
+        - name: Penghu
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Pingtung
+    - codes:
+        iso3166-2: TW-PIF
+      names:
+        - name: Pingtung
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Taichung
+    - codes:
+        iso3166-2: TW-TXG
+      names:
+        - name: Taichung
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Tainan
+    - codes:
+        iso3166-2: TW-TNN
+      names:
+        - name: Tainan
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Taipei
+    - codes:
+        iso3166-2: TW-TPE
+      names:
+        - name: Taipei
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Taitung
+    - codes:
+        iso3166-2: TW-TTT
+      names:
+        - name: Taitung
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Taoyuan
+    - codes:
+        iso3166-2: TW-TAO
+      names:
+        - name: Taoyuan
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Yilan
+    - codes:
+        iso3166-2: TW-ILA
+      names:
+        - name: Yilan
+          languages: [zh]
+          sources: [iso3166-2]
+    
+
+    # Yunlin
+    - codes:
+        iso3166-2: TW-YUN
+      names:
+        - name: Yunlin
+          languages: [zh]
+          sources: [iso3166-2]

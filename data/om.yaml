@@ -1,0 +1,108 @@
+iso3166-1: OM
+complete: false
+regions:
+    
+
+    # Ad Dākhilīyah
+    - codes:
+        iso3166-2: OM-DA
+      names:
+        - name: Ad Dākhilīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Buraymī
+    - codes:
+        iso3166-2: OM-BU
+      names:
+        - name: Al Buraymī
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Wusţá
+    - codes:
+        iso3166-2: OM-WU
+      names:
+        - name: Al Wusţá
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Az̧ Z̧āhirah
+    - codes:
+        iso3166-2: OM-ZA
+      names:
+        - name: Az̧ Z̧āhirah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Janūb al Bāţinah
+    - codes:
+        iso3166-2: OM-BJ
+      names:
+        - name: Janūb al Bāţinah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Janūb ash Sharqīyah
+    - codes:
+        iso3166-2: OM-SJ
+      names:
+        - name: Janūb ash Sharqīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Masqaţ
+    - codes:
+        iso3166-2: OM-MA
+      names:
+        - name: Masqaţ
+          languages: [ar]
+          sources: [iso3166-2]
+        - name: Muscat
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Musandam
+    - codes:
+        iso3166-2: OM-MU
+      names:
+        - name: Musandam
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Shamāl al Bāţinah
+    - codes:
+        iso3166-2: OM-BS
+      names:
+        - name: Shamāl al Bāţinah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Shamāl ash Sharqīyah
+    - codes:
+        iso3166-2: OM-SS
+      names:
+        - name: Shamāl ash Sharqīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Dhofar
+    - codes:
+        iso3166-2: OM-ZU
+      names:
+        - name: Dhofar
+          languages: [ar]
+          sources: [iso3166-2]
+        - name: Z̧ufār
+          languages: [ar]
+          sources: [iso3166-2]

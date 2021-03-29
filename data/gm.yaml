@@ -1,0 +1,57 @@
+iso3166-1: GM
+complete: false
+regions:
+    
+
+    # Banjul
+    - codes:
+        iso3166-2: GM-B
+      names:
+        - name: Banjul
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central River
+    - codes:
+        iso3166-2: GM-M
+      names:
+        - name: Central River
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lower River
+    - codes:
+        iso3166-2: GM-L
+      names:
+        - name: Lower River
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Bank
+    - codes:
+        iso3166-2: GM-N
+      names:
+        - name: North Bank
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Upper River
+    - codes:
+        iso3166-2: GM-U
+      names:
+        - name: Upper River
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: GM-W
+      names:
+        - name: Western
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,495 @@
+iso3166-1: JP
+complete: false
+regions:
+    
+
+    # Aichi
+    - codes:
+        iso3166-2: JP-23
+      names:
+        - name: Aichi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Aiti
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Akita
+    - codes:
+        iso3166-2: JP-05
+      names:
+        - name: Akita
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Aomori
+    - codes:
+        iso3166-2: JP-02
+      names:
+        - name: Aomori
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Ehime
+    - codes:
+        iso3166-2: JP-38
+      names:
+        - name: Ehime
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Fukushima
+    - codes:
+        iso3166-2: JP-07
+      names:
+        - name: Fukushima
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hukusima
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Gifu
+    - codes:
+        iso3166-2: JP-21
+      names:
+        - name: Gifu
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Gihu
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Gunma
+    - codes:
+        iso3166-2: JP-10
+      names:
+        - name: Gunma
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Hiroshima
+    - codes:
+        iso3166-2: JP-34
+      names:
+        - name: Hiroshima
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hirosima
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Hokkaido
+    - codes:
+        iso3166-2: JP-01
+      names:
+        - name: Hokkaido
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hokkaidô
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Fukui
+    - codes:
+        iso3166-2: JP-18
+      names:
+        - name: Fukui
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hukui
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Fukuoka
+    - codes:
+        iso3166-2: JP-40
+      names:
+        - name: Fukuoka
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hukuoka
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Hyogo
+    - codes:
+        iso3166-2: JP-28
+      names:
+        - name: Hyogo
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hyôgo
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Ibaraki
+    - codes:
+        iso3166-2: JP-08
+      names:
+        - name: Ibaraki
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Ishikawa
+    - codes:
+        iso3166-2: JP-17
+      names:
+        - name: Ishikawa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Isikawa
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Iwate
+    - codes:
+        iso3166-2: JP-03
+      names:
+        - name: Iwate
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kagawa
+    - codes:
+        iso3166-2: JP-37
+      names:
+        - name: Kagawa
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kagoshima
+    - codes:
+        iso3166-2: JP-46
+      names:
+        - name: Kagoshima
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kagosima
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kanagawa
+    - codes:
+        iso3166-2: JP-14
+      names:
+        - name: Kanagawa
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kochi
+    - codes:
+        iso3166-2: JP-39
+      names:
+        - name: Kochi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kôti
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kumamoto
+    - codes:
+        iso3166-2: JP-43
+      names:
+        - name: Kumamoto
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Kyoto
+    - codes:
+        iso3166-2: JP-26
+      names:
+        - name: Kyoto
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kyôto
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Mie
+    - codes:
+        iso3166-2: JP-24
+      names:
+        - name: Mie
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Miyagi
+    - codes:
+        iso3166-2: JP-04
+      names:
+        - name: Miyagi
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Miyazaki
+    - codes:
+        iso3166-2: JP-45
+      names:
+        - name: Miyazaki
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Nagano
+    - codes:
+        iso3166-2: JP-20
+      names:
+        - name: Nagano
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Nagasaki
+    - codes:
+        iso3166-2: JP-42
+      names:
+        - name: Nagasaki
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Nara
+    - codes:
+        iso3166-2: JP-29
+      names:
+        - name: Nara
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Niigata
+    - codes:
+        iso3166-2: JP-15
+      names:
+        - name: Niigata
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Oita
+    - codes:
+        iso3166-2: JP-44
+      names:
+        - name: Oita
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ôita
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Okayama
+    - codes:
+        iso3166-2: JP-33
+      names:
+        - name: Okayama
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Okinawa
+    - codes:
+        iso3166-2: JP-47
+      names:
+        - name: Okinawa
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Osaka
+    - codes:
+        iso3166-2: JP-27
+      names:
+        - name: Osaka
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ôsaka
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Saga
+    - codes:
+        iso3166-2: JP-41
+      names:
+        - name: Saga
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Saitama
+    - codes:
+        iso3166-2: JP-11
+      names:
+        - name: Saitama
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Shimane
+    - codes:
+        iso3166-2: JP-32
+      names:
+        - name: Shimane
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Simane
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Shizuoka
+    - codes:
+        iso3166-2: JP-22
+      names:
+        - name: Shizuoka
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Sizuoka
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Shiga
+    - codes:
+        iso3166-2: JP-25
+      names:
+        - name: Shiga
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Siga
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Chiba
+    - codes:
+        iso3166-2: JP-12
+      names:
+        - name: Chiba
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tiba
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Tokushima
+    - codes:
+        iso3166-2: JP-36
+      names:
+        - name: Tokushima
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tokusima
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Tochigi
+    - codes:
+        iso3166-2: JP-09
+      names:
+        - name: Tochigi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Totigi
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Tottori
+    - codes:
+        iso3166-2: JP-31
+      names:
+        - name: Tottori
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Toyama
+    - codes:
+        iso3166-2: JP-16
+      names:
+        - name: Toyama
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Tokyo
+    - codes:
+        iso3166-2: JP-13
+      names:
+        - name: Tokyo
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tôkyô
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Wakayama
+    - codes:
+        iso3166-2: JP-30
+      names:
+        - name: Wakayama
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Yamagata
+    - codes:
+        iso3166-2: JP-06
+      names:
+        - name: Yamagata
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Yamaguchi
+    - codes:
+        iso3166-2: JP-35
+      names:
+        - name: Yamaguchi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Yamaguti
+          languages: [ja]
+          sources: [iso3166-2]
+    
+
+    # Yamanashi
+    - codes:
+        iso3166-2: JP-19
+      names:
+        - name: Yamanashi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Yamanasi
+          languages: [ja]
+          sources: [iso3166-2]

@@ -1,0 +1,174 @@
+iso3166-1: UY
+complete: false
+regions:
+    
+
+    # Artigas
+    - codes:
+        iso3166-2: UY-AR
+      names:
+        - name: Artigas
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Canelones
+    - codes:
+        iso3166-2: UY-CA
+      names:
+        - name: Canelones
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Cerro Largo
+    - codes:
+        iso3166-2: UY-CL
+      names:
+        - name: Cerro Largo
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Colonia
+    - codes:
+        iso3166-2: UY-CO
+      names:
+        - name: Colonia
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Durazno
+    - codes:
+        iso3166-2: UY-DU
+      names:
+        - name: Durazno
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Flores
+    - codes:
+        iso3166-2: UY-FS
+      names:
+        - name: Flores
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Florida
+    - codes:
+        iso3166-2: UY-FD
+      names:
+        - name: Florida
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Lavalleja
+    - codes:
+        iso3166-2: UY-LA
+      names:
+        - name: Lavalleja
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Maldonado
+    - codes:
+        iso3166-2: UY-MA
+      names:
+        - name: Maldonado
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Montevideo
+    - codes:
+        iso3166-2: UY-MO
+      names:
+        - name: Montevideo
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Paysandú
+    - codes:
+        iso3166-2: UY-PA
+      names:
+        - name: Paysandú
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Rivera
+    - codes:
+        iso3166-2: UY-RV
+      names:
+        - name: Rivera
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Rocha
+    - codes:
+        iso3166-2: UY-RO
+      names:
+        - name: Rocha
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Río Negro
+    - codes:
+        iso3166-2: UY-RN
+      names:
+        - name: Río Negro
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Salto
+    - codes:
+        iso3166-2: UY-SA
+      names:
+        - name: Salto
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San José
+    - codes:
+        iso3166-2: UY-SJ
+      names:
+        - name: San José
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Soriano
+    - codes:
+        iso3166-2: UY-SO
+      names:
+        - name: Soriano
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Tacuarembó
+    - codes:
+        iso3166-2: UY-TA
+      names:
+        - name: Tacuarembó
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Treinta y Tres
+    - codes:
+        iso3166-2: UY-TT
+      names:
+        - name: Treinta y Tres
+          languages: [es]
+          sources: [iso3166-2]

@@ -1,0 +1,87 @@
+iso3166-1: PK
+complete: false
+regions:
+    
+
+    # AJ&K
+    - codes:
+        iso3166-2: PK-JK
+      names:
+        - name: AJ&K
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Azad Jammu and Kashmir
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Āzād Jammūñ o Kashmīr
+          languages: [ur]
+          sources: [iso3166-2]
+    
+
+    # Balochistan
+    - codes:
+        iso3166-2: PK-BA
+      names:
+        - name: Balochistan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Balōchistān
+          languages: [ur]
+          sources: [iso3166-2]
+    
+
+    # Gilgit-Baltistan
+    - codes:
+        iso3166-2: PK-GB
+      names:
+        - name: Gilgit-Baltistan
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Gilgit-Baltistān
+          languages: [ur]
+          sources: [iso3166-2]
+    
+
+    # Islamabad
+    - codes:
+        iso3166-2: PK-IS
+      names:
+        - name: Islamabad
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Islāmābād
+          languages: [ur]
+          sources: [iso3166-2]
+    
+
+    # Khyber Pakhtunkhwa
+    - codes:
+        iso3166-2: PK-KP
+      names:
+        - name: Khaībar Pakhtūnkhwā
+          languages: [ur]
+          sources: [iso3166-2]
+        - name: Khyber Pakhtunkhwa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Punjab
+    - codes:
+        iso3166-2: PK-PB
+      names:
+        - name: Panjāb
+          languages: [ur]
+          sources: [iso3166-2]
+        - name: Punjab
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sindh
+    - codes:
+        iso3166-2: PK-SD
+      names:
+        - name: Sindh
+          languages: [en, ur]
+          sources: [iso3166-2]

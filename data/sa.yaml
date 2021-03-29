@@ -1,0 +1,120 @@
+iso3166-1: SA
+complete: false
+regions:
+    
+
+    # 'Asīr
+    - codes:
+        iso3166-2: SA-14
+      names:
+        - name: '''Asīr'
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Bāḩah
+    - codes:
+        iso3166-2: SA-11
+      names:
+        - name: Al Bāḩah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Jawf
+    - codes:
+        iso3166-2: SA-12
+      names:
+        - name: Al Jawf
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Madīnah al Munawwarah
+    - codes:
+        iso3166-2: SA-03
+      names:
+        - name: Al Madīnah al Munawwarah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Qaşīm
+    - codes:
+        iso3166-2: SA-05
+      names:
+        - name: Al Qaşīm
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Ḩudūd ash Shamālīyah
+    - codes:
+        iso3166-2: SA-08
+      names:
+        - name: Al Ḩudūd ash Shamālīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ar Riyāḑ
+    - codes:
+        iso3166-2: SA-01
+      names:
+        - name: Ar Riyāḑ
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ash Sharqīyah
+    - codes:
+        iso3166-2: SA-04
+      names:
+        - name: Ash Sharqīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Jāzān
+    - codes:
+        iso3166-2: SA-09
+      names:
+        - name: Jāzān
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Makkah al Mukarramah
+    - codes:
+        iso3166-2: SA-02
+      names:
+        - name: Makkah al Mukarramah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Najrān
+    - codes:
+        iso3166-2: SA-10
+      names:
+        - name: Najrān
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tabūk
+    - codes:
+        iso3166-2: SA-07
+      names:
+        - name: Tabūk
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ḩā'il
+    - codes:
+        iso3166-2: SA-06
+      names:
+        - name: Ḩā'il
+          languages: [ar]
+          sources: [iso3166-2]

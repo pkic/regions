@@ -1,0 +1,219 @@
+iso3166-1: TN
+complete: false
+regions:
+    
+
+    # Ben Arous
+    - codes:
+        iso3166-2: TN-13
+      names:
+        - name: Ben Arous
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Bizerte
+    - codes:
+        iso3166-2: TN-23
+      names:
+        - name: Bizerte
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Béja
+    - codes:
+        iso3166-2: TN-31
+      names:
+        - name: Béja
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Gabès
+    - codes:
+        iso3166-2: TN-81
+      names:
+        - name: Gabès
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Gafsa
+    - codes:
+        iso3166-2: TN-71
+      names:
+        - name: Gafsa
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Jendouba
+    - codes:
+        iso3166-2: TN-32
+      names:
+        - name: Jendouba
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Kairouan
+    - codes:
+        iso3166-2: TN-41
+      names:
+        - name: Kairouan
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Kasserine
+    - codes:
+        iso3166-2: TN-42
+      names:
+        - name: Kasserine
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Kébili
+    - codes:
+        iso3166-2: TN-73
+      names:
+        - name: Kébili
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # L'Ariana
+    - codes:
+        iso3166-2: TN-12
+      names:
+        - name: L'Ariana
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # La Manouba
+    - codes:
+        iso3166-2: TN-14
+      names:
+        - name: La Manouba
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Le Kef
+    - codes:
+        iso3166-2: TN-33
+      names:
+        - name: Le Kef
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Mahdia
+    - codes:
+        iso3166-2: TN-53
+      names:
+        - name: Mahdia
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Monastir
+    - codes:
+        iso3166-2: TN-52
+      names:
+        - name: Monastir
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Médenine
+    - codes:
+        iso3166-2: TN-82
+      names:
+        - name: Médenine
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Nabeul
+    - codes:
+        iso3166-2: TN-21
+      names:
+        - name: Nabeul
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Sfax
+    - codes:
+        iso3166-2: TN-61
+      names:
+        - name: Sfax
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Sidi Bouzid
+    - codes:
+        iso3166-2: TN-43
+      names:
+        - name: Sidi Bouzid
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Siliana
+    - codes:
+        iso3166-2: TN-34
+      names:
+        - name: Siliana
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Sousse
+    - codes:
+        iso3166-2: TN-51
+      names:
+        - name: Sousse
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tataouine
+    - codes:
+        iso3166-2: TN-83
+      names:
+        - name: Tataouine
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tozeur
+    - codes:
+        iso3166-2: TN-72
+      names:
+        - name: Tozeur
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tunis
+    - codes:
+        iso3166-2: TN-11
+      names:
+        - name: Tunis
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Zaghouan
+    - codes:
+        iso3166-2: TN-22
+      names:
+        - name: Zaghouan
+          languages: [ar]
+          sources: [iso3166-2]

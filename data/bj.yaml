@@ -1,0 +1,111 @@
+iso3166-1: BJ
+complete: false
+regions:
+    
+
+    # Alibori
+    - codes:
+        iso3166-2: BJ-AL
+      names:
+        - name: Alibori
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Atacora
+    - codes:
+        iso3166-2: BJ-AK
+      names:
+        - name: Atacora
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Atlantique
+    - codes:
+        iso3166-2: BJ-AQ
+      names:
+        - name: Atlantique
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Borgou
+    - codes:
+        iso3166-2: BJ-BO
+      names:
+        - name: Borgou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Collines
+    - codes:
+        iso3166-2: BJ-CO
+      names:
+        - name: Collines
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Couffo
+    - codes:
+        iso3166-2: BJ-KO
+      names:
+        - name: Couffo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Donga
+    - codes:
+        iso3166-2: BJ-DO
+      names:
+        - name: Donga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Littoral
+    - codes:
+        iso3166-2: BJ-LI
+      names:
+        - name: Littoral
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Mono
+    - codes:
+        iso3166-2: BJ-MO
+      names:
+        - name: Mono
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ouémé
+    - codes:
+        iso3166-2: BJ-OU
+      names:
+        - name: Ouémé
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Plateau
+    - codes:
+        iso3166-2: BJ-PL
+      names:
+        - name: Plateau
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Zou
+    - codes:
+        iso3166-2: BJ-ZO
+      names:
+        - name: Zou
+          languages: [fr]
+          sources: [iso3166-2]

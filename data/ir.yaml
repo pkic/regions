@@ -1,0 +1,282 @@
+iso3166-1: IR
+complete: false
+regions:
+    
+
+    # Alborz
+    - codes:
+        iso3166-2: IR-30
+      names:
+        - name: Alborz
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Ardabīl
+    - codes:
+        iso3166-2: IR-24
+      names:
+        - name: Ardabīl
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Būshehr
+    - codes:
+        iso3166-2: IR-18
+      names:
+        - name: Būshehr
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Chahār Maḩāl va Bakhtīārī
+    - codes:
+        iso3166-2: IR-14
+      names:
+        - name: Chahār Maḩāl va Bakhtīārī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Eşfahān
+    - codes:
+        iso3166-2: IR-10
+      names:
+        - name: Eşfahān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Fārs
+    - codes:
+        iso3166-2: IR-07
+      names:
+        - name: Fārs
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Golestān
+    - codes:
+        iso3166-2: IR-27
+      names:
+        - name: Golestān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Gīlān
+    - codes:
+        iso3166-2: IR-01
+      names:
+        - name: Gīlān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Hamadān
+    - codes:
+        iso3166-2: IR-13
+      names:
+        - name: Hamadān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Hormozgān
+    - codes:
+        iso3166-2: IR-22
+      names:
+        - name: Hormozgān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Kermān
+    - codes:
+        iso3166-2: IR-08
+      names:
+        - name: Kermān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Kermānshāh
+    - codes:
+        iso3166-2: IR-05
+      names:
+        - name: Kermānshāh
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Khorāsān-e Jonūbī
+    - codes:
+        iso3166-2: IR-29
+      names:
+        - name: Khorāsān-e Jonūbī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Khorāsān-e Raẕavī
+    - codes:
+        iso3166-2: IR-09
+      names:
+        - name: Khorāsān-e Raẕavī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Khorāsān-e Shomālī
+    - codes:
+        iso3166-2: IR-28
+      names:
+        - name: Khorāsān-e Shomālī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Khūzestān
+    - codes:
+        iso3166-2: IR-06
+      names:
+        - name: Khūzestān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Kohgīlūyeh va Bowyer Aḩmad
+    - codes:
+        iso3166-2: IR-17
+      names:
+        - name: Kohgīlūyeh va Bowyer Aḩmad
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Kordestān
+    - codes:
+        iso3166-2: IR-12
+      names:
+        - name: Kordestān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Lorestān
+    - codes:
+        iso3166-2: IR-15
+      names:
+        - name: Lorestān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Markazī
+    - codes:
+        iso3166-2: IR-00
+      names:
+        - name: Markazī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Māzandarān
+    - codes:
+        iso3166-2: IR-02
+      names:
+        - name: Māzandarān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Qazvīn
+    - codes:
+        iso3166-2: IR-26
+      names:
+        - name: Qazvīn
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Qom
+    - codes:
+        iso3166-2: IR-25
+      names:
+        - name: Qom
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Semnān
+    - codes:
+        iso3166-2: IR-20
+      names:
+        - name: Semnān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Sīstān va Balūchestān
+    - codes:
+        iso3166-2: IR-11
+      names:
+        - name: Sīstān va Balūchestān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Tehrān
+    - codes:
+        iso3166-2: IR-23
+      names:
+        - name: Tehrān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Yazd
+    - codes:
+        iso3166-2: IR-21
+      names:
+        - name: Yazd
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Zanjān
+    - codes:
+        iso3166-2: IR-19
+      names:
+        - name: Zanjān
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Āz̄ārbāyjān-e Ghārbī
+    - codes:
+        iso3166-2: IR-04
+      names:
+        - name: Āz̄ārbāyjān-e Ghārbī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Āz̄ārbāyjān-e Shārqī
+    - codes:
+        iso3166-2: IR-03
+      names:
+        - name: Āz̄ārbāyjān-e Shārqī
+          languages: [fa]
+          sources: [iso3166-2]
+    
+
+    # Īlām
+    - codes:
+        iso3166-2: IR-16
+      names:
+        - name: Īlām
+          languages: [fa]
+          sources: [iso3166-2]

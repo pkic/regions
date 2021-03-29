@@ -1,0 +1,129 @@
+iso3166-1: SV
+complete: false
+regions:
+    
+
+    # Ahuachapán
+    - codes:
+        iso3166-2: SV-AH
+      names:
+        - name: Ahuachapán
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Cabañas
+    - codes:
+        iso3166-2: SV-CA
+      names:
+        - name: Cabañas
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chalatenango
+    - codes:
+        iso3166-2: SV-CH
+      names:
+        - name: Chalatenango
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Cuscatlán
+    - codes:
+        iso3166-2: SV-CU
+      names:
+        - name: Cuscatlán
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # La Libertad
+    - codes:
+        iso3166-2: SV-LI
+      names:
+        - name: La Libertad
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # La Paz
+    - codes:
+        iso3166-2: SV-PA
+      names:
+        - name: La Paz
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # La Unión
+    - codes:
+        iso3166-2: SV-UN
+      names:
+        - name: La Unión
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Morazán
+    - codes:
+        iso3166-2: SV-MO
+      names:
+        - name: Morazán
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Miguel
+    - codes:
+        iso3166-2: SV-SM
+      names:
+        - name: San Miguel
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Salvador
+    - codes:
+        iso3166-2: SV-SS
+      names:
+        - name: San Salvador
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Vicente
+    - codes:
+        iso3166-2: SV-SV
+      names:
+        - name: San Vicente
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Santa Ana
+    - codes:
+        iso3166-2: SV-SA
+      names:
+        - name: Santa Ana
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Sonsonate
+    - codes:
+        iso3166-2: SV-SO
+      names:
+        - name: Sonsonate
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Usulután
+    - codes:
+        iso3166-2: SV-US
+      names:
+        - name: Usulután
+          languages: [es]
+          sources: [iso3166-2]

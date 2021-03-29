@@ -1,0 +1,73 @@
+name: Cyprus
+iso3166-1: CY
+complete: false
+regions:
+    
+
+    # Girne
+    - codes:
+        iso3166-2: CY-06
+      names:
+        - name: Girne
+          languages: [tr]
+          sources: [iso3166-2]
+        - name: Keryneia
+          languages: [el]
+          sources: [iso3166-2]
+    
+
+    # Larnaka
+    - codes:
+        iso3166-2: CY-03
+      names:
+        - name: Larnaka
+          languages: [el, tr]
+          sources: [iso3166-2]
+    
+
+    # Lefkosia
+    - codes:
+        iso3166-2: CY-01
+      names:
+        - name: Lefkosia
+          languages: [el]
+          sources: [iso3166-2]
+        - name: Lefkoşa
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Lemesos
+    - codes:
+        iso3166-2: CY-02
+      names:
+        - name: Lemesos
+          languages: [el]
+          sources: [iso3166-2]
+        - name: Leymasun
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Ammochostos
+    - codes:
+        iso3166-2: CY-04
+      names:
+        - name: Ammochostos
+          languages: [el]
+          sources: [iso3166-2]
+        - name: Mağusa
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Baf
+    - codes:
+        iso3166-2: CY-05
+      names:
+        - name: Baf
+          languages: [tr]
+          sources: [iso3166-2]
+        - name: Pafos
+          languages: [el]
+          sources: [iso3166-2]

@@ -1,0 +1,75 @@
+iso3166-1: TV
+complete: false
+regions:
+    
+
+    # Funafuti
+    - codes:
+        iso3166-2: TV-FUN
+      names:
+        - name: Funafuti
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nanumaga
+    - codes:
+        iso3166-2: TV-NMG
+      names:
+        - name: Nanumaga
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nanumea
+    - codes:
+        iso3166-2: TV-NMA
+      names:
+        - name: Nanumea
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Niutao
+    - codes:
+        iso3166-2: TV-NIT
+      names:
+        - name: Niutao
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nui
+    - codes:
+        iso3166-2: TV-NUI
+      names:
+        - name: Nui
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nukufetau
+    - codes:
+        iso3166-2: TV-NKF
+      names:
+        - name: Nukufetau
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nukulaelae
+    - codes:
+        iso3166-2: TV-NKL
+      names:
+        - name: Nukulaelae
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vaitupu
+    - codes:
+        iso3166-2: TV-VAI
+      names:
+        - name: Vaitupu
+          languages: [en]
+          sources: [iso3166-2]

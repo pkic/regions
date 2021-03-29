@@ -1,0 +1,135 @@
+iso3166-1: ET
+complete: false
+regions:
+    
+
+    # Benshangul-Gumaz
+    - codes:
+        iso3166-2: ET-BE
+      names:
+        - name: Benshangul-Gumaz
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Bīnshangul Gumuz
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Dire Dawa
+    - codes:
+        iso3166-2: ET-DD
+      names:
+        - name: Dire Dawa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Dirē Dawa
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Gambela Peoples
+    - codes:
+        iso3166-2: ET-GA
+      names:
+        - name: Gambela Peoples
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Gambēla Hizboch
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Harari People
+    - codes:
+        iso3166-2: ET-HA
+      names:
+        - name: Harari People
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hārerī Hizb
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Oromia
+    - codes:
+        iso3166-2: ET-OR
+      names:
+        - name: Oromia
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Oromīya
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Somali
+    - codes:
+        iso3166-2: ET-SO
+      names:
+        - name: Somali
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Sumalē
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Tigrai
+    - codes:
+        iso3166-2: ET-TI
+      names:
+        - name: Tigrai
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tigray
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Southern Nations, Nationalities and Peoples
+    - codes:
+        iso3166-2: ET-SN
+      names:
+        - name: Southern Nations, Nationalities and Peoples
+          languages: [en]
+          sources: [iso3166-2]
+        - name: YeDebub Bihēroch Bihēreseboch na Hizboch
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Addis Ababa
+    - codes:
+        iso3166-2: ET-AA
+      names:
+        - name: Addis Ababa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ādīs Ābeba
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Afar
+    - codes:
+        iso3166-2: ET-AF
+      names:
+        - name: Afar
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Āfar
+          languages: [am]
+          sources: [iso3166-2]
+    
+
+    # Amara
+    - codes:
+        iso3166-2: ET-AM
+      names:
+        - name: Amara
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Āmara
+          languages: [am]
+          sources: [iso3166-2]

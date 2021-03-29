@@ -1,0 +1,126 @@
+name: Denmark
+iso3166-1: DK
+complete: false
+regions:
+    
+
+    # Central Jutland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8280
+        iso3166-2: DK-82
+      names:
+        - name: Central Jutland
+          languages: [en]
+          sources: [euvoc]
+        - name: Jutlandi i Mesëm
+          languages: [sq]
+          sources: [euvoc]
+        - name: Midden-Jutland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Midtjylland
+          languages: [cs, da, de, el, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Митјиланд
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Централен Ютланд
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Nordjylland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8281
+        iso3166-2: DK-81
+      names:
+        - name: Jutlandi Verior
+          languages: [sq]
+          sources: [euvoc]
+        - name: Noord-Jutland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Nordjylland
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Северна Данска
+          languages: [mk]
+          sources: [euvoc]
+        - name: Северна Ютландия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Северни Јиланд
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Sjælland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8282
+        iso3166-2: DK-85
+      names:
+        - name: Seeland
+          languages: [nl]
+          sources: [euvoc]
+        - name: Sjaelland
+          languages: [fr]
+          sources: [euvoc]
+        - name: Sjalland
+          languages: [hr]
+          sources: [euvoc]
+        - name: Sjelanda
+          languages: [sq]
+          sources: [euvoc]
+        - name: Sjælland
+          languages: [cs, da, de, el, en, es, et, fi, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Зеланд
+          languages: [bg]
+          sources: [euvoc]
+        - name: Селанд
+          languages: [mk]
+          sources: [euvoc]
+        - name: Шеланд
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Syddanmark
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8283
+        iso3166-2: DK-83
+      names:
+        - name: Syddanmark
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Zuid-Denemarken
+          languages: [nl]
+          sources: [euvoc]
+        - name: i i Danimarkës Jugore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Јужна Данска
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Южна Дания
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # en
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8279
+        iso3166-2: DK-84
+      names:
+        - name: en
+          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+          sources: [euvoc, iso3166-2]
+        - name: enas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ховедстаден
+          languages: [bg, mk]
+          sources: [euvoc]
+        - name: Хуведстадн
+          languages: [sr]
+          sources: [euvoc]

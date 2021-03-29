@@ -1,0 +1,129 @@
+iso3166-1: SN
+complete: false
+regions:
+    
+
+    # Dakar
+    - codes:
+        iso3166-2: SN-DK
+      names:
+        - name: Dakar
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Diourbel
+    - codes:
+        iso3166-2: SN-DB
+      names:
+        - name: Diourbel
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Fatick
+    - codes:
+        iso3166-2: SN-FK
+      names:
+        - name: Fatick
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kaffrine
+    - codes:
+        iso3166-2: SN-KA
+      names:
+        - name: Kaffrine
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kaolack
+    - codes:
+        iso3166-2: SN-KL
+      names:
+        - name: Kaolack
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kolda
+    - codes:
+        iso3166-2: SN-KD
+      names:
+        - name: Kolda
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kédougou
+    - codes:
+        iso3166-2: SN-KE
+      names:
+        - name: Kédougou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Louga
+    - codes:
+        iso3166-2: SN-LG
+      names:
+        - name: Louga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Matam
+    - codes:
+        iso3166-2: SN-MT
+      names:
+        - name: Matam
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Saint-Louis
+    - codes:
+        iso3166-2: SN-SL
+      names:
+        - name: Saint-Louis
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sédhiou
+    - codes:
+        iso3166-2: SN-SE
+      names:
+        - name: Sédhiou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tambacounda
+    - codes:
+        iso3166-2: SN-TC
+      names:
+        - name: Tambacounda
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Thiès
+    - codes:
+        iso3166-2: SN-TH
+      names:
+        - name: Thiès
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ziguinchor
+    - codes:
+        iso3166-2: SN-ZG
+      names:
+        - name: Ziguinchor
+          languages: [fr]
+          sources: [iso3166-2]

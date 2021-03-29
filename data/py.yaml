@@ -1,0 +1,165 @@
+iso3166-1: PY
+complete: false
+regions:
+    
+
+    # Alto Paraguay
+    - codes:
+        iso3166-2: PY-16
+      names:
+        - name: Alto Paraguay
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Alto Paraná
+    - codes:
+        iso3166-2: PY-10
+      names:
+        - name: Alto Paraná
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Amambay
+    - codes:
+        iso3166-2: PY-13
+      names:
+        - name: Amambay
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Asunción
+    - codes:
+        iso3166-2: PY-ASU
+      names:
+        - name: Asunción
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Boquerón
+    - codes:
+        iso3166-2: PY-19
+      names:
+        - name: Boquerón
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Caaguazú
+    - codes:
+        iso3166-2: PY-5
+      names:
+        - name: Caaguazú
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Caazapá
+    - codes:
+        iso3166-2: PY-6
+      names:
+        - name: Caazapá
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Canindeyú
+    - codes:
+        iso3166-2: PY-14
+      names:
+        - name: Canindeyú
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: PY-11
+      names:
+        - name: Central
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Concepción
+    - codes:
+        iso3166-2: PY-1
+      names:
+        - name: Concepción
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Cordillera
+    - codes:
+        iso3166-2: PY-3
+      names:
+        - name: Cordillera
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Guairá
+    - codes:
+        iso3166-2: PY-4
+      names:
+        - name: Guairá
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Itapúa
+    - codes:
+        iso3166-2: PY-7
+      names:
+        - name: Itapúa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Misiones
+    - codes:
+        iso3166-2: PY-8
+      names:
+        - name: Misiones
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Paraguarí
+    - codes:
+        iso3166-2: PY-9
+      names:
+        - name: Paraguarí
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Presidente Hayes
+    - codes:
+        iso3166-2: PY-15
+      names:
+        - name: Presidente Hayes
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # San Pedro
+    - codes:
+        iso3166-2: PY-2
+      names:
+        - name: San Pedro
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Ñeembucú
+    - codes:
+        iso3166-2: PY-12
+      names:
+        - name: Ñeembucú
+          languages: [es]
+          sources: [iso3166-2]

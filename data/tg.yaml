@@ -1,0 +1,48 @@
+iso3166-1: TG
+complete: false
+regions:
+    
+
+    # Centrale
+    - codes:
+        iso3166-2: TG-C
+      names:
+        - name: Centrale
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kara
+    - codes:
+        iso3166-2: TG-K
+      names:
+        - name: Kara
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Maritime
+    - codes:
+        iso3166-2: TG-M
+      names:
+        - name: Maritime
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Plateaux
+    - codes:
+        iso3166-2: TG-P
+      names:
+        - name: Plateaux
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Savanes
+    - codes:
+        iso3166-2: TG-S
+      names:
+        - name: Savanes
+          languages: [fr]
+          sources: [iso3166-2]

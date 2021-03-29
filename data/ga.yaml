@@ -1,0 +1,84 @@
+iso3166-1: GA
+complete: false
+regions:
+    
+
+    # Estuaire
+    - codes:
+        iso3166-2: GA-1
+      names:
+        - name: Estuaire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haut-Ogooué
+    - codes:
+        iso3166-2: GA-2
+      names:
+        - name: Haut-Ogooué
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Moyen-Ogooué
+    - codes:
+        iso3166-2: GA-3
+      names:
+        - name: Moyen-Ogooué
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ngounié
+    - codes:
+        iso3166-2: GA-4
+      names:
+        - name: Ngounié
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nyanga
+    - codes:
+        iso3166-2: GA-5
+      names:
+        - name: Nyanga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ogooué-Ivindo
+    - codes:
+        iso3166-2: GA-6
+      names:
+        - name: Ogooué-Ivindo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ogooué-Lolo
+    - codes:
+        iso3166-2: GA-7
+      names:
+        - name: Ogooué-Lolo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ogooué-Maritime
+    - codes:
+        iso3166-2: GA-8
+      names:
+        - name: Ogooué-Maritime
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Woleu-Ntem
+    - codes:
+        iso3166-2: GA-9
+      names:
+        - name: Woleu-Ntem
+          languages: [fr]
+          sources: [iso3166-2]

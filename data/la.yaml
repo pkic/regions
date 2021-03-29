@@ -1,0 +1,204 @@
+iso3166-1: LA
+complete: false
+regions:
+    
+
+    # Attapeu
+    - codes:
+        iso3166-2: LA-AT
+      names:
+        - name: Attapeu
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Attapu
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Bokèo
+    - codes:
+        iso3166-2: LA-BK
+      names:
+        - name: Bokèo
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Bolikhamxai
+    - codes:
+        iso3166-2: LA-BL
+      names:
+        - name: Bolikhamxai
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Borikhamxay
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Champasack
+    - codes:
+        iso3166-2: LA-CH
+      names:
+        - name: Champasack
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Champasak
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Houaphan
+    - codes:
+        iso3166-2: LA-HO
+      names:
+        - name: Houaphan
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Huaphanh
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Khammouan
+    - codes:
+        iso3166-2: LA-KH
+      names:
+        - name: Khammouan
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Khammuane
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Louang Namtha
+    - codes:
+        iso3166-2: LA-LM
+      names:
+        - name: Louang Namtha
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Luangnamtha
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Louangphabang
+    - codes:
+        iso3166-2: LA-LP
+      names:
+        - name: Louangphabang
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Luangprabang
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Oudomxay
+    - codes:
+        iso3166-2: LA-OU
+      names:
+        - name: Oudomxay
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Oudômxai
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Phongsaly
+    - codes:
+        iso3166-2: LA-PH
+      names:
+        - name: Phongsaly
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Phôngsali
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Salavan
+    - codes:
+        iso3166-2: LA-SL
+      names:
+        - name: Salavan
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Saravane
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Savannakhet
+    - codes:
+        iso3166-2: LA-SV
+      names:
+        - name: Savannakhet
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Savannakhét
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Viangchan
+    - codes:
+        iso3166-2: LA-VT
+      names:
+        - name: Viangchan
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Vientiane
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Xaignabouli
+    - codes:
+        iso3166-2: LA-XA
+      names:
+        - name: Xaignabouli
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Xayabury
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Xaisômboun
+    - codes:
+        iso3166-2: LA-XS
+      names:
+        - name: Xaisômboun
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Xaysomboon
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Xiangkhouang
+    - codes:
+        iso3166-2: LA-XI
+      names:
+        - name: Xiangkhouang
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Xiengkhuang
+          languages: [lo]
+          sources: [iso3166-2]
+    
+
+    # Sekong
+    - codes:
+        iso3166-2: LA-XE
+      names:
+        - name: Sekong
+          languages: [lo]
+          sources: [iso3166-2]
+        - name: Xékong
+          languages: [lo]
+          sources: [iso3166-2]

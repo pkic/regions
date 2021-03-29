@@ -1,0 +1,516 @@
+iso3166-1: US
+complete: false
+regions:
+    
+
+    # Alabama
+    - codes:
+        iso3166-2: US-AL
+      names:
+        - name: Alabama
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Alaska
+    - codes:
+        iso3166-2: US-AK
+      names:
+        - name: Alaska
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # American Samoa
+    - codes:
+        iso3166-2: US-AS
+      names:
+        - name: American Samoa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Arizona
+    - codes:
+        iso3166-2: US-AZ
+      names:
+        - name: Arizona
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Arkansas
+    - codes:
+        iso3166-2: US-AR
+      names:
+        - name: Arkansas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # California
+    - codes:
+        iso3166-2: US-CA
+      names:
+        - name: California
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Colorado
+    - codes:
+        iso3166-2: US-CO
+      names:
+        - name: Colorado
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Connecticut
+    - codes:
+        iso3166-2: US-CT
+      names:
+        - name: Connecticut
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Delaware
+    - codes:
+        iso3166-2: US-DE
+      names:
+        - name: Delaware
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # District of Columbia
+    - codes:
+        iso3166-2: US-DC
+      names:
+        - name: District of Columbia
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Florida
+    - codes:
+        iso3166-2: US-FL
+      names:
+        - name: Florida
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Georgia
+    - codes:
+        iso3166-2: US-GA
+      names:
+        - name: Georgia
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Guam
+    - codes:
+        iso3166-2: US-GU
+      names:
+        - name: Guam
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Hawaii
+    - codes:
+        iso3166-2: US-HI
+      names:
+        - name: Hawaii
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Idaho
+    - codes:
+        iso3166-2: US-ID
+      names:
+        - name: Idaho
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Illinois
+    - codes:
+        iso3166-2: US-IL
+      names:
+        - name: Illinois
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Indiana
+    - codes:
+        iso3166-2: US-IN
+      names:
+        - name: Indiana
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Iowa
+    - codes:
+        iso3166-2: US-IA
+      names:
+        - name: Iowa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kansas
+    - codes:
+        iso3166-2: US-KS
+      names:
+        - name: Kansas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kentucky
+    - codes:
+        iso3166-2: US-KY
+      names:
+        - name: Kentucky
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Louisiana
+    - codes:
+        iso3166-2: US-LA
+      names:
+        - name: Louisiana
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Maine
+    - codes:
+        iso3166-2: US-ME
+      names:
+        - name: Maine
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Maryland
+    - codes:
+        iso3166-2: US-MD
+      names:
+        - name: Maryland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Massachusetts
+    - codes:
+        iso3166-2: US-MA
+      names:
+        - name: Massachusetts
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Michigan
+    - codes:
+        iso3166-2: US-MI
+      names:
+        - name: Michigan
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Minnesota
+    - codes:
+        iso3166-2: US-MN
+      names:
+        - name: Minnesota
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mississippi
+    - codes:
+        iso3166-2: US-MS
+      names:
+        - name: Mississippi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Missouri
+    - codes:
+        iso3166-2: US-MO
+      names:
+        - name: Missouri
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Montana
+    - codes:
+        iso3166-2: US-MT
+      names:
+        - name: Montana
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nebraska
+    - codes:
+        iso3166-2: US-NE
+      names:
+        - name: Nebraska
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nevada
+    - codes:
+        iso3166-2: US-NV
+      names:
+        - name: Nevada
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # New Hampshire
+    - codes:
+        iso3166-2: US-NH
+      names:
+        - name: New Hampshire
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # New Jersey
+    - codes:
+        iso3166-2: US-NJ
+      names:
+        - name: New Jersey
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # New Mexico
+    - codes:
+        iso3166-2: US-NM
+      names:
+        - name: New Mexico
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # New York
+    - codes:
+        iso3166-2: US-NY
+      names:
+        - name: New York
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Carolina
+    - codes:
+        iso3166-2: US-NC
+      names:
+        - name: North Carolina
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North Dakota
+    - codes:
+        iso3166-2: US-ND
+      names:
+        - name: North Dakota
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Northern Mariana Islands
+    - codes:
+        iso3166-2: US-MP
+      names:
+        - name: Northern Mariana Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ohio
+    - codes:
+        iso3166-2: US-OH
+      names:
+        - name: Ohio
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oklahoma
+    - codes:
+        iso3166-2: US-OK
+      names:
+        - name: Oklahoma
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oregon
+    - codes:
+        iso3166-2: US-OR
+      names:
+        - name: Oregon
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pennsylvania
+    - codes:
+        iso3166-2: US-PA
+      names:
+        - name: Pennsylvania
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Puerto Rico
+    - codes:
+        iso3166-2: US-PR
+      names:
+        - name: Puerto Rico
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rhode Island
+    - codes:
+        iso3166-2: US-RI
+      names:
+        - name: Rhode Island
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Carolina
+    - codes:
+        iso3166-2: US-SC
+      names:
+        - name: South Carolina
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # South Dakota
+    - codes:
+        iso3166-2: US-SD
+      names:
+        - name: South Dakota
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tennessee
+    - codes:
+        iso3166-2: US-TN
+      names:
+        - name: Tennessee
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Texas
+    - codes:
+        iso3166-2: US-TX
+      names:
+        - name: Texas
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # United States Minor Outlying Islands
+    - codes:
+        iso3166-2: US-UM
+      names:
+        - name: United States Minor Outlying Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Utah
+    - codes:
+        iso3166-2: US-UT
+      names:
+        - name: Utah
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vermont
+    - codes:
+        iso3166-2: US-VT
+      names:
+        - name: Vermont
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Virgin Islands, U.S.
+    - codes:
+        iso3166-2: US-VI
+      names:
+        - name: Virgin Islands, U.S.
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Virginia
+    - codes:
+        iso3166-2: US-VA
+      names:
+        - name: Virginia
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Washington
+    - codes:
+        iso3166-2: US-WA
+      names:
+        - name: Washington
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Virginia
+    - codes:
+        iso3166-2: US-WV
+      names:
+        - name: West Virginia
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wisconsin
+    - codes:
+        iso3166-2: US-WI
+      names:
+        - name: Wisconsin
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Wyoming
+    - codes:
+        iso3166-2: US-WY
+      names:
+        - name: Wyoming
+          languages: [en]
+          sources: [iso3166-2]

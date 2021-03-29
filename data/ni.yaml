@@ -1,0 +1,156 @@
+iso3166-1: NI
+complete: false
+regions:
+    
+
+    # Boaco
+    - codes:
+        iso3166-2: NI-BO
+      names:
+        - name: Boaco
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Carazo
+    - codes:
+        iso3166-2: NI-CA
+      names:
+        - name: Carazo
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chinandega
+    - codes:
+        iso3166-2: NI-CI
+      names:
+        - name: Chinandega
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Chontales
+    - codes:
+        iso3166-2: NI-CO
+      names:
+        - name: Chontales
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Costa Caribe Norte
+    - codes:
+        iso3166-2: NI-AN
+      names:
+        - name: Costa Caribe Norte
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Costa Caribe Sur
+    - codes:
+        iso3166-2: NI-AS
+      names:
+        - name: Costa Caribe Sur
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Estelí
+    - codes:
+        iso3166-2: NI-ES
+      names:
+        - name: Estelí
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Granada
+    - codes:
+        iso3166-2: NI-GR
+      names:
+        - name: Granada
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Jinotega
+    - codes:
+        iso3166-2: NI-JI
+      names:
+        - name: Jinotega
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # León
+    - codes:
+        iso3166-2: NI-LE
+      names:
+        - name: León
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Madriz
+    - codes:
+        iso3166-2: NI-MD
+      names:
+        - name: Madriz
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Managua
+    - codes:
+        iso3166-2: NI-MN
+      names:
+        - name: Managua
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Masaya
+    - codes:
+        iso3166-2: NI-MS
+      names:
+        - name: Masaya
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Matagalpa
+    - codes:
+        iso3166-2: NI-MT
+      names:
+        - name: Matagalpa
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Nueva Segovia
+    - codes:
+        iso3166-2: NI-NS
+      names:
+        - name: Nueva Segovia
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Rivas
+    - codes:
+        iso3166-2: NI-RI
+      names:
+        - name: Rivas
+          languages: [es]
+          sources: [iso3166-2]
+    
+
+    # Río San Juan
+    - codes:
+        iso3166-2: NI-SJ
+      names:
+        - name: Río San Juan
+          languages: [es]
+          sources: [iso3166-2]

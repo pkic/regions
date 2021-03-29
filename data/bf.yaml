@@ -1,0 +1,525 @@
+iso3166-1: BF
+complete: false
+regions:
+    
+
+    # Balé
+    - codes:
+        iso3166-2: BF-BAL
+      names:
+        - name: Balé
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Bam
+    - codes:
+        iso3166-2: BF-BAM
+      names:
+        - name: Bam
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Banwa
+    - codes:
+        iso3166-2: BF-BAN
+      names:
+        - name: Banwa
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Bazèga
+    - codes:
+        iso3166-2: BF-BAZ
+      names:
+        - name: Bazèga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Boucle du Mouhoun
+    - codes:
+        iso3166-2: BF-01
+      names:
+        - name: Boucle du Mouhoun
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Bougouriba
+    - codes:
+        iso3166-2: BF-BGR
+      names:
+        - name: Bougouriba
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Boulgou
+    - codes:
+        iso3166-2: BF-BLG
+      names:
+        - name: Boulgou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Boulkiemdé
+    - codes:
+        iso3166-2: BF-BLK
+      names:
+        - name: Boulkiemdé
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Cascades
+    - codes:
+        iso3166-2: BF-02
+      names:
+        - name: Cascades
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre
+    - codes:
+        iso3166-2: BF-03
+      names:
+        - name: Centre
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre-Est
+    - codes:
+        iso3166-2: BF-04
+      names:
+        - name: Centre-Est
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre-Nord
+    - codes:
+        iso3166-2: BF-05
+      names:
+        - name: Centre-Nord
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre-Ouest
+    - codes:
+        iso3166-2: BF-06
+      names:
+        - name: Centre-Ouest
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre-Sud
+    - codes:
+        iso3166-2: BF-07
+      names:
+        - name: Centre-Sud
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Comoé
+    - codes:
+        iso3166-2: BF-COM
+      names:
+        - name: Comoé
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Est
+    - codes:
+        iso3166-2: BF-08
+      names:
+        - name: Est
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ganzourgou
+    - codes:
+        iso3166-2: BF-GAN
+      names:
+        - name: Ganzourgou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Gnagna
+    - codes:
+        iso3166-2: BF-GNA
+      names:
+        - name: Gnagna
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Gourma
+    - codes:
+        iso3166-2: BF-GOU
+      names:
+        - name: Gourma
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Hauts-Bassins
+    - codes:
+        iso3166-2: BF-09
+      names:
+        - name: Hauts-Bassins
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Houet
+    - codes:
+        iso3166-2: BF-HOU
+      names:
+        - name: Houet
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ioba
+    - codes:
+        iso3166-2: BF-IOB
+      names:
+        - name: Ioba
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kadiogo
+    - codes:
+        iso3166-2: BF-KAD
+      names:
+        - name: Kadiogo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Komondjari
+    - codes:
+        iso3166-2: BF-KMD
+      names:
+        - name: Komondjari
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kompienga
+    - codes:
+        iso3166-2: BF-KMP
+      names:
+        - name: Kompienga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kossi
+    - codes:
+        iso3166-2: BF-KOS
+      names:
+        - name: Kossi
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Koulpélogo
+    - codes:
+        iso3166-2: BF-KOP
+      names:
+        - name: Koulpélogo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kouritenga
+    - codes:
+        iso3166-2: BF-KOT
+      names:
+        - name: Kouritenga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kourwéogo
+    - codes:
+        iso3166-2: BF-KOW
+      names:
+        - name: Kourwéogo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kénédougou
+    - codes:
+        iso3166-2: BF-KEN
+      names:
+        - name: Kénédougou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Loroum
+    - codes:
+        iso3166-2: BF-LOR
+      names:
+        - name: Loroum
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Léraba
+    - codes:
+        iso3166-2: BF-LER
+      names:
+        - name: Léraba
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Mouhoun
+    - codes:
+        iso3166-2: BF-MOU
+      names:
+        - name: Mouhoun
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nahouri
+    - codes:
+        iso3166-2: BF-NAO
+      names:
+        - name: Nahouri
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Namentenga
+    - codes:
+        iso3166-2: BF-NAM
+      names:
+        - name: Namentenga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nayala
+    - codes:
+        iso3166-2: BF-NAY
+      names:
+        - name: Nayala
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nord
+    - codes:
+        iso3166-2: BF-10
+      names:
+        - name: Nord
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Noumbiel
+    - codes:
+        iso3166-2: BF-NOU
+      names:
+        - name: Noumbiel
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Oubritenga
+    - codes:
+        iso3166-2: BF-OUB
+      names:
+        - name: Oubritenga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Oudalan
+    - codes:
+        iso3166-2: BF-OUD
+      names:
+        - name: Oudalan
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Passoré
+    - codes:
+        iso3166-2: BF-PAS
+      names:
+        - name: Passoré
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Plateau-Central
+    - codes:
+        iso3166-2: BF-11
+      names:
+        - name: Plateau-Central
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Poni
+    - codes:
+        iso3166-2: BF-PON
+      names:
+        - name: Poni
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sahel
+    - codes:
+        iso3166-2: BF-12
+      names:
+        - name: Sahel
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sanguié
+    - codes:
+        iso3166-2: BF-SNG
+      names:
+        - name: Sanguié
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sanmatenga
+    - codes:
+        iso3166-2: BF-SMT
+      names:
+        - name: Sanmatenga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sissili
+    - codes:
+        iso3166-2: BF-SIS
+      names:
+        - name: Sissili
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Soum
+    - codes:
+        iso3166-2: BF-SOM
+      names:
+        - name: Soum
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sourou
+    - codes:
+        iso3166-2: BF-SOR
+      names:
+        - name: Sourou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sud-Ouest
+    - codes:
+        iso3166-2: BF-13
+      names:
+        - name: Sud-Ouest
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Séno
+    - codes:
+        iso3166-2: BF-SEN
+      names:
+        - name: Séno
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tapoa
+    - codes:
+        iso3166-2: BF-TAP
+      names:
+        - name: Tapoa
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tuy
+    - codes:
+        iso3166-2: BF-TUI
+      names:
+        - name: Tuy
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Yagha
+    - codes:
+        iso3166-2: BF-YAG
+      names:
+        - name: Yagha
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Yatenga
+    - codes:
+        iso3166-2: BF-YAT
+      names:
+        - name: Yatenga
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ziro
+    - codes:
+        iso3166-2: BF-ZIR
+      names:
+        - name: Ziro
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Zondoma
+    - codes:
+        iso3166-2: BF-ZON
+      names:
+        - name: Zondoma
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Zoundwéogo
+    - codes:
+        iso3166-2: BF-ZOU
+      names:
+        - name: Zoundwéogo
+          languages: [fr]
+          sources: [iso3166-2]

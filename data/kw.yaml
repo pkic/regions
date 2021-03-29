@@ -1,0 +1,60 @@
+iso3166-1: KW
+complete: false
+regions:
+    
+
+    # Al Aḩmadī
+    - codes:
+        iso3166-2: KW-AH
+      names:
+        - name: Al Aḩmadī
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Farwānīyah
+    - codes:
+        iso3166-2: KW-FA
+      names:
+        - name: Al Farwānīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Jahrā’
+    - codes:
+        iso3166-2: KW-JA
+      names:
+        - name: Al Jahrā’
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Kuwayt
+    - codes:
+        iso3166-2: KW-KU
+      names:
+        - name: Al Kuwayt
+          languages: [ar]
+          sources: [iso3166-2]
+        - name: Al ‘Āşimah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Mubārak al Kabīr
+    - codes:
+        iso3166-2: KW-MU
+      names:
+        - name: Mubārak al Kabīr
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ḩawallī
+    - codes:
+        iso3166-2: KW-HA
+      names:
+        - name: Ḩawallī
+          languages: [ar]
+          sources: [iso3166-2]

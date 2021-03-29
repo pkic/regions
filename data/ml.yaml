@@ -1,0 +1,105 @@
+iso3166-1: ML
+complete: false
+regions:
+    
+
+    # Bamako
+    - codes:
+        iso3166-2: ML-BKO
+      names:
+        - name: Bamako
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Gao
+    - codes:
+        iso3166-2: ML-7
+      names:
+        - name: Gao
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kayes
+    - codes:
+        iso3166-2: ML-1
+      names:
+        - name: Kayes
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Kidal
+    - codes:
+        iso3166-2: ML-8
+      names:
+        - name: Kidal
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Koulikoro
+    - codes:
+        iso3166-2: ML-2
+      names:
+        - name: Koulikoro
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Mopti
+    - codes:
+        iso3166-2: ML-5
+      names:
+        - name: Mopti
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ménaka
+    - codes:
+        iso3166-2: ML-9
+      names:
+        - name: Ménaka
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sikasso
+    - codes:
+        iso3166-2: ML-3
+      names:
+        - name: Sikasso
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ségou
+    - codes:
+        iso3166-2: ML-4
+      names:
+        - name: Ségou
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Taoudenni; Taoudéni
+    - codes:
+        iso3166-2: ML-10
+      names:
+        - name: Taoudenni; Taoudéni
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Taoudénit
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tombouctou
+    - codes:
+        iso3166-2: ML-6
+      names:
+        - name: Tombouctou
+          languages: [fr]
+          sources: [iso3166-2]

@@ -1,0 +1,141 @@
+iso3166-1: LR
+complete: false
+regions:
+    
+
+    # Bomi
+    - codes:
+        iso3166-2: LR-BM
+      names:
+        - name: Bomi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bong
+    - codes:
+        iso3166-2: LR-BG
+      names:
+        - name: Bong
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gbarpolu
+    - codes:
+        iso3166-2: LR-GP
+      names:
+        - name: Gbarpolu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grand Bassa
+    - codes:
+        iso3166-2: LR-GB
+      names:
+        - name: Grand Bassa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grand Cape Mount
+    - codes:
+        iso3166-2: LR-CM
+      names:
+        - name: Grand Cape Mount
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grand Gedeh
+    - codes:
+        iso3166-2: LR-GG
+      names:
+        - name: Grand Gedeh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grand Kru
+    - codes:
+        iso3166-2: LR-GK
+      names:
+        - name: Grand Kru
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lofa
+    - codes:
+        iso3166-2: LR-LO
+      names:
+        - name: Lofa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Margibi
+    - codes:
+        iso3166-2: LR-MG
+      names:
+        - name: Margibi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Maryland
+    - codes:
+        iso3166-2: LR-MY
+      names:
+        - name: Maryland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Montserrado
+    - codes:
+        iso3166-2: LR-MO
+      names:
+        - name: Montserrado
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nimba
+    - codes:
+        iso3166-2: LR-NI
+      names:
+        - name: Nimba
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # River Cess
+    - codes:
+        iso3166-2: LR-RI
+      names:
+        - name: River Cess
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Rivercess
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # River Gee
+    - codes:
+        iso3166-2: LR-RG
+      names:
+        - name: River Gee
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sinoe
+    - codes:
+        iso3166-2: LR-SI
+      names:
+        - name: Sinoe
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,2316 @@
+name: France
+iso3166-1: FR
+complete: false
+regions:
+    
+
+    # Aquitaine
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2328
+      names:
+        - name: Acquitania
+          languages: [ro]
+          sources: [euvoc]
+        - name: Akitena
+          languages: [sq]
+          sources: [euvoc]
+        - name: Akvitaania
+          languages: [et]
+          sources: [euvoc]
+        - name: Akvitania
+          languages: [fi]
+          sources: [euvoc]
+        - name: Akvitanija
+          languages: [hr, lt, sl]
+          sources: [euvoc]
+        - name: Akvitánsko
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Akvitānija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Akwitania
+          languages: [pl]
+          sources: [euvoc]
+        - name: Aquitaine
+          languages: [da, en, fr, mt, nl, sv]
+          sources: [euvoc]
+        - name: Aquitania
+          languages: [es, it]
+          sources: [euvoc]
+        - name: Aquitanien
+          languages: [de]
+          sources: [euvoc]
+        - name: Aquitánia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Aquitânia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Ακουϊτανία
+          languages: [el]
+          sources: [euvoc]
+        - name: Аквитания
+          languages: [bg]
+          sources: [euvoc]
+        - name: Аквитанија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Ain
+    - codes:
+        iso3166-2: FR-01
+      names:
+        - name: Ain
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Aisne
+    - codes:
+        iso3166-2: FR-02
+      names:
+        - name: Aisne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lower Normandy
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4824
+      names:
+        - name: Ala-Normandia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Alam-Normandia
+          languages: [et]
+          sources: [euvoc]
+        - name: Alsó-Normandia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Baixa Normandia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Baja Normandía
+          languages: [es]
+          sources: [euvoc]
+        - name: Bassa Normandia
+          languages: [it]
+          sources: [euvoc]
+        - name: Basse-Normandie
+          languages: [da, de, fr, ga, nl, sv]
+          sources: [euvoc]
+        - name: Dolná Normandia
+          languages: [sk]
+          sources: [euvoc]
+        - name: Dolní Normandie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Donja Normandija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Lejasnormandija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Lower Normandy
+          languages: [en]
+          sources: [euvoc]
+        - name: Normandia Dolna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Normandia Inferioară
+          languages: [ro]
+          sources: [euvoc]
+        - name: Normandia e Poshtme
+          languages: [sq]
+          sources: [euvoc]
+        - name: Normandija ta’ Isfel
+          languages: [mt]
+          sources: [euvoc]
+        - name: Spodnja Normandija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Žemutinė Normandija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Κάτω Νορμανδία
+          languages: [el]
+          sources: [euvoc]
+        - name: Долна Нормандия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Долна Нормандија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Доња Нормандија
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Allier
+    - codes:
+        iso3166-2: FR-03
+      names:
+        - name: Allier
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Alpes-Maritimes
+    - codes:
+        iso3166-2: FR-06
+      names:
+        - name: Alpes-Maritimes
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Alpes-de-Haute-Provence
+    - codes:
+        iso3166-2: FR-04
+      names:
+        - name: Alpes-de-Haute-Provence
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Alsace
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1430
+      names:
+        - name: Alsace
+          languages: [da, en, et, fr, sv]
+          sources: [euvoc]
+        - name: Alsacia
+          languages: [es, ro]
+          sources: [euvoc]
+        - name: Alsasa
+          languages: [sq]
+          sources: [euvoc]
+        - name: Alsasko
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Alsazia
+          languages: [it]
+          sources: [euvoc]
+        - name: Alsazja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Alsácia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Alzacija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Alzacja
+          languages: [pl]
+          sources: [euvoc]
+        - name: Elsass
+          languages: [de, fi]
+          sources: [euvoc]
+        - name: Elzas
+          languages: [hr, nl]
+          sources: [euvoc]
+        - name: Elzasa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Elzasas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Elzász
+          languages: [hu]
+          sources: [euvoc]
+        - name: Αλσατία
+          languages: [el]
+          sources: [euvoc]
+        - name: Алзас
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Елзас
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Hauts-de-France
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_bbd07d89
+        iso3166-2: FR-HDF
+      names:
+        - name: Alta França
+          languages: [pt]
+          sources: [euvoc]
+        - name: Altos de Francia
+          languages: [es]
+          sources: [euvoc]
+        - name: Augšfrancija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Aukštutinė Prancūzija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Felső-Franciaország
+          languages: [hu]
+          sources: [euvoc]
+        - name: Hauts-de-France
+          languages: [cs, da, de, el, en, et, fi, fr, hr, it, mt, nl, pl, ro, sk, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: О дьо Франс
+          languages: [bg]
+          sources: [euvoc]
+        - name: Оут-де-Франс
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Upper Normandy
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1235
+      names:
+        - name: Alta Normandia
+          languages: [it, pt]
+          sources: [euvoc]
+        - name: Alta Normandía
+          languages: [es]
+          sources: [euvoc]
+        - name: Augšnormandija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Aukštutinė Normandija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Felső-Normandia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Gornja Normandija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Haute-Normandie
+          languages: [da, de, fr, nl, sv]
+          sources: [euvoc]
+        - name: Horná Normandia
+          languages: [sk]
+          sources: [euvoc]
+        - name: Horní Normandie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Normandia Górna
+          languages: [pl]
+          sources: [euvoc]
+        - name: Normandia Superioară
+          languages: [ro]
+          sources: [euvoc]
+        - name: Normandia e Sipërme
+          languages: [sq]
+          sources: [euvoc]
+        - name: Normandija ta’ Fuq
+          languages: [mt]
+          sources: [euvoc]
+        - name: Upper Normandy
+          languages: [en]
+          sources: [euvoc]
+        - name: Ylä-Normandia
+          languages: [fi]
+          sources: [euvoc]
+        - name: Zgornja Normandija
+          languages: [sl]
+          sources: [euvoc]
+        - name: Ülem-Normandia
+          languages: [et]
+          sources: [euvoc]
+        - name: Άνω Νορμανδία
+          languages: [el]
+          sources: [euvoc]
+        - name: Горна Нормандия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Горна Нормандија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Горња Нормандија
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Auvergne
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4364
+      names:
+        - name: Alvernia
+          languages: [it]
+          sources: [euvoc]
+        - name: Alvernja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Auvergne
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Auvernia
+          languages: [es]
+          sources: [euvoc]
+        - name: Overnja
+          languages: [sq]
+          sources: [euvoc]
+        - name: Overnė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Overņa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Owernia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Ωβέρνη
+          languages: [el]
+          sources: [euvoc]
+        - name: Оверн
+          languages: [bg]
+          sources: [euvoc]
+        - name: Оверњ
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Auvergne-Rhône-Alpes
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_0a700c19
+        iso3166-2: FR-ARA
+      names:
+        - name: Alvernia-Rodano-Alpi
+          languages: [it]
+          sources: [euvoc]
+        - name: Auvergne - Rhône - Alpes
+          languages: [sl]
+          sources: [euvoc]
+        - name: Auvergne-Rhôna-Alpy
+          languages: [cs]
+          sources: [euvoc]
+        - name: Auvergne-Rhône-Alpes
+          languages: [da, de, el, en, et, fi, fr, hr, hu, mt, nl, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Auvergne-Ron-Alpi
+          languages: [ro]
+          sources: [euvoc]
+        - name: Auvergne-Ródano-Alpes
+          languages: [pt]
+          sources: [euvoc]
+        - name: Auvernia-Rhône-Alpes
+          languages: [sq]
+          sources: [euvoc]
+        - name: Auvernia-Ródano-Alpes
+          languages: [es]
+          sources: [euvoc]
+        - name: Overnė-Rona-Alpės
+          languages: [lt]
+          sources: [euvoc]
+        - name: Overņa-Rona-Alpi
+          languages: [lv]
+          sources: [euvoc]
+        - name: Owernia-Rodan-Alpy
+          languages: [pl]
+          sources: [euvoc]
+        - name: Оверн-Рона-Алпи
+          languages: [bg]
+          sources: [euvoc]
+        - name: Оверњ-Рона-Алпи
+          languages: [mk]
+          sources: [euvoc]
+        - name: Оверња-Рона-Алпи
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Ardennes
+    - codes:
+        iso3166-2: FR-08
+      names:
+        - name: Ardennes
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ardèche
+    - codes:
+        iso3166-2: FR-07
+      names:
+        - name: Ardèche
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Champagne-Ardenne
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5381
+      names:
+        - name: Ardėnų Šampanė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Champagne-Ardenne
+          languages: [en, et, fr, hr, it, mt, ro, sk]
+          sources: [euvoc]
+        - name: Champagne-Ardennes
+          languages: [cs, da, de, fi, hu, nl, sv]
+          sources: [euvoc]
+        - name: Champanhe-Ardenas
+          languages: [pt]
+          sources: [euvoc]
+        - name: Champaña-Ardenas
+          languages: [es]
+          sources: [euvoc]
+        - name: Shampanjë-Arden
+          languages: [sq]
+          sources: [euvoc]
+        - name: Szampania-Ardeny
+          languages: [pl]
+          sources: [euvoc]
+        - name: Šampanja-Ardeni
+          languages: [sl]
+          sources: [euvoc]
+        - name: Šampaņa-Ardēni
+          languages: [lv]
+          sources: [euvoc]
+        - name: Καμπανία-Αρδέννες
+          languages: [el]
+          sources: [euvoc]
+        - name: Шампан - Ардени
+          languages: [bg]
+          sources: [euvoc]
+        - name: Шампањ-Ардени
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Ariège
+    - codes:
+        iso3166-2: FR-09
+      names:
+        - name: Ariège
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Aube
+    - codes:
+        iso3166-2: FR-10
+      names:
+        - name: Aube
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Aude
+    - codes:
+        iso3166-2: FR-11
+      names:
+        - name: Aude
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Aveyron
+    - codes:
+        iso3166-2: FR-12
+      names:
+        - name: Aveyron
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Bas-Rhin
+    - codes:
+        iso3166-2: FR-67
+      names:
+        - name: Bas-Rhin
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Burgundy
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5032
+      names:
+        - name: Borgogna
+          languages: [it]
+          sources: [euvoc]
+        - name: Borgonha
+          languages: [pt]
+          sources: [euvoc]
+        - name: Borgonja
+          languages: [mt]
+          sources: [euvoc]
+        - name: Borgoña
+          languages: [es]
+          sources: [euvoc]
+        - name: Bourgogne
+          languages: [da, fr, ga, nl, sv]
+          sources: [euvoc]
+        - name: Burgonja
+          languages: [sq]
+          sources: [euvoc]
+        - name: Burgund
+          languages: [de]
+          sources: [euvoc]
+        - name: Burgundi
+          languages: [fi]
+          sources: [euvoc]
+        - name: Burgundia
+          languages: [et, hu, pl, ro]
+          sources: [euvoc]
+        - name: Burgundija
+          languages: [hr, lt, lv, sl]
+          sources: [euvoc]
+        - name: Burgundsko
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Burgundy
+          languages: [en]
+          sources: [euvoc]
+        - name: Βουργουνδία
+          languages: [el]
+          sources: [euvoc]
+        - name: Бургундия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Бургундија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Bourgogne-Franche-Comté
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_f2f1fb47
+        iso3166-2: FR-BFC
+      names:
+        - name: Borgogna-Franca Contea
+          languages: [it]
+          sources: [euvoc]
+        - name: Borgonha-Franco-Condado
+          languages: [pt]
+          sources: [euvoc]
+        - name: Borgoña-Franco Condado
+          languages: [es]
+          sources: [euvoc]
+        - name: Bourgogne - Franche-Comté
+          languages: [sl]
+          sources: [euvoc]
+        - name: Bourgogne-Franche-Comté
+          languages: [da, de, el, en, et, fr, hr, mt, nl, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Burgonja-Franche-Comté
+          languages: [sq]
+          sources: [euvoc]
+        - name: Burgundi-Franche-Comté
+          languages: [fi]
+          sources: [euvoc]
+        - name: Burgundia-Franche-Comté
+          languages: [pl, ro]
+          sources: [euvoc]
+        - name: Burgundia–Franche-Comté
+          languages: [hu]
+          sources: [euvoc]
+        - name: Burgundija-Franš Kontė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Burgundija-Franškontē
+          languages: [lv]
+          sources: [euvoc]
+        - name: Burgundsko-Franche-Comté
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Бургоњ-Франш-Комте
+          languages: [mk]
+          sources: [euvoc]
+        - name: Бургундия-Франш Конте
+          languages: [bg]
+          sources: [euvoc]
+        - name: Бургундија-Франш-Конте
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Bouches-du-Rhône
+    - codes:
+        iso3166-2: FR-13
+      names:
+        - name: Bouches-du-Rhône
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Brittany
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5041
+        iso3166-2: FR-BRE
+      names:
+        - name: Bretagna
+          languages: [it]
+          sources: [euvoc]
+        - name: Bretagne
+          languages: [da, de, et, fi, fr, ga, hu, nl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Bretanha
+          languages: [pt]
+          sources: [euvoc]
+        - name: Bretania
+          languages: [pl, ro]
+          sources: [euvoc]
+        - name: Bretanja
+          languages: [hr, mt, sl, sq]
+          sources: [euvoc]
+        - name: Bretanė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Bretaña
+          languages: [es]
+          sources: [euvoc]
+        - name: Bretaņa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Bretaň
+          languages: [cs]
+          sources: [euvoc]
+        - name: Bretónsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Brittany
+          languages: [en]
+          sources: [euvoc]
+        - name: Βρετάνη
+          languages: [el]
+          sources: [euvoc]
+        - name: Бретан
+          languages: [bg]
+          sources: [euvoc]
+        - name: Бретања
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Calvados
+    - codes:
+        iso3166-2: FR-14
+      names:
+        - name: Calvados
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Cantal
+    - codes:
+        iso3166-2: FR-15
+      names:
+        - name: Cantal
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Centre-Val de Loire
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5352
+        iso3166-2: FR-CVL
+      names:
+        - name: Centralny-Dolina Loary
+          languages: [pl]
+          sources: [euvoc]
+        - name: Centras-Luaros Slėnis
+          languages: [lt]
+          sources: [euvoc]
+        - name: Centre - Val de Loire
+          languages: [sl]
+          sources: [euvoc]
+        - name: Centre-Val de Loire
+          languages: [da, de, el, en, et, fi, fr, hr, mt, nl, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Centro-Vale do Loire
+          languages: [pt]
+          sources: [euvoc]
+        - name: Centro-Valle del Loira
+          languages: [es]
+          sources: [euvoc]
+        - name: Centro-Valle della Loira
+          languages: [it]
+          sources: [euvoc]
+        - name: Centrs-Luāras ieleja
+          languages: [lv]
+          sources: [euvoc]
+        - name: Centru-Val de Loire
+          languages: [ro]
+          sources: [euvoc]
+        - name: Közép-Franciország–Loire-völgy
+          languages: [hu]
+          sources: [euvoc]
+        - name: Qendra-Val-de-Loire
+          languages: [sq]
+          sources: [euvoc]
+        - name: Střed-Val de Loire
+          languages: [cs]
+          sources: [euvoc]
+        - name: Центар-Долина Лоаре
+          languages: [sr]
+          sources: [euvoc]
+        - name: Центар-Долина на Лоара
+          languages: [mk]
+          sources: [euvoc]
+        - name: Център-Вал дьо Лоар
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Charente
+    - codes:
+        iso3166-2: FR-16
+      names:
+        - name: Charente
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Charente-Maritime
+    - codes:
+        iso3166-2: FR-17
+      names:
+        - name: Charente-Maritime
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Cher
+    - codes:
+        iso3166-2: FR-18
+      names:
+        - name: Cher
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Clipperton
+    - codes:
+        iso3166-2: FR-CP
+      names:
+        - name: Clipperton
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Corrèze
+    - codes:
+        iso3166-2: FR-19
+      names:
+        - name: Corrèze
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Corsica
+    - codes:
+        euvoc: http://eurovoc.europa.eu/246
+        iso3166-2: FR-20R
+      names:
+        - name: Corse
+          languages: [fr, ga]
+          sources: [euvoc, iso3166-2]
+        - name: Corsica
+          languages: [en, it, nl, ro]
+          sources: [euvoc]
+        - name: Córcega
+          languages: [es]
+          sources: [euvoc]
+        - name: Córsega
+          languages: [pt]
+          sources: [euvoc]
+        - name: Korsika
+          languages: [cs, da, de, et, fi, lt, lv, mt, sq, sv]
+          sources: [euvoc]
+        - name: Korsyka
+          languages: [pl]
+          sources: [euvoc]
+        - name: Korzika
+          languages: [hr, hu, sk, sl]
+          sources: [euvoc]
+        - name: Κορσική
+          languages: [el]
+          sources: [euvoc]
+        - name: Корзика
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Корсика
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Corse-du-Sud
+    - codes:
+        iso3166-2: FR-2A
+      names:
+        - name: Corse-du-Sud
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Creuse
+    - codes:
+        iso3166-2: FR-23
+      names:
+        - name: Creuse
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Côte-d'Or
+    - codes:
+        iso3166-2: FR-21
+      names:
+        - name: Côte-d'Or
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Côtes-d'Armor
+    - codes:
+        iso3166-2: FR-22
+      names:
+        - name: Côtes-d'Armor
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Deux-Sèvres
+    - codes:
+        iso3166-2: FR-79
+      names:
+        - name: Deux-Sèvres
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Grand Est
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_c44f1704
+      names:
+        - name: Didieji Rytai
+          languages: [lt]
+          sources: [euvoc]
+        - name: Gran Este
+          languages: [es]
+          sources: [euvoc]
+        - name: Grand Est
+          languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, mt, nl, pl, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Grande Este
+          languages: [pt]
+          sources: [euvoc]
+        - name: Lielie Austrumi
+          languages: [lv]
+          sources: [euvoc]
+        - name: Гранд Ест
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Dordogne
+    - codes:
+        iso3166-2: FR-24
+      names:
+        - name: Dordogne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Doubs
+    - codes:
+        iso3166-2: FR-25
+      names:
+        - name: Doubs
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Drôme
+    - codes:
+        iso3166-2: FR-26
+      names:
+        - name: Drôme
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Essonne
+    - codes:
+        iso3166-2: FR-91
+      names:
+        - name: Essonne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Eure
+    - codes:
+        iso3166-2: FR-27
+      names:
+        - name: Eure
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Eure-et-Loir
+    - codes:
+        iso3166-2: FR-28
+      names:
+        - name: Eure-et-Loir
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Finistère
+    - codes:
+        iso3166-2: FR-29
+      names:
+        - name: Finistère
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Franche-Comté
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1089
+      names:
+        - name: Franca Contea
+          languages: [it]
+          sources: [euvoc]
+        - name: Franche-Comté
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Franco Condado
+          languages: [es]
+          sources: [euvoc]
+        - name: Franshkonteja
+          languages: [sq]
+          sources: [euvoc]
+        - name: Franš Kontė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Franškontē
+          languages: [lv]
+          sources: [euvoc]
+        - name: Φρανς-Κοντέ
+          languages: [el]
+          sources: [euvoc]
+        - name: Франш Комте
+          languages: [bg]
+          sources: [euvoc]
+        - name: Франш-Конте
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Gard
+    - codes:
+        iso3166-2: FR-30
+      names:
+        - name: Gard
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Gers
+    - codes:
+        iso3166-2: FR-32
+      names:
+        - name: Gers
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Gironde
+    - codes:
+        iso3166-2: FR-33
+      names:
+        - name: Gironde
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Grand-Est
+    - codes:
+        iso3166-2: FR-GES
+      names:
+        - name: Grand-Est
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Guadeloupe
+    - codes:
+        iso3166-2: FR-GP
+      names:
+        - name: Guadeloupe
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Guyane
+    - codes:
+        iso3166-2: FR-GF
+      names:
+        - name: Guyane
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haut-Rhin
+    - codes:
+        iso3166-2: FR-68
+      names:
+        - name: Haut-Rhin
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Corse
+    - codes:
+        iso3166-2: FR-2B
+      names:
+        - name: Haute-Corse
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Garonne
+    - codes:
+        iso3166-2: FR-31
+      names:
+        - name: Haute-Garonne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Loire
+    - codes:
+        iso3166-2: FR-43
+      names:
+        - name: Haute-Loire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Marne
+    - codes:
+        iso3166-2: FR-52
+      names:
+        - name: Haute-Marne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Savoie
+    - codes:
+        iso3166-2: FR-74
+      names:
+        - name: Haute-Savoie
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Saône
+    - codes:
+        iso3166-2: FR-70
+      names:
+        - name: Haute-Saône
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Haute-Vienne
+    - codes:
+        iso3166-2: FR-87
+      names:
+        - name: Haute-Vienne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Hautes-Alpes
+    - codes:
+        iso3166-2: FR-05
+      names:
+        - name: Hautes-Alpes
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Hautes-Pyrénées
+    - codes:
+        iso3166-2: FR-65
+      names:
+        - name: Hautes-Pyrénées
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Hauts-de-Seine
+    - codes:
+        iso3166-2: FR-92
+      names:
+        - name: Hauts-de-Seine
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Hérault
+    - codes:
+        iso3166-2: FR-34
+      names:
+        - name: Hérault
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Ile-de-France
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1288
+        iso3166-2: FR-IDF
+      names:
+        - name: Il de Fransas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ildefransa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Ile de France
+          languages: [de, hu, ro]
+          sources: [euvoc]
+        - name: Ile-de-France
+          languages: [cs, en, fi, it, pl, sk, sl, sq]
+          sources: [euvoc]
+        - name: Isla de Francia
+          languages: [es]
+          sources: [euvoc]
+        - name: Île-de-France
+          languages: [da, et, fr, hr, mt, nl, pt, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Ιλ-ντε-Φράνς
+          languages: [el]
+          sources: [euvoc]
+        - name: Ил де Франс
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Ил дьо Франс
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Ille-et-Vilaine
+    - codes:
+        iso3166-2: FR-35
+      names:
+        - name: Ille-et-Vilaine
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Indre
+    - codes:
+        iso3166-2: FR-36
+      names:
+        - name: Indre
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Indre-et-Loire
+    - codes:
+        iso3166-2: FR-37
+      names:
+        - name: Indre-et-Loire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Isère
+    - codes:
+        iso3166-2: FR-38
+      names:
+        - name: Isère
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nouvelle-Aquitaine
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_be8fda35
+        iso3166-2: FR-NAQ
+      names:
+        - name: Jaunakvitānija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Naujoji Akvitanija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Nouvelle-Aquitaine
+          languages: [da, de, el, en, fr, mt, nl, ro, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Nova Akvitanija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Nova Aquitânia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Nová Akvitánie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Nové Akvitánsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Nowa Akwitania
+          languages: [pl]
+          sources: [euvoc]
+        - name: Nueva Aquitania
+          languages: [es]
+          sources: [euvoc]
+        - name: Nuova Aquitania
+          languages: [it]
+          sources: [euvoc]
+        - name: Uus-Akvitaania
+          languages: [et]
+          sources: [euvoc]
+        - name: Uusi-Akvitania
+          languages: [fi]
+          sources: [euvoc]
+        - name: Új-Aquitánia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Нова Аквитания
+          languages: [bg]
+          sources: [euvoc]
+        - name: Нова Аквитанија
+          languages: [sr]
+          sources: [euvoc]
+        - name: Нувел-Акитан
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Jura
+    - codes:
+        iso3166-2: FR-39
+      names:
+        - name: Jura
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Provence-Alpes-Côte d'Azur
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2853
+      names:
+        - name: Krahina-Alpe-Bregu i Kaltër
+          languages: [sq]
+          sources: [euvoc]
+        - name: Provansa-Alpe-Azurna obala
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Provansa-Alpi-Azūra krasts
+          languages: [lv]
+          sources: [euvoc]
+        - name: Provansas-Alpės-Žydrasis Krantas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Provence-Alpes-Cote d'Azur
+          languages: [fi]
+          sources: [euvoc]
+        - name: Provence-Alpes-Côte d'Azur
+          languages: [cs, da, de, en, et, fr, hu, nl, pt, sk, sv]
+          sources: [euvoc]
+        - name: Provence-Alpi-Coasta de Azur
+          languages: [ro]
+          sources: [euvoc]
+        - name: Provenza-Alpes-Costa Azul
+          languages: [es]
+          sources: [euvoc]
+        - name: Provenza-Alpi-Costa Azzurra
+          languages: [it]
+          sources: [euvoc]
+        - name: Provenza-Alpi-Côte-d’Azur
+          languages: [mt]
+          sources: [euvoc]
+        - name: Prowansja-Alpy-Wybrzeże Lazurowe
+          languages: [pl]
+          sources: [euvoc]
+        - name: Προβηγκία-Άλπεις-Κυανή Ακτή
+          languages: [el]
+          sources: [euvoc]
+        - name: Алпи - Лазурен бряг
+          languages: [bg]
+          sources: [euvoc]
+        - name: Прованса-Алпи-Азурен Брег
+          languages: [mk]
+          sources: [euvoc]
+        - name: Прованса-Алпи-Азурна обала
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # La Réunion
+    - codes:
+        iso3166-2: FR-RE
+      names:
+        - name: La Réunion
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Landes
+    - codes:
+        iso3166-2: FR-40
+      names:
+        - name: Landes
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Languedoc-Roussillon
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1583
+      names:
+        - name: Langdoka-Rusijona
+          languages: [lv]
+          sources: [euvoc]
+        - name: Langedok-Rusilon
+          languages: [sq]
+          sources: [euvoc]
+        - name: Langedokas-Rusijonas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Languedoc-Rosellón
+          languages: [es]
+          sources: [euvoc]
+        - name: Languedoc-Roussillon
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, mt, nl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Langwedocja-Roussillon
+          languages: [pl]
+          sources: [euvoc]
+        - name: Linguadoca-Rossiglione
+          languages: [it]
+          sources: [euvoc]
+        - name: Λανγκντόκ-Ρουσιγιόν
+          languages: [el]
+          sources: [euvoc]
+        - name: Лангдок-Русијон
+          languages: [mk, sr]
+          sources: [euvoc]
+        - name: Лангедок - Русинон
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Limousin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1666
+      names:
+        - name: Lemosín
+          languages: [es]
+          sources: [euvoc]
+        - name: Limosino
+          languages: [it]
+          sources: [euvoc]
+        - name: Limousin
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, mt, nl, pl, pt, ro, sl, sv]
+          sources: [euvoc]
+        - name: Limusina
+          languages: [sq]
+          sources: [euvoc]
+        - name: Limuzenas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Limuzínsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Limuzēna
+          languages: [lv]
+          sources: [euvoc]
+        - name: Λιμουζέν
+          languages: [el]
+          sources: [euvoc]
+        - name: Лимузен
+          languages: [bg, mk, sr]
+          sources: [euvoc]
+    
+
+    # Loire
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2293
+        iso3166-2: FR-PDL
+      names:
+        - name: Loary
+          languages: [pl]
+          sources: [euvoc]
+        - name: Loire
+          languages: [en, fr, hr, hu, sl]
+          sources: [euvoc, iso3166-2]
+        - name: Loiregebied
+          languages: [nl]
+          sources: [euvoc]
+        - name: Loiren
+          languages: [fi]
+          sources: [euvoc]
+        - name: Loire´i
+          languages: [et]
+          sources: [euvoc]
+        - name: Loiry
+          languages: [cs]
+          sources: [euvoc]
+        - name: Luarosas
+          languages: [lt]
+          sources: [euvoc]
+        - name: Luāras apgabals
+          languages: [lv]
+          sources: [euvoc]
+        - name: Pays de la Loire
+          languages: [da, de, pt, sv]
+          sources: [euvoc]
+        - name: Pays-de-la-Loire
+          languages: [fr, mt]
+          sources: [euvoc, iso3166-2]
+        - name: País del Loira
+          languages: [es]
+          sources: [euvoc]
+        - name: a Loarei
+          languages: [ro]
+          sources: [euvoc]
+        - name: e della Loira
+          languages: [it]
+          sources: [euvoc]
+        - name: i i Luarës
+          languages: [sq]
+          sources: [euvoc]
+        - name: n Loire
+          languages: [sk]
+          sources: [euvoc]
+        - name: περιοχή του Λίγηρα
+          languages: [el]
+          sources: [euvoc]
+        - name: Лоара
+          languages: [mk]
+          sources: [euvoc]
+        - name: Лоаре
+          languages: [sr]
+          sources: [euvoc]
+        - name: Район на Луара
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Loir-et-Cher
+    - codes:
+        iso3166-2: FR-41
+      names:
+        - name: Loir-et-Cher
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Loire-Atlantique
+    - codes:
+        iso3166-2: FR-44
+      names:
+        - name: Loire-Atlantique
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Loiret
+    - codes:
+        iso3166-2: FR-45
+      names:
+        - name: Loiret
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lorraine
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1702
+      names:
+        - name: Loreina
+          languages: [sq]
+          sources: [euvoc]
+        - name: Lorena
+          languages: [es, it, mt, pt, ro, sl]
+          sources: [euvoc]
+        - name: Lorraine
+          languages: [cs, da, en, et, fr, hr, sv]
+          sources: [euvoc]
+        - name: Lotaringia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Lotaringija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Lotaryngia
+          languages: [pl]
+          sources: [euvoc]
+        - name: Lotharingen
+          languages: [nl]
+          sources: [euvoc]
+        - name: Lothringen
+          languages: [de, fi]
+          sources: [euvoc]
+        - name: Lotringa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Lotrinsko
+          languages: [sk]
+          sources: [euvoc]
+        - name: Λωρραίνη
+          languages: [el]
+          sources: [euvoc]
+        - name: Лоран
+          languages: [bg]
+          sources: [euvoc]
+        - name: Лорен
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Lot
+    - codes:
+        iso3166-2: FR-46
+      names:
+        - name: Lot
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lot-et-Garonne
+    - codes:
+        iso3166-2: FR-47
+      names:
+        - name: Lot-et-Garonne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lozère
+    - codes:
+        iso3166-2: FR-48
+      names:
+        - name: Lozère
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Midi-Pyrenées
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1904
+      names:
+        - name: Lõuna-Püreneed
+          languages: [et]
+          sources: [euvoc]
+        - name: Mediodía-Pirineos
+          languages: [es]
+          sources: [euvoc]
+        - name: Midi Pyrenees
+          languages: [sl]
+          sources: [euvoc]
+        - name: Midi-Pirenei
+          languages: [it]
+          sources: [euvoc]
+        - name: Midi-Pyrenées
+          languages: [da, en, sv]
+          sources: [euvoc]
+        - name: Midi-Pyrénées
+          languages: [cs, de, fi, fr, hu, mt, nl, sk]
+          sources: [euvoc]
+        - name: Pietų Pirėnai
+          languages: [lt]
+          sources: [euvoc]
+        - name: Pireneje
+          languages: [pl]
+          sources: [euvoc]
+        - name: Pirenejt e Mesme
+          languages: [sq]
+          sources: [euvoc]
+        - name: Pirineii de Sud
+          languages: [ro]
+          sources: [euvoc]
+        - name: Pirineji-Jug
+          languages: [hr]
+          sources: [euvoc]
+        - name: Sud-Pyrénées
+          languages: [pt]
+          sources: [euvoc]
+        - name: Viduspireneji
+          languages: [lv]
+          sources: [euvoc]
+        - name: Νότια Πυρηναία
+          languages: [el]
+          sources: [euvoc]
+        - name: Јужни Пиринеи
+          languages: [mk]
+          sources: [euvoc]
+        - name: Јужни Пиринеји
+          languages: [sr]
+          sources: [euvoc]
+        - name: Средни Пиринеи
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Maine-et-Loire
+    - codes:
+        iso3166-2: FR-49
+      names:
+        - name: Maine-et-Loire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Manche
+    - codes:
+        iso3166-2: FR-50
+      names:
+        - name: Manche
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Marne
+    - codes:
+        iso3166-2: FR-51
+      names:
+        - name: Marne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Martinique
+    - codes:
+        iso3166-2: FR-MQ
+      names:
+        - name: Martinique
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Mayenne
+    - codes:
+        iso3166-2: FR-53
+      names:
+        - name: Mayenne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Mayotte
+    - codes:
+        iso3166-2: FR-YT
+      names:
+        - name: Mayotte
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Meurthe-et-Moselle
+    - codes:
+        iso3166-2: FR-54
+      names:
+        - name: Meurthe-et-Moselle
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Meuse
+    - codes:
+        iso3166-2: FR-55
+      names:
+        - name: Meuse
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Morbihan
+    - codes:
+        iso3166-2: FR-56
+      names:
+        - name: Morbihan
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Moselle
+    - codes:
+        iso3166-2: FR-57
+      names:
+        - name: Moselle
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nièvre
+    - codes:
+        iso3166-2: FR-58
+      names:
+        - name: Nièvre
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nord
+    - codes:
+        iso3166-2: FR-59
+      names:
+        - name: Nord
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Nord-Pas-de-Calais
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2075
+      names:
+        - name: Nord-Pas-de-Calais
+          languages: [cs, da, de, en, et, fi, fr, hr, hu, mt, nl, pl, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Nord-Passo di Calais
+          languages: [it]
+          sources: [euvoc]
+        - name: Norte-Pas-de-Calais
+          languages: [pt]
+          sources: [euvoc]
+        - name: Norte-Paso de Calais
+          languages: [es]
+          sources: [euvoc]
+        - name: Pa de Kaleja Veriore
+          languages: [sq]
+          sources: [euvoc]
+        - name: Ziemeļfrancija-Padekalē
+          languages: [lv]
+          sources: [euvoc]
+        - name: Šiaurė-Pa de Kalė
+          languages: [lt]
+          sources: [euvoc]
+        - name: Νορ-πα-ντε-Καλαί
+          languages: [el]
+          sources: [euvoc]
+        - name: Нор Па де Кале
+          languages: [mk]
+          sources: [euvoc]
+        - name: Нор Па дьо Кале
+          languages: [bg]
+          sources: [euvoc]
+        - name: Норд па де Кале
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Normandie
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_8331ae25
+        iso3166-2: FR-NOR
+      names:
+        - name: Normandia
+          languages: [et, fi, hu, it, pl, pt, ro, sk]
+          sources: [euvoc]
+        - name: Normandie
+          languages: [cs, da, de, el, en, fr, mt, nl, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Normandija
+          languages: [hr, lt, lv]
+          sources: [euvoc]
+        - name: Normandía
+          languages: [es]
+          sources: [euvoc]
+        - name: Нормандия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Нормандија
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Nouvelle-Calédonie
+    - codes:
+        iso3166-2: FR-NC
+      names:
+        - name: Nouvelle-Calédonie
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Occitanie
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_791e9f27
+        iso3166-2: FR-OCC
+      names:
+        - name: Occitania
+          languages: [es, it, ro]
+          sources: [euvoc]
+        - name: Occitanie
+          languages: [da, de, el, en, fr, mt, nl, sl, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Occitânia
+          languages: [pt]
+          sources: [euvoc]
+        - name: Okcitanija
+          languages: [hr]
+          sources: [euvoc]
+        - name: Okcitánia
+          languages: [sk]
+          sources: [euvoc]
+        - name: Okcitánie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Oksitaania
+          languages: [et]
+          sources: [euvoc]
+        - name: Oksitania
+          languages: [fi]
+          sources: [euvoc]
+        - name: Oksitanija
+          languages: [lt]
+          sources: [euvoc]
+        - name: Oksitānija
+          languages: [lv]
+          sources: [euvoc]
+        - name: Oksytania
+          languages: [pl]
+          sources: [euvoc]
+        - name: Okszitánia
+          languages: [hu]
+          sources: [euvoc]
+        - name: Окитанија
+          languages: [mk]
+          sources: [euvoc]
+        - name: Окситания
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Oise
+    - codes:
+        iso3166-2: FR-60
+      names:
+        - name: Oise
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Orne
+    - codes:
+        iso3166-2: FR-61
+      names:
+        - name: Orne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Paris
+    - codes:
+        iso3166-2: FR-75
+      names:
+        - name: Paris
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Pas-de-Calais
+    - codes:
+        iso3166-2: FR-62
+      names:
+        - name: Pas-de-Calais
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Picardy
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2377
+      names:
+        - name: Picardia
+          languages: [pt, ro]
+          sources: [euvoc]
+        - name: Picardie
+          languages: [da, de, et, fi, fr, hu, sv]
+          sources: [euvoc]
+        - name: Picardië
+          languages: [nl]
+          sources: [euvoc]
+        - name: Picardy
+          languages: [en]
+          sources: [euvoc]
+        - name: Picardía
+          languages: [es]
+          sources: [euvoc]
+        - name: Piccardia
+          languages: [it]
+          sources: [euvoc]
+        - name: Pikardi
+          languages: [sq]
+          sources: [euvoc]
+        - name: Pikardia
+          languages: [pl, sk]
+          sources: [euvoc]
+        - name: Pikardie
+          languages: [cs]
+          sources: [euvoc]
+        - name: Pikardija
+          languages: [hr, lt, lv, mt, sl]
+          sources: [euvoc]
+        - name: Πικαρδία
+          languages: [el]
+          sources: [euvoc]
+        - name: Пикардия
+          languages: [bg]
+          sources: [euvoc]
+        - name: Пикардија
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Poitou-Charentes
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2439
+      names:
+        - name: Poitou-Charentes
+          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+          sources: [euvoc]
+        - name: Puatu-Sharanta
+          languages: [sq]
+          sources: [euvoc]
+        - name: Puatu-Šaranta
+          languages: [lt]
+          sources: [euvoc]
+        - name: Puatū-Šaranta
+          languages: [lv]
+          sources: [euvoc]
+        - name: Πουατού-Σαράντ
+          languages: [el]
+          sources: [euvoc]
+        - name: Поату - Шарант
+          languages: [bg]
+          sources: [euvoc]
+        - name: Поату-Шарант
+          languages: [sr]
+          sources: [euvoc]
+        - name: Поату-Шаранта
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Polynésie française
+    - codes:
+        iso3166-2: FR-PF
+      names:
+        - name: Polynésie française
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Provence-Alpes-Côte-d’Azur
+    - codes:
+        iso3166-2: FR-PAC
+      names:
+        - name: Provence-Alpes-Côte-d’Azur
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Puy-de-Dôme
+    - codes:
+        iso3166-2: FR-63
+      names:
+        - name: Puy-de-Dôme
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Pyrénées-Atlantiques
+    - codes:
+        iso3166-2: FR-64
+      names:
+        - name: Pyrénées-Atlantiques
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Pyrénées-Orientales
+    - codes:
+        iso3166-2: FR-66
+      names:
+        - name: Pyrénées-Orientales
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Rhône-Alpes
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3714
+      names:
+        - name: Rajna-Alpok
+          languages: [hu]
+          sources: [euvoc]
+        - name: Rhone-Alpes
+          languages: [cs, sk]
+          sources: [euvoc]
+        - name: Rhône-Alpes
+          languages: [da, de, en, et, fi, fr, mt, nl, pt, sv]
+          sources: [euvoc]
+        - name: Rodan-Alpy
+          languages: [pl]
+          sources: [euvoc]
+        - name: Rodano-Alpi
+          languages: [it]
+          sources: [euvoc]
+        - name: Ron-Alpe
+          languages: [sq]
+          sources: [euvoc]
+        - name: Ron-Alpi
+          languages: [ro]
+          sources: [euvoc]
+        - name: Rona-Alpe
+          languages: [hr, sl]
+          sources: [euvoc]
+        - name: Rona-Alpi
+          languages: [lv]
+          sources: [euvoc]
+        - name: Ronos Alpės
+          languages: [lt]
+          sources: [euvoc]
+        - name: Ródano-Alpes
+          languages: [es]
+          sources: [euvoc]
+        - name: Ροδανός-Άλπεις
+          languages: [el]
+          sources: [euvoc]
+        - name: Рона - Алпи
+          languages: [bg]
+          sources: [euvoc]
+        - name: Рона-Алпи
+          languages: [mk, sr]
+          sources: [euvoc]
+    
+
+    # Rhône
+    - codes:
+        iso3166-2: FR-69
+      names:
+        - name: Rhône
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Saint-Barthélemy
+    - codes:
+        iso3166-2: FR-BL
+      names:
+        - name: Saint-Barthélemy
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Saint-Martin
+    - codes:
+        iso3166-2: FR-MF
+      names:
+        - name: Saint-Martin
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Saint-Pierre-et-Miquelon
+    - codes:
+        iso3166-2: FR-PM
+      names:
+        - name: Saint-Pierre-et-Miquelon
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sarthe
+    - codes:
+        iso3166-2: FR-72
+      names:
+        - name: Sarthe
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Savoie
+    - codes:
+        iso3166-2: FR-73
+      names:
+        - name: Savoie
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Saône-et-Loire
+    - codes:
+        iso3166-2: FR-71
+      names:
+        - name: Saône-et-Loire
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Seine-Maritime
+    - codes:
+        iso3166-2: FR-76
+      names:
+        - name: Seine-Maritime
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Seine-Saint-Denis
+    - codes:
+        iso3166-2: FR-93
+      names:
+        - name: Seine-Saint-Denis
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Seine-et-Marne
+    - codes:
+        iso3166-2: FR-77
+      names:
+        - name: Seine-et-Marne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Somme
+    - codes:
+        iso3166-2: FR-80
+      names:
+        - name: Somme
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tarn
+    - codes:
+        iso3166-2: FR-81
+      names:
+        - name: Tarn
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tarn-et-Garonne
+    - codes:
+        iso3166-2: FR-82
+      names:
+        - name: Tarn-et-Garonne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Terres australes françaises
+    - codes:
+        iso3166-2: FR-TF
+      names:
+        - name: Terres australes françaises
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Territoire de Belfort
+    - codes:
+        iso3166-2: FR-90
+      names:
+        - name: Territoire de Belfort
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Val-d'Oise
+    - codes:
+        iso3166-2: FR-95
+      names:
+        - name: Val-d'Oise
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Val-de-Marne
+    - codes:
+        iso3166-2: FR-94
+      names:
+        - name: Val-de-Marne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Var
+    - codes:
+        iso3166-2: FR-83
+      names:
+        - name: Var
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Vaucluse
+    - codes:
+        iso3166-2: FR-84
+      names:
+        - name: Vaucluse
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Vendée
+    - codes:
+        iso3166-2: FR-85
+      names:
+        - name: Vendée
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Vienne
+    - codes:
+        iso3166-2: FR-86
+      names:
+        - name: Vienne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Vosges
+    - codes:
+        iso3166-2: FR-88
+      names:
+        - name: Vosges
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Wallis-et-Futuna
+    - codes:
+        iso3166-2: FR-WF
+      names:
+        - name: Wallis-et-Futuna
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Yonne
+    - codes:
+        iso3166-2: FR-89
+      names:
+        - name: Yonne
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Yvelines
+    - codes:
+        iso3166-2: FR-78
+      names:
+        - name: Yvelines
+          languages: [fr]
+          sources: [iso3166-2]

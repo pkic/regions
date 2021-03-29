@@ -1,0 +1,174 @@
+iso3166-1: AO
+complete: false
+regions:
+    
+
+    # Bengo
+    - codes:
+        iso3166-2: AO-BGO
+      names:
+        - name: Bengo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Benguela
+    - codes:
+        iso3166-2: AO-BGU
+      names:
+        - name: Benguela
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Bié
+    - codes:
+        iso3166-2: AO-BIE
+      names:
+        - name: Bié
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cabinda
+    - codes:
+        iso3166-2: AO-CAB
+      names:
+        - name: Cabinda
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cuando Cubango
+    - codes:
+        iso3166-2: AO-CCU
+      names:
+        - name: Cuando Cubango
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Kuando Kubango
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cuanza-Norte
+    - codes:
+        iso3166-2: AO-CNO
+      names:
+        - name: Cuanza-Norte
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Kwanza Norte
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cuanza-Sul
+    - codes:
+        iso3166-2: AO-CUS
+      names:
+        - name: Cuanza-Sul
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: Kwanza Sul
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cunene
+    - codes:
+        iso3166-2: AO-CNN
+      names:
+        - name: Cunene
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Huambo
+    - codes:
+        iso3166-2: AO-HUA
+      names:
+        - name: Huambo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Huíla
+    - codes:
+        iso3166-2: AO-HUI
+      names:
+        - name: Huíla
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Luanda
+    - codes:
+        iso3166-2: AO-LUA
+      names:
+        - name: Luanda
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Lunda-Norte
+    - codes:
+        iso3166-2: AO-LNO
+      names:
+        - name: Lunda-Norte
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Lunda-Sul
+    - codes:
+        iso3166-2: AO-LSU
+      names:
+        - name: Lunda-Sul
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Malange
+    - codes:
+        iso3166-2: AO-MAL
+      names:
+        - name: Malange
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Moxico
+    - codes:
+        iso3166-2: AO-MOX
+      names:
+        - name: Moxico
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Namibe
+    - codes:
+        iso3166-2: AO-NAM
+      names:
+        - name: Namibe
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Uíge
+    - codes:
+        iso3166-2: AO-UIG
+      names:
+        - name: Uíge
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Zaire
+    - codes:
+        iso3166-2: AO-ZAI
+      names:
+        - name: Zaire
+          languages: [pt]
+          sources: [iso3166-2]

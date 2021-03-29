@@ -1,0 +1,504 @@
+iso3166-1: LK
+complete: false
+regions:
+    
+
+    # Hambantota
+    - codes:
+        iso3166-2: LK-33
+      names:
+        - name: Ampāntōṭṭai
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Hambantota
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Hambantŏṭa
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Ampara
+    - codes:
+        iso3166-2: LK-52
+      names:
+        - name: Ampara
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ampāra
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Ampāṟai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Anuradhapura
+    - codes:
+        iso3166-2: LK-71
+      names:
+        - name: Anuradhapura
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Anurādhapura
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Anurātapuram
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Batticaloa
+    - codes:
+        iso3166-2: LK-51
+      names:
+        - name: Batticaloa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Maḍakalapuva
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Maṭṭakkaḷappu
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Sabaragamuwa
+    - codes:
+        iso3166-2: LK-9
+      names:
+        - name: Chappirakamuva mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Sabaragamuva paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Sabaragamuwa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ratnapura
+    - codes:
+        iso3166-2: LK-91
+      names:
+        - name: Irattiṉapuri
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Ratnapura
+          languages: [en, si]
+          sources: [iso3166-2]
+    
+
+    # Jaffna
+    - codes:
+        iso3166-2: LK-41
+      names:
+        - name: Jaffna
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Yāl̮ppāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Yāpanaya
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Gampaha
+    - codes:
+        iso3166-2: LK-12
+      names:
+        - name: Gampaha
+          languages: [en, si]
+          sources: [iso3166-2]
+        - name: Kampahā
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Kandy
+    - codes:
+        iso3166-2: LK-21
+      names:
+        - name: Kandy
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kaṇṭi
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Mahanuvara
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Kalutara
+    - codes:
+        iso3166-2: LK-13
+      names:
+        - name: Kalutara
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kaḷutara
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Kaḷuttuṟai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Kegalla
+    - codes:
+        iso3166-2: LK-92
+      names:
+        - name: Kegalla
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kekālai
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Kægalla
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: LK-5
+      names:
+        - name: Eastern
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kil̮akku mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Næ̆gĕnahira paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Kilinochchi
+    - codes:
+        iso3166-2: LK-42
+      names:
+        - name: Kilinochchi
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kilinŏchchi
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Kiḷinochchi
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Kurunegala
+    - codes:
+        iso3166-2: LK-61
+      names:
+        - name: Kurunegala
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kurunākal
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Kuruṇægala
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Galle
+    - codes:
+        iso3166-2: LK-31
+      names:
+        - name: Galle
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Gālla
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Kāli
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Colombo
+    - codes:
+        iso3166-2: LK-11
+      names:
+        - name: Colombo
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Kŏl̮umpu
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Kŏḷamba
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Matale
+    - codes:
+        iso3166-2: LK-22
+      names:
+        - name: Matale
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mātale
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Māttaḷai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: LK-2
+      names:
+        - name: Central
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Madhyama paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Mattiya mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Mannar
+    - codes:
+        iso3166-2: LK-43
+      names:
+        - name: Mannar
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mannārama
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Maṉṉār
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Mullaittivu
+    - codes:
+        iso3166-2: LK-45
+      names:
+        - name: Mulativ
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Mullaittivu
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mullaittīvu
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Matara
+    - codes:
+        iso3166-2: LK-32
+      names:
+        - name: Matara
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mātara
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Māttaṛai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Monaragala
+    - codes:
+        iso3166-2: LK-82
+      names:
+        - name: Monaragala
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Mŏṇarāgala
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Mŏṉarākalai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # North Central
+    - codes:
+        iso3166-2: LK-7
+      names:
+        - name: North Central
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Uturumæ̆da paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Vaṭamattiya mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Nuwara Eliya
+    - codes:
+        iso3166-2: LK-23
+      names:
+        - name: Nuvara Ĕliya
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Nuvarĕliyā
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Nuwara Eliya
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Badulla
+    - codes:
+        iso3166-2: LK-81
+      names:
+        - name: Badulla
+          languages: [en, si]
+          sources: [iso3166-2]
+        - name: Patuḷai
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Polonnaruwa
+    - codes:
+        iso3166-2: LK-72
+      names:
+        - name: Polonnaruwa
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Pŏlaṉṉaṛuvai
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Pŏḷŏnnaruva
+          languages: [si]
+          sources: [iso3166-2]
+    
+
+    # Puttalam
+    - codes:
+        iso3166-2: LK-62
+      names:
+        - name: Puttalam
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Puttalama
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Puttaḷam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: LK-3
+      names:
+        - name: Dakuṇu paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Southern
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Tĕṉ mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Trincomalee
+    - codes:
+        iso3166-2: LK-53
+      names:
+        - name: Tirukŏṇamalai
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Trikuṇāmalaya
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Trincomalee
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Vavuniya
+    - codes:
+        iso3166-2: LK-44
+      names:
+        - name: Vavuniya
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Vavuniyāva
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Vavuṉiyā
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: LK-4
+      names:
+        - name: Northern
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Uturu paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Vaṭakku mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # North Western
+    - codes:
+        iso3166-2: LK-6
+      names:
+        - name: North Western
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Vayamba paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Vaṭamel mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: LK-1
+      names:
+        - name: Basnāhira paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Mel mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]
+        - name: Western
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Uva
+    - codes:
+        iso3166-2: LK-8
+      names:
+        - name: Uva
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Ūva paḷāta
+          languages: [si]
+          sources: [iso3166-2]
+        - name: Ūvā mākāṇam
+          languages: [ta]
+          sources: [iso3166-2]

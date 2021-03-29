@@ -1,0 +1,93 @@
+iso3166-1: SR
+complete: false
+regions:
+    
+
+    # Brokopondo
+    - codes:
+        iso3166-2: SR-BR
+      names:
+        - name: Brokopondo
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Commewijne
+    - codes:
+        iso3166-2: SR-CM
+      names:
+        - name: Commewijne
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Coronie
+    - codes:
+        iso3166-2: SR-CR
+      names:
+        - name: Coronie
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Marowijne
+    - codes:
+        iso3166-2: SR-MA
+      names:
+        - name: Marowijne
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Nickerie
+    - codes:
+        iso3166-2: SR-NI
+      names:
+        - name: Nickerie
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Para
+    - codes:
+        iso3166-2: SR-PR
+      names:
+        - name: Para
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Paramaribo
+    - codes:
+        iso3166-2: SR-PM
+      names:
+        - name: Paramaribo
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Saramacca
+    - codes:
+        iso3166-2: SR-SA
+      names:
+        - name: Saramacca
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Sipaliwini
+    - codes:
+        iso3166-2: SR-SI
+      names:
+        - name: Sipaliwini
+          languages: [nl]
+          sources: [iso3166-2]
+    
+
+    # Wanica
+    - codes:
+        iso3166-2: SR-WA
+      names:
+        - name: Wanica
+          languages: [nl]
+          sources: [iso3166-2]

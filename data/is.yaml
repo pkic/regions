@@ -1,0 +1,724 @@
+name: Iceland
+iso3166-1: IS
+complete: false
+regions:
+    
+
+    # Akrahreppur
+    - codes:
+        iso3166-2: IS-AKH
+      names:
+        - name: Akrahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Akraneskaupstaður
+    - codes:
+        iso3166-2: IS-AKN
+      names:
+        - name: Akraneskaupstaður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Akureyrarbær
+    - codes:
+        iso3166-2: IS-AKU
+      names:
+        - name: Akureyrarbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Austurland
+    - codes:
+        iso3166-2: IS-7
+      names:
+        - name: Austurland
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Bláskógabyggð
+    - codes:
+        iso3166-2: IS-BLA
+      names:
+        - name: Bláskógabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Blönduósbær
+    - codes:
+        iso3166-2: IS-BLO
+      names:
+        - name: Blönduósbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Bolungarvíkurkaupstaður
+    - codes:
+        iso3166-2: IS-BOL
+      names:
+        - name: Bolungarvíkurkaupstaður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Borgarbyggð
+    - codes:
+        iso3166-2: IS-BOG
+      names:
+        - name: Borgarbyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Borgarfjarðarhreppur
+    - codes:
+        iso3166-2: IS-BFJ
+      names:
+        - name: Borgarfjarðarhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Dalabyggð
+    - codes:
+        iso3166-2: IS-DAB
+      names:
+        - name: Dalabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Dalvíkurbyggð
+    - codes:
+        iso3166-2: IS-DAV
+      names:
+        - name: Dalvíkurbyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Djúpavogshreppur
+    - codes:
+        iso3166-2: IS-DJU
+      names:
+        - name: Djúpavogshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Eyja- og Miklaholtshreppur
+    - codes:
+        iso3166-2: IS-EOM
+      names:
+        - name: Eyja- og Miklaholtshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Eyjafjarðarsveit
+    - codes:
+        iso3166-2: IS-EYF
+      names:
+        - name: Eyjafjarðarsveit
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Fjallabyggð
+    - codes:
+        iso3166-2: IS-FJL
+      names:
+        - name: Fjallabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Fjarðabyggð
+    - codes:
+        iso3166-2: IS-FJD
+      names:
+        - name: Fjarðabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Fljótsdalshreppur
+    - codes:
+        iso3166-2: IS-FLR
+      names:
+        - name: Fljótsdalshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Fljótsdalshérað
+    - codes:
+        iso3166-2: IS-FLD
+      names:
+        - name: Fljótsdalshérað
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Flóahreppur
+    - codes:
+        iso3166-2: IS-FLA
+      names:
+        - name: Flóahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Garðabær
+    - codes:
+        iso3166-2: IS-GAR
+      names:
+        - name: Garðabær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Grindavíkurbær
+    - codes:
+        iso3166-2: IS-GRN
+      names:
+        - name: Grindavíkurbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Grundarfjarðarbær
+    - codes:
+        iso3166-2: IS-GRU
+      names:
+        - name: Grundarfjarðarbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Grímsnes- og Grafningshreppur
+    - codes:
+        iso3166-2: IS-GOG
+      names:
+        - name: Grímsnes- og Grafningshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Grýtubakkahreppur
+    - codes:
+        iso3166-2: IS-GRY
+      names:
+        - name: Grýtubakkahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Hafnarfjarðarkaupstaður
+    - codes:
+        iso3166-2: IS-HAF
+      names:
+        - name: Hafnarfjarðarkaupstaður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Helgafellssveit
+    - codes:
+        iso3166-2: IS-HEL
+      names:
+        - name: Helgafellssveit
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Hrunamannahreppur
+    - codes:
+        iso3166-2: IS-HRU
+      names:
+        - name: Hrunamannahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Hvalfjarðarsveit
+    - codes:
+        iso3166-2: IS-HVA
+      names:
+        - name: Hvalfjarðarsveit
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Hveragerðisbær
+    - codes:
+        iso3166-2: IS-HVE
+      names:
+        - name: Hveragerðisbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Hörgársveit
+    - codes:
+        iso3166-2: IS-HRG
+      names:
+        - name: Hörgársveit
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Húnavatnshreppur
+    - codes:
+        iso3166-2: IS-HUT
+      names:
+        - name: Húnavatnshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Húnaþing vestra
+    - codes:
+        iso3166-2: IS-HUV
+      names:
+        - name: Húnaþing vestra
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Kaldrananeshreppur
+    - codes:
+        iso3166-2: IS-KAL
+      names:
+        - name: Kaldrananeshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Kjósarhreppur
+    - codes:
+        iso3166-2: IS-KJO
+      names:
+        - name: Kjósarhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Kópavogsbær
+    - codes:
+        iso3166-2: IS-KOP
+      names:
+        - name: Kópavogsbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Langanesbyggð
+    - codes:
+        iso3166-2: IS-LAN
+      names:
+        - name: Langanesbyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Mosfellsbær
+    - codes:
+        iso3166-2: IS-MOS
+      names:
+        - name: Mosfellsbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Mýrdalshreppur
+    - codes:
+        iso3166-2: IS-MYR
+      names:
+        - name: Mýrdalshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Norðurland eystra
+    - codes:
+        iso3166-2: IS-6
+      names:
+        - name: Norðurland eystra
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Norðurland vestra
+    - codes:
+        iso3166-2: IS-5
+      names:
+        - name: Norðurland vestra
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Norðurþing
+    - codes:
+        iso3166-2: IS-NOR
+      names:
+        - name: Norðurþing
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Rangárþing eystra
+    - codes:
+        iso3166-2: IS-RGE
+      names:
+        - name: Rangárþing eystra
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Rangárþing ytra
+    - codes:
+        iso3166-2: IS-RGY
+      names:
+        - name: Rangárþing ytra
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Reykhólahreppur
+    - codes:
+        iso3166-2: IS-RHH
+      names:
+        - name: Reykhólahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Reykjanesbær
+    - codes:
+        iso3166-2: IS-RKN
+      names:
+        - name: Reykjanesbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Reykjavíkurborg
+    - codes:
+        iso3166-2: IS-RKV
+      names:
+        - name: Reykjavíkurborg
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Seltjarnarnesbær
+    - codes:
+        iso3166-2: IS-SEL
+      names:
+        - name: Seltjarnarnesbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Seyðisfjarðarkaupstaður
+    - codes:
+        iso3166-2: IS-SEY
+      names:
+        - name: Seyðisfjarðarkaupstaður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Skaftárhreppur
+    - codes:
+        iso3166-2: IS-SKF
+      names:
+        - name: Skaftárhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Skagabyggð
+    - codes:
+        iso3166-2: IS-SKG
+      names:
+        - name: Skagabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Skeiða- og Gnúpverjahreppur
+    - codes:
+        iso3166-2: IS-SOG
+      names:
+        - name: Skeiða- og Gnúpverjahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Skorradalshreppur
+    - codes:
+        iso3166-2: IS-SKO
+      names:
+        - name: Skorradalshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Skútustaðahreppur
+    - codes:
+        iso3166-2: IS-SKU
+      names:
+        - name: Skútustaðahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Snæfellsbær
+    - codes:
+        iso3166-2: IS-SNF
+      names:
+        - name: Snæfellsbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Strandabyggð
+    - codes:
+        iso3166-2: IS-STR
+      names:
+        - name: Strandabyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Stykkishólmsbær
+    - codes:
+        iso3166-2: IS-STY
+      names:
+        - name: Stykkishólmsbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Suðurland
+    - codes:
+        iso3166-2: IS-8
+      names:
+        - name: Suðurland
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Suðurnes
+    - codes:
+        iso3166-2: IS-2
+      names:
+        - name: Suðurnes
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Suðurnesjabær
+    - codes:
+        iso3166-2: IS-SDN
+      names:
+        - name: Suðurnesjabær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Svalbarðshreppur
+    - codes:
+        iso3166-2: IS-SBH
+      names:
+        - name: Svalbarðshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Svalbarðsstrandarhreppur
+    - codes:
+        iso3166-2: IS-SBT
+      names:
+        - name: Svalbarðsstrandarhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Hornafjörður
+    - codes:
+        iso3166-2: IS-SHF
+      names:
+        - name: Sveitarfélagið Hornafjörður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Skagafjörður
+    - codes:
+        iso3166-2: IS-SSF
+      names:
+        - name: Sveitarfélagið Skagafjörður
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Skagaströnd
+    - codes:
+        iso3166-2: IS-SSS
+      names:
+        - name: Sveitarfélagið Skagaströnd
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Vogar
+    - codes:
+        iso3166-2: IS-SVG
+      names:
+        - name: Sveitarfélagið Vogar
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Árborg
+    - codes:
+        iso3166-2: IS-SFA
+      names:
+        - name: Sveitarfélagið Árborg
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Sveitarfélagið Ölfus
+    - codes:
+        iso3166-2: IS-SOL
+      names:
+        - name: Sveitarfélagið Ölfus
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Súðavíkurhreppur
+    - codes:
+        iso3166-2: IS-SDV
+      names:
+        - name: Súðavíkurhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Tjörneshreppur
+    - codes:
+        iso3166-2: IS-TJO
+      names:
+        - name: Tjörneshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Tálknafjarðarhreppur
+    - codes:
+        iso3166-2: IS-TAL
+      names:
+        - name: Tálknafjarðarhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Vestfirðir
+    - codes:
+        iso3166-2: IS-4
+      names:
+        - name: Vestfirðir
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Vestmannaeyjabær
+    - codes:
+        iso3166-2: IS-VEM
+      names:
+        - name: Vestmannaeyjabær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Vesturbyggð
+    - codes:
+        iso3166-2: IS-VER
+      names:
+        - name: Vesturbyggð
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Vesturland
+    - codes:
+        iso3166-2: IS-3
+      names:
+        - name: Vesturland
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Vopnafjarðarhreppur
+    - codes:
+        iso3166-2: IS-VOP
+      names:
+        - name: Vopnafjarðarhreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # arsvæði
+    - codes:
+        iso3166-2: IS-1
+      names:
+        - name: arsvæði
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Árneshreppur
+    - codes:
+        iso3166-2: IS-ARN
+      names:
+        - name: Árneshreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Ásahreppur
+    - codes:
+        iso3166-2: IS-ASA
+      names:
+        - name: Ásahreppur
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Ísafjarðarbær
+    - codes:
+        iso3166-2: IS-ISA
+      names:
+        - name: Ísafjarðarbær
+          languages: [is]
+          sources: [iso3166-2]
+    
+
+    # Þingeyjarsveit
+    - codes:
+        iso3166-2: IS-THG
+      names:
+        - name: Þingeyjarsveit
+          languages: [is]
+          sources: [iso3166-2]

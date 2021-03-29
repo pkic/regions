@@ -1,0 +1,670 @@
+name: Azerbaijan
+iso3166-1: AZ
+complete: false
+regions:
+    
+
+    # Abşeron
+    - codes:
+        iso3166-2: AZ-ABS
+      names:
+        - name: Abşeron
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Astara
+    - codes:
+        iso3166-2: AZ-AST
+      names:
+        - name: Astara
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ağcabədi
+    - codes:
+        iso3166-2: AZ-AGC
+      names:
+        - name: Ağcabədi
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ağdam
+    - codes:
+        iso3166-2: AZ-AGM
+      names:
+        - name: Ağdam
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ağdaş
+    - codes:
+        iso3166-2: AZ-AGS
+      names:
+        - name: Ağdaş
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ağstafa
+    - codes:
+        iso3166-2: AZ-AGA
+      names:
+        - name: Ağstafa
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ağsu
+    - codes:
+        iso3166-2: AZ-AGU
+      names:
+        - name: Ağsu
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Babək
+    - codes:
+        iso3166-2: AZ-BAB
+      names:
+        - name: Babək
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Bakı
+    - codes:
+        iso3166-2: AZ-BA
+      names:
+        - name: Bakı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Balakən
+    - codes:
+        iso3166-2: AZ-BAL
+      names:
+        - name: Balakən
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Beyləqan
+    - codes:
+        iso3166-2: AZ-BEY
+      names:
+        - name: Beyləqan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Biləsuvar
+    - codes:
+        iso3166-2: AZ-BIL
+      names:
+        - name: Biləsuvar
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Bərdə
+    - codes:
+        iso3166-2: AZ-BAR
+      names:
+        - name: Bərdə
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Culfa
+    - codes:
+        iso3166-2: AZ-CUL
+      names:
+        - name: Culfa
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Cəbrayıl
+    - codes:
+        iso3166-2: AZ-CAB
+      names:
+        - name: Cəbrayıl
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Cəlilabad
+    - codes:
+        iso3166-2: AZ-CAL
+      names:
+        - name: Cəlilabad
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Daşkəsən
+    - codes:
+        iso3166-2: AZ-DAS
+      names:
+        - name: Daşkəsən
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Füzuli
+    - codes:
+        iso3166-2: AZ-FUZ
+      names:
+        - name: Füzuli
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Goranboy
+    - codes:
+        iso3166-2: AZ-GOR
+      names:
+        - name: Goranboy
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Göygöl
+    - codes:
+        iso3166-2: AZ-GYG
+      names:
+        - name: Göygöl
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Göyçay
+    - codes:
+        iso3166-2: AZ-GOY
+      names:
+        - name: Göyçay
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Gədəbəy
+    - codes:
+        iso3166-2: AZ-GAD
+      names:
+        - name: Gədəbəy
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Gəncə
+    - codes:
+        iso3166-2: AZ-GA
+      names:
+        - name: Gəncə
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Hacıqabul
+    - codes:
+        iso3166-2: AZ-HAC
+      names:
+        - name: Hacıqabul
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Kürdəmir
+    - codes:
+        iso3166-2: AZ-KUR
+      names:
+        - name: Kürdəmir
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Kǝngǝrli
+    - codes:
+        iso3166-2: AZ-KAN
+      names:
+        - name: Kǝngǝrli
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Kəlbəcər
+    - codes:
+        iso3166-2: AZ-KAL
+      names:
+        - name: Kəlbəcər
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Laçın
+    - codes:
+        iso3166-2: AZ-LAC
+      names:
+        - name: Laçın
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Lerik
+    - codes:
+        iso3166-2: AZ-LER
+      names:
+        - name: Lerik
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Lənkəran
+    - codes:
+        iso3166-2: AZ-LAN
+      names:
+        - name: Lənkəran
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Masallı
+    - codes:
+        iso3166-2: AZ-MAS
+      names:
+        - name: Masallı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Mingəçevir
+    - codes:
+        iso3166-2: AZ-MI
+      names:
+        - name: Mingəçevir
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Naftalan
+    - codes:
+        iso3166-2: AZ-NA
+      names:
+        - name: Naftalan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Naxçıvan
+    - codes:
+        iso3166-2: AZ-NX
+      names:
+        - name: Naxçıvan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Neftçala
+    - codes:
+        iso3166-2: AZ-NEF
+      names:
+        - name: Neftçala
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ordubad
+    - codes:
+        iso3166-2: AZ-ORD
+      names:
+        - name: Ordubad
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Oğuz
+    - codes:
+        iso3166-2: AZ-OGU
+      names:
+        - name: Oğuz
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qax
+    - codes:
+        iso3166-2: AZ-QAX
+      names:
+        - name: Qax
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qazax
+    - codes:
+        iso3166-2: AZ-QAZ
+      names:
+        - name: Qazax
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qobustan
+    - codes:
+        iso3166-2: AZ-QOB
+      names:
+        - name: Qobustan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Quba
+    - codes:
+        iso3166-2: AZ-QBA
+      names:
+        - name: Quba
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qubadlı
+    - codes:
+        iso3166-2: AZ-QBI
+      names:
+        - name: Qubadlı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qusar
+    - codes:
+        iso3166-2: AZ-QUS
+      names:
+        - name: Qusar
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Qəbələ
+    - codes:
+        iso3166-2: AZ-QAB
+      names:
+        - name: Qəbələ
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Saatlı
+    - codes:
+        iso3166-2: AZ-SAT
+      names:
+        - name: Saatlı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Sabirabad
+    - codes:
+        iso3166-2: AZ-SAB
+      names:
+        - name: Sabirabad
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Salyan
+    - codes:
+        iso3166-2: AZ-SAL
+      names:
+        - name: Salyan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Samux
+    - codes:
+        iso3166-2: AZ-SMX
+      names:
+        - name: Samux
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Siyəzən
+    - codes:
+        iso3166-2: AZ-SIY
+      names:
+        - name: Siyəzən
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Sumqayıt
+    - codes:
+        iso3166-2: AZ-SM
+      names:
+        - name: Sumqayıt
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Sədərək
+    - codes:
+        iso3166-2: AZ-SAD
+      names:
+        - name: Sədərək
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Tovuz
+    - codes:
+        iso3166-2: AZ-TOV
+      names:
+        - name: Tovuz
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Tərtər
+    - codes:
+        iso3166-2: AZ-TAR
+      names:
+        - name: Tərtər
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Ucar
+    - codes:
+        iso3166-2: AZ-UCA
+      names:
+        - name: Ucar
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Xankəndi
+    - codes:
+        iso3166-2: AZ-XA
+      names:
+        - name: Xankəndi
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Xaçmaz
+    - codes:
+        iso3166-2: AZ-XAC
+      names:
+        - name: Xaçmaz
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Xocalı
+    - codes:
+        iso3166-2: AZ-XCI
+      names:
+        - name: Xocalı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Xocavənd
+    - codes:
+        iso3166-2: AZ-XVD
+      names:
+        - name: Xocavənd
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Xızı
+    - codes:
+        iso3166-2: AZ-XIZ
+      names:
+        - name: Xızı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Yardımlı
+    - codes:
+        iso3166-2: AZ-YAR
+      names:
+        - name: Yardımlı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Yevlax
+    - codes:
+        iso3166-2: AZ-YEV
+      names:
+        - name: Yevlax
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Zaqatala
+    - codes:
+        iso3166-2: AZ-ZAQ
+      names:
+        - name: Zaqatala
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Zəngilan
+    - codes:
+        iso3166-2: AZ-ZAN
+      names:
+        - name: Zəngilan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Zərdab
+    - codes:
+        iso3166-2: AZ-ZAR
+      names:
+        - name: Zərdab
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # İmişli
+    - codes:
+        iso3166-2: AZ-IMI
+      names:
+        - name: İmişli
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # İsmayıllı
+    - codes:
+        iso3166-2: AZ-ISM
+      names:
+        - name: İsmayıllı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şabran
+    - codes:
+        iso3166-2: AZ-SBN
+      names:
+        - name: Şabran
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şahbuz
+    - codes:
+        iso3166-2: AZ-SAH
+      names:
+        - name: Şahbuz
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şamaxı
+    - codes:
+        iso3166-2: AZ-SMI
+      names:
+        - name: Şamaxı
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şirvan
+    - codes:
+        iso3166-2: AZ-SR
+      names:
+        - name: Şirvan
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şuşa
+    - codes:
+        iso3166-2: AZ-SUS
+      names:
+        - name: Şuşa
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şəki
+    - codes:
+        iso3166-2: AZ-SAK
+      names:
+        - name: Şəki
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şəmkir
+    - codes:
+        iso3166-2: AZ-SKR
+      names:
+        - name: Şəmkir
+          languages: [az]
+          sources: [iso3166-2]
+    
+
+    # Şərur
+    - codes:
+        iso3166-2: AZ-SAR
+      names:
+        - name: Şərur
+          languages: [az]
+          sources: [iso3166-2]

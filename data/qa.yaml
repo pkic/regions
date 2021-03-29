@@ -1,0 +1,75 @@
+iso3166-1: QA
+complete: false
+regions:
+    
+
+    # Ad Dawḩah
+    - codes:
+        iso3166-2: QA-DA
+      names:
+        - name: Ad Dawḩah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Khawr wa adh Dhakhīrah
+    - codes:
+        iso3166-2: QA-KH
+      names:
+        - name: Al Khawr wa adh Dhakhīrah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Al Wakrah
+    - codes:
+        iso3166-2: QA-WA
+      names:
+        - name: Al Wakrah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ar Rayyān
+    - codes:
+        iso3166-2: QA-RA
+      names:
+        - name: Ar Rayyān
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ash Shamāl
+    - codes:
+        iso3166-2: QA-MS
+      names:
+        - name: Ash Shamāl
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ash Shīḩānīyah
+    - codes:
+        iso3166-2: QA-SH
+      names:
+        - name: Ash Shīḩānīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Az̧ Z̧a‘āyin
+    - codes:
+        iso3166-2: QA-ZA
+      names:
+        - name: Az̧ Z̧a‘āyin
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Umm Şalāl
+    - codes:
+        iso3166-2: QA-US
+      names:
+        - name: Umm Şalāl
+          languages: [ar]
+          sources: [iso3166-2]

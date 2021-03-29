@@ -1,0 +1,75 @@
+iso3166-1: NE
+complete: false
+regions:
+    
+
+    # Agadez
+    - codes:
+        iso3166-2: NE-1
+      names:
+        - name: Agadez
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Diffa
+    - codes:
+        iso3166-2: NE-2
+      names:
+        - name: Diffa
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Dosso
+    - codes:
+        iso3166-2: NE-3
+      names:
+        - name: Dosso
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Maradi
+    - codes:
+        iso3166-2: NE-4
+      names:
+        - name: Maradi
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Niamey
+    - codes:
+        iso3166-2: NE-8
+      names:
+        - name: Niamey
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tahoua
+    - codes:
+        iso3166-2: NE-5
+      names:
+        - name: Tahoua
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Tillabéri
+    - codes:
+        iso3166-2: NE-6
+      names:
+        - name: Tillabéri
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Zinder
+    - codes:
+        iso3166-2: NE-7
+      names:
+        - name: Zinder
+          languages: [fr]
+          sources: [iso3166-2]

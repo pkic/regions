@@ -1,0 +1,330 @@
+iso3166-1: IN
+complete: false
+regions:
+    
+
+    # Andaman and Nicobar Islands
+    - codes:
+        iso3166-2: IN-AN
+      names:
+        - name: Andaman and Nicobar Islands
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Andhra Pradesh
+    - codes:
+        iso3166-2: IN-AP
+      names:
+        - name: Andhra Pradesh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Arunāchal Pradesh
+    - codes:
+        iso3166-2: IN-AR
+      names:
+        - name: Arunāchal Pradesh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Assam
+    - codes:
+        iso3166-2: IN-AS
+      names:
+        - name: Assam
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bihār
+    - codes:
+        iso3166-2: IN-BR
+      names:
+        - name: Bihār
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Chandigarh
+    - codes:
+        iso3166-2: IN-CH
+      names:
+        - name: Chandigarh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Chhattīsgarh
+    - codes:
+        iso3166-2: IN-CT
+      names:
+        - name: Chhattīsgarh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Delhi
+    - codes:
+        iso3166-2: IN-DL
+      names:
+        - name: Delhi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Dādra and Nagar Haveli and Damān and Diu
+    - codes:
+        iso3166-2: IN-DH
+      names:
+        - name: Dādra and Nagar Haveli and Damān and Diu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Goa
+    - codes:
+        iso3166-2: IN-GA
+      names:
+        - name: Goa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gujarāt
+    - codes:
+        iso3166-2: IN-GJ
+      names:
+        - name: Gujarāt
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Haryāna
+    - codes:
+        iso3166-2: IN-HR
+      names:
+        - name: Haryāna
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Himāchal Pradesh
+    - codes:
+        iso3166-2: IN-HP
+      names:
+        - name: Himāchal Pradesh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jammu and Kashmīr
+    - codes:
+        iso3166-2: IN-JK
+      names:
+        - name: Jammu and Kashmīr
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jhārkhand
+    - codes:
+        iso3166-2: IN-JH
+      names:
+        - name: Jhārkhand
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Karnātaka
+    - codes:
+        iso3166-2: IN-KA
+      names:
+        - name: Karnātaka
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kerala
+    - codes:
+        iso3166-2: IN-KL
+      names:
+        - name: Kerala
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ladākh
+    - codes:
+        iso3166-2: IN-LA
+      names:
+        - name: Ladākh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lakshadweep
+    - codes:
+        iso3166-2: IN-LD
+      names:
+        - name: Lakshadweep
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Madhya Pradesh
+    - codes:
+        iso3166-2: IN-MP
+      names:
+        - name: Madhya Pradesh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mahārāshtra
+    - codes:
+        iso3166-2: IN-MH
+      names:
+        - name: Mahārāshtra
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Manipur
+    - codes:
+        iso3166-2: IN-MN
+      names:
+        - name: Manipur
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Meghālaya
+    - codes:
+        iso3166-2: IN-ML
+      names:
+        - name: Meghālaya
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mizoram
+    - codes:
+        iso3166-2: IN-MZ
+      names:
+        - name: Mizoram
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nāgāland
+    - codes:
+        iso3166-2: IN-NL
+      names:
+        - name: Nāgāland
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Odisha
+    - codes:
+        iso3166-2: IN-OR
+      names:
+        - name: Odisha
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pondicherry
+    - codes:
+        iso3166-2: IN-PY
+      names:
+        - name: Pondicherry
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Puducherry
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Punjab
+    - codes:
+        iso3166-2: IN-PB
+      names:
+        - name: Punjab
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rājasthān
+    - codes:
+        iso3166-2: IN-RJ
+      names:
+        - name: Rājasthān
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sikkim
+    - codes:
+        iso3166-2: IN-SK
+      names:
+        - name: Sikkim
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tamil Nādu
+    - codes:
+        iso3166-2: IN-TN
+      names:
+        - name: Tamil Nādu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Telangāna
+    - codes:
+        iso3166-2: IN-TG
+      names:
+        - name: Telangāna
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Tripura
+    - codes:
+        iso3166-2: IN-TR
+      names:
+        - name: Tripura
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Uttar Pradesh
+    - codes:
+        iso3166-2: IN-UP
+      names:
+        - name: Uttar Pradesh
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Uttarākhand
+    - codes:
+        iso3166-2: IN-UT
+      names:
+        - name: Uttarākhand
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # West Bengal
+    - codes:
+        iso3166-2: IN-WB
+      names:
+        - name: West Bengal
+          languages: [en]
+          sources: [iso3166-2]

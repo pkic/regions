@@ -1,0 +1,881 @@
+name: Lithuania
+iso3166-1: LT
+complete: false
+regions:
+    
+
+    # Akmenė
+    - codes:
+        iso3166-2: LT-01
+      names:
+        - name: Akmenė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Alytus county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7869
+        iso3166-2: LT-AL
+      names:
+        - name: Alitus
+          languages: [es, mt]
+          sources: [euvoc]
+        - name: Alytaus
+          languages: [sk]
+          sources: [euvoc]
+        - name: Alytaus apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Alytus
+          languages: [cs, da, de, el, et, fi, ga, hr, hu, it, lt, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Alytus county
+          languages: [en]
+          sources: [euvoc]
+        - name: Alytuško okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Alīta
+          languages: [lv]
+          sources: [euvoc]
+        - name: Olita
+          languages: [pl]
+          sources: [euvoc]
+        - name: district d’Alytus
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Alitës
+          languages: [sq]
+          sources: [euvoc]
+        - name: Алитус
+          languages: [bg, sr]
+          sources: [euvoc]
+        - name: Алитуски Округ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Alytaus miestas
+    - codes:
+        iso3166-2: LT-02
+      names:
+        - name: Alytaus miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Anykščiai
+    - codes:
+        iso3166-2: LT-04
+      names:
+        - name: Anykščiai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Birštono
+    - codes:
+        iso3166-2: LT-05
+      names:
+        - name: Birštono
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Biržai
+    - codes:
+        iso3166-2: LT-06
+      names:
+        - name: Biržai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Druskininkai
+    - codes:
+        iso3166-2: LT-07
+      names:
+        - name: Druskininkai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Elektrėnai
+    - codes:
+        iso3166-2: LT-08
+      names:
+        - name: Elektrėnai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Ignalina
+    - codes:
+        iso3166-2: LT-09
+      names:
+        - name: Ignalina
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Jonava
+    - codes:
+        iso3166-2: LT-10
+      names:
+        - name: Jonava
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Joniškis
+    - codes:
+        iso3166-2: LT-11
+      names:
+        - name: Joniškis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Jurbarkas
+    - codes:
+        iso3166-2: LT-12
+      names:
+        - name: Jurbarkas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kaišiadorys
+    - codes:
+        iso3166-2: LT-13
+      names:
+        - name: Kaišiadorys
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kalvarijos
+    - codes:
+        iso3166-2: LT-14
+      names:
+        - name: Kalvarijos
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kaunas county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7870
+        iso3166-2: LT-KU
+      names:
+        - name: Kaunas
+          languages: [cs, da, de, el, es, et, fi, hr, hu, it, lt, mt, nl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Kaunas county
+          languages: [en]
+          sources: [euvoc]
+        - name: Kaunaško okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Kauno apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Kauņa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Kowno
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Kaunas
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Kaunas
+          languages: [sq]
+          sources: [euvoc]
+        - name: Каунас
+          languages: [bg, sr]
+          sources: [euvoc]
+        - name: Каунаски Округ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Kauno miestas
+    - codes:
+        iso3166-2: LT-15
+      names:
+        - name: Kauno miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kazlų Rūdos
+    - codes:
+        iso3166-2: LT-17
+      names:
+        - name: Kazlų Rūdos
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kelmė
+    - codes:
+        iso3166-2: LT-19
+      names:
+        - name: Kelmė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Klaipeda county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7871
+        iso3166-2: LT-KL
+      names:
+        - name: Klaipeda
+          languages: [es, hr, mt, ro]
+          sources: [euvoc]
+        - name: Klaipeda county
+          languages: [en]
+          sources: [euvoc]
+        - name: Klaipedsko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Klaipēda
+          languages: [lv]
+          sources: [euvoc]
+        - name: Klaipėda
+          languages: [cs, da, de, el, et, fi, hu, it, lt, nl, pt, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Klaipėdos apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Klajpeda
+          languages: [sk]
+          sources: [euvoc]
+        - name: Kłajpeda
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Klaipeda
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Klaipedës
+          languages: [sq]
+          sources: [euvoc]
+        - name: Клаипјода
+          languages: [sr]
+          sources: [euvoc]
+        - name: Клайпеда
+          languages: [bg]
+          sources: [euvoc]
+        - name: Клајпедски Округ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Klaipėdos miestas
+    - codes:
+        iso3166-2: LT-20
+      names:
+        - name: Klaipėdos miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kretinga
+    - codes:
+        iso3166-2: LT-22
+      names:
+        - name: Kretinga
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kupiškis
+    - codes:
+        iso3166-2: LT-23
+      names:
+        - name: Kupiškis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Kėdainiai
+    - codes:
+        iso3166-2: LT-18
+      names:
+        - name: Kėdainiai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Lazdijai
+    - codes:
+        iso3166-2: LT-24
+      names:
+        - name: Lazdijai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Marijampolė county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7872
+        iso3166-2: LT-MR
+      names:
+        - name: Mariampol
+          languages: [pl]
+          sources: [euvoc]
+        - name: Marijampolsko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Marijampolė
+          languages: [cs, da, de, el, es, et, fi, hr, hu, it, lt, lv, mt, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Marijampolė county
+          languages: [en]
+          sources: [euvoc]
+        - name: Marijampolės
+          languages: [sk]
+          sources: [euvoc]
+        - name: Marijampolės apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: district de Marijampolė
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Marijampolesë
+          languages: [sq]
+          sources: [euvoc]
+        - name: Мариямполес
+          languages: [bg]
+          sources: [euvoc]
+        - name: Маријамполски Округ
+          languages: [mk]
+          sources: [euvoc]
+        - name: Маријампоље
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Mažeikiai
+    - codes:
+        iso3166-2: LT-26
+      names:
+        - name: Mažeikiai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Molėtai
+    - codes:
+        iso3166-2: LT-27
+      names:
+        - name: Molėtai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Neringa
+    - codes:
+        iso3166-2: LT-28
+      names:
+        - name: Neringa
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Pagėgiai
+    - codes:
+        iso3166-2: LT-29
+      names:
+        - name: Pagėgiai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Pakruojis
+    - codes:
+        iso3166-2: LT-30
+      names:
+        - name: Pakruojis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Palangos miestas
+    - codes:
+        iso3166-2: LT-31
+      names:
+        - name: Palangos miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Panevėžys county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7873
+        iso3166-2: LT-PN
+      names:
+        - name: Panevežijsko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Panevežis
+          languages: [es]
+          sources: [euvoc]
+        - name: Panevežys
+          languages: [hr]
+          sources: [euvoc]
+        - name: Panevēža
+          languages: [lv]
+          sources: [euvoc]
+        - name: Panevėzis
+          languages: [mt]
+          sources: [euvoc]
+        - name: Panevėžio
+          languages: [sk]
+          sources: [euvoc]
+        - name: Panevėžio apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Panevėžys
+          languages: [cs, da, de, el, et, fi, hu, it, lt, nl, pt, ro, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Panevėžys county
+          languages: [en]
+          sources: [euvoc]
+        - name: Poniewież
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Panevezys
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Panevezhisë
+          languages: [sq]
+          sources: [euvoc]
+        - name: Паневежис
+          languages: [bg]
+          sources: [euvoc]
+        - name: Паневежиски Округ
+          languages: [mk]
+          sources: [euvoc]
+        - name: Паневјожис
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Panevėžio miestas
+    - codes:
+        iso3166-2: LT-32
+      names:
+        - name: Panevėžio miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Pasvalys
+    - codes:
+        iso3166-2: LT-34
+      names:
+        - name: Pasvalys
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Plungė
+    - codes:
+        iso3166-2: LT-35
+      names:
+        - name: Plungė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Prienai
+    - codes:
+        iso3166-2: LT-36
+      names:
+        - name: Prienai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Radviliškis
+    - codes:
+        iso3166-2: LT-37
+      names:
+        - name: Radviliškis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Raseiniai
+    - codes:
+        iso3166-2: LT-38
+      names:
+        - name: Raseiniai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Rietavo
+    - codes:
+        iso3166-2: LT-39
+      names:
+        - name: Rietavo
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Rokiškis
+    - codes:
+        iso3166-2: LT-40
+      names:
+        - name: Rokiškis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šiauliai county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7874
+        iso3166-2: LT-SA
+      names:
+        - name: Siauliai
+          languages: [mt, ro]
+          sources: [euvoc]
+        - name: Szawle
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Siauliai
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Shiauliait
+          languages: [sq]
+          sources: [euvoc]
+        - name: Šauļi
+          languages: [lv]
+          sources: [euvoc]
+        - name: Šiauliai
+          languages: [cs, da, de, el, es, et, fi, hr, hu, it, lt, nl, pt, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Šiauliai county
+          languages: [en]
+          sources: [euvoc]
+        - name: Šiauliajsko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Šiaulių apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Шаулејски Округ
+          languages: [mk]
+          sources: [euvoc]
+        - name: Шиаулиаи
+          languages: [sr]
+          sources: [euvoc]
+        - name: Шяуляй
+          languages: [bg]
+          sources: [euvoc]
+    
+
+    # Skuodas
+    - codes:
+        iso3166-2: LT-48
+      names:
+        - name: Skuodas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Tauragė county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7875
+        iso3166-2: LT-TA
+      names:
+        - name: Taurage
+          languages: [es, hr, mt, ro]
+          sources: [euvoc]
+        - name: Tauragė
+          languages: [cs, da, de, el, et, fi, hu, it, lt, nl, pt, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Tauragė county
+          languages: [en]
+          sources: [euvoc]
+        - name: Tauragės apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Tauraģe
+          languages: [lv]
+          sources: [euvoc]
+        - name: Tauraško okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Taurogi
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Taurage
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Tauragës
+          languages: [sq]
+          sources: [euvoc]
+        - name: Таураге
+          languages: [bg]
+          sources: [euvoc]
+        - name: Таурагски Округ
+          languages: [mk]
+          sources: [euvoc]
+        - name: Таурагјо
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Telšiai county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7876
+        iso3166-2: LT-TE
+      names:
+        - name: Telsiai
+          languages: [mt]
+          sources: [euvoc]
+        - name: Telsiajsko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Telsze
+          languages: [pl]
+          sources: [euvoc]
+        - name: Telši
+          languages: [lv]
+          sources: [euvoc]
+        - name: Telšiai
+          languages: [cs, da, de, el, es, et, fi, hr, hu, it, lt, nl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Telšiai county
+          languages: [en]
+          sources: [euvoc]
+        - name: Telšių apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: district de Telsiai
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Telshiait
+          languages: [sq]
+          sources: [euvoc]
+        - name: Телшиаи
+          languages: [sr]
+          sources: [euvoc]
+        - name: Телшу
+          languages: [bg]
+          sources: [euvoc]
+        - name: Телшјајски Округ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Trakai
+    - codes:
+        iso3166-2: LT-52
+      names:
+        - name: Trakai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Utena county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7877
+        iso3166-2: LT-UT
+      names:
+        - name: Uciana
+          languages: [pl]
+          sources: [euvoc]
+        - name: Utena
+          languages: [cs, da, de, el, es, et, fi, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Utena county
+          languages: [en]
+          sources: [euvoc]
+        - name: Utenos apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Utensko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: district d’Utena
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Utenës
+          languages: [sq]
+          sources: [euvoc]
+        - name: Утена
+          languages: [bg, sr]
+          sources: [euvoc]
+        - name: Утенски Округ
+          languages: [mk]
+          sources: [euvoc]
+    
+
+    # Ukmergė
+    - codes:
+        iso3166-2: LT-53
+      names:
+        - name: Ukmergė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Varėna
+    - codes:
+        iso3166-2: LT-55
+      names:
+        - name: Varėna
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Vilnius county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7878
+        iso3166-2: LT-VL
+      names:
+        - name: Vilensko okrožje
+          languages: [sl]
+          sources: [euvoc]
+        - name: Vilna
+          languages: [fi]
+          sources: [euvoc]
+        - name: Vilniaus apskritis
+          languages: [lt]
+          sources: [euvoc, iso3166-2]
+        - name: Vilnius
+          languages: [cs, da, de, es, et, hr, hu, it, lt, mt, nl, pt, ro, sk, sv]
+          sources: [euvoc, iso3166-2]
+        - name: Vilnius county
+          languages: [en]
+          sources: [euvoc]
+        - name: Viļņa
+          languages: [lv]
+          sources: [euvoc]
+        - name: Wilno
+          languages: [pl]
+          sources: [euvoc]
+        - name: district de Vilnius
+          languages: [fr]
+          sources: [euvoc]
+        - name: qarku i Vilniusit
+          languages: [sq]
+          sources: [euvoc]
+        - name: Βίλνιους
+          languages: [el]
+          sources: [euvoc]
+        - name: Вилнуски Округ
+          languages: [mk]
+          sources: [euvoc]
+        - name: Вилнюс
+          languages: [bg]
+          sources: [euvoc]
+        - name: Виљнус
+          languages: [sr]
+          sources: [euvoc]
+    
+
+    # Vilkaviškis
+    - codes:
+        iso3166-2: LT-56
+      names:
+        - name: Vilkaviškis
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Vilniaus miestas
+    - codes:
+        iso3166-2: LT-57
+      names:
+        - name: Vilniaus miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Visaginas
+    - codes:
+        iso3166-2: LT-59
+      names:
+        - name: Visaginas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Zarasai
+    - codes:
+        iso3166-2: LT-60
+      names:
+        - name: Zarasai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šakiai
+    - codes:
+        iso3166-2: LT-41
+      names:
+        - name: Šakiai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šalčininkai
+    - codes:
+        iso3166-2: LT-42
+      names:
+        - name: Šalčininkai
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šiaulių miestas
+    - codes:
+        iso3166-2: LT-43
+      names:
+        - name: Šiaulių miestas
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šilalė
+    - codes:
+        iso3166-2: LT-45
+      names:
+        - name: Šilalė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Šilutė
+    - codes:
+        iso3166-2: LT-46
+      names:
+        - name: Šilutė
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Širvintos
+    - codes:
+        iso3166-2: LT-47
+      names:
+        - name: Širvintos
+          languages: [lt]
+          sources: [iso3166-2]
+    
+
+    # Švenčionys
+    - codes:
+        iso3166-2: LT-49
+      names:
+        - name: Švenčionys
+          languages: [lt]
+          sources: [iso3166-2]

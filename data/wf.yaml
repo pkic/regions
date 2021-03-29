@@ -1,0 +1,30 @@
+iso3166-1: WF
+complete: false
+regions:
+    
+
+    # Alo
+    - codes:
+        iso3166-2: WF-AL
+      names:
+        - name: Alo
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Sigave
+    - codes:
+        iso3166-2: WF-SG
+      names:
+        - name: Sigave
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Uvea
+    - codes:
+        iso3166-2: WF-UV
+      names:
+        - name: Uvea
+          languages: [fr]
+          sources: [iso3166-2]

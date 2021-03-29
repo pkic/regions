@@ -1,0 +1,57 @@
+iso3166-1: VC
+complete: false
+regions:
+    
+
+    # Charlotte
+    - codes:
+        iso3166-2: VC-01
+      names:
+        - name: Charlotte
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Grenadines
+    - codes:
+        iso3166-2: VC-06
+      names:
+        - name: Grenadines
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: VC-02
+      names:
+        - name: Saint Andrew
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint David
+    - codes:
+        iso3166-2: VC-03
+      names:
+        - name: Saint David
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint George
+    - codes:
+        iso3166-2: VC-04
+      names:
+        - name: Saint George
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Patrick
+    - codes:
+        iso3166-2: VC-05
+      names:
+        - name: Saint Patrick
+          languages: [en]
+          sources: [iso3166-2]

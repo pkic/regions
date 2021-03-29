@@ -1,0 +1,32 @@
+iso3166-1: BQ
+complete: false
+regions:
+    
+
+    # Bonaire
+    - codes:
+        iso3166-2: BQ-BO
+      names:
+        - name: Bonaire
+          languages: [en, nl]
+          sources: [iso3166-2]
+        - name: Boneiru
+          sources: [iso3166-2]
+    
+
+    # Saba
+    - codes:
+        iso3166-2: BQ-SA
+      names:
+        - name: Saba
+          languages: [en, nl]
+          sources: [iso3166-2]
+    
+
+    # Sint Eustatius
+    - codes:
+        iso3166-2: BQ-SE
+      names:
+        - name: Sint Eustatius
+          languages: [en, nl]
+          sources: [iso3166-2]

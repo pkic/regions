@@ -1,0 +1,724 @@
+name: North Macedonia
+iso3166-1: MK
+complete: false
+regions:
+    
+
+    # Aerodrom †
+    - codes:
+        iso3166-2: MK-801
+      names:
+        - name: Aerodrom †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Aračinovo
+    - codes:
+        iso3166-2: MK-802
+      names:
+        - name: Aračinovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Berovo
+    - codes:
+        iso3166-2: MK-201
+      names:
+        - name: Berovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Bitola
+    - codes:
+        iso3166-2: MK-501
+      names:
+        - name: Bitola
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Bogdanci
+    - codes:
+        iso3166-2: MK-401
+      names:
+        - name: Bogdanci
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Bogovinje
+    - codes:
+        iso3166-2: MK-601
+      names:
+        - name: Bogovinje
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Bosilovo
+    - codes:
+        iso3166-2: MK-402
+      names:
+        - name: Bosilovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Brvenica
+    - codes:
+        iso3166-2: MK-602
+      names:
+        - name: Brvenica
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Butel †
+    - codes:
+        iso3166-2: MK-803
+      names:
+        - name: Butel †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Centar Župa
+    - codes:
+        iso3166-2: MK-313
+      names:
+        - name: Centar Župa
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Centar †
+    - codes:
+        iso3166-2: MK-814
+      names:
+        - name: Centar †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Debar
+    - codes:
+        iso3166-2: MK-303
+      names:
+        - name: Debar
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Debrca
+    - codes:
+        iso3166-2: MK-304
+      names:
+        - name: Debrca
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Delčevo
+    - codes:
+        iso3166-2: MK-203
+      names:
+        - name: Delčevo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Demir Hisar
+    - codes:
+        iso3166-2: MK-502
+      names:
+        - name: Demir Hisar
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Demir Kapija
+    - codes:
+        iso3166-2: MK-103
+      names:
+        - name: Demir Kapija
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Dojran
+    - codes:
+        iso3166-2: MK-406
+      names:
+        - name: Dojran
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Dolneni
+    - codes:
+        iso3166-2: MK-503
+      names:
+        - name: Dolneni
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Gazi Baba †
+    - codes:
+        iso3166-2: MK-804
+      names:
+        - name: Gazi Baba †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Gevgelija
+    - codes:
+        iso3166-2: MK-405
+      names:
+        - name: Gevgelija
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Gjorče Petrov †
+    - codes:
+        iso3166-2: MK-805
+      names:
+        - name: Gjorče Petrov †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Gostivar
+    - codes:
+        iso3166-2: MK-604
+      names:
+        - name: Gostivar
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Gradsko
+    - codes:
+        iso3166-2: MK-102
+      names:
+        - name: Gradsko
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Ilinden
+    - codes:
+        iso3166-2: MK-807
+      names:
+        - name: Ilinden
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Jegunovce
+    - codes:
+        iso3166-2: MK-606
+      names:
+        - name: Jegunovce
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Karbinci
+    - codes:
+        iso3166-2: MK-205
+      names:
+        - name: Karbinci
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Karpoš †
+    - codes:
+        iso3166-2: MK-808
+      names:
+        - name: Karpoš †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kavadarci
+    - codes:
+        iso3166-2: MK-104
+      names:
+        - name: Kavadarci
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kisela Voda †
+    - codes:
+        iso3166-2: MK-809
+      names:
+        - name: Kisela Voda †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kičevo
+    - codes:
+        iso3166-2: MK-307
+      names:
+        - name: Kičevo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Konče
+    - codes:
+        iso3166-2: MK-407
+      names:
+        - name: Konče
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kočani
+    - codes:
+        iso3166-2: MK-206
+      names:
+        - name: Kočani
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kratovo
+    - codes:
+        iso3166-2: MK-701
+      names:
+        - name: Kratovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kriva Palanka
+    - codes:
+        iso3166-2: MK-702
+      names:
+        - name: Kriva Palanka
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Krivogaštani
+    - codes:
+        iso3166-2: MK-504
+      names:
+        - name: Krivogaštani
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kruševo
+    - codes:
+        iso3166-2: MK-505
+      names:
+        - name: Kruševo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Kumanovo
+    - codes:
+        iso3166-2: MK-703
+      names:
+        - name: Kumanovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Lipkovo
+    - codes:
+        iso3166-2: MK-704
+      names:
+        - name: Lipkovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Lozovo
+    - codes:
+        iso3166-2: MK-105
+      names:
+        - name: Lozovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Makedonska Kamenica
+    - codes:
+        iso3166-2: MK-207
+      names:
+        - name: Makedonska Kamenica
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Makedonski Brod
+    - codes:
+        iso3166-2: MK-308
+      names:
+        - name: Makedonski Brod
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Mavrovo i Rostuše
+    - codes:
+        iso3166-2: MK-607
+      names:
+        - name: Mavrovo i Rostuše
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Mogila
+    - codes:
+        iso3166-2: MK-506
+      names:
+        - name: Mogila
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Negotino
+    - codes:
+        iso3166-2: MK-106
+      names:
+        - name: Negotino
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Novaci
+    - codes:
+        iso3166-2: MK-507
+      names:
+        - name: Novaci
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Novo Selo
+    - codes:
+        iso3166-2: MK-408
+      names:
+        - name: Novo Selo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Ohrid
+    - codes:
+        iso3166-2: MK-310
+      names:
+        - name: Ohrid
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Pehčevo
+    - codes:
+        iso3166-2: MK-208
+      names:
+        - name: Pehčevo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Petrovec
+    - codes:
+        iso3166-2: MK-810
+      names:
+        - name: Petrovec
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Plasnica
+    - codes:
+        iso3166-2: MK-311
+      names:
+        - name: Plasnica
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Prilep
+    - codes:
+        iso3166-2: MK-508
+      names:
+        - name: Prilep
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Probištip
+    - codes:
+        iso3166-2: MK-209
+      names:
+        - name: Probištip
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Radoviš
+    - codes:
+        iso3166-2: MK-409
+      names:
+        - name: Radoviš
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Rankovce
+    - codes:
+        iso3166-2: MK-705
+      names:
+        - name: Rankovce
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Resen
+    - codes:
+        iso3166-2: MK-509
+      names:
+        - name: Resen
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Rosoman
+    - codes:
+        iso3166-2: MK-107
+      names:
+        - name: Rosoman
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Saraj †
+    - codes:
+        iso3166-2: MK-811
+      names:
+        - name: Saraj †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Sopište
+    - codes:
+        iso3166-2: MK-812
+      names:
+        - name: Sopište
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Staro Nagoričane
+    - codes:
+        iso3166-2: MK-706
+      names:
+        - name: Staro Nagoričane
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Struga
+    - codes:
+        iso3166-2: MK-312
+      names:
+        - name: Struga
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Strumica
+    - codes:
+        iso3166-2: MK-410
+      names:
+        - name: Strumica
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Studeničani
+    - codes:
+        iso3166-2: MK-813
+      names:
+        - name: Studeničani
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Sveti Nikole
+    - codes:
+        iso3166-2: MK-108
+      names:
+        - name: Sveti Nikole
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Tearce
+    - codes:
+        iso3166-2: MK-608
+      names:
+        - name: Tearce
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Tetovo
+    - codes:
+        iso3166-2: MK-609
+      names:
+        - name: Tetovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Valandovo
+    - codes:
+        iso3166-2: MK-403
+      names:
+        - name: Valandovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Vasilevo
+    - codes:
+        iso3166-2: MK-404
+      names:
+        - name: Vasilevo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Veles
+    - codes:
+        iso3166-2: MK-101
+      names:
+        - name: Veles
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Vevčani
+    - codes:
+        iso3166-2: MK-301
+      names:
+        - name: Vevčani
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Vinica
+    - codes:
+        iso3166-2: MK-202
+      names:
+        - name: Vinica
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Vrapčište
+    - codes:
+        iso3166-2: MK-603
+      names:
+        - name: Vrapčište
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Zelenikovo
+    - codes:
+        iso3166-2: MK-806
+      names:
+        - name: Zelenikovo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Zrnovci
+    - codes:
+        iso3166-2: MK-204
+      names:
+        - name: Zrnovci
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Čair †
+    - codes:
+        iso3166-2: MK-815
+      names:
+        - name: Čair †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Čaška
+    - codes:
+        iso3166-2: MK-109
+      names:
+        - name: Čaška
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Češinovo-Obleševo
+    - codes:
+        iso3166-2: MK-210
+      names:
+        - name: Češinovo-Obleševo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Čučer-Sandevo
+    - codes:
+        iso3166-2: MK-816
+      names:
+        - name: Čučer-Sandevo
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Štip
+    - codes:
+        iso3166-2: MK-211
+      names:
+        - name: Štip
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Šuto Orizari †
+    - codes:
+        iso3166-2: MK-817
+      names:
+        - name: Šuto Orizari †
+          languages: [mk]
+          sources: [iso3166-2]
+    
+
+    # Želino
+    - codes:
+        iso3166-2: MK-605
+      names:
+        - name: Želino
+          languages: [mk]
+          sources: [iso3166-2]

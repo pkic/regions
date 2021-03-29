@@ -1,0 +1,93 @@
+iso3166-1: GY
+complete: false
+regions:
+    
+
+    # Barima-Waini
+    - codes:
+        iso3166-2: GY-BA
+      names:
+        - name: Barima-Waini
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cuyuni-Mazaruni
+    - codes:
+        iso3166-2: GY-CU
+      names:
+        - name: Cuyuni-Mazaruni
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Demerara-Mahaica
+    - codes:
+        iso3166-2: GY-DE
+      names:
+        - name: Demerara-Mahaica
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # East Berbice-Corentyne
+    - codes:
+        iso3166-2: GY-EB
+      names:
+        - name: East Berbice-Corentyne
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Essequibo Islands-West Demerara
+    - codes:
+        iso3166-2: GY-ES
+      names:
+        - name: Essequibo Islands-West Demerara
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Mahaica-Berbice
+    - codes:
+        iso3166-2: GY-MA
+      names:
+        - name: Mahaica-Berbice
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Pomeroon-Supenaam
+    - codes:
+        iso3166-2: GY-PM
+      names:
+        - name: Pomeroon-Supenaam
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Potaro-Siparuni
+    - codes:
+        iso3166-2: GY-PT
+      names:
+        - name: Potaro-Siparuni
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Upper Demerara-Berbice
+    - codes:
+        iso3166-2: GY-UD
+      names:
+        - name: Upper Demerara-Berbice
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Upper Takutu-Upper Essequibo
+    - codes:
+        iso3166-2: GY-UT
+      names:
+        - name: Upper Takutu-Upper Essequibo
+          languages: [en]
+          sources: [iso3166-2]

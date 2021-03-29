@@ -1,0 +1,147 @@
+iso3166-1: MR
+complete: false
+regions:
+    
+
+    # Adrar
+    - codes:
+        iso3166-2: MR-07
+      names:
+        - name: Adrar
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Assaba
+    - codes:
+        iso3166-2: MR-03
+      names:
+        - name: Assaba
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Brakna
+    - codes:
+        iso3166-2: MR-05
+      names:
+        - name: Brakna
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Dakhlet Nouâdhibou
+    - codes:
+        iso3166-2: MR-08
+      names:
+        - name: Dakhlet Nouâdhibou
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Gorgol
+    - codes:
+        iso3166-2: MR-04
+      names:
+        - name: Gorgol
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Guidimaka
+    - codes:
+        iso3166-2: MR-10
+      names:
+        - name: Guidimaka
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Hodh ech Chargui
+    - codes:
+        iso3166-2: MR-01
+      names:
+        - name: Hodh ech Chargui
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Hodh el Gharbi
+    - codes:
+        iso3166-2: MR-02
+      names:
+        - name: Hodh el Gharbi
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Inchiri
+    - codes:
+        iso3166-2: MR-12
+      names:
+        - name: Inchiri
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Nord
+    - codes:
+        iso3166-2: MR-14
+      names:
+        - name: Nouakchott Nord
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Nuwākshūţ ash Shamālīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Ouest
+    - codes:
+        iso3166-2: MR-13
+      names:
+        - name: Nouakchott Ouest
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Nuwākshūţ al Gharbīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Nouakchott Sud
+    - codes:
+        iso3166-2: MR-15
+      names:
+        - name: Nouakchott Sud
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Nuwākshūţ al Janūbīyah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tagant
+    - codes:
+        iso3166-2: MR-09
+      names:
+        - name: Tagant
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tiris Zemmour
+    - codes:
+        iso3166-2: MR-11
+      names:
+        - name: Tiris Zemmour
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Trarza
+    - codes:
+        iso3166-2: MR-06
+      names:
+        - name: Trarza
+          languages: [ar]
+          sources: [iso3166-2]

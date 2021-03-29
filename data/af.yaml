@@ -1,0 +1,309 @@
+iso3166-1: AF
+complete: false
+regions:
+    
+
+    # Badakhshān
+    - codes:
+        iso3166-2: AF-BDS
+      names:
+        - name: Badakhshān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Baghlān
+    - codes:
+        iso3166-2: AF-BGL
+      names:
+        - name: Baghlān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Balkh
+    - codes:
+        iso3166-2: AF-BAL
+      names:
+        - name: Balkh
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Bādghīs
+    - codes:
+        iso3166-2: AF-BDG
+      names:
+        - name: Bādghīs
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Bāmyān
+    - codes:
+        iso3166-2: AF-BAM
+      names:
+        - name: Bāmyān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Dāykundī
+    - codes:
+        iso3166-2: AF-DAY
+      names:
+        - name: Dāykundī
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Farāh
+    - codes:
+        iso3166-2: AF-FRA
+      names:
+        - name: Farāh
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Fāryāb
+    - codes:
+        iso3166-2: AF-FYB
+      names:
+        - name: Fāryāb
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Ghaznī
+    - codes:
+        iso3166-2: AF-GHA
+      names:
+        - name: Ghaznī
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Ghōr
+    - codes:
+        iso3166-2: AF-GHO
+      names:
+        - name: Ghōr
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Helmand
+    - codes:
+        iso3166-2: AF-HEL
+      names:
+        - name: Helmand
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Herāt
+    - codes:
+        iso3166-2: AF-HER
+      names:
+        - name: Herāt
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Jowzjān
+    - codes:
+        iso3166-2: AF-JOW
+      names:
+        - name: Jowzjān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Kandahār
+    - codes:
+        iso3166-2: AF-KAN
+      names:
+        - name: Kandahār
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Khōst
+    - codes:
+        iso3166-2: AF-KHO
+      names:
+        - name: Khōst
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Kunaṟ
+    - codes:
+        iso3166-2: AF-KNR
+      names:
+        - name: Kunaṟ
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Kunduz
+    - codes:
+        iso3166-2: AF-KDZ
+      names:
+        - name: Kunduz
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Kābul
+    - codes:
+        iso3166-2: AF-KAB
+      names:
+        - name: Kābul
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Kāpīsā
+    - codes:
+        iso3166-2: AF-KAP
+      names:
+        - name: Kāpīsā
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Laghmān
+    - codes:
+        iso3166-2: AF-LAG
+      names:
+        - name: Laghmān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Lōgar
+    - codes:
+        iso3166-2: AF-LOG
+      names:
+        - name: Lōgar
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Nangarhār
+    - codes:
+        iso3166-2: AF-NAN
+      names:
+        - name: Nangarhār
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Nīmrōz
+    - codes:
+        iso3166-2: AF-NIM
+      names:
+        - name: Nīmrōz
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Nūristān
+    - codes:
+        iso3166-2: AF-NUR
+      names:
+        - name: Nūristān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Paktiyā
+    - codes:
+        iso3166-2: AF-PIA
+      names:
+        - name: Paktiyā
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Paktīkā
+    - codes:
+        iso3166-2: AF-PKA
+      names:
+        - name: Paktīkā
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Panjshayr
+    - codes:
+        iso3166-2: AF-PAN
+      names:
+        - name: Panjshayr
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Parwān
+    - codes:
+        iso3166-2: AF-PAR
+      names:
+        - name: Parwān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Samangān
+    - codes:
+        iso3166-2: AF-SAM
+      names:
+        - name: Samangān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Sar-e Pul
+    - codes:
+        iso3166-2: AF-SAR
+      names:
+        - name: Sar-e Pul
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Takhār
+    - codes:
+        iso3166-2: AF-TAK
+      names:
+        - name: Takhār
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Uruzgān
+    - codes:
+        iso3166-2: AF-URU
+      names:
+        - name: Uruzgān
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Wardak
+    - codes:
+        iso3166-2: AF-WAR
+      names:
+        - name: Wardak
+          languages: [fa, ps]
+          sources: [iso3166-2]
+    
+
+    # Zābul
+    - codes:
+        iso3166-2: AF-ZAB
+      names:
+        - name: Zābul
+          languages: [fa, ps]
+          sources: [iso3166-2]

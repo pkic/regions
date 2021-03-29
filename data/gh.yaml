@@ -1,0 +1,147 @@
+iso3166-1: GH
+complete: false
+regions:
+    
+
+    # Ahafo
+    - codes:
+        iso3166-2: GH-AF
+      names:
+        - name: Ahafo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ashanti
+    - codes:
+        iso3166-2: GH-AH
+      names:
+        - name: Ashanti
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bono
+    - codes:
+        iso3166-2: GH-BO
+      names:
+        - name: Bono
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bono East
+    - codes:
+        iso3166-2: GH-BE
+      names:
+        - name: Bono East
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Central
+    - codes:
+        iso3166-2: GH-CP
+      names:
+        - name: Central
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Eastern
+    - codes:
+        iso3166-2: GH-EP
+      names:
+        - name: Eastern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Greater Accra
+    - codes:
+        iso3166-2: GH-AA
+      names:
+        - name: Greater Accra
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # North East
+    - codes:
+        iso3166-2: GH-NE
+      names:
+        - name: North East
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: GH-NP
+      names:
+        - name: Northern
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oti
+    - codes:
+        iso3166-2: GH-OT
+      names:
+        - name: Oti
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Savannah
+    - codes:
+        iso3166-2: GH-SV
+      names:
+        - name: Savannah
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Upper East
+    - codes:
+        iso3166-2: GH-UE
+      names:
+        - name: Upper East
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Upper West
+    - codes:
+        iso3166-2: GH-UW
+      names:
+        - name: Upper West
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Volta
+    - codes:
+        iso3166-2: GH-TV
+      names:
+        - name: Volta
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Western
+    - codes:
+        iso3166-2: GH-WP
+      names:
+        - name: Western
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Western North
+    - codes:
+        iso3166-2: GH-WN
+      names:
+        - name: Western North
+          languages: [en]
+          sources: [iso3166-2]

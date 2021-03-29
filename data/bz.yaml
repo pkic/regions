@@ -1,0 +1,57 @@
+iso3166-1: BZ
+complete: false
+regions:
+    
+
+    # Belize
+    - codes:
+        iso3166-2: BZ-BZ
+      names:
+        - name: Belize
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cayo
+    - codes:
+        iso3166-2: BZ-CY
+      names:
+        - name: Cayo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Corozal
+    - codes:
+        iso3166-2: BZ-CZL
+      names:
+        - name: Corozal
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Orange Walk
+    - codes:
+        iso3166-2: BZ-OW
+      names:
+        - name: Orange Walk
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Stann Creek
+    - codes:
+        iso3166-2: BZ-SC
+      names:
+        - name: Stann Creek
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Toledo
+    - codes:
+        iso3166-2: BZ-TOL
+      names:
+        - name: Toledo
+          languages: [en]
+          sources: [iso3166-2]

@@ -1,0 +1,196 @@
+iso3166-1: CF
+complete: false
+regions:
+    
+
+    # Bamingui-Bangoran
+    - codes:
+        iso3166-2: CF-BB
+      names:
+        - name: Bamingui-Bangoran
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Bamïngï-Bangoran
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Bangui
+    - codes:
+        iso3166-2: CF-BGF
+      names:
+        - name: Bangui
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Bangî
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Basse-Kotto
+    - codes:
+        iso3166-2: CF-BK
+      names:
+        - name: Basse-Kotto
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Do-Kötö
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Gribingui
+    - codes:
+        iso3166-2: CF-KB
+      names:
+        - name: Gribingui
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Gïrïbïngï
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Haut-Mbomou
+    - codes:
+        iso3166-2: CF-HM
+      names:
+        - name: Haut-Mbomou
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Tö-Mbömü
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Kemö-Gïrïbïngï
+    - codes:
+        iso3166-2: CF-KG
+      names:
+        - name: Kemö-Gïrïbïngï
+          languages: [sg]
+          sources: [iso3166-2]
+        - name: Kémo-Gribingui
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Lobaye
+    - codes:
+        iso3166-2: CF-LB
+      names:
+        - name: Lobaye
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Lobâye
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Mbomou
+    - codes:
+        iso3166-2: CF-MB
+      names:
+        - name: Mbomou
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Mbömü
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    - codes:
+        iso3166-2: CF-HS
+    
+
+    # Nana-Mambéré
+    - codes:
+        iso3166-2: CF-NM
+      names:
+        - name: Nana-Mambéré
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Nanä-Mbaere
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Ouham
+    - codes:
+        iso3166-2: CF-AC
+      names:
+        - name: Ouham
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Wâmo
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Ouham-Pendé
+    - codes:
+        iso3166-2: CF-OP
+      names:
+        - name: Ouham-Pendé
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Wâmo-Pendë
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Sangha
+    - codes:
+        iso3166-2: CF-SE
+      names:
+        - name: Sangha
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Sangä
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Haute-Kotto
+    - codes:
+        iso3166-2: CF-HK
+      names:
+        - name: Haute-Kotto
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Tö-Kötö
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Vakaga
+    - codes:
+        iso3166-2: CF-VK
+      names:
+        - name: Vakaga
+          languages: [fr, sg]
+          sources: [iso3166-2]
+    
+
+    # Ouaka
+    - codes:
+        iso3166-2: CF-UK
+      names:
+        - name: Ouaka
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Wäkä
+          languages: [sg]
+          sources: [iso3166-2]
+    
+
+    # Ombella-Mpoko
+    - codes:
+        iso3166-2: CF-MP
+      names:
+        - name: Ombella-Mpoko
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Ömbëlä-Pökö
+          languages: [sg]
+          sources: [iso3166-2]

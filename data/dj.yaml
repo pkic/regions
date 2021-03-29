@@ -1,0 +1,75 @@
+iso3166-1: DJ
+complete: false
+regions:
+    
+
+    # Awbūk
+    - codes:
+        iso3166-2: DJ-OB
+      names:
+        - name: Awbūk
+          languages: [ar]
+          sources: [iso3166-2]
+        - name: Obock
+          languages: [fr]
+          sources: [iso3166-2]
+    
+
+    # Dikhil
+    - codes:
+        iso3166-2: DJ-DI
+      names:
+        - name: Dikhil
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Dikhīl
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Djibouti
+    - codes:
+        iso3166-2: DJ-DJ
+      names:
+        - name: Djibouti
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Jībūtī
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Tadjourah
+    - codes:
+        iso3166-2: DJ-TA
+      names:
+        - name: Tadjourah
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: Tājūrah
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Ali Sabieh
+    - codes:
+        iso3166-2: DJ-AS
+      names:
+        - name: Ali Sabieh
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: ‘Alī Şabīḩ
+          languages: [ar]
+          sources: [iso3166-2]
+    
+
+    # Arta
+    - codes:
+        iso3166-2: DJ-AR
+      names:
+        - name: Arta
+          languages: [fr]
+          sources: [iso3166-2]
+        - name: ‘Artā
+          languages: [ar]
+          sources: [iso3166-2]

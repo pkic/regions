@@ -1,0 +1,109 @@
+iso3166-1: GW
+complete: false
+regions:
+    
+
+    - codes:
+        iso3166-2: GW-BL
+    
+
+    # Bafatá
+    - codes:
+        iso3166-2: GW-BA
+      names:
+        - name: Bafatá
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Biombo
+    - codes:
+        iso3166-2: GW-BM
+      names:
+        - name: Biombo
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Bissau
+    - codes:
+        iso3166-2: GW-BS
+      names:
+        - name: Bissau
+          languages: [pt]
+          sources: [iso3166-2]
+        - name: SAB
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Cacheu
+    - codes:
+        iso3166-2: GW-CA
+      names:
+        - name: Cacheu
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Gabú
+    - codes:
+        iso3166-2: GW-GA
+      names:
+        - name: Gabú
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Leste
+    - codes:
+        iso3166-2: GW-L
+      names:
+        - name: Leste
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Norte
+    - codes:
+        iso3166-2: GW-N
+      names:
+        - name: Norte
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Oio
+    - codes:
+        iso3166-2: GW-OI
+      names:
+        - name: Oio
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Quinara
+    - codes:
+        iso3166-2: GW-QU
+      names:
+        - name: Quinara
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Sul
+    - codes:
+        iso3166-2: GW-S
+      names:
+        - name: Sul
+          languages: [pt]
+          sources: [iso3166-2]
+    
+
+    # Tombali
+    - codes:
+        iso3166-2: GW-TO
+      names:
+        - name: Tombali
+          languages: [pt]
+          sources: [iso3166-2]

@@ -1,0 +1,69 @@
+iso3166-1: GD
+complete: false
+regions:
+    
+
+    # Saint Andrew
+    - codes:
+        iso3166-2: GD-01
+      names:
+        - name: Saint Andrew
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint David
+    - codes:
+        iso3166-2: GD-02
+      names:
+        - name: Saint David
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint George
+    - codes:
+        iso3166-2: GD-03
+      names:
+        - name: Saint George
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint John
+    - codes:
+        iso3166-2: GD-04
+      names:
+        - name: Saint John
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Mark
+    - codes:
+        iso3166-2: GD-05
+      names:
+        - name: Saint Mark
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Saint Patrick
+    - codes:
+        iso3166-2: GD-06
+      names:
+        - name: Saint Patrick
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Carriacou
+    - codes:
+        iso3166-2: GD-10
+      names:
+        - name: Carriacou
+          languages: [en]
+          sources: [iso3166-2]
+        - name: Southern Grenadine Islands
+          languages: [en]
+          sources: [iso3166-2]

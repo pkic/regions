@@ -1,0 +1,336 @@
+iso3166-1: NG
+complete: false
+regions:
+    
+
+    # Abia
+    - codes:
+        iso3166-2: NG-AB
+      names:
+        - name: Abia
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Abuja Federal Territory
+    - codes:
+        iso3166-2: NG-FC
+      names:
+        - name: Abuja Federal Territory
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Adamawa
+    - codes:
+        iso3166-2: NG-AD
+      names:
+        - name: Adamawa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Akwa Ibom
+    - codes:
+        iso3166-2: NG-AK
+      names:
+        - name: Akwa Ibom
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Anambra
+    - codes:
+        iso3166-2: NG-AN
+      names:
+        - name: Anambra
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bauchi
+    - codes:
+        iso3166-2: NG-BA
+      names:
+        - name: Bauchi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Bayelsa
+    - codes:
+        iso3166-2: NG-BY
+      names:
+        - name: Bayelsa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Benue
+    - codes:
+        iso3166-2: NG-BE
+      names:
+        - name: Benue
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Borno
+    - codes:
+        iso3166-2: NG-BO
+      names:
+        - name: Borno
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Cross River
+    - codes:
+        iso3166-2: NG-CR
+      names:
+        - name: Cross River
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Delta
+    - codes:
+        iso3166-2: NG-DE
+      names:
+        - name: Delta
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ebonyi
+    - codes:
+        iso3166-2: NG-EB
+      names:
+        - name: Ebonyi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Edo
+    - codes:
+        iso3166-2: NG-ED
+      names:
+        - name: Edo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ekiti
+    - codes:
+        iso3166-2: NG-EK
+      names:
+        - name: Ekiti
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Enugu
+    - codes:
+        iso3166-2: NG-EN
+      names:
+        - name: Enugu
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Gombe
+    - codes:
+        iso3166-2: NG-GO
+      names:
+        - name: Gombe
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Imo
+    - codes:
+        iso3166-2: NG-IM
+      names:
+        - name: Imo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Jigawa
+    - codes:
+        iso3166-2: NG-JI
+      names:
+        - name: Jigawa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kaduna
+    - codes:
+        iso3166-2: NG-KD
+      names:
+        - name: Kaduna
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kano
+    - codes:
+        iso3166-2: NG-KN
+      names:
+        - name: Kano
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Katsina
+    - codes:
+        iso3166-2: NG-KT
+      names:
+        - name: Katsina
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kebbi
+    - codes:
+        iso3166-2: NG-KE
+      names:
+        - name: Kebbi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kogi
+    - codes:
+        iso3166-2: NG-KO
+      names:
+        - name: Kogi
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Kwara
+    - codes:
+        iso3166-2: NG-KW
+      names:
+        - name: Kwara
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Lagos
+    - codes:
+        iso3166-2: NG-LA
+      names:
+        - name: Lagos
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Nasarawa
+    - codes:
+        iso3166-2: NG-NA
+      names:
+        - name: Nasarawa
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Niger
+    - codes:
+        iso3166-2: NG-NI
+      names:
+        - name: Niger
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ogun
+    - codes:
+        iso3166-2: NG-OG
+      names:
+        - name: Ogun
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Ondo
+    - codes:
+        iso3166-2: NG-ON
+      names:
+        - name: Ondo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Osun
+    - codes:
+        iso3166-2: NG-OS
+      names:
+        - name: Osun
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Oyo
+    - codes:
+        iso3166-2: NG-OY
+      names:
+        - name: Oyo
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Plateau
+    - codes:
+        iso3166-2: NG-PL
+      names:
+        - name: Plateau
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Rivers
+    - codes:
+        iso3166-2: NG-RI
+      names:
+        - name: Rivers
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Sokoto
+    - codes:
+        iso3166-2: NG-SO
+      names:
+        - name: Sokoto
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Taraba
+    - codes:
+        iso3166-2: NG-TA
+      names:
+        - name: Taraba
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Yobe
+    - codes:
+        iso3166-2: NG-YO
+      names:
+        - name: Yobe
+          languages: [en]
+          sources: [iso3166-2]
+    
+
+    # Zamfara
+    - codes:
+        iso3166-2: NG-ZA
+      names:
+        - name: Zamfara
+          languages: [en]
+          sources: [iso3166-2]

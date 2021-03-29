@@ -1,0 +1,733 @@
+name: Turkey
+iso3166-1: TR
+complete: false
+regions:
+    
+
+    # Adana
+    - codes:
+        iso3166-2: TR-01
+      names:
+        - name: Adana
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Adıyaman
+    - codes:
+        iso3166-2: TR-02
+      names:
+        - name: Adıyaman
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Afyonkarahisar
+    - codes:
+        iso3166-2: TR-03
+      names:
+        - name: Afyonkarahisar
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Aksaray
+    - codes:
+        iso3166-2: TR-68
+      names:
+        - name: Aksaray
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Amasya
+    - codes:
+        iso3166-2: TR-05
+      names:
+        - name: Amasya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Ankara
+    - codes:
+        iso3166-2: TR-06
+      names:
+        - name: Ankara
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Antalya
+    - codes:
+        iso3166-2: TR-07
+      names:
+        - name: Antalya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Ardahan
+    - codes:
+        iso3166-2: TR-75
+      names:
+        - name: Ardahan
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Artvin
+    - codes:
+        iso3166-2: TR-08
+      names:
+        - name: Artvin
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Aydın
+    - codes:
+        iso3166-2: TR-09
+      names:
+        - name: Aydın
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Ağrı
+    - codes:
+        iso3166-2: TR-04
+      names:
+        - name: Ağrı
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Balıkesir
+    - codes:
+        iso3166-2: TR-10
+      names:
+        - name: Balıkesir
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bartın
+    - codes:
+        iso3166-2: TR-74
+      names:
+        - name: Bartın
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Batman
+    - codes:
+        iso3166-2: TR-72
+      names:
+        - name: Batman
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bayburt
+    - codes:
+        iso3166-2: TR-69
+      names:
+        - name: Bayburt
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bilecik
+    - codes:
+        iso3166-2: TR-11
+      names:
+        - name: Bilecik
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bingöl
+    - codes:
+        iso3166-2: TR-12
+      names:
+        - name: Bingöl
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bitlis
+    - codes:
+        iso3166-2: TR-13
+      names:
+        - name: Bitlis
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bolu
+    - codes:
+        iso3166-2: TR-14
+      names:
+        - name: Bolu
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Burdur
+    - codes:
+        iso3166-2: TR-15
+      names:
+        - name: Burdur
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Bursa
+    - codes:
+        iso3166-2: TR-16
+      names:
+        - name: Bursa
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Denizli
+    - codes:
+        iso3166-2: TR-20
+      names:
+        - name: Denizli
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Diyarbakır
+    - codes:
+        iso3166-2: TR-21
+      names:
+        - name: Diyarbakır
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Düzce
+    - codes:
+        iso3166-2: TR-81
+      names:
+        - name: Düzce
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Edirne
+    - codes:
+        iso3166-2: TR-22
+      names:
+        - name: Edirne
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Elazığ
+    - codes:
+        iso3166-2: TR-23
+      names:
+        - name: Elazığ
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Erzincan
+    - codes:
+        iso3166-2: TR-24
+      names:
+        - name: Erzincan
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Erzurum
+    - codes:
+        iso3166-2: TR-25
+      names:
+        - name: Erzurum
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Eskişehir
+    - codes:
+        iso3166-2: TR-26
+      names:
+        - name: Eskişehir
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Gaziantep
+    - codes:
+        iso3166-2: TR-27
+      names:
+        - name: Gaziantep
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Giresun
+    - codes:
+        iso3166-2: TR-28
+      names:
+        - name: Giresun
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Gümüşhane
+    - codes:
+        iso3166-2: TR-29
+      names:
+        - name: Gümüşhane
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Hakkâri
+    - codes:
+        iso3166-2: TR-30
+      names:
+        - name: Hakkâri
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Hatay
+    - codes:
+        iso3166-2: TR-31
+      names:
+        - name: Hatay
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Isparta
+    - codes:
+        iso3166-2: TR-32
+      names:
+        - name: Isparta
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Iğdır
+    - codes:
+        iso3166-2: TR-76
+      names:
+        - name: Iğdır
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kahramanmaraş
+    - codes:
+        iso3166-2: TR-46
+      names:
+        - name: Kahramanmaraş
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Karabük
+    - codes:
+        iso3166-2: TR-78
+      names:
+        - name: Karabük
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Karaman
+    - codes:
+        iso3166-2: TR-70
+      names:
+        - name: Karaman
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kars
+    - codes:
+        iso3166-2: TR-36
+      names:
+        - name: Kars
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kastamonu
+    - codes:
+        iso3166-2: TR-37
+      names:
+        - name: Kastamonu
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kayseri
+    - codes:
+        iso3166-2: TR-38
+      names:
+        - name: Kayseri
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kilis
+    - codes:
+        iso3166-2: TR-79
+      names:
+        - name: Kilis
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kocaeli
+    - codes:
+        iso3166-2: TR-41
+      names:
+        - name: Kocaeli
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Konya
+    - codes:
+        iso3166-2: TR-42
+      names:
+        - name: Konya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kütahya
+    - codes:
+        iso3166-2: TR-43
+      names:
+        - name: Kütahya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kırklareli
+    - codes:
+        iso3166-2: TR-39
+      names:
+        - name: Kırklareli
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kırıkkale
+    - codes:
+        iso3166-2: TR-71
+      names:
+        - name: Kırıkkale
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Kırşehir
+    - codes:
+        iso3166-2: TR-40
+      names:
+        - name: Kırşehir
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Malatya
+    - codes:
+        iso3166-2: TR-44
+      names:
+        - name: Malatya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Manisa
+    - codes:
+        iso3166-2: TR-45
+      names:
+        - name: Manisa
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Mardin
+    - codes:
+        iso3166-2: TR-47
+      names:
+        - name: Mardin
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Mersin
+    - codes:
+        iso3166-2: TR-33
+      names:
+        - name: Mersin
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Muğla
+    - codes:
+        iso3166-2: TR-48
+      names:
+        - name: Muğla
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Muş
+    - codes:
+        iso3166-2: TR-49
+      names:
+        - name: Muş
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Nevşehir
+    - codes:
+        iso3166-2: TR-50
+      names:
+        - name: Nevşehir
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Niğde
+    - codes:
+        iso3166-2: TR-51
+      names:
+        - name: Niğde
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Ordu
+    - codes:
+        iso3166-2: TR-52
+      names:
+        - name: Ordu
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Osmaniye
+    - codes:
+        iso3166-2: TR-80
+      names:
+        - name: Osmaniye
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Rize
+    - codes:
+        iso3166-2: TR-53
+      names:
+        - name: Rize
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Sakarya
+    - codes:
+        iso3166-2: TR-54
+      names:
+        - name: Sakarya
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Samsun
+    - codes:
+        iso3166-2: TR-55
+      names:
+        - name: Samsun
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Siirt
+    - codes:
+        iso3166-2: TR-56
+      names:
+        - name: Siirt
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Sinop
+    - codes:
+        iso3166-2: TR-57
+      names:
+        - name: Sinop
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Sivas
+    - codes:
+        iso3166-2: TR-58
+      names:
+        - name: Sivas
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Tekirdağ
+    - codes:
+        iso3166-2: TR-59
+      names:
+        - name: Tekirdağ
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Tokat
+    - codes:
+        iso3166-2: TR-60
+      names:
+        - name: Tokat
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Trabzon
+    - codes:
+        iso3166-2: TR-61
+      names:
+        - name: Trabzon
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Tunceli
+    - codes:
+        iso3166-2: TR-62
+      names:
+        - name: Tunceli
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Uşak
+    - codes:
+        iso3166-2: TR-64
+      names:
+        - name: Uşak
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Van
+    - codes:
+        iso3166-2: TR-65
+      names:
+        - name: Van
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Yalova
+    - codes:
+        iso3166-2: TR-77
+      names:
+        - name: Yalova
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Yozgat
+    - codes:
+        iso3166-2: TR-66
+      names:
+        - name: Yozgat
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Zonguldak
+    - codes:
+        iso3166-2: TR-67
+      names:
+        - name: Zonguldak
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Çanakkale
+    - codes:
+        iso3166-2: TR-17
+      names:
+        - name: Çanakkale
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Çankırı
+    - codes:
+        iso3166-2: TR-18
+      names:
+        - name: Çankırı
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Çorum
+    - codes:
+        iso3166-2: TR-19
+      names:
+        - name: Çorum
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # İstanbul
+    - codes:
+        iso3166-2: TR-34
+      names:
+        - name: İstanbul
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # İzmir
+    - codes:
+        iso3166-2: TR-35
+      names:
+        - name: İzmir
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Şanlıurfa
+    - codes:
+        iso3166-2: TR-63
+      names:
+        - name: Şanlıurfa
+          languages: [tr]
+          sources: [iso3166-2]
+    
+
+    # Şırnak
+    - codes:
+        iso3166-2: TR-73
+      names:
+        - name: Şırnak
+          languages: [tr]
+          sources: [iso3166-2]

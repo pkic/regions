@@ -1,0 +1,292 @@
+name: Serbia
+iso3166-1: RS
+complete: false
+regions:
+    
+
+    # Beograd
+    - codes:
+        iso3166-2: RS-00
+      names:
+        - name: Beograd
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Borski okrug
+    - codes:
+        iso3166-2: RS-14
+      names:
+        - name: Borski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Braničevski okrug
+    - codes:
+        iso3166-2: RS-11
+      names:
+        - name: Braničevski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Jablanički okrug
+    - codes:
+        iso3166-2: RS-23
+      names:
+        - name: Jablanički okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Južnobanatski okrug
+    - codes:
+        iso3166-2: RS-04
+      names:
+        - name: Južnobanatski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Južnobački okrug
+    - codes:
+        iso3166-2: RS-06
+      names:
+        - name: Južnobački okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Kolubarski okrug
+    - codes:
+        iso3166-2: RS-09
+      names:
+        - name: Kolubarski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Kosovo-Metohija
+    - codes:
+        iso3166-2: RS-KM
+      names:
+        - name: Kosovo-Metohija
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Kosovski okrug
+    - codes:
+        iso3166-2: RS-25
+      names:
+        - name: Kosovski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Kosovsko-Mitrovački okrug
+    - codes:
+        iso3166-2: RS-28
+      names:
+        - name: Kosovsko-Mitrovački okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Kosovsko-Pomoravski okrug
+    - codes:
+        iso3166-2: RS-29
+      names:
+        - name: Kosovsko-Pomoravski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Mačvanski okrug
+    - codes:
+        iso3166-2: RS-08
+      names:
+        - name: Mačvanski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Moravički okrug
+    - codes:
+        iso3166-2: RS-17
+      names:
+        - name: Moravički okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Nišavski okrug
+    - codes:
+        iso3166-2: RS-20
+      names:
+        - name: Nišavski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Pećki okrug
+    - codes:
+        iso3166-2: RS-26
+      names:
+        - name: Pećki okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Pirotski okrug
+    - codes:
+        iso3166-2: RS-22
+      names:
+        - name: Pirotski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Podunavski okrug
+    - codes:
+        iso3166-2: RS-10
+      names:
+        - name: Podunavski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Pomoravski okrug
+    - codes:
+        iso3166-2: RS-13
+      names:
+        - name: Pomoravski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Prizrenski okrug
+    - codes:
+        iso3166-2: RS-27
+      names:
+        - name: Prizrenski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Pčinjski okrug
+    - codes:
+        iso3166-2: RS-24
+      names:
+        - name: Pčinjski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Rasinski okrug
+    - codes:
+        iso3166-2: RS-19
+      names:
+        - name: Rasinski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Raški okrug
+    - codes:
+        iso3166-2: RS-18
+      names:
+        - name: Raški okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Severnobanatski okrug
+    - codes:
+        iso3166-2: RS-03
+      names:
+        - name: Severnobanatski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Severnobački okrug
+    - codes:
+        iso3166-2: RS-01
+      names:
+        - name: Severnobački okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Srednjebanatski okrug
+    - codes:
+        iso3166-2: RS-02
+      names:
+        - name: Srednjebanatski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Sremski okrug
+    - codes:
+        iso3166-2: RS-07
+      names:
+        - name: Sremski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Toplički okrug
+    - codes:
+        iso3166-2: RS-21
+      names:
+        - name: Toplički okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Vojvodina
+    - codes:
+        iso3166-2: RS-VO
+      names:
+        - name: Vojvodina
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Zaječarski okrug
+    - codes:
+        iso3166-2: RS-15
+      names:
+        - name: Zaječarski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Zapadnobački okrug
+    - codes:
+        iso3166-2: RS-05
+      names:
+        - name: Zapadnobački okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Zlatiborski okrug
+    - codes:
+        iso3166-2: RS-16
+      names:
+        - name: Zlatiborski okrug
+          languages: [sr]
+          sources: [iso3166-2]
+    
+
+    # Šumadijski okrug
+    - codes:
+        iso3166-2: RS-12
+      names:
+        - name: Šumadijski okrug
+          languages: [sr]
+          sources: [iso3166-2]
