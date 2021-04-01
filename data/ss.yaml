@@ -8,8 +8,9 @@ regions:
         iso3166-2: SS-EC
       names:
         - name: Central Equatoria
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Eastern Equatoria
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SS-EE
       names:
         - name: Eastern Equatoria
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jonglei
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SS-JG
       names:
         - name: Jonglei
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lakes
@@ -35,17 +38,20 @@ regions:
         iso3166-2: SS-LK
       names:
         - name: Lakes
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Northern Bahr el Ghazal
+    # Northern Bahr Ghazal
     - codes:
         iso3166-2: SS-BN
       names:
-        - name: Northern Bahr el Ghazal
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Northern Bahr Ghazal
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Northern Bahr el Ghazal
     
 
     # Unity
@@ -53,8 +59,9 @@ regions:
         iso3166-2: SS-UY
       names:
         - name: Unity
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Upper Nile
@@ -62,8 +69,9 @@ regions:
         iso3166-2: SS-NU
       names:
         - name: Upper Nile
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Warrap
@@ -71,17 +79,20 @@ regions:
         iso3166-2: SS-WR
       names:
         - name: Warrap
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Western Bahr el  Ghazal
+    # Western Bahr Ghazal
     - codes:
         iso3166-2: SS-BW
       names:
-        - name: Western Bahr el  Ghazal
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Western Bahr Ghazal
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Western Bahr el  Ghazal
     
 
     # Western Equatoria
@@ -89,5 +100,6 @@ regions:
         iso3166-2: SS-EW
       names:
         - name: Western Equatoria
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

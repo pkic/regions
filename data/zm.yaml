@@ -8,8 +8,9 @@ regions:
         iso3166-2: ZM-02
       names:
         - name: Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Copperbelt
@@ -17,8 +18,9 @@ regions:
         iso3166-2: ZM-08
       names:
         - name: Copperbelt
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Eastern
@@ -26,8 +28,9 @@ regions:
         iso3166-2: ZM-03
       names:
         - name: Eastern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Luapula
@@ -35,8 +38,9 @@ regions:
         iso3166-2: ZM-04
       names:
         - name: Luapula
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lusaka
@@ -44,8 +48,9 @@ regions:
         iso3166-2: ZM-09
       names:
         - name: Lusaka
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Muchinga
@@ -53,8 +58,9 @@ regions:
         iso3166-2: ZM-10
       names:
         - name: Muchinga
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North-Western
@@ -62,8 +68,9 @@ regions:
         iso3166-2: ZM-06
       names:
         - name: North-Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Northern
@@ -71,8 +78,9 @@ regions:
         iso3166-2: ZM-05
       names:
         - name: Northern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Southern
@@ -80,8 +88,9 @@ regions:
         iso3166-2: ZM-07
       names:
         - name: Southern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -89,5 +98,6 @@ regions:
         iso3166-2: ZM-01
       names:
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

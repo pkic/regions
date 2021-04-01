@@ -8,8 +8,9 @@ regions:
         iso3166-2: UM-81
       names:
         - name: Baker Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Howland Island
@@ -17,8 +18,9 @@ regions:
         iso3166-2: UM-84
       names:
         - name: Howland Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jarvis Island
@@ -26,8 +28,9 @@ regions:
         iso3166-2: UM-86
       names:
         - name: Jarvis Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Johnston Atoll
@@ -35,8 +38,9 @@ regions:
         iso3166-2: UM-67
       names:
         - name: Johnston Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kingman Reef
@@ -44,8 +48,9 @@ regions:
         iso3166-2: UM-89
       names:
         - name: Kingman Reef
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Midway Islands
@@ -53,8 +58,9 @@ regions:
         iso3166-2: UM-71
       names:
         - name: Midway Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Navassa Island
@@ -62,8 +68,9 @@ regions:
         iso3166-2: UM-76
       names:
         - name: Navassa Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Palmyra Atoll
@@ -71,8 +78,9 @@ regions:
         iso3166-2: UM-95
       names:
         - name: Palmyra Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Wake Island
@@ -80,5 +88,6 @@ regions:
         iso3166-2: UM-79
       names:
         - name: Wake Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

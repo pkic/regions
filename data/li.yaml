@@ -9,8 +9,9 @@ regions:
         iso3166-2: LI-01
       names:
         - name: Balzers
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Eschen
@@ -18,8 +19,9 @@ regions:
         iso3166-2: LI-02
       names:
         - name: Eschen
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Gamprin
@@ -27,8 +29,9 @@ regions:
         iso3166-2: LI-03
       names:
         - name: Gamprin
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Mauren
@@ -36,8 +39,9 @@ regions:
         iso3166-2: LI-04
       names:
         - name: Mauren
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Planken
@@ -45,8 +49,9 @@ regions:
         iso3166-2: LI-05
       names:
         - name: Planken
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Ruggell
@@ -54,8 +59,9 @@ regions:
         iso3166-2: LI-06
       names:
         - name: Ruggell
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Schaan
@@ -63,8 +69,9 @@ regions:
         iso3166-2: LI-07
       names:
         - name: Schaan
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Schellenberg
@@ -72,8 +79,9 @@ regions:
         iso3166-2: LI-08
       names:
         - name: Schellenberg
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Triesen
@@ -81,8 +89,9 @@ regions:
         iso3166-2: LI-09
       names:
         - name: Triesen
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Triesenberg
@@ -90,8 +99,9 @@ regions:
         iso3166-2: LI-10
       names:
         - name: Triesenberg
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
     
 
     # Vaduz
@@ -99,5 +109,6 @@ regions:
         iso3166-2: LI-11
       names:
         - name: Vaduz
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]

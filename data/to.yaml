@@ -8,8 +8,9 @@ regions:
         iso3166-2: TO-01
       names:
         - name: '''Eua'
-          languages: [en, to]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, to]
     
 
     # Ha'apai
@@ -17,8 +18,9 @@ regions:
         iso3166-2: TO-02
       names:
         - name: Ha'apai
-          languages: [en, to]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, to]
     
 
     # Niuas
@@ -26,8 +28,9 @@ regions:
         iso3166-2: TO-03
       names:
         - name: Niuas
-          languages: [en, to]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, to]
     
 
     # Tongatapu
@@ -35,14 +38,17 @@ regions:
         iso3166-2: TO-04
       names:
         - name: Tongatapu
-          languages: [en, to]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, to]
     
 
-    # Vava'u
+    # Vava'
     - codes:
         iso3166-2: TO-05
       names:
-        - name: Vava'u
-          languages: [en, to]
-          sources: [iso3166-2]
+        - name: Vava'
+          sources:
+            - name: iso3166-2
+              languages: [en, to]
+              value: Vava'u

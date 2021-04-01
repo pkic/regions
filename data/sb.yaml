@@ -3,13 +3,24 @@ complete: false
 regions:
     
 
+    # Capital Territory (Honiara)
+    - codes:
+        iso3166-2: SB-CT
+      names:
+        - name: Capital Territory (Honiara)
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
     # Central
     - codes:
         iso3166-2: SB-CE
       names:
         - name: Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Choiseul
@@ -17,8 +28,9 @@ regions:
         iso3166-2: SB-CH
       names:
         - name: Choiseul
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Guadalcanal
@@ -26,8 +38,9 @@ regions:
         iso3166-2: SB-GU
       names:
         - name: Guadalcanal
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Isabel
@@ -35,8 +48,9 @@ regions:
         iso3166-2: SB-IS
       names:
         - name: Isabel
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Makira-Ulawa
@@ -44,8 +58,9 @@ regions:
         iso3166-2: SB-MK
       names:
         - name: Makira-Ulawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Malaita
@@ -53,8 +68,9 @@ regions:
         iso3166-2: SB-ML
       names:
         - name: Malaita
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Rennell and Bellona
@@ -62,8 +78,9 @@ regions:
         iso3166-2: SB-RB
       names:
         - name: Rennell and Bellona
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Temotu
@@ -71,17 +88,9 @@ regions:
         iso3166-2: SB-TE
       names:
         - name: Temotu
-          languages: [en]
-          sources: [iso3166-2]
-    
-
-    # Territory
-    - codes:
-        iso3166-2: SB-CT
-      names:
-        - name: Territory
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -89,5 +98,6 @@ regions:
         iso3166-2: SB-WE
       names:
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

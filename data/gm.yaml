@@ -8,8 +8,9 @@ regions:
         iso3166-2: GM-B
       names:
         - name: Banjul
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Central River
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GM-M
       names:
         - name: Central River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lower River
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GM-L
       names:
         - name: Lower River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Bank
@@ -35,8 +38,9 @@ regions:
         iso3166-2: GM-N
       names:
         - name: North Bank
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Upper River
@@ -44,8 +48,9 @@ regions:
         iso3166-2: GM-U
       names:
         - name: Upper River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -53,5 +58,6 @@ regions:
         iso3166-2: GM-W
       names:
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

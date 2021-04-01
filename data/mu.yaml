@@ -8,8 +8,9 @@ regions:
         iso3166-2: MU-AG
       names:
         - name: Agalega Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Black River
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MU-BL
       names:
         - name: Black River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Cargados Carajos Shoals
@@ -26,11 +28,13 @@ regions:
         iso3166-2: MU-CC
       names:
         - name: Cargados Carajos Shoals
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Saint Brandon Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Flacq
@@ -38,8 +42,9 @@ regions:
         iso3166-2: MU-FL
       names:
         - name: Flacq
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grand Port
@@ -47,8 +52,9 @@ regions:
         iso3166-2: MU-GP
       names:
         - name: Grand Port
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Moka
@@ -56,8 +62,9 @@ regions:
         iso3166-2: MU-MO
       names:
         - name: Moka
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Pamplemousses
@@ -65,8 +72,9 @@ regions:
         iso3166-2: MU-PA
       names:
         - name: Pamplemousses
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Plaines Wilhems
@@ -74,8 +82,9 @@ regions:
         iso3166-2: MU-PW
       names:
         - name: Plaines Wilhems
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Port Louis
@@ -83,17 +92,20 @@ regions:
         iso3166-2: MU-PL
       names:
         - name: Port Louis
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Rivière du Rempart
+    # Rivière Rempart
     - codes:
         iso3166-2: MU-RR
       names:
-        - name: Rivière du Rempart
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Rivière Rempart
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Rivière du Rempart
     
 
     # Rodrigues Island
@@ -101,8 +113,9 @@ regions:
         iso3166-2: MU-RO
       names:
         - name: Rodrigues Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Savanne
@@ -110,5 +123,6 @@ regions:
         iso3166-2: MU-SA
       names:
         - name: Savanne
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

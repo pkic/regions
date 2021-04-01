@@ -8,8 +8,9 @@ regions:
         iso3166-2: GL-AV
       names:
         - name: Avannaata Kommunia
-          languages: [kl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [kl]
     
 
     # Kommune Kujalleq
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GL-KU
       names:
         - name: Kommune Kujalleq
-          languages: [kl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [kl]
     
 
     # Kommune Qeqertalik
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GL-QT
       names:
         - name: Kommune Qeqertalik
-          languages: [kl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [kl]
     
 
     # Kommuneqarfik Sermersooq
@@ -35,8 +38,9 @@ regions:
         iso3166-2: GL-SM
       names:
         - name: Kommuneqarfik Sermersooq
-          languages: [kl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [kl]
     
 
     # Qeqqata Kommunia
@@ -44,5 +48,6 @@ regions:
         iso3166-2: GL-QE
       names:
         - name: Qeqqata Kommunia
-          languages: [kl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [kl]

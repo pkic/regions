@@ -8,11 +8,13 @@ regions:
         iso3166-2: KR-26
       names:
         - name: Busan
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Busan-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Chungbuk
@@ -20,23 +22,29 @@ regions:
         iso3166-2: KR-43
       names:
         - name: Chungbuk
-          languages: [ko]
-          sources: [iso3166-2]
-        - name: Chungcheongbuk-do
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+        - name: Chungcheongbuk
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Chungcheongbuk-do
     
 
-    # Chungcheongnam-do
+    # Chungcheongnam
     - codes:
         iso3166-2: KR-44
       names:
-        - name: Chungcheongnam-do
-          languages: [ko]
-          sources: [iso3166-2]
+        - name: Chungcheongnam
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Chungcheongnam-do
         - name: Chungnam
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Daegu
@@ -44,11 +52,13 @@ regions:
         iso3166-2: KR-27
       names:
         - name: Daegu
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Daegu-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Daejeon
@@ -56,11 +66,13 @@ regions:
         iso3166-2: KR-30
       names:
         - name: Daejeon
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Daejeon-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Gangwon
@@ -68,11 +80,12 @@ regions:
         iso3166-2: KR-42
       names:
         - name: Gangwon
-          languages: [ko]
-          sources: [iso3166-2]
-        - name: Gangwon-do
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Gangwon-do
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Gwangju
@@ -80,11 +93,13 @@ regions:
         iso3166-2: KR-29
       names:
         - name: Gwangju
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Gwangju-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Gyeonggi
@@ -92,11 +107,12 @@ regions:
         iso3166-2: KR-41
       names:
         - name: Gyeonggi
-          languages: [ko]
-          sources: [iso3166-2]
-        - name: Gyeonggi-do
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Gyeonggi-do
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Gyeongbuk
@@ -104,11 +120,14 @@ regions:
         iso3166-2: KR-47
       names:
         - name: Gyeongbuk
-          languages: [ko]
-          sources: [iso3166-2]
-        - name: Gyeongsangbuk-do
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+        - name: Gyeongsangbuk
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Gyeongsangbuk-do
     
 
     # Gyeongnam
@@ -116,11 +135,14 @@ regions:
         iso3166-2: KR-48
       names:
         - name: Gyeongnam
-          languages: [ko]
-          sources: [iso3166-2]
-        - name: Gyeongsangnam-do
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+        - name: Gyeongsangnam
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Gyeongsangnam-do
     
 
     # Incheon
@@ -128,11 +150,13 @@ regions:
         iso3166-2: KR-28
       names:
         - name: Incheon
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Incheon-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Jeju
@@ -140,35 +164,43 @@ regions:
         iso3166-2: KR-49
       names:
         - name: Jeju
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Jeju-teukbyeoljachido
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
-    # Jeollabuk-do
+    # Jeollabuk
     - codes:
         iso3166-2: KR-45
       names:
-        - name: Jeollabuk-do
-          languages: [ko]
-          sources: [iso3166-2]
+        - name: Jeollabuk
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Jeollabuk-do
         - name: Jeonbuk
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
-    # Jeollanam-do
+    # Jeollanam
     - codes:
         iso3166-2: KR-46
       names:
-        - name: Jeollanam-do
-          languages: [ko]
-          sources: [iso3166-2]
+        - name: Jeollanam
+          sources:
+            - name: iso3166-2
+              languages: [ko]
+              value: Jeollanam-do
         - name: Jeonnam
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Sejong
@@ -176,8 +208,9 @@ regions:
         iso3166-2: KR-50
       names:
         - name: Sejong
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Seoul
@@ -185,11 +218,13 @@ regions:
         iso3166-2: KR-11
       names:
         - name: Seoul
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Seoul-teukbyeolsi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
     
 
     # Ulsan
@@ -197,8 +232,10 @@ regions:
         iso3166-2: KR-31
       names:
         - name: Ulsan
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]
         - name: Ulsan-gwangyeoksi
-          languages: [ko]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ko]

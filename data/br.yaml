@@ -8,8 +8,9 @@ regions:
         iso3166-2: BR-AC
       names:
         - name: Acre
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Alagoas
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BR-AL
       names:
         - name: Alagoas
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Amapá
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BR-AP
       names:
         - name: Amapá
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Amazonas
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BR-AM
       names:
         - name: Amazonas
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Bahia
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BR-BA
       names:
         - name: Bahia
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Ceará
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BR-CE
       names:
         - name: Ceará
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Distrito Federal
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BR-DF
       names:
         - name: Distrito Federal
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Espírito Santo
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BR-ES
       names:
         - name: Espírito Santo
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Goiás
@@ -80,17 +88,20 @@ regions:
         iso3166-2: BR-GO
       names:
         - name: Goiás
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
-    # Maranhão
+    # Maranhã
     - codes:
         iso3166-2: BR-MA
       names:
-        - name: Maranhão
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Maranhã
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Maranhão
     
 
     # Mato Grosso
@@ -98,17 +109,20 @@ regions:
         iso3166-2: BR-MT
       names:
         - name: Mato Grosso
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
-    # Mato Grosso do Sul
+    # Mato Grosso Sul
     - codes:
         iso3166-2: BR-MS
       names:
-        - name: Mato Grosso do Sul
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Mato Grosso Sul
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Mato Grosso do Sul
     
 
     # Minas Gerais
@@ -116,8 +130,9 @@ regions:
         iso3166-2: BR-MG
       names:
         - name: Minas Gerais
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Paraná
@@ -125,8 +140,9 @@ regions:
         iso3166-2: BR-PR
       names:
         - name: Paraná
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Paraíba
@@ -134,8 +150,9 @@ regions:
         iso3166-2: BR-PB
       names:
         - name: Paraíba
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Pará
@@ -143,8 +160,9 @@ regions:
         iso3166-2: BR-PA
       names:
         - name: Pará
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Pernambuco
@@ -152,8 +170,9 @@ regions:
         iso3166-2: BR-PE
       names:
         - name: Pernambuco
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Piauí
@@ -161,35 +180,42 @@ regions:
         iso3166-2: BR-PI
       names:
         - name: Piauí
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
-    # Rio Grande do Norte
+    # Rio Grande Norte
     - codes:
         iso3166-2: BR-RN
       names:
-        - name: Rio Grande do Norte
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Rio Grande Norte
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Rio Grande do Norte
     
 
-    # Rio Grande do Sul
+    # Rio Grande Sul
     - codes:
         iso3166-2: BR-RS
       names:
-        - name: Rio Grande do Sul
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Rio Grande Sul
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Rio Grande do Sul
     
 
-    # Rio de Janeiro
+    # Rio Janeiro
     - codes:
         iso3166-2: BR-RJ
       names:
-        - name: Rio de Janeiro
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Rio Janeiro
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Rio de Janeiro
     
 
     # Rondônia
@@ -197,8 +223,9 @@ regions:
         iso3166-2: BR-RO
       names:
         - name: Rondônia
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Roraima
@@ -206,8 +233,9 @@ regions:
         iso3166-2: BR-RR
       names:
         - name: Roraima
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Santa Catarina
@@ -215,8 +243,9 @@ regions:
         iso3166-2: BR-SC
       names:
         - name: Santa Catarina
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Sergipe
@@ -224,17 +253,20 @@ regions:
         iso3166-2: BR-SE
       names:
         - name: Sergipe
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
-    # São Paulo
+    # Sã Paulo
     - codes:
         iso3166-2: BR-SP
       names:
-        - name: São Paulo
-          languages: [pt]
-          sources: [iso3166-2]
+        - name: Sã Paulo
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: São Paulo
     
 
     # Tocantins
@@ -242,5 +274,6 @@ regions:
         iso3166-2: BR-TO
       names:
         - name: Tocantins
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]

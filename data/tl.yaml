@@ -8,8 +8,9 @@ regions:
         iso3166-2: TL-AL
       names:
         - name: Aileu
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Ainaro
@@ -17,10 +18,12 @@ regions:
         iso3166-2: TL-AN
       names:
         - name: Ainaro
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Ainaru
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Baucau
@@ -28,10 +31,12 @@ regions:
         iso3166-2: TL-BA
       names:
         - name: Baucau
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Baukau
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Bobonaro
@@ -39,10 +44,12 @@ regions:
         iso3166-2: TL-BO
       names:
         - name: Bobonaro
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Bobonaru
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Cova Lima
@@ -50,10 +57,12 @@ regions:
         iso3166-2: TL-CO
       names:
         - name: Cova Lima
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Kovalima
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Díli
@@ -61,8 +70,9 @@ regions:
         iso3166-2: TL-DI
       names:
         - name: Díli
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Ermera
@@ -70,8 +80,9 @@ regions:
         iso3166-2: TL-ER
       names:
         - name: Ermera
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Lautein
@@ -79,10 +90,12 @@ regions:
         iso3166-2: TL-LA
       names:
         - name: Lautein
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Lautém
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Likisá
@@ -90,10 +103,13 @@ regions:
         iso3166-2: TL-LI
       names:
         - name: Likisá
-          sources: [iso3166-2]
-        - name: Liquiça
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+        - name: Liquiç
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Liquiça
     
 
     # Manatuto
@@ -101,10 +117,12 @@ regions:
         iso3166-2: TL-MT
       names:
         - name: Manatuto
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Manatutu
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Manufahi
@@ -112,8 +130,9 @@ regions:
         iso3166-2: TL-MF
       names:
         - name: Manufahi
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Oecussi
@@ -121,13 +140,17 @@ regions:
         iso3166-2: TL-OE
       names:
         - name: Oecussi
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: Oekusi-Ambenu
-          sources: [iso3166-2]
-        - name: Oé-Cusse Ambeno
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+        - name: é-Cusse Ambeno
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Oé-Cusse Ambeno
     
 
     # Vikeke
@@ -135,7 +158,9 @@ regions:
         iso3166-2: TL-VI
       names:
         - name: Vikeke
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Viqueque
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]

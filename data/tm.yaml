@@ -8,17 +8,9 @@ regions:
         iso3166-2: TM-A
       names:
         - name: Ahal
-          languages: [tk]
-          sources: [iso3166-2]
-    
-
-    # Aşgabat
-    - codes:
-        iso3166-2: TM-S
-      names:
-        - name: Aşgabat
-          languages: [tk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tk]
     
 
     # Balkan
@@ -26,17 +18,9 @@ regions:
         iso3166-2: TM-B
       names:
         - name: Balkan
-          languages: [tk]
-          sources: [iso3166-2]
-    
-
-    # Daşoguz
-    - codes:
-        iso3166-2: TM-D
-      names:
-        - name: Daşoguz
-          languages: [tk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tk]
     
 
     # Lebap
@@ -44,8 +28,9 @@ regions:
         iso3166-2: TM-L
       names:
         - name: Lebap
-          languages: [tk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tk]
     
 
     # Mary
@@ -53,5 +38,28 @@ regions:
         iso3166-2: TM-M
       names:
         - name: Mary
-          languages: [tk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tk]
+    
+
+    # şgabat
+    - codes:
+        iso3166-2: TM-S
+      names:
+        - name: şgabat
+          sources:
+            - name: iso3166-2
+              languages: [tk]
+              value: Aşgabat
+    
+
+    # şoguz
+    - codes:
+        iso3166-2: TM-D
+      names:
+        - name: şoguz
+          sources:
+            - name: iso3166-2
+              languages: [tk]
+              value: Daşoguz

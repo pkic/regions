@@ -10,11 +10,15 @@ regions:
         iso3166-2: RO-AB
       names:
         - name: Alba
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Алба
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Arad
@@ -23,14 +27,19 @@ regions:
         iso3166-2: RO-AR
       names:
         - name: Arad
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Aradi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Арад
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Arges
@@ -39,29 +48,39 @@ regions:
         iso3166-2: RO-AG
       names:
         - name: Ardżesz
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Arges
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
         - name: Argesi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Argeş
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Argeș
-          languages: [hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Арджеш
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Арђеш
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Арѓеш
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
     
 
     # Bacau
@@ -70,23 +89,33 @@ regions:
         iso3166-2: RO-BC
       names:
         - name: Bacau
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
-          sources: [euvoc]
-        - name: Bacău
-          languages: [et, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
+        - name: Bacă
+          sources:
+            - name: euvoc
+              languages: [et, pl, ro]
+              value: Bacău
+            - name: iso3166-2
+              languages: [ro]
+              value: Bacău
         - name: Bakau
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Băcau
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Бакау
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Бакъу
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Bihor
@@ -95,14 +124,19 @@ regions:
         iso3166-2: RO-BH
       names:
         - name: Bihor
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Bihori
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Бихор
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Bistrita-Nasaud
@@ -111,23 +145,33 @@ regions:
         iso3166-2: RO-BN
       names:
         - name: Bistrita-Nasaud
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
         - name: Bistrita-Năsăud
-          languages: [hu]
-          sources: [euvoc]
-        - name: Bistriţa-Năsăud
-          languages: [et]
-          sources: [euvoc]
-        - name: Bistrița Năsăud
-          languages: [nl, ro]
-          sources: [euvoc]
-        - name: Bistrița-Năsăud
-          languages: [pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Bistriţ Năsăud
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Bistriţa-Năsăud
+        - name: Bistriț Năsăud
+          sources:
+            - name: euvoc
+              languages: [nl, ro]
+              value: Bistrița Năsăud
+            - name: euvoc
+              languages: [pl]
+              value: Bistrița-Năsăud
+            - name: iso3166-2
+              languages: [ro]
+              value: Bistrița-Năsăud
         - name: Бистрица-Насауд
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Bucharest — Ilfov
@@ -135,65 +179,88 @@ regions:
         euvoc: http://eurovoc.europa.eu/8490
       names:
         - name: Boekarest — Ilfov
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Bucarest - Ilfov
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Bucarest — Ilfov
-          languages: [fr, it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr, it]
         - name: Bucareste — Ilfov
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Bucharest — Ilfov
-          languages: [en, mt]
-          sources: [euvoc]
-        - name: București — Ilfov
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, mt]
+        - name: Bucureș — Ilfov
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: București — Ilfov
         - name: Buhareste — Ilfov
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Bukarest — Ilfov
-          languages: [da, de, fi, hu, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [da, de, fi, hu, sv]
         - name: Bukarest—Ilfov
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Bukareszt — Ilfov
-          languages: [pl]
-          sources: [euvoc]
-        - name: Bukarešta — Ilfov
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Bukareš — Ilfov
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Bukarešta — Ilfov
         - name: Bukareštas — Ilfov
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Bukuresht — Ilfovi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Bukurešt - Ilfov
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Bukurešť — Ilfov
-          languages: [cs, sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
         - name: Búcairist — Ilfov
-          languages: [ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ga]
         - name: Βουκουρέστι — Ilfov
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Букурешт - Илфов
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Букурешт-Илфов
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Букурещ  и Илфов
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Букурещ (град) и Илфов
     
 
     # Botosani
@@ -202,20 +269,27 @@ regions:
         iso3166-2: RO-BT
       names:
         - name: Botosani
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
         - name: Botoszany
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Botoşani
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Botoșani
-          languages: [hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Ботошани
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Braila
@@ -224,17 +298,24 @@ regions:
         iso3166-2: RO-BR
       names:
         - name: Braila
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Braiła
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
+        - name: Braił
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Braiła
         - name: Brăila
-          languages: [et, hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [et, hu, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Браила
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Brasov
@@ -243,35 +324,46 @@ regions:
         iso3166-2: RO-BV
       names:
         - name: Brasov
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sl, sv]
         - name: Brasovi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Braszów
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Braşov
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Brašov
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Brașov
-          languages: [hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Брашов
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
-    # București
+    # Bucureș
     - codes:
         iso3166-2: RO-B
       names:
-        - name: București
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Bucureș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: București
     
 
     # Buzau
@@ -280,17 +372,25 @@ regions:
         iso3166-2: RO-BZ
       names:
         - name: Buzau
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Buzău
-          languages: [et, hu, nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
+        - name: Buză
+          sources:
+            - name: euvoc
+              languages: [et, hu, nl, pl, ro]
+              value: Buzău
+            - name: iso3166-2
+              languages: [ro]
+              value: Buzău
         - name: Бузау
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Бузъу
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Calarasi
@@ -299,26 +399,38 @@ regions:
         iso3166-2: RO-CL
       names:
         - name: Calarasi
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
-        - name: Călăraşi
-          languages: [et]
-          sources: [euvoc]
-        - name: Călărași
-          languages: [hu, nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
+        - name: Călăraş
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Călăraşi
+        - name: Călăraș
+          sources:
+            - name: euvoc
+              languages: [hu, nl, pl, ro]
+              value: Călărași
+            - name: iso3166-2
+              languages: [ro]
+              value: Călărași
         - name: Kalarasi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Калараш
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Калараши
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Кълъраш
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Caras-Severin
@@ -327,26 +439,35 @@ regions:
         iso3166-2: RO-CS
       names:
         - name: Cara-Severin
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Caras-Severin
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
         - name: Caraş-Severin
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Caraș Severin
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ro]
         - name: Caraș-Severin
-          languages: [nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [nl, pl]
+            - name: iso3166-2
+              languages: [ro]
         - name: Karas-Severini
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Караш-Северин
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Centru
@@ -354,26 +475,85 @@ regions:
         euvoc: http://eurovoc.europa.eu/8491
       names:
         - name: Centro
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Centro (Rumanía)
         - name: Centru
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Roumanie du Centre
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Centru (Ρουμανία)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Centru (Romania)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Centru (Rumunsko)
+            - name: euvoc
+              languages: [pt]
+              value: Centru (Roménia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Centru (Rumänien)
+            - name: euvoc
+              languages: [sl]
+              value: Centru (Romunija)
+            - name: euvoc
+              languages: [da]
+              value: Centru (Rumænien)
+            - name: euvoc
+              languages: [lv]
+              value: Centru (Rumānija)
+            - name: euvoc
+              languages: [mt]
+              value: Centru (ir-Rumanija)
+            - name: euvoc
+              languages: [sq]
+              value: Centru (Rumani)
+            - name: euvoc
+              languages: [ro]
+              value: Centru (România)
+            - name: euvoc
+              languages: [lt]
+              value: Centru (Rumunija)
+            - name: euvoc
+              languages: [hu]
+              value: Centru (Románia)
+            - name: euvoc
+              languages: [et]
+              value: Centru (Rumeenia)
+            - name: euvoc
+              languages: [ga]
+              value: Centru (An Rómáin)
+            - name: euvoc
+              languages: [nl]
+              value: Centru (Roemenië)
+            - name: euvoc
+              languages: [pl]
+              value: Centru (Rumunia)
+        - name: Roumanie Centre
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Centre
         - name: Središnja
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Središnja regija (Rumunjska)
         - name: Централна Романија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Централна Румунија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Централна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Cluj
@@ -382,14 +562,19 @@ regions:
         iso3166-2: RO-CJ
       names:
         - name: Cluj
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Kluż
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Клуж
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Constanta
@@ -398,23 +583,34 @@ regions:
         iso3166-2: RO-CT
       names:
         - name: Constanta
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
-        - name: Constanţa
-          languages: [et]
-          sources: [euvoc]
-        - name: Constanța
-          languages: [hu, nl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
+        - name: Constanţ
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Constanţa
+        - name: Constanț
+          sources:
+            - name: euvoc
+              languages: [hu, nl, ro]
+              value: Constanța
+            - name: iso3166-2
+              languages: [ro]
+              value: Constanța
         - name: Konstanca
-          languages: [pl, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl, sq]
         - name: Констанца
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Кюстенджа
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Covasna
@@ -423,14 +619,19 @@ regions:
         iso3166-2: RO-CV
       names:
         - name: Covasna
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Kovasna
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Ковасна
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Dâmbovita
@@ -439,23 +640,33 @@ regions:
         iso3166-2: RO-DB
       names:
         - name: Dambovita
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Dymbowica
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Dâmbovita
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
-        - name: Dâmbovița
-          languages: [hu, nl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
+        - name: Dâmboviț
+          sources:
+            - name: euvoc
+              languages: [hu, nl, ro]
+              value: Dâmbovița
+            - name: iso3166-2
+              languages: [ro]
+              value: Dâmbovița
         - name: Димбовица
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Дъмбовица
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Dolj
@@ -464,14 +675,19 @@ regions:
         iso3166-2: RO-DJ
       names:
         - name: Dolj
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Долж
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
         - name: Дољ
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Galati
@@ -480,20 +696,30 @@ regions:
         iso3166-2: RO-GL
       names:
         - name: Galati
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Galaţi
-          languages: [et]
-          sources: [euvoc]
-        - name: Galați
-          languages: [hu, nl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
+        - name: Galaţ
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Galaţi
+        - name: Galaț
+          sources:
+            - name: euvoc
+              languages: [hu, nl, ro]
+              value: Galați
+            - name: iso3166-2
+              languages: [ro]
+              value: Galați
         - name: Gałacz
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Галац
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Giurgiu
@@ -502,17 +728,23 @@ regions:
         iso3166-2: RO-GR
       names:
         - name: Giurgiu
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Ђурђу
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Ѓурѓу
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Гюргево
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Gorj
@@ -521,11 +753,15 @@ regions:
         iso3166-2: RO-GJ
       names:
         - name: Gorj
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Горж
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Harghita
@@ -534,14 +770,19 @@ regions:
         iso3166-2: RO-HR
       names:
         - name: Harghita
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Hargita
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Харгита
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Hunedoara
@@ -550,11 +791,15 @@ regions:
         iso3166-2: RO-HD
       names:
         - name: Hunedoara
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Хунедоара
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Ialomita
@@ -563,20 +808,30 @@ regions:
         iso3166-2: RO-IL
       names:
         - name: Ialomita
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pl, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Ialomiţa
-          languages: [et]
-          sources: [euvoc]
-        - name: Ialomița
-          languages: [hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pl, pt, sk, sl, sq, sv]
+        - name: Ialomiţ
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Ialomiţa
+        - name: Ialomiț
+          sources:
+            - name: euvoc
+              languages: [hu, ro]
+              value: Ialomița
+            - name: iso3166-2
+              languages: [ro]
+              value: Ialomița
         - name: Јаломица
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Яломица
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Iasi
@@ -585,23 +840,34 @@ regions:
         iso3166-2: RO-IS
       names:
         - name: Iasi
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Iaşi
-          languages: [et]
-          sources: [euvoc]
-        - name: Iași
-          languages: [hu, nl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
+        - name: Iaş
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Iaşi
+        - name: Iaș
+          sources:
+            - name: euvoc
+              languages: [hu, nl, ro]
+              value: Iași
+            - name: iso3166-2
+              languages: [ro]
+              value: Iași
         - name: Jassy
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Јаши
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Яш
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Ilfov
@@ -609,8 +875,9 @@ regions:
         iso3166-2: RO-IF
       names:
         - name: Ilfov
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Sud — Muntenia
@@ -618,41 +885,98 @@ regions:
         euvoc: http://eurovoc.europa.eu/8495
       names:
         - name: Jug — Muntenia
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jug — Muntenia (Rumania)
         - name: Jug-Muntenia
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: regija Jug-Muntenia (Rumunjska)
         - name: Muntenia Południowa
-          languages: [pl]
-          sources: [euvoc]
-        - name: Roumanie du Sud — Muntenia
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Roumanie Sud — Muntenia
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud — Muntenia
         - name: Sud Muntenia
-          languages: [de]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Sud Muntenia (Rumänien)
         - name: Sud — Muntenia
-          languages: [cs, da, el, en, fi, ga, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud — Muntenia (Rumunsko)
+            - name: euvoc
+              languages: [pt]
+              value: Sud — Muntenia (Roménia)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud — Muntenia (Romania)
+            - name: euvoc
+              languages: [hu]
+              value: Sud — Muntenia (Románia)
+            - name: euvoc
+              languages: [mt]
+              value: Sud — Muntenia (ir-Rumanija)
+            - name: euvoc
+              languages: [sv]
+              value: Sud — Muntenia (Rumänien)
+            - name: euvoc
+              languages: [ro]
+              value: Sud — Muntenia (România)
+            - name: euvoc
+              languages: [sl]
+              value: Sud — Muntenia (Romunija)
+            - name: euvoc
+              languages: [lv]
+              value: Sud — Muntenia (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud — Muntenia (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Sud — Muntenia (An Rómáin)
+            - name: euvoc
+              languages: [da]
+              value: Sud — Muntenia (Rumænien)
+            - name: euvoc
+              languages: [el]
+              value: Sud — Muntenia (Ρουμανία)
         - name: Sud-Muntenia
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Sud-Muntenia (Rumeenia)
         - name: Sud—Muntenia
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Sud—Muntenia (Rumunija)
         - name: Sur-Muntenia
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Sur-Muntenia (Rumanía)
         - name: Јужна Мунтенија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Јужна Мунтенија (Романија)
         - name: Јужна Румунија - Мунтенија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Южна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Sud-Est
@@ -660,32 +984,88 @@ regions:
         euvoc: http://eurovoc.europa.eu/8496
       names:
         - name: Juglindje
-          languages: [sq]
-          sources: [euvoc]
-        - name: Jugoistočna
-          languages: [hr]
-          sources: [euvoc]
-        - name: Roumanie du Sud-Est
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Juglindje (Rumania)
+        - name: Jugoistoč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jugoistočna regija (Rumunjska)
+        - name: Roumanie Sud-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud-Est
         - name: Rumunia Południowo-Wschodnia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Sud-Est
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Sud-Est (Románia)
+            - name: euvoc
+              languages: [et]
+              value: Sud-Est (Rumeenia)
+            - name: euvoc
+              languages: [da]
+              value: Sud-Est (Rumænien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud-Est (Rumunsko)
+            - name: euvoc
+              languages: [de, sv]
+              value: Sud-Est (Rumänien)
+            - name: euvoc
+              languages: [el]
+              value: Sud-Est (Ρουμανία)
+            - name: euvoc
+              languages: [ga]
+              value: Sud-Est (An Rómáin)
+            - name: euvoc
+              languages: [pt]
+              value: Sud-Est (Roménia)
+            - name: euvoc
+              languages: [ro]
+              value: Sud-Est (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud-Est (Romania)
+            - name: euvoc
+              languages: [sl]
+              value: Sud-Est (Romunija)
+            - name: euvoc
+              languages: [mt]
+              value: Sud-Est (ir-Rumanija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud-Est (Roemenië)
+            - name: euvoc
+              languages: [lt]
+              value: Sud-Est (Rumunija)
+            - name: euvoc
+              languages: [lv]
+              value: Sud-Est (Rumānija)
         - name: Sureste
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Sureste (Rumanía)
         - name: Југоисточна Романија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Југоисточна Румунија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Югоизточна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Sud-Vest Oltenia
@@ -693,32 +1073,89 @@ regions:
         euvoc: http://eurovoc.europa.eu/8497
       names:
         - name: Jugozapadna Oltenia
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: regija Jugozapadna Oltenia (Rumunjska)
         - name: Oltenia Jugperëndimore
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Oltenia Jugperëndimore (Rumani)
         - name: Oltenia Południowo-Zachodnia
-          languages: [pl]
-          sources: [euvoc]
-        - name: Roumanie du Sud-Ouest Oltenia
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Roumanie Sud-Ouest Oltenia
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud-Ouest Oltenia
         - name: Sud-Vest Oltenia
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud-Vest Oltenia (Rumunsko)
+            - name: euvoc
+              languages: [hu]
+              value: Sud-Vest Oltenia (Románia)
+            - name: euvoc
+              languages: [sl]
+              value: Sud-Vest Oltenia (Romunija)
+            - name: euvoc
+              languages: [de, sv]
+              value: Sud-Vest Oltenia (Rumänien)
+            - name: euvoc
+              languages: [ro]
+              value: Sud-Vest Oltenia (România)
+            - name: euvoc
+              languages: [lt]
+              value: Sud-Vest Oltenia (Rumunija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud-Vest Oltenia (Roemenië)
+            - name: euvoc
+              languages: [lv]
+              value: Sud-Vest Oltenia (Rumānija)
+            - name: euvoc
+              languages: [el]
+              value: Sud-Vest Oltenia (Ρουμανία)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud-Vest Oltenia (Romania)
+            - name: euvoc
+              languages: [ga]
+              value: Sud-Vest Oltenia (An Rómáin)
+            - name: euvoc
+              languages: [pt]
+              value: Sud-Vest Oltenia (Roménia)
+            - name: euvoc
+              languages: [et]
+              value: Sud-Vest Oltenia (Rumeenia)
+            - name: euvoc
+              languages: [da]
+              value: Sud-Vest Oltenia (Rumænien)
+            - name: euvoc
+              languages: [mt]
+              value: Sud-Vest Oltenia (ir-Rumanija)
         - name: Suroeste-Oltenia
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Suroeste-Oltenia (Rumanía)
         - name: Југозападна Олтенија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Југозападна Олтенија (Романија)
         - name: Југозападна Румунија - Олтенија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Югозападна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Maramures
@@ -727,23 +1164,31 @@ regions:
         iso3166-2: RO-MM
       names:
         - name: Maramures
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
         - name: Maramuresi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Maramureş
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Maramureș
-          languages: [hu, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Marmarosz
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Марамуреш
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Mehedinti
@@ -752,17 +1197,26 @@ regions:
         iso3166-2: RO-MH
       names:
         - name: Mehedinti
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
-          sources: [euvoc]
-        - name: Mehedinţi
-          languages: [et]
-          sources: [euvoc]
-        - name: Mehedinți
-          languages: [hu, nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sq, sv]
+        - name: Mehedinţ
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Mehedinţi
+        - name: Mehedinț
+          sources:
+            - name: euvoc
+              languages: [hu, nl, pl, ro]
+              value: Mehedinți
+            - name: iso3166-2
+              languages: [ro]
+              value: Mehedinți
         - name: Мехединци
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Mures
@@ -771,20 +1225,27 @@ regions:
         iso3166-2: RO-MS
       names:
         - name: Mures
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
         - name: Muresi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Mureş
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Mureș
-          languages: [hu, nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, nl, pl, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Муреш
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Neamt
@@ -793,20 +1254,27 @@ regions:
         iso3166-2: RO-NT
       names:
         - name: Neamt
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sq, sv]
         - name: Neamţ
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Neamț
-          languages: [hu, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, pl, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Њамц
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Нямц
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Nord-Est
@@ -814,32 +1282,88 @@ regions:
         euvoc: http://eurovoc.europa.eu/8492
       names:
         - name: Nord-Est
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de, sv]
+              value: Nord-Est (Rumänien)
+            - name: euvoc
+              languages: [et]
+              value: Nord-Est (Rumeenia)
+            - name: euvoc
+              languages: [ro]
+              value: Nord-Est (România)
+            - name: euvoc
+              languages: [pt]
+              value: Nord-Est (Roménia)
+            - name: euvoc
+              languages: [hu]
+              value: Nord-Est (Románia)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Nord-Est (Romania)
+            - name: euvoc
+              languages: [mt]
+              value: Nord-Est (ir-Rumanija)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Nord-Est (Rumunsko)
+            - name: euvoc
+              languages: [sl]
+              value: Nord-Est (Romunija)
+            - name: euvoc
+              languages: [da]
+              value: Nord-Est (Rumænien)
+            - name: euvoc
+              languages: [el]
+              value: Nord-Est (Ρουμανία)
+            - name: euvoc
+              languages: [lt]
+              value: Nord-Est (Rumunija)
+            - name: euvoc
+              languages: [ga]
+              value: Nord-Est (An Rómáin)
+            - name: euvoc
+              languages: [lv]
+              value: Nord-Est (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Nord-Est (Roemenië)
         - name: Noreste
-          languages: [es]
-          sources: [euvoc]
-        - name: Roumanie du Nord-Est
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Noreste (Rumanía)
+        - name: Roumanie Nord-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Nord-Est
         - name: Rumunia Północno-Wschodnia
-          languages: [pl]
-          sources: [euvoc]
-        - name: Sjeveroistočna
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Sjeveroistoč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Sjeveroistočna regija (Rumunjska)
         - name: Verilindje
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Verilindje (Rumani)
         - name: Северисточна Румунија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Североизточна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Североисточна Романија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
     
 
     # Nord-Vest
@@ -847,32 +1371,88 @@ regions:
         euvoc: http://eurovoc.europa.eu/8493
       names:
         - name: Nord-Vest
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Nord-Vest (Roemenië)
+            - name: euvoc
+              languages: [lv]
+              value: Nord-Vest (Rumānija)
+            - name: euvoc
+              languages: [pt]
+              value: Nord-Vest (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Nord-Vest (Ρουμανία)
+            - name: euvoc
+              languages: [lt]
+              value: Nord-Vest (Rumunija)
+            - name: euvoc
+              languages: [mt]
+              value: Nord-Vest (ir-Rumanija)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Nord-Vest (Rumunsko)
+            - name: euvoc
+              languages: [sl]
+              value: Nord-Vest (Romunija)
+            - name: euvoc
+              languages: [et]
+              value: Nord-Vest (Rumeenia)
+            - name: euvoc
+              languages: [ro]
+              value: Nord-Vest (România)
+            - name: euvoc
+              languages: [de, sv]
+              value: Nord-Vest (Rumänien)
+            - name: euvoc
+              languages: [da]
+              value: Nord-Vest (Rumænien)
+            - name: euvoc
+              languages: [hu]
+              value: Nord-Vest (Románia)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Nord-Vest (Romania)
+            - name: euvoc
+              languages: [ga]
+              value: Nord-Vest (An Rómáin)
         - name: Noroeste
-          languages: [es]
-          sources: [euvoc]
-        - name: Roumanie du Nord-Ouest
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Noroeste (Rumanía)
+        - name: Roumanie Nord-Ouest
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Nord-Ouest
         - name: Rumunia Północno-Zachodnia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Sjeverozapadna
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Sjeverozapadna regija (Rumunjska)
         - name: Veri-Perëndim
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Veri-Perëndim (Rumani)
         - name: Северозападна Романија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Северозападна Румунија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Северозападна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Vest
@@ -880,32 +1460,87 @@ regions:
         euvoc: http://eurovoc.europa.eu/8494
       names:
         - name: Oeste
-          languages: [es]
-          sources: [euvoc]
-        - name: Roumanie de l'Ouest
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Oeste (Rumanía)
+        - name: Roumanie Ouest
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie de l'Ouest
         - name: Rumunia Zachodnia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Vest
-          languages: [cs, da, de, el, en, et, fi, ga, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Vest (Romania)
+            - name: euvoc
+              languages: [el]
+              value: Vest (Ρουμανία)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Vest (Rumunsko)
+            - name: euvoc
+              languages: [ga]
+              value: Vest (An Rómáin)
+            - name: euvoc
+              languages: [hu]
+              value: Vest (Románia)
+            - name: euvoc
+              languages: [pt]
+              value: Vest (Roménia)
+            - name: euvoc
+              languages: [sl]
+              value: Vest (Romunija)
+            - name: euvoc
+              languages: [nl]
+              value: Vest (Roemenië)
+            - name: euvoc
+              languages: [lt]
+              value: Vest (Rumunija)
+            - name: euvoc
+              languages: [ro]
+              value: Vest (România)
+            - name: euvoc
+              languages: [de, sv]
+              value: Vest (Rumänien)
+            - name: euvoc
+              languages: [lv]
+              value: Vest (Rumānija)
+            - name: euvoc
+              languages: [mt]
+              value: Vest (ir-Rumanija)
+            - name: euvoc
+              languages: [da]
+              value: Vest (Rumænien)
+            - name: euvoc
+              languages: [et]
+              value: Vest (Rumeenia)
         - name: Vesti
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Vesti (Rumani)
         - name: Zapadna Rumunjska
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Западна Романија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Западна Румунија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Западна Румъния
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Olt
@@ -914,14 +1549,19 @@ regions:
         iso3166-2: RO-OT
       names:
         - name: Olt
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Olti
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Олт
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Prahova
@@ -930,11 +1570,15 @@ regions:
         iso3166-2: RO-PH
       names:
         - name: Prahova
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Прахова
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Salaj
@@ -943,20 +1587,27 @@ regions:
         iso3166-2: RO-SJ
       names:
         - name: Salaj
-          languages: [cs, da, de, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, fi, fr, hr, it, lt, lv, mt, nl, pt, sk, sl, sv]
         - name: Salaji
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Sălaj
-          languages: [el, et, hu, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [el, et, hu, pl, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Салаж
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Сълаж
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Satu Mare
@@ -965,11 +1616,15 @@ regions:
         iso3166-2: RO-SM
       names:
         - name: Satu Mare
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Сату Маре
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Sibiu
@@ -978,14 +1633,19 @@ regions:
         iso3166-2: RO-SB
       names:
         - name: Sibiu
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Сибиу
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
         - name: Сибињ
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Suceava
@@ -994,14 +1654,19 @@ regions:
         iso3166-2: RO-SV
       names:
         - name: Suceava
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Suczawa
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Сучава
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Teleorman
@@ -1010,14 +1675,19 @@ regions:
         iso3166-2: RO-TR
       names:
         - name: Teleorman
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Teleormani
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Телеорман
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Timis
@@ -1026,23 +1696,31 @@ regions:
         iso3166-2: RO-TM
       names:
         - name: Timis
-          languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, it, lt, lv, mt, pt, sk, sl, sv]
         - name: Timisi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Timiş
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Timiș
-          languages: [hu, nl, pl, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [hu, nl, pl, ro]
+            - name: iso3166-2
+              languages: [ro]
         - name: Тамиш
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Тимиш
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Tulcea
@@ -1051,14 +1729,19 @@ regions:
         iso3166-2: RO-TL
       names:
         - name: Tulcea
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Tulcza
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Тулча
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Vâlcea
@@ -1067,20 +1750,27 @@ regions:
         iso3166-2: RO-VL
       names:
         - name: Valcea
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Vâlcea
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Валча
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Вилча
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Вълча
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Vaslui
@@ -1089,14 +1779,19 @@ regions:
         iso3166-2: RO-VS
       names:
         - name: Vaslui
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Васлуй
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Васлуј
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Vrancea
@@ -1105,8 +1800,12 @@ regions:
         iso3166-2: RO-VN
       names:
         - name: Vrancea
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
         - name: Вранча
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]

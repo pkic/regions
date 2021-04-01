@@ -3,13 +3,15 @@ complete: false
 regions:
     
 
-    # Anse la Raye
+    # Anse Raye
     - codes:
         iso3166-2: LC-01
       names:
-        - name: Anse la Raye
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Anse Raye
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Anse la Raye
     
 
     # Canaries
@@ -17,8 +19,9 @@ regions:
         iso3166-2: LC-12
       names:
         - name: Canaries
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Castries
@@ -26,8 +29,9 @@ regions:
         iso3166-2: LC-02
       names:
         - name: Castries
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Choiseul
@@ -35,8 +39,9 @@ regions:
         iso3166-2: LC-03
       names:
         - name: Choiseul
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Dennery
@@ -44,8 +49,9 @@ regions:
         iso3166-2: LC-05
       names:
         - name: Dennery
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Gros Islet
@@ -53,8 +59,9 @@ regions:
         iso3166-2: LC-06
       names:
         - name: Gros Islet
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Laborie
@@ -62,8 +69,9 @@ regions:
         iso3166-2: LC-07
       names:
         - name: Laborie
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Micoud
@@ -71,8 +79,9 @@ regions:
         iso3166-2: LC-08
       names:
         - name: Micoud
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Soufrière
@@ -80,8 +89,9 @@ regions:
         iso3166-2: LC-10
       names:
         - name: Soufrière
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Vieux Fort
@@ -89,5 +99,6 @@ regions:
         iso3166-2: LC-11
       names:
         - name: Vieux Fort
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

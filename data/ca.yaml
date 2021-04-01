@@ -8,8 +8,9 @@ regions:
         iso3166-2: CA-AB
       names:
         - name: Alberta
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # British Columbia
@@ -17,11 +18,13 @@ regions:
         iso3166-2: CA-BC
       names:
         - name: British Columbia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Colombie-Britannique
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Manitoba
@@ -29,8 +32,9 @@ regions:
         iso3166-2: CA-MB
       names:
         - name: Manitoba
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # New Brunswick
@@ -38,11 +42,13 @@ regions:
         iso3166-2: CA-NB
       names:
         - name: New Brunswick
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Nouveau-Brunswick
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nova Scotia
@@ -50,11 +56,13 @@ regions:
         iso3166-2: CA-NS
       names:
         - name: Nouvelle-Écosse
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nova Scotia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nunavut
@@ -62,8 +70,9 @@ regions:
         iso3166-2: CA-NU
       names:
         - name: Nunavut
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Ontario
@@ -71,8 +80,9 @@ regions:
         iso3166-2: CA-ON
       names:
         - name: Ontario
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Prince Edward Island
@@ -80,11 +90,14 @@ regions:
         iso3166-2: CA-PE
       names:
         - name: Prince Edward Island
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Île-du-Prince-Édouard
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Î Prince-Édouard
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Île-du-Prince-Édouard
     
 
     # Quebec
@@ -92,11 +105,13 @@ regions:
         iso3166-2: CA-QC
       names:
         - name: Quebec
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Québec
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Saskatchewan
@@ -104,8 +119,9 @@ regions:
         iso3166-2: CA-SK
       names:
         - name: Saskatchewan
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Newfoundland and Labrador
@@ -113,11 +129,13 @@ regions:
         iso3166-2: CA-NL
       names:
         - name: Newfoundland and Labrador
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Terre-Neuve-et-Labrador
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Northwest Territories
@@ -125,11 +143,14 @@ regions:
         iso3166-2: CA-NT
       names:
         - name: Northwest Territories
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Territoires du Nord-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Territoires Nord-Ouest
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Territoires du Nord-Ouest
     
 
     # Yukon
@@ -137,5 +158,6 @@ regions:
         iso3166-2: CA-YT
       names:
         - name: Yukon
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]

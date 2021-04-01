@@ -8,8 +8,9 @@ regions:
         iso3166-2: MG-T
       names:
         - name: Antananarivo
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]
     
 
     # Antsiranana
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MG-D
       names:
         - name: Antsiranana
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]
     
 
     # Fianarantsoa
@@ -26,8 +28,9 @@ regions:
         iso3166-2: MG-F
       names:
         - name: Fianarantsoa
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]
     
 
     # Mahajanga
@@ -35,8 +38,9 @@ regions:
         iso3166-2: MG-M
       names:
         - name: Mahajanga
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]
     
 
     # Toamasina
@@ -44,8 +48,9 @@ regions:
         iso3166-2: MG-A
       names:
         - name: Toamasina
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]
     
 
     # Toliara
@@ -53,5 +58,6 @@ regions:
         iso3166-2: MG-U
       names:
         - name: Toliara
-          languages: [mg]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [mg]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: GT-AV
       names:
         - name: Alta Verapaz
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Baja Verapaz
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GT-BV
       names:
         - name: Baja Verapaz
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chimaltenango
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GT-CM
       names:
         - name: Chimaltenango
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chiquimula
@@ -35,17 +38,9 @@ regions:
         iso3166-2: GT-CQ
       names:
         - name: Chiquimula
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # El Progreso
-    - codes:
-        iso3166-2: GT-PR
-      names:
-        - name: El Progreso
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Escuintla
@@ -53,8 +48,9 @@ regions:
         iso3166-2: GT-ES
       names:
         - name: Escuintla
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Guatemala
@@ -62,8 +58,9 @@ regions:
         iso3166-2: GT-GU
       names:
         - name: Guatemala
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Huehuetenango
@@ -71,8 +68,9 @@ regions:
         iso3166-2: GT-HU
       names:
         - name: Huehuetenango
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Izabal
@@ -80,8 +78,9 @@ regions:
         iso3166-2: GT-IZ
       names:
         - name: Izabal
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Jalapa
@@ -89,8 +88,9 @@ regions:
         iso3166-2: GT-JA
       names:
         - name: Jalapa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Jutiapa
@@ -98,8 +98,9 @@ regions:
         iso3166-2: GT-JU
       names:
         - name: Jutiapa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Petén
@@ -107,8 +108,20 @@ regions:
         iso3166-2: GT-PE
       names:
         - name: Petén
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Progreso
+    - codes:
+        iso3166-2: GT-PR
+      names:
+        - name: Progreso
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: El Progreso
     
 
     # Quetzaltenango
@@ -116,8 +129,9 @@ regions:
         iso3166-2: GT-QZ
       names:
         - name: Quetzaltenango
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Quiché
@@ -125,8 +139,9 @@ regions:
         iso3166-2: GT-QC
       names:
         - name: Quiché
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Retalhuleu
@@ -134,8 +149,9 @@ regions:
         iso3166-2: GT-RE
       names:
         - name: Retalhuleu
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Sacatepéquez
@@ -143,8 +159,9 @@ regions:
         iso3166-2: GT-SA
       names:
         - name: Sacatepéquez
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # San Marcos
@@ -152,8 +169,9 @@ regions:
         iso3166-2: GT-SM
       names:
         - name: San Marcos
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Santa Rosa
@@ -161,8 +179,9 @@ regions:
         iso3166-2: GT-SR
       names:
         - name: Santa Rosa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Sololá
@@ -170,8 +189,9 @@ regions:
         iso3166-2: GT-SO
       names:
         - name: Sololá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Suchitepéquez
@@ -179,8 +199,9 @@ regions:
         iso3166-2: GT-SU
       names:
         - name: Suchitepéquez
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Totonicapán
@@ -188,8 +209,9 @@ regions:
         iso3166-2: GT-TO
       names:
         - name: Totonicapán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Zacapa
@@ -197,5 +219,6 @@ regions:
         iso3166-2: GT-ZA
       names:
         - name: Zacapa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

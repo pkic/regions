@@ -8,11 +8,13 @@ regions:
         iso3166-2: DJ-OB
       names:
         - name: Awbūk
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Obock
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Dikhil
@@ -20,11 +22,13 @@ regions:
         iso3166-2: DJ-DI
       names:
         - name: Dikhil
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Dikhīl
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Djibouti
@@ -32,11 +36,13 @@ regions:
         iso3166-2: DJ-DJ
       names:
         - name: Djibouti
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Jībūtī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tadjourah
@@ -44,11 +50,13 @@ regions:
         iso3166-2: DJ-TA
       names:
         - name: Tadjourah
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Tājūrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ali Sabieh
@@ -56,11 +64,13 @@ regions:
         iso3166-2: DJ-AS
       names:
         - name: Ali Sabieh
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: ‘Alī Şabīḩ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Arta
@@ -68,8 +78,10 @@ regions:
         iso3166-2: DJ-AR
       names:
         - name: Arta
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: ‘Artā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

@@ -10,65 +10,88 @@ regions:
         iso3166-2: AT-3
       names:
         - name: Alam-Austria
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Alsó-Ausztria
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Austria Inferioară
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ro]
         - name: Austria e Poshtme
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Baixa Áustria
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Baja Austria
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Basse-Autriche
-          languages: [fr, ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
         - name: Dolna Austria
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Dolné Rakúsko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Dolní Rakousko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Donja Austrija
-          languages: [hr]
-          sources: [euvoc]
-        - name: L-Awstrija ta' Isfel
-          languages: [mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: L-Awstrija ' Isfel
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: L-Awstrija ta' Isfel
         - name: Lejasaustrija
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Lower Austria
-          languages: [en]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
         - name: Niederösterreich
-          languages: [da, de, el, fi, it, nl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, el, fi, it, nl, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Spodnja Avstrija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Žemutinė Austrija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Долна Австрия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Долна Австрија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Доња Аустија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Upper Austria
@@ -77,71 +100,96 @@ regions:
         iso3166-2: AT-4
       names:
         - name: Alta Austria
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Alta Áustria
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Augšaustrija
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Aukštutinė Austrija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Austria Superioară
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ro]
         - name: Austria e Sipërme
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Felső-Ausztria
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Gornja Austrija
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Górna Austria
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Haute-Autriche
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Horné Rakúsko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Horní Rakousko
-          languages: [cs]
-          sources: [euvoc]
-        - name: L-Awstrija ta' Fuq
-          languages: [mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: L-Awstrija ' Fuq
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: L-Awstrija ta' Fuq
         - name: Ober-Österreich
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Oberösterreich
-          languages: [da, de, el, it, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, el, it, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Opper-Oostenrijk
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Upper Austria
-          languages: [en]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
         - name: Zgornja Avstrija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Ülem-Austria
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Горна Австрия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Горна Австрија
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Горња Аустрија
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Carinthia
@@ -149,57 +197,83 @@ regions:
         euvoc: http://eurovoc.europa.eu/6197
         iso3166-2: AT-2
       names:
-        - name: Avstrijska Koroška
-          languages: [sl]
-          sources: [euvoc]
+        - name: Avstrijska Koroš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Avstrijska Koroška
         - name: Carinthia
-          languages: [en, mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, mt]
         - name: Carinthie
-          languages: [fr, ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
         - name: Carintia
-          languages: [es, ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, ro]
         - name: Carinzia
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Caríntia
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Karinthië
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Karintia
-          languages: [hu, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu, sq]
         - name: Karintija
-          languages: [lt, lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt, lv]
         - name: Karyntia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Karyntia (Austria)
         - name: Korutansko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Korutánsko
-          languages: [sk]
-          sources: [euvoc]
-        - name: Koruška
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Koruš
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Koruška
         - name: Kärnten
-          languages: [da, de, et, fi, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, et, fi, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Καρινθία
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Каринтия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Корушка
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Корушка (Австрија)
+            - name: euvoc
+              languages: [sr]
+              value: Корушка (Аустрија)
     
 
     # Vienna
@@ -208,62 +282,84 @@ regions:
         iso3166-2: AT-9
       names:
         - name: Beč
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Bécs
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Dunaj
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Viedeň
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Viena
-          languages: [es, lt, pt, ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, lt, pt, ro]
         - name: Vienna
-          languages: [en, it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, it]
         - name: Vienne
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Viin
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Vjena
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Vjenna
-          languages: [mt]
-          sources: [euvoc]
-        - name: Vídeň
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Ví ň
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Vídeň
         - name: Vín
-          languages: [ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ga]
         - name: Vīne
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Wenen
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Wiedeń
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Wien
-          languages: [da, de, fi, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, fi, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Βιέννη
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Беч
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Виена
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Burgenland
@@ -272,26 +368,35 @@ regions:
         iso3166-2: AT-1
       names:
         - name: Burgenland
-          languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, mt, nl, pl, pt, ro, sk, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, mt, nl, pl, pt, ro, sk, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Burgenlandas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Burgenlande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Burgenlandi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Gradišće
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Gradiščanska
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Бургенланд
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Styria
@@ -300,53 +405,71 @@ regions:
         iso3166-2: AT-6
       names:
         - name: Estiria
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Estíria
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Steiermark
-          languages: [da, de, el, et, fi, ro, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, el, et, fi, ro, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Stiermarken
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Stiria
-          languages: [it, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it, sq]
         - name: Styria
-          languages: [en, mt, pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, mt, pl]
         - name: Styrie
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Stájerország
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Štajerska
-          languages: [hr, sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
         - name: Štajersko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Štirija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Štýrsko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Štīrija
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Штаерска
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Штајерска
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Щайермарк
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Vorarlberg
@@ -355,29 +478,39 @@ regions:
         iso3166-2: AT-8
       names:
         - name: Forarlberga
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Vorarlberg
-          languages: [da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sl, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Vorarlbergas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Vorarlbergu
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Vorarlbersko
-          languages: [cs, sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
         - name: Βόραρλμπεργκ
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Ворарлберг
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Форарлберг
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Salzburg
@@ -386,44 +519,60 @@ regions:
         iso3166-2: AT-5
       names:
         - name: Salcburgu
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Salcbursko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Salisburgo
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Salzbourg
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Salzburg
-          languages: [da, de, en, et, fi, hr, hu, mt, nl, pl, ro, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, en, et, fi, hr, hu, mt, nl, pl, ro, sv]
+            - name: iso3166-2
+              languages: [de]
         - name: Salzburgo
-          languages: [es, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, pt]
         - name: Salzbursko
-          languages: [sk]
-          sources: [euvoc]
-        - name: Salzburška
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Salzburš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Salzburška
         - name: Zalcburga
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Zalcburgas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Σάλτσμπουργκ
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Залцбург
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Салцбург
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Tyrol
@@ -432,41 +581,56 @@ regions:
         iso3166-2: AT-7
       names:
         - name: Tirol
-          languages: [da, de, es, hr, hu, nl, pt, ro]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, es, hr, hu, nl, pt, ro]
+            - name: iso3166-2
+              languages: [de]
         - name: Tirole
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Tiroli
-          languages: [fi, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi, sq]
         - name: Tirolis
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Tirolo
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Tirolska
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Tirolsko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Tirool
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Tyrol
-          languages: [en, fr, mt, pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en, fr, mt, pl]
         - name: Tyrolen
-          languages: [sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sv]
         - name: Tyrolsko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Τιρόλο
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Тирол
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]

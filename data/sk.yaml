@@ -10,62 +10,108 @@ regions:
         iso3166-2: SK-BC
       names:
         - name: Banska Bistricas reģions
-          languages: [lv]
-          sources: [euvoc]
-        - name: Banska Bistricosas
-          languages: [lt]
-          sources: [euvoc]
-        - name: Banskobistrička
-          languages: [hr]
-          sources: [euvoc]
-        - name: Banskobistriški o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Banska Bistricos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Banska Bistricos regionas
+        - name: Banskobistrič
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Banskobistrička regija
+        - name: Banskobistriški okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Banskobystrický
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Banskobystrický kraj
+            - name: euvoc
+              languages: [cs]
+            - name: iso3166-2
+              languages: [sk]
+              value: Banskobystrický kraj
         - name: Banská Bystrica
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione di Banská Bystrica
+            - name: euvoc
+              languages: [nl]
+              value: regio Banská Bystrica
+            - name: euvoc
+              languages: [de]
+              value: Region Banská Bystrica
+            - name: euvoc
+              languages: [en]
+              value: Banská Bystrica region
+            - name: euvoc
+              languages: [fr]
+              value: région de Banská Bystrica
+        - name: Banská Bystrica regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Banská Bystrica régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Banská Bystricaen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Banská Bystrica-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Banská Bystrican
-          languages: [fi]
-          sources: [euvoc]
-        - name: Banská Bystricaon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Banská Bystrican alue
         - name: Bańskobystrzycki
-          languages: [pl]
-          sources: [euvoc]
-        - name: Ir' Banksa Bistrika
-          languages: [mt]
-          sources: [euvoc]
-        - name: a Banská Bystrica
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Banská Bystrica
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Banska Bistricës
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Banská Bystrica
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Bańskobystrzycki
+        - name: Ir ' Banksa Bistrika
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Banksa Bistrika
+        - name: n Banská Bystrica
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Banská Bystrica
+        - name: rajoni Banska Bistricës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Banska Bistricës
+        - name: regiunea Banská Bystrica
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Banská Bystrica
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Banská Bystrica
         - name: Περιοχή της Banská Bystrica
-          languages: [el]
-          sources: [euvoc]
-        - name: Банксобистричка
-          languages: [sr]
-          sources: [euvoc]
-        - name: Банска Бистрица
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Банксобистричка област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Регион Банска Бистрица
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Bratislava
@@ -74,65 +120,113 @@ regions:
         iso3166-2: SK-BL
       names:
         - name: Bratislava
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Region Bratislava
+            - name: euvoc
+              languages: [en]
+              value: Bratislava region
+            - name: euvoc
+              languages: [fr]
+              value: région de Bratislava
+            - name: euvoc
+              languages: [it]
+              value: regione di Bratislava
+            - name: euvoc
+              languages: [nl]
+              value: regio Bratislava
+        - name: Bratislava regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Bratislava régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Bratislavaen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Bratislava-regionen
+          sources:
+            - name: euvoc
+              languages: [da]
         - name: Bratislavan
-          languages: [fi]
-          sources: [euvoc]
-        - name: Bratislavaon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Bratislavan alue
+        - name: Bratislavaregionen
+          sources:
+            - name: euvoc
+              languages: [sv]
         - name: Bratislavas reģions
-          languages: [lv]
-          sources: [euvoc]
-        - name: Bratislavosas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Bratislavos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Bratislavos regionas
         - name: Bratislavska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Bratislavski o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Bratislavska regija
+        - name: Bratislavski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Bratislavský
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+            - name: iso3166-2
+              languages: [sk]
+              value: Bratislavský kraj
         - name: Bratysławski
-          languages: [pl]
-          sources: [euvoc]
-        - name: Ir' Bratislava
-          languages: [mt]
-          sources: [euvoc]
-        - name: a Bratislava
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Bratislava
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Bratisllavës
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Bratislava
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Bratysławski
+        - name: Ir ' Bratislava
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Bratislava
+        - name: n Bratislava
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Bratislava
+        - name: rajoni Bratisllavës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Bratisllavës
+        - name: regiunea Bratislava
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Bratislava
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Bratislava
         - name: Περιοχή Μπρατισλάβας
-          languages: [el]
-          sources: [euvoc]
-        - name: Братислава
-          languages: [bg]
-          sources: [euvoc]
-        - name: Братиславска
-          languages: [sr]
-          sources: [euvoc]
-        - name: Братиславски
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Братислава регион
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Братиславска област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Братиславски Регион
+          sources:
+            - name: euvoc
+              languages: [mk]
     
 
     # Košice
@@ -140,63 +234,107 @@ regions:
         euvoc: http://eurovoc.europa.eu/7839
         iso3166-2: SK-KI
       names:
-        - name: Ir' Kosiċe
-          languages: [mt]
-          sources: [euvoc]
+        - name: Ir ' Kosiċe
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Kosiċe
         - name: Koszycki
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Koszycki
+        - name: Koš č
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Košička regija
+        - name: Koš ški okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Košiški okraj
         - name: Košice
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Region Košice
+            - name: euvoc
+              languages: [en]
+              value: Košice region
+            - name: euvoc
+              languages: [fr]
+              value: région de Košice
+            - name: euvoc
+              languages: [it]
+              value: regione di Košice
+            - name: euvoc
+              languages: [nl]
+              value: regio Košice
+        - name: Košice regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Košice régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Košiceen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Košice-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Košicen
-          languages: [fi]
-          sources: [euvoc]
-        - name: Košiceon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Košicen alue
         - name: Košices reģions
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Košický
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
-        - name: Košicosas
-          languages: [lt]
-          sources: [euvoc]
-        - name: Košička
-          languages: [hr]
-          sources: [euvoc]
-        - name: Košiški o
-          languages: [sl]
-          sources: [euvoc]
-        - name: a Košice
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Košice
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Koshicës
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Košice
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+            - name: iso3166-2
+              languages: [sk]
+              value: Košický kraj
+        - name: Košicos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Košicos regionas
+        - name: n Košice
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Košice
+        - name: rajoni Koshicës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Koshicës
+        - name: regiunea Košice
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Košice
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Košice
         - name: Περιοχή της Košice
-          languages: [el]
-          sources: [euvoc]
-        - name: Кошице
-          languages: [bg, mk]
-          sources: [euvoc]
-        - name: Кошичка
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Кошичка област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: регион Кошице
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Nitra
@@ -204,66 +342,111 @@ regions:
         euvoc: http://eurovoc.europa.eu/7836
         iso3166-2: SK-NI
       names:
-        - name: Ir' Nitra
-          languages: [mt]
-          sources: [euvoc]
+        - name: Ir ' Nitra
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Nitra
         - name: Nitra
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione di Nitra
+            - name: euvoc
+              languages: [nl]
+              value: regio Nitra
+            - name: euvoc
+              languages: [en]
+              value: Nitra region
+            - name: euvoc
+              languages: [de]
+              value: Region Nitra
+            - name: euvoc
+              languages: [fr]
+              value: région de Nitra
+        - name: Nitra regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Nitra régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Nitraen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Nitra-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Nitran
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Nitran alue
         - name: Nitranska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Nitranski o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Nitranska regija
+        - name: Nitranski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Nitranský
-          languages: [cs]
-          sources: [euvoc]
-        - name: Nitraon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Nitras reģions
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Nitriansky
-          languages: [sk]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Nitriansky kraj
+            - name: iso3166-2
+              languages: [sk]
+              value: Nitriansky kraj
         - name: Nitriański
-          languages: [pl]
-          sources: [euvoc]
-        - name: Nitrosas
-          languages: [lt]
-          sources: [euvoc]
-        - name: a Nitra
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Nitra
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Nitrës
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Nitra
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Nitriański
+        - name: Nitros
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Nitros regionas
+        - name: n Nitra
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Nitra
+        - name: rajoni Nitrës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Nitrës
+        - name: regiunea Nitra
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Nitra
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Nitra
         - name: Περιοχή της Nitra
-          languages: [el]
-          sources: [euvoc]
-        - name: Нитра
-          languages: [bg, mk]
-          sources: [euvoc]
-        - name: Нитранска
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Нитранска област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: регион Нитра
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Prešov
@@ -271,63 +454,106 @@ regions:
         euvoc: http://eurovoc.europa.eu/7838
         iso3166-2: SK-PV
       names:
-        - name: Ir' Presov
-          languages: [mt]
-          sources: [euvoc]
+        - name: Ir ' Presov
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Presov
         - name: Preszkowski
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Preszkowski
         - name: Prešov
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: région de Prešov
+            - name: euvoc
+              languages: [de]
+              value: Region Prešov
+            - name: euvoc
+              languages: [nl]
+              value: regio Prešov
+            - name: euvoc
+              languages: [it]
+              value: regione di Prešov
+            - name: euvoc
+              languages: [en]
+              value: Prešov region
         - name: Prešov régiója
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Prešov-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Prešovas reģions
-          languages: [lv]
-          sources: [euvoc]
-        - name: Prešoven
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Prešovi regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Prešovin
-          languages: [fi]
-          sources: [euvoc]
-        - name: Prešovion
-          languages: [et]
-          sources: [euvoc]
-        - name: Prešovoas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Prešovin alue
+        - name: Prešovo
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Prešovo regionas
         - name: Prešovska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Prešovski o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Prešovska regija
+        - name: Prešovski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Prešovský
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
-        - name: a Prešov
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Prešov
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Preshovës
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Prešov
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+            - name: iso3166-2
+              languages: [sk]
+              value: Prešovský kraj
+        - name: n Prešov
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Prešov
+        - name: rajoni Preshovës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Preshovës
+        - name: regiunea Prešov
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Prešov
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Prešov
         - name: Περιοχή της Prešov
-          languages: [el]
-          sources: [euvoc]
-        - name: Прешов
-          languages: [bg, mk]
-          sources: [euvoc]
-        - name: Прешовска
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Прешовска област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: регион Прешов
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
     
 
     # Trenčín
@@ -335,66 +561,115 @@ regions:
         euvoc: http://eurovoc.europa.eu/7835
         iso3166-2: SK-TC
       names:
-        - name: Ir' Trensin
-          languages: [mt]
-          sources: [euvoc]
+        - name: Ir ' Trensin
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Trensin
         - name: Trenciański
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Trenciański
         - name: Trenčiansky
-          languages: [sk]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Trenčiansky kraj
+            - name: iso3166-2
+              languages: [sk]
+              value: Trenčiansky kraj
         - name: Trenčinas reģions
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Trenčinska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Trenčinski o
-          languages: [sl]
-          sources: [euvoc]
-        - name: Trenčynoas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Trenčinska regija
+        - name: Trenčinski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Trenčyno
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Trenčyno regionas
         - name: Trenčín
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Trenčín region
+            - name: euvoc
+              languages: [de]
+              value: Region Trenčín
+            - name: euvoc
+              languages: [it]
+              value: regione di Trenčín
+            - name: euvoc
+              languages: [nl]
+              value: regio Trenčín
+            - name: euvoc
+              languages: [fr]
+              value: région de Trenčín
         - name: Trenčín régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Trenčínen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Trenčín-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Trenčíni regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Trenčínin
-          languages: [fi]
-          sources: [euvoc]
-        - name: Trenčínion
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Trenčínin alue
         - name: Trenčínský
-          languages: [cs]
-          sources: [euvoc]
-        - name: a Trenčín
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Trenčín
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Trençinit
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Trenčin
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: n Trenčin
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Trenčin
+        - name: rajoni Trençinit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Trençinit
+        - name: regiunea Trenčín
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Trenčín
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Trenčín
         - name: Περιοχή της Trenčín
-          languages: [el]
-          sources: [euvoc]
-        - name: Тренчин
-          languages: [bg, mk]
-          sources: [euvoc]
-        - name: Тренчинска
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Регион Тренчин
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Тренчин регион
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Тренчинска област
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Trnava
@@ -402,66 +677,113 @@ regions:
         euvoc: http://eurovoc.europa.eu/7834
         iso3166-2: SK-TA
       names:
-        - name: Ir' Trnava
-          languages: [mt]
-          sources: [euvoc]
+        - name: Ir ' Trnava
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Trnava
         - name: Tarnawski
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Tarnawski
         - name: Trnava
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Region Trnava
+            - name: euvoc
+              languages: [it]
+              value: regione di Trnava
+            - name: euvoc
+              languages: [nl]
+              value: regio Trnava
+            - name: euvoc
+              languages: [en]
+              value: Trnava region
+            - name: euvoc
+              languages: [fr]
+              value: région de Trnava
+        - name: Trnava regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Trnava régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Trnavaen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Trnava-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Trnavan
-          languages: [fi]
-          sources: [euvoc]
-        - name: Trnavaon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Trnavan alue
         - name: Trnavas reģions
-          languages: [lv]
-          sources: [euvoc]
-        - name: Trnavosas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Trnavos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Trnavos regionas
         - name: Trnavska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Trnavski o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Trnavska regija
+        - name: Trnavski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Trnavský
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
-        - name: a Trnava
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Trnava
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Trnavas
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Trnava
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Trnavský kraj
+            - name: euvoc
+              languages: [cs]
+            - name: iso3166-2
+              languages: [sk]
+              value: Trnavský kraj
+        - name: n Trnava
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Trnava
+        - name: rajoni Trnavas
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Trnavas
+        - name: regiunea Trnava
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Trnava
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Trnava
         - name: Περιοχή της Trnava
-          languages: [el]
-          sources: [euvoc]
-        - name: Трнава
-          languages: [mk]
-          sources: [euvoc]
-        - name: Трнавска
-          languages: [sr]
-          sources: [euvoc]
-        - name: Търнава
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Регион Трнава
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Трнавска област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Търнава регион
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Žilina
@@ -469,63 +791,107 @@ regions:
         euvoc: http://eurovoc.europa.eu/7854
         iso3166-2: SK-ZI
       names:
-        - name: Ir' Zilina
-          languages: [mt]
-          sources: [euvoc]
-        - name: a Žilina
-          languages: [ro]
-          sources: [euvoc]
-        - name: e di Žilina
-          languages: [it]
-          sources: [euvoc]
-        - name: i i Zhilinas
-          languages: [sq]
-          sources: [euvoc]
-        - name: n de Zlín
-          languages: [es]
-          sources: [euvoc]
+        - name: Ir ' Zilina
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun ta' Zilina
+        - name: n Zlín
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Zlín
+        - name: rajoni Zhilinas
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Zhilinas
+        - name: regiunea Žilina
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Žilina
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Žilina
         - name: Żyliński
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Żyliński
         - name: Žilina
-          languages: [de, en, fr, nl, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Region Žilina
+            - name: euvoc
+              languages: [fr]
+              value: région de Žilina
+            - name: euvoc
+              languages: [it]
+              value: regione di Žilina
+            - name: euvoc
+              languages: [nl]
+              value: regio Žilina
+            - name: euvoc
+              languages: [en]
+              value: Žilina region
+        - name: Žilina regioon
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Žilina régiója
-          languages: [hu]
-          sources: [euvoc]
-        - name: Žilinaen
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Žilina-regionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Žilinan
-          languages: [fi]
-          sources: [euvoc]
-        - name: Žilinaon
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Žilinan alue
         - name: Žilinas reģions
-          languages: [lv]
-          sources: [euvoc]
-        - name: Žilinosas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Žilinos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Žilinos regionas
         - name: Žilinska
-          languages: [hr]
-          sources: [euvoc]
-        - name: Žilinski o
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Žilinska regija
+        - name: Žilinski okraj
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Žilinský
-          languages: [cs, sk]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+            - name: iso3166-2
+              languages: [sk]
+              value: Žilinský kraj
         - name: Περιοχή της Žilina
-          languages: [el]
-          sources: [euvoc]
-        - name: Жилинска
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Жилинска област
+          sources:
+            - name: euvoc
+              languages: [sr]
         - name: Жилински Крај
-          languages: [mk]
-          sources: [euvoc]
-        - name: Злински
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: регион Злински
+          sources:
+            - name: euvoc
+              languages: [bg]

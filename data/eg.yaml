@@ -8,20 +8,24 @@ regions:
         iso3166-2: EG-DK
       names:
         - name: Ad Daqahlīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Al Baḩr al Aḩmar
+    # Al Baḩr al ḩmar
     - codes:
         iso3166-2: EG-BA
       names:
-        - name: Al Baḩr al Aḩmar
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Al Baḩr al ḩmar
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Al Baḩr al Aḩmar
         - name: Red Sea
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Buḩayrah
@@ -29,8 +33,9 @@ regions:
         iso3166-2: EG-BH
       names:
         - name: Al Buḩayrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Fayyūm
@@ -38,8 +43,9 @@ regions:
         iso3166-2: EG-FYM
       names:
         - name: Al Fayyūm
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Gharbīyah
@@ -47,8 +53,9 @@ regions:
         iso3166-2: EG-GH
       names:
         - name: Al Gharbīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Iskandarīyah
@@ -56,11 +63,13 @@ regions:
         iso3166-2: EG-ALX
       names:
         - name: Al Iskandarīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Alexandria
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Ismā'īlīyah
@@ -68,8 +77,9 @@ regions:
         iso3166-2: EG-IS
       names:
         - name: Al Ismā'īlīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Jīzah
@@ -77,11 +87,13 @@ regions:
         iso3166-2: EG-GZ
       names:
         - name: Al Jīzah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Giza
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Minyā
@@ -89,8 +101,9 @@ regions:
         iso3166-2: EG-MN
       names:
         - name: Al Minyā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Minūfīyah
@@ -98,8 +111,9 @@ regions:
         iso3166-2: EG-MNF
       names:
         - name: Al Minūfīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Qalyūbīyah
@@ -107,8 +121,9 @@ regions:
         iso3166-2: EG-KB
       names:
         - name: Al Qalyūbīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Qāhirah
@@ -116,11 +131,13 @@ regions:
         iso3166-2: EG-C
       names:
         - name: Al Qāhirah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Cairo
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Uqşur
@@ -128,11 +145,13 @@ regions:
         iso3166-2: EG-LX
       names:
         - name: Al Uqşur
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Luxor
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Wādī al Jadīd
@@ -140,11 +159,13 @@ regions:
         iso3166-2: EG-WAD
       names:
         - name: Al Wādī al Jadīd
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: New Valley
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # As Suways
@@ -152,11 +173,13 @@ regions:
         iso3166-2: EG-SUZ
       names:
         - name: As Suways
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Suez
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Sharqīyah
@@ -164,8 +187,9 @@ regions:
         iso3166-2: EG-SHR
       names:
         - name: Ash Sharqīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Aswān
@@ -173,8 +197,9 @@ regions:
         iso3166-2: EG-ASN
       names:
         - name: Aswān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Asyūţ
@@ -182,8 +207,9 @@ regions:
         iso3166-2: EG-AST
       names:
         - name: Asyūţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Banī Suwayf
@@ -191,8 +217,9 @@ regions:
         iso3166-2: EG-BNS
       names:
         - name: Banī Suwayf
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Būr Sa‘īd
@@ -200,11 +227,13 @@ regions:
         iso3166-2: EG-PTS
       names:
         - name: Būr Sa‘īd
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Port Said
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Damietta
@@ -212,11 +241,13 @@ regions:
         iso3166-2: EG-DT
       names:
         - name: Damietta
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Dumyāţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Janūb Sīnā'
@@ -224,11 +255,13 @@ regions:
         iso3166-2: EG-JS
       names:
         - name: Janūb Sīnā'
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: South Sinai
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Kafr ash Shaykh
@@ -236,8 +269,9 @@ regions:
         iso3166-2: EG-KFS
       names:
         - name: Kafr ash Shaykh
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Maţrūḩ
@@ -245,8 +279,9 @@ regions:
         iso3166-2: EG-MT
       names:
         - name: Maţrūḩ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Qinā
@@ -254,8 +289,9 @@ regions:
         iso3166-2: EG-KN
       names:
         - name: Qinā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # North Sinai
@@ -263,11 +299,13 @@ regions:
         iso3166-2: EG-SIN
       names:
         - name: North Sinai
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Shamāl Sīnā'
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sohag
@@ -275,8 +313,10 @@ regions:
         iso3166-2: EG-SHG
       names:
         - name: Sohag
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Sūhāj
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

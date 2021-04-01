@@ -8,8 +8,9 @@ regions:
         iso3166-2: PA-1
       names:
         - name: Bocas del Toro
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chiriquí
@@ -17,8 +18,9 @@ regions:
         iso3166-2: PA-4
       names:
         - name: Chiriquí
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Coclé
@@ -26,8 +28,9 @@ regions:
         iso3166-2: PA-2
       names:
         - name: Coclé
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Colón
@@ -35,8 +38,9 @@ regions:
         iso3166-2: PA-3
       names:
         - name: Colón
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Darién
@@ -44,8 +48,9 @@ regions:
         iso3166-2: PA-5
       names:
         - name: Darién
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Emberá
@@ -53,8 +58,9 @@ regions:
         iso3166-2: PA-EM
       names:
         - name: Emberá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Guna Yala
@@ -62,11 +68,13 @@ regions:
         iso3166-2: PA-KY
       names:
         - name: Guna Yala
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Kuna Yala
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Herrera
@@ -74,8 +82,9 @@ regions:
         iso3166-2: PA-6
       names:
         - name: Herrera
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Los Santos
@@ -83,17 +92,9 @@ regions:
         iso3166-2: PA-7
       names:
         - name: Los Santos
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # Ngöbe-Buglé
-    - codes:
-        iso3166-2: PA-NB
-      names:
-        - name: Ngöbe-Buglé
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Panamá
@@ -101,8 +102,9 @@ regions:
         iso3166-2: PA-8
       names:
         - name: Panamá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Panamá Oeste
@@ -110,8 +112,9 @@ regions:
         iso3166-2: PA-10
       names:
         - name: Panamá Oeste
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Veraguas
@@ -119,5 +122,17 @@ regions:
         iso3166-2: PA-9
       names:
         - name: Veraguas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # öbe-Buglé
+    - codes:
+        iso3166-2: PA-NB
+      names:
+        - name: öbe-Buglé
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Ngöbe-Buglé

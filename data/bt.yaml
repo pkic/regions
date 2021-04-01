@@ -8,8 +8,9 @@ regions:
         iso3166-2: BT-33
       names:
         - name: Bumthang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Chhukha
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BT-12
       names:
         - name: Chhukha
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Dagana
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BT-22
       names:
         - name: Dagana
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Gasa
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BT-GA
       names:
         - name: Gasa
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Haa
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BT-13
       names:
         - name: Haa
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Lhuentse
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BT-44
       names:
         - name: Lhuentse
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Monggar
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BT-42
       names:
         - name: Monggar
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Paro
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BT-11
       names:
         - name: Paro
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Pema Gatshel
@@ -80,8 +88,9 @@ regions:
         iso3166-2: BT-43
       names:
         - name: Pema Gatshel
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Punakha
@@ -89,8 +98,9 @@ regions:
         iso3166-2: BT-23
       names:
         - name: Punakha
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Samdrup Jongkhar
@@ -98,8 +108,9 @@ regions:
         iso3166-2: BT-45
       names:
         - name: Samdrup Jongkhar
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Samtse
@@ -107,8 +118,9 @@ regions:
         iso3166-2: BT-14
       names:
         - name: Samtse
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Sarpang
@@ -116,8 +128,9 @@ regions:
         iso3166-2: BT-31
       names:
         - name: Sarpang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Thimphu
@@ -125,8 +138,9 @@ regions:
         iso3166-2: BT-15
       names:
         - name: Thimphu
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Trashi Yangtse
@@ -134,8 +148,9 @@ regions:
         iso3166-2: BT-TY
       names:
         - name: Trashi Yangtse
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Trashigang
@@ -143,8 +158,9 @@ regions:
         iso3166-2: BT-41
       names:
         - name: Trashigang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Trongsa
@@ -152,8 +168,9 @@ regions:
         iso3166-2: BT-32
       names:
         - name: Trongsa
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Tsirang
@@ -161,8 +178,9 @@ regions:
         iso3166-2: BT-21
       names:
         - name: Tsirang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Wangdue Phodrang
@@ -170,8 +188,9 @@ regions:
         iso3166-2: BT-24
       names:
         - name: Wangdue Phodrang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]
     
 
     # Zhemgang
@@ -179,5 +198,6 @@ regions:
         iso3166-2: BT-34
       names:
         - name: Zhemgang
-          languages: [dz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dz]

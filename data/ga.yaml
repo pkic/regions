@@ -8,8 +8,9 @@ regions:
         iso3166-2: GA-1
       names:
         - name: Estuaire
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Haut-Ogooué
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GA-2
       names:
         - name: Haut-Ogooué
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Moyen-Ogooué
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GA-3
       names:
         - name: Moyen-Ogooué
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ngounié
@@ -35,8 +38,9 @@ regions:
         iso3166-2: GA-4
       names:
         - name: Ngounié
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nyanga
@@ -44,8 +48,9 @@ regions:
         iso3166-2: GA-5
       names:
         - name: Nyanga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ogooué-Ivindo
@@ -53,8 +58,9 @@ regions:
         iso3166-2: GA-6
       names:
         - name: Ogooué-Ivindo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ogooué-Lolo
@@ -62,8 +68,9 @@ regions:
         iso3166-2: GA-7
       names:
         - name: Ogooué-Lolo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ogooué-Maritime
@@ -71,8 +78,9 @@ regions:
         iso3166-2: GA-8
       names:
         - name: Ogooué-Maritime
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Woleu-Ntem
@@ -80,5 +88,6 @@ regions:
         iso3166-2: GA-9
       names:
         - name: Woleu-Ntem
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

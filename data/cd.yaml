@@ -3,13 +3,26 @@ complete: false
 regions:
     
 
-    # Bas-Uélé
+    # Bas élé
     - codes:
         iso3166-2: CD-BU
       names:
-        - name: Bas-Uélé
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Bas élé
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Bas-Uélé
+    
+
+    # Haut élé
+    - codes:
+        iso3166-2: CD-HU
+      names:
+        - name: Haut élé
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Haut-Uélé
     
 
     # Haut-Katanga
@@ -17,8 +30,9 @@ regions:
         iso3166-2: CD-HK
       names:
         - name: Haut-Katanga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Haut-Lomami
@@ -26,17 +40,9 @@ regions:
         iso3166-2: CD-HL
       names:
         - name: Haut-Lomami
-          languages: [fr]
-          sources: [iso3166-2]
-    
-
-    # Haut-Uélé
-    - codes:
-        iso3166-2: CD-HU
-      names:
-        - name: Haut-Uélé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ituri
@@ -44,8 +50,9 @@ regions:
         iso3166-2: CD-IT
       names:
         - name: Ituri
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kasaï
@@ -53,8 +60,9 @@ regions:
         iso3166-2: CD-KS
       names:
         - name: Kasaï
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kasaï Central
@@ -62,8 +70,9 @@ regions:
         iso3166-2: CD-KC
       names:
         - name: Kasaï Central
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kasaï Oriental
@@ -71,8 +80,9 @@ regions:
         iso3166-2: CD-KE
       names:
         - name: Kasaï Oriental
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kinshasa
@@ -80,8 +90,9 @@ regions:
         iso3166-2: CD-KN
       names:
         - name: Kinshasa
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kongo Central
@@ -89,8 +100,9 @@ regions:
         iso3166-2: CD-BC
       names:
         - name: Kongo Central
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kwango
@@ -98,8 +110,9 @@ regions:
         iso3166-2: CD-KG
       names:
         - name: Kwango
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kwilu
@@ -107,8 +120,9 @@ regions:
         iso3166-2: CD-KL
       names:
         - name: Kwilu
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Lomami
@@ -116,8 +130,9 @@ regions:
         iso3166-2: CD-LO
       names:
         - name: Lomami
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Lualaba
@@ -125,8 +140,9 @@ regions:
         iso3166-2: CD-LU
       names:
         - name: Lualaba
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Mai-Ndombe
@@ -134,8 +150,9 @@ regions:
         iso3166-2: CD-MN
       names:
         - name: Mai-Ndombe
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Maniema
@@ -143,8 +160,9 @@ regions:
         iso3166-2: CD-MA
       names:
         - name: Maniema
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Mongala
@@ -152,8 +170,9 @@ regions:
         iso3166-2: CD-MO
       names:
         - name: Mongala
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nord-Kivu
@@ -161,8 +180,9 @@ regions:
         iso3166-2: CD-NK
       names:
         - name: Nord-Kivu
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nord-Ubangi
@@ -170,8 +190,9 @@ regions:
         iso3166-2: CD-NU
       names:
         - name: Nord-Ubangi
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sankuru
@@ -179,8 +200,9 @@ regions:
         iso3166-2: CD-SA
       names:
         - name: Sankuru
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sud-Kivu
@@ -188,8 +210,9 @@ regions:
         iso3166-2: CD-SK
       names:
         - name: Sud-Kivu
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sud-Ubangi
@@ -197,8 +220,9 @@ regions:
         iso3166-2: CD-SU
       names:
         - name: Sud-Ubangi
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tanganyika
@@ -206,8 +230,9 @@ regions:
         iso3166-2: CD-TA
       names:
         - name: Tanganyika
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tshopo
@@ -215,8 +240,9 @@ regions:
         iso3166-2: CD-TO
       names:
         - name: Tshopo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tshuapa
@@ -224,8 +250,9 @@ regions:
         iso3166-2: CD-TU
       names:
         - name: Tshuapa
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Équateur
@@ -233,5 +260,6 @@ regions:
         iso3166-2: CD-EQ
       names:
         - name: Équateur
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

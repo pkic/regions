@@ -8,8 +8,9 @@ regions:
         iso3166-2: SG-01
       names:
         - name: Central Singapore
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North East
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SG-02
       names:
         - name: North East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North West
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SG-03
       names:
         - name: North West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South East
@@ -35,8 +38,9 @@ regions:
         iso3166-2: SG-04
       names:
         - name: South East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South West
@@ -44,5 +48,6 @@ regions:
         iso3166-2: SG-05
       names:
         - name: South West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: MA-AGD
       names:
         - name: Agadir-Ida-Ou-Tanane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Haouz
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MA-HAO
       names:
         - name: Al Haouz
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Hoceïma
@@ -26,8 +28,9 @@ regions:
         iso3166-2: MA-HOC
       names:
         - name: Al Hoceïma
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Aousserd
@@ -35,8 +38,10 @@ regions:
         iso3166-2: MA-AOU
       names:
         - name: Aousserd
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Aousserd (EH)
     
 
     # Assa-Zag
@@ -44,8 +49,10 @@ regions:
         iso3166-2: MA-ASZ
       names:
         - name: Assa-Zag
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Assa-Zag (EH-partial)
     
 
     # Azilal
@@ -53,8 +60,9 @@ regions:
         iso3166-2: MA-AZI
       names:
         - name: Azilal
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Benslimane
@@ -62,8 +70,9 @@ regions:
         iso3166-2: MA-BES
       names:
         - name: Benslimane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Berkane
@@ -71,8 +80,9 @@ regions:
         iso3166-2: MA-BER
       names:
         - name: Berkane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Berrechid
@@ -80,8 +90,9 @@ regions:
         iso3166-2: MA-BRR
       names:
         - name: Berrechid
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Boujdour
@@ -89,8 +100,10 @@ regions:
         iso3166-2: MA-BOD
       names:
         - name: Boujdour
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Boujdour (EH)
     
 
     # Boulemane
@@ -98,8 +111,9 @@ regions:
         iso3166-2: MA-BOM
       names:
         - name: Boulemane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Béni Mellal
@@ -107,8 +121,9 @@ regions:
         iso3166-2: MA-BEM
       names:
         - name: Béni Mellal
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Béni Mellal-Khénifra
@@ -116,8 +131,9 @@ regions:
         iso3166-2: MA-05
       names:
         - name: Béni Mellal-Khénifra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Casablanca
@@ -125,11 +141,14 @@ regions:
         iso3166-2: MA-CAS
       names:
         - name: Casablanca
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: Dar el Beïda
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: Dar Beï
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Dar el Beïda
     
 
     # Casablanca-Settat
@@ -137,8 +156,9 @@ regions:
         iso3166-2: MA-06
       names:
         - name: Casablanca-Settat
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Chefchaouen
@@ -146,8 +166,9 @@ regions:
         iso3166-2: MA-CHE
       names:
         - name: Chefchaouen
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Chichaoua
@@ -155,8 +176,9 @@ regions:
         iso3166-2: MA-CHI
       names:
         - name: Chichaoua
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Chtouka-Ait Baha
@@ -164,8 +186,9 @@ regions:
         iso3166-2: MA-CHT
       names:
         - name: Chtouka-Ait Baha
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dakhla-Oued Ed-Dahab
@@ -173,8 +196,10 @@ regions:
         iso3166-2: MA-12
       names:
         - name: Dakhla-Oued Ed-Dahab
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Dakhla-Oued Ed-Dahab (EH)
     
 
     # Driouch
@@ -182,44 +207,20 @@ regions:
         iso3166-2: MA-DRI
       names:
         - name: Driouch
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Drâa-Tafilalet
+    # Drâ Tafilalet
     - codes:
         iso3166-2: MA-08
       names:
-        - name: Drâa-Tafilalet
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # El Hajeb
-    - codes:
-        iso3166-2: MA-HAJ
-      names:
-        - name: El Hajeb
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # El Jadida
-    - codes:
-        iso3166-2: MA-JDI
-      names:
-        - name: El Jadida
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # El Kelâa des Sraghna
-    - codes:
-        iso3166-2: MA-KES
-      names:
-        - name: El Kelâa des Sraghna
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Drâ Tafilalet
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Drâa-Tafilalet
     
 
     # Errachidia
@@ -227,8 +228,9 @@ regions:
         iso3166-2: MA-ERR
       names:
         - name: Errachidia
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Es-Semara
@@ -236,8 +238,10 @@ regions:
         iso3166-2: MA-ESM
       names:
         - name: Es-Semara
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Es-Semara (EH-partial)
     
 
     # Essaouira
@@ -245,8 +249,9 @@ regions:
         iso3166-2: MA-ESI
       names:
         - name: Essaouira
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Fahs-Anjra
@@ -254,8 +259,9 @@ regions:
         iso3166-2: MA-FAH
       names:
         - name: Fahs-Anjra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Figuig
@@ -263,8 +269,9 @@ regions:
         iso3166-2: MA-FIG
       names:
         - name: Figuig
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Fquih Ben Salah
@@ -272,8 +279,9 @@ regions:
         iso3166-2: MA-FQH
       names:
         - name: Fquih Ben Salah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Fès
@@ -281,8 +289,9 @@ regions:
         iso3166-2: MA-FES
       names:
         - name: Fès
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Fès-Meknès
@@ -290,8 +299,9 @@ regions:
         iso3166-2: MA-03
       names:
         - name: Fès-Meknès
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Guelmim
@@ -299,8 +309,9 @@ regions:
         iso3166-2: MA-GUE
       names:
         - name: Guelmim
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Guelmim-Oued Noun
@@ -308,8 +319,10 @@ regions:
         iso3166-2: MA-10
       names:
         - name: Guelmim-Oued Noun
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Guelmim-Oued Noun (EH-partial)
     
 
     # Guercif
@@ -317,8 +330,20 @@ regions:
         iso3166-2: MA-GUF
       names:
         - name: Guercif
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Hajeb
+    - codes:
+        iso3166-2: MA-HAJ
+      names:
+        - name: Hajeb
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Hajeb
     
 
     # Ifrane
@@ -326,8 +351,9 @@ regions:
         iso3166-2: MA-IFR
       names:
         - name: Ifrane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Inezgane-Ait Melloul
@@ -335,8 +361,20 @@ regions:
         iso3166-2: MA-INE
       names:
         - name: Inezgane-Ait Melloul
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Jadida
+    - codes:
+        iso3166-2: MA-JDI
+      names:
+        - name: Jadida
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Jadida
     
 
     # Jerada
@@ -344,8 +382,20 @@ regions:
         iso3166-2: MA-JRA
       names:
         - name: Jerada
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Kelâ des Sraghna
+    - codes:
+        iso3166-2: MA-KES
+      names:
+        - name: Kelâ des Sraghna
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Kelâa des Sraghna
     
 
     # Khouribga
@@ -353,8 +403,9 @@ regions:
         iso3166-2: MA-KHO
       names:
         - name: Khouribga
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Khémisset
@@ -362,8 +413,9 @@ regions:
         iso3166-2: MA-KHE
       names:
         - name: Khémisset
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Khénifra
@@ -371,8 +423,9 @@ regions:
         iso3166-2: MA-KHN
       names:
         - name: Khénifra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Kénitra
@@ -380,17 +433,9 @@ regions:
         iso3166-2: MA-KEN
       names:
         - name: Kénitra
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # L'Oriental
-    - codes:
-        iso3166-2: MA-02
-      names:
-        - name: L'Oriental
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Larache
@@ -398,26 +443,9 @@ regions:
         iso3166-2: MA-LAR
       names:
         - name: Larache
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Laâyoune
-    - codes:
-        iso3166-2: MA-LAA
-      names:
-        - name: Laâyoune
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Laâyoune-Sakia El Hamra
-    - codes:
-        iso3166-2: MA-11
-      names:
-        - name: Laâyoune-Sakia El Hamra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Marrakech
@@ -425,8 +453,9 @@ regions:
         iso3166-2: MA-MAR
       names:
         - name: Marrakech
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Marrakech-Safi
@@ -434,8 +463,9 @@ regions:
         iso3166-2: MA-07
       names:
         - name: Marrakech-Safi
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Meknès
@@ -443,8 +473,9 @@ regions:
         iso3166-2: MA-MEK
       names:
         - name: Meknès
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Midelt
@@ -452,8 +483,9 @@ regions:
         iso3166-2: MA-MID
       names:
         - name: Midelt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Mohammadia
@@ -461,8 +493,9 @@ regions:
         iso3166-2: MA-MOH
       names:
         - name: Mohammadia
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Moulay Yacoub
@@ -470,8 +503,9 @@ regions:
         iso3166-2: MA-MOU
       names:
         - name: Moulay Yacoub
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Médiouna
@@ -479,8 +513,9 @@ regions:
         iso3166-2: MA-MED
       names:
         - name: Médiouna
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # M’diq-Fnideq
@@ -488,8 +523,9 @@ regions:
         iso3166-2: MA-MDF
       names:
         - name: M’diq-Fnideq
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nador
@@ -497,8 +533,9 @@ regions:
         iso3166-2: MA-NAD
       names:
         - name: Nador
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nouaceur
@@ -506,8 +543,20 @@ regions:
         iso3166-2: MA-NOU
       names:
         - name: Nouaceur
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Oriental
+    - codes:
+        iso3166-2: MA-02
+      names:
+        - name: Oriental
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: L'Oriental
     
 
     # Ouarzazate
@@ -515,8 +564,9 @@ regions:
         iso3166-2: MA-OUA
       names:
         - name: Ouarzazate
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Oued Ed-Dahab
@@ -524,8 +574,10 @@ regions:
         iso3166-2: MA-OUD
       names:
         - name: Oued Ed-Dahab
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Oued Ed-Dahab (EH)
     
 
     # Ouezzane
@@ -533,8 +585,9 @@ regions:
         iso3166-2: MA-OUZ
       names:
         - name: Ouezzane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Oujda-Angad
@@ -542,8 +595,9 @@ regions:
         iso3166-2: MA-OUJ
       names:
         - name: Oujda-Angad
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Rabat
@@ -551,8 +605,9 @@ regions:
         iso3166-2: MA-RAB
       names:
         - name: Rabat
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Rabat-Salé-Kénitra
@@ -560,8 +615,9 @@ regions:
         iso3166-2: MA-04
       names:
         - name: Rabat-Salé-Kénitra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Rehamna
@@ -569,8 +625,9 @@ regions:
         iso3166-2: MA-REH
       names:
         - name: Rehamna
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Safi
@@ -578,8 +635,9 @@ regions:
         iso3166-2: MA-SAF
       names:
         - name: Safi
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Salé
@@ -587,8 +645,9 @@ regions:
         iso3166-2: MA-SAL
       names:
         - name: Salé
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sefrou
@@ -596,8 +655,9 @@ regions:
         iso3166-2: MA-SEF
       names:
         - name: Sefrou
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Settat
@@ -605,8 +665,9 @@ regions:
         iso3166-2: MA-SET
       names:
         - name: Settat
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sidi Bennour
@@ -614,8 +675,9 @@ regions:
         iso3166-2: MA-SIB
       names:
         - name: Sidi Bennour
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sidi Ifni
@@ -623,8 +685,9 @@ regions:
         iso3166-2: MA-SIF
       names:
         - name: Sidi Ifni
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sidi Kacem
@@ -632,8 +695,9 @@ regions:
         iso3166-2: MA-SIK
       names:
         - name: Sidi Kacem
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sidi Slimane
@@ -641,8 +705,9 @@ regions:
         iso3166-2: MA-SIL
       names:
         - name: Sidi Slimane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Skhirate-Témara
@@ -650,8 +715,9 @@ regions:
         iso3166-2: MA-SKH
       names:
         - name: Skhirate-Témara
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Souss-Massa
@@ -659,8 +725,9 @@ regions:
         iso3166-2: MA-09
       names:
         - name: Souss-Massa
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tan-Tan
@@ -668,8 +735,10 @@ regions:
         iso3166-2: MA-TNT
       names:
         - name: Tan-Tan
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Tan-Tan (EH-partial)
     
 
     # Tanger-Assilah
@@ -677,8 +746,9 @@ regions:
         iso3166-2: MA-TNG
       names:
         - name: Tanger-Assilah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tanger-Tétouan-Al Hoceïma
@@ -686,8 +756,9 @@ regions:
         iso3166-2: MA-01
       names:
         - name: Tanger-Tétouan-Al Hoceïma
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Taounate
@@ -695,8 +766,9 @@ regions:
         iso3166-2: MA-TAO
       names:
         - name: Taounate
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Taourirt
@@ -704,8 +776,9 @@ regions:
         iso3166-2: MA-TAI
       names:
         - name: Taourirt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tarfaya
@@ -713,8 +786,10 @@ regions:
         iso3166-2: MA-TAF
       names:
         - name: Tarfaya
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Tarfaya (EH-partial)
     
 
     # Taroudannt
@@ -722,8 +797,9 @@ regions:
         iso3166-2: MA-TAR
       names:
         - name: Taroudannt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tata
@@ -731,8 +807,9 @@ regions:
         iso3166-2: MA-TAT
       names:
         - name: Tata
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Taza
@@ -740,8 +817,9 @@ regions:
         iso3166-2: MA-TAZ
       names:
         - name: Taza
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tinghir
@@ -749,8 +827,9 @@ regions:
         iso3166-2: MA-TIN
       names:
         - name: Tinghir
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tiznit
@@ -758,8 +837,9 @@ regions:
         iso3166-2: MA-TIZ
       names:
         - name: Tiznit
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tétouan
@@ -767,8 +847,9 @@ regions:
         iso3166-2: MA-TET
       names:
         - name: Tétouan
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Youssoufia
@@ -776,8 +857,9 @@ regions:
         iso3166-2: MA-YUS
       names:
         - name: Youssoufia
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Zagora
@@ -785,5 +867,28 @@ regions:
         iso3166-2: MA-ZAG
       names:
         - name: Zagora
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # âyoune
+    - codes:
+        iso3166-2: MA-LAA
+      names:
+        - name: âyoune
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Laâyoune (EH)
+    
+
+    # âyoune-Sakia Hamra
+    - codes:
+        iso3166-2: MA-11
+      names:
+        - name: âyoune-Sakia Hamra
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Laâyoune-Sakia El Hamra (EH-partial)

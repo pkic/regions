@@ -8,8 +8,9 @@ regions:
         iso3166-2: BJ-AL
       names:
         - name: Alibori
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Atacora
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BJ-AK
       names:
         - name: Atacora
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Atlantique
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BJ-AQ
       names:
         - name: Atlantique
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Borgou
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BJ-BO
       names:
         - name: Borgou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Collines
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BJ-CO
       names:
         - name: Collines
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Couffo
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BJ-KO
       names:
         - name: Couffo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Donga
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BJ-DO
       names:
         - name: Donga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Littoral
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BJ-LI
       names:
         - name: Littoral
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Mono
@@ -80,8 +88,9 @@ regions:
         iso3166-2: BJ-MO
       names:
         - name: Mono
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ouémé
@@ -89,8 +98,9 @@ regions:
         iso3166-2: BJ-OU
       names:
         - name: Ouémé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Plateau
@@ -98,8 +108,9 @@ regions:
         iso3166-2: BJ-PL
       names:
         - name: Plateau
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Zou
@@ -107,5 +118,6 @@ regions:
         iso3166-2: BJ-ZO
       names:
         - name: Zou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

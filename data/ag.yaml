@@ -8,8 +8,9 @@ regions:
         iso3166-2: AG-10
       names:
         - name: Barbuda
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Redonda
@@ -17,8 +18,9 @@ regions:
         iso3166-2: AG-11
       names:
         - name: Redonda
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint George
@@ -26,8 +28,9 @@ regions:
         iso3166-2: AG-03
       names:
         - name: Saint George
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint John
@@ -35,8 +38,9 @@ regions:
         iso3166-2: AG-04
       names:
         - name: Saint John
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Mary
@@ -44,8 +48,9 @@ regions:
         iso3166-2: AG-05
       names:
         - name: Saint Mary
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Paul
@@ -53,8 +58,9 @@ regions:
         iso3166-2: AG-06
       names:
         - name: Saint Paul
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Peter
@@ -62,8 +68,9 @@ regions:
         iso3166-2: AG-07
       names:
         - name: Saint Peter
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Philip
@@ -71,5 +78,6 @@ regions:
         iso3166-2: AG-08
       names:
         - name: Saint Philip
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

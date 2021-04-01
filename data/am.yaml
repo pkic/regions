@@ -8,8 +8,9 @@ regions:
         iso3166-2: AM-AG
       names:
         - name: Aragac̣otn
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Ararat
@@ -17,8 +18,9 @@ regions:
         iso3166-2: AM-AR
       names:
         - name: Ararat
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Armavir
@@ -26,8 +28,9 @@ regions:
         iso3166-2: AM-AV
       names:
         - name: Armavir
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Erevan
@@ -35,8 +38,9 @@ regions:
         iso3166-2: AM-ER
       names:
         - name: Erevan
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Geġark'unik'
@@ -44,8 +48,9 @@ regions:
         iso3166-2: AM-GR
       names:
         - name: Geġark'unik'
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Kotayk'
@@ -53,17 +58,20 @@ regions:
         iso3166-2: AM-KT
       names:
         - name: Kotayk'
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
-    # Loṙi
+    # Loṙ
     - codes:
         iso3166-2: AM-LO
       names:
-        - name: Loṙi
-          languages: [hy]
-          sources: [iso3166-2]
+        - name: Loṙ
+          sources:
+            - name: iso3166-2
+              languages: [hy]
+              value: Loṙi
     
 
     # Syunik'
@@ -71,8 +79,9 @@ regions:
         iso3166-2: AM-SU
       names:
         - name: Syunik'
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Tavuš
@@ -80,8 +89,9 @@ regions:
         iso3166-2: AM-TV
       names:
         - name: Tavuš
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Vayoć Jor
@@ -89,8 +99,9 @@ regions:
         iso3166-2: AM-VD
       names:
         - name: Vayoć Jor
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]
     
 
     # Širak
@@ -98,5 +109,6 @@ regions:
         iso3166-2: AM-SH
       names:
         - name: Širak
-          languages: [hy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [hy]

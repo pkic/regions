@@ -8,8 +8,9 @@ regions:
         iso3166-2: DM-02
       names:
         - name: Saint Andrew
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint David
@@ -17,8 +18,9 @@ regions:
         iso3166-2: DM-03
       names:
         - name: Saint David
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint George
@@ -26,8 +28,9 @@ regions:
         iso3166-2: DM-04
       names:
         - name: Saint George
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint John
@@ -35,8 +38,9 @@ regions:
         iso3166-2: DM-05
       names:
         - name: Saint John
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Joseph
@@ -44,8 +48,9 @@ regions:
         iso3166-2: DM-06
       names:
         - name: Saint Joseph
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Luke
@@ -53,8 +58,9 @@ regions:
         iso3166-2: DM-07
       names:
         - name: Saint Luke
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Mark
@@ -62,8 +68,9 @@ regions:
         iso3166-2: DM-08
       names:
         - name: Saint Mark
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Patrick
@@ -71,8 +78,9 @@ regions:
         iso3166-2: DM-09
       names:
         - name: Saint Patrick
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Paul
@@ -80,8 +88,9 @@ regions:
         iso3166-2: DM-10
       names:
         - name: Saint Paul
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Peter
@@ -89,5 +98,6 @@ regions:
         iso3166-2: DM-11
       names:
         - name: Saint Peter
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

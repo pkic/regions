@@ -8,8 +8,9 @@ regions:
         iso3166-2: US-AL
       names:
         - name: Alabama
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Alaska
@@ -17,8 +18,9 @@ regions:
         iso3166-2: US-AK
       names:
         - name: Alaska
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # American Samoa
@@ -26,8 +28,10 @@ regions:
         iso3166-2: US-AS
       names:
         - name: American Samoa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: American Samoa (see also separate country code entry under AS)
     
 
     # Arizona
@@ -35,8 +39,9 @@ regions:
         iso3166-2: US-AZ
       names:
         - name: Arizona
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Arkansas
@@ -44,8 +49,9 @@ regions:
         iso3166-2: US-AR
       names:
         - name: Arkansas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # California
@@ -53,8 +59,9 @@ regions:
         iso3166-2: US-CA
       names:
         - name: California
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Colorado
@@ -62,8 +69,9 @@ regions:
         iso3166-2: US-CO
       names:
         - name: Colorado
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Connecticut
@@ -71,8 +79,9 @@ regions:
         iso3166-2: US-CT
       names:
         - name: Connecticut
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Delaware
@@ -80,17 +89,20 @@ regions:
         iso3166-2: US-DE
       names:
         - name: Delaware
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # District of Columbia
+    # District Columbia
     - codes:
         iso3166-2: US-DC
       names:
-        - name: District of Columbia
-          languages: [en]
-          sources: [iso3166-2]
+        - name: District Columbia
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: District of Columbia
     
 
     # Florida
@@ -98,8 +110,9 @@ regions:
         iso3166-2: US-FL
       names:
         - name: Florida
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Georgia
@@ -107,8 +120,9 @@ regions:
         iso3166-2: US-GA
       names:
         - name: Georgia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Guam
@@ -116,8 +130,10 @@ regions:
         iso3166-2: US-GU
       names:
         - name: Guam
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Guam (see also separate country code entry under GU)
     
 
     # Hawaii
@@ -125,8 +141,9 @@ regions:
         iso3166-2: US-HI
       names:
         - name: Hawaii
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Idaho
@@ -134,8 +151,9 @@ regions:
         iso3166-2: US-ID
       names:
         - name: Idaho
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Illinois
@@ -143,8 +161,9 @@ regions:
         iso3166-2: US-IL
       names:
         - name: Illinois
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Indiana
@@ -152,8 +171,9 @@ regions:
         iso3166-2: US-IN
       names:
         - name: Indiana
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Iowa
@@ -161,8 +181,9 @@ regions:
         iso3166-2: US-IA
       names:
         - name: Iowa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kansas
@@ -170,8 +191,9 @@ regions:
         iso3166-2: US-KS
       names:
         - name: Kansas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kentucky
@@ -179,8 +201,9 @@ regions:
         iso3166-2: US-KY
       names:
         - name: Kentucky
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Louisiana
@@ -188,8 +211,9 @@ regions:
         iso3166-2: US-LA
       names:
         - name: Louisiana
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Maine
@@ -197,8 +221,9 @@ regions:
         iso3166-2: US-ME
       names:
         - name: Maine
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Maryland
@@ -206,8 +231,9 @@ regions:
         iso3166-2: US-MD
       names:
         - name: Maryland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Massachusetts
@@ -215,8 +241,9 @@ regions:
         iso3166-2: US-MA
       names:
         - name: Massachusetts
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Michigan
@@ -224,8 +251,9 @@ regions:
         iso3166-2: US-MI
       names:
         - name: Michigan
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Minnesota
@@ -233,8 +261,9 @@ regions:
         iso3166-2: US-MN
       names:
         - name: Minnesota
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mississippi
@@ -242,8 +271,9 @@ regions:
         iso3166-2: US-MS
       names:
         - name: Mississippi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Missouri
@@ -251,8 +281,9 @@ regions:
         iso3166-2: US-MO
       names:
         - name: Missouri
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Montana
@@ -260,8 +291,9 @@ regions:
         iso3166-2: US-MT
       names:
         - name: Montana
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nebraska
@@ -269,8 +301,9 @@ regions:
         iso3166-2: US-NE
       names:
         - name: Nebraska
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nevada
@@ -278,8 +311,9 @@ regions:
         iso3166-2: US-NV
       names:
         - name: Nevada
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # New Hampshire
@@ -287,8 +321,9 @@ regions:
         iso3166-2: US-NH
       names:
         - name: New Hampshire
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # New Jersey
@@ -296,8 +331,9 @@ regions:
         iso3166-2: US-NJ
       names:
         - name: New Jersey
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # New Mexico
@@ -305,8 +341,9 @@ regions:
         iso3166-2: US-NM
       names:
         - name: New Mexico
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # New York
@@ -314,8 +351,9 @@ regions:
         iso3166-2: US-NY
       names:
         - name: New York
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Carolina
@@ -323,8 +361,9 @@ regions:
         iso3166-2: US-NC
       names:
         - name: North Carolina
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Dakota
@@ -332,8 +371,9 @@ regions:
         iso3166-2: US-ND
       names:
         - name: North Dakota
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Northern Mariana Islands
@@ -341,8 +381,10 @@ regions:
         iso3166-2: US-MP
       names:
         - name: Northern Mariana Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Northern Mariana Islands (see also separate country code entry under MP)
     
 
     # Ohio
@@ -350,8 +392,9 @@ regions:
         iso3166-2: US-OH
       names:
         - name: Ohio
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Oklahoma
@@ -359,8 +402,9 @@ regions:
         iso3166-2: US-OK
       names:
         - name: Oklahoma
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Oregon
@@ -368,8 +412,9 @@ regions:
         iso3166-2: US-OR
       names:
         - name: Oregon
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Pennsylvania
@@ -377,8 +422,9 @@ regions:
         iso3166-2: US-PA
       names:
         - name: Pennsylvania
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Puerto Rico
@@ -386,8 +432,10 @@ regions:
         iso3166-2: US-PR
       names:
         - name: Puerto Rico
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Puerto Rico (see also separate country code entry under PR)
     
 
     # Rhode Island
@@ -395,8 +443,9 @@ regions:
         iso3166-2: US-RI
       names:
         - name: Rhode Island
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South Carolina
@@ -404,8 +453,9 @@ regions:
         iso3166-2: US-SC
       names:
         - name: South Carolina
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South Dakota
@@ -413,8 +463,9 @@ regions:
         iso3166-2: US-SD
       names:
         - name: South Dakota
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tennessee
@@ -422,8 +473,9 @@ regions:
         iso3166-2: US-TN
       names:
         - name: Tennessee
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Texas
@@ -431,8 +483,9 @@ regions:
         iso3166-2: US-TX
       names:
         - name: Texas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # United States Minor Outlying Islands
@@ -440,8 +493,10 @@ regions:
         iso3166-2: US-UM
       names:
         - name: United States Minor Outlying Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: United States Minor Outlying Islands (see also separate country code entry under UM)
     
 
     # Utah
@@ -449,8 +504,9 @@ regions:
         iso3166-2: US-UT
       names:
         - name: Utah
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Vermont
@@ -458,17 +514,20 @@ regions:
         iso3166-2: US-VT
       names:
         - name: Vermont
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Virgin Islands, U.S.
+    # Virgin Islands S.
     - codes:
         iso3166-2: US-VI
       names:
-        - name: Virgin Islands, U.S.
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Virgin Islands S.
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Virgin Islands, U.S. (see also separate country code entry under VI)
     
 
     # Virginia
@@ -476,8 +535,9 @@ regions:
         iso3166-2: US-VA
       names:
         - name: Virginia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Washington
@@ -485,8 +545,9 @@ regions:
         iso3166-2: US-WA
       names:
         - name: Washington
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # West Virginia
@@ -494,8 +555,9 @@ regions:
         iso3166-2: US-WV
       names:
         - name: West Virginia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Wisconsin
@@ -503,8 +565,9 @@ regions:
         iso3166-2: US-WI
       names:
         - name: Wisconsin
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Wyoming
@@ -512,5 +575,6 @@ regions:
         iso3166-2: US-WY
       names:
         - name: Wyoming
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

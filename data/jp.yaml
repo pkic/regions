@@ -8,11 +8,13 @@ regions:
         iso3166-2: JP-23
       names:
         - name: Aichi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Aiti
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Akita
@@ -20,8 +22,9 @@ regions:
         iso3166-2: JP-05
       names:
         - name: Akita
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Aomori
@@ -29,8 +32,9 @@ regions:
         iso3166-2: JP-02
       names:
         - name: Aomori
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Ehime
@@ -38,8 +42,9 @@ regions:
         iso3166-2: JP-38
       names:
         - name: Ehime
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Fukushima
@@ -47,11 +52,13 @@ regions:
         iso3166-2: JP-07
       names:
         - name: Fukushima
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hukusima
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Gifu
@@ -59,11 +66,13 @@ regions:
         iso3166-2: JP-21
       names:
         - name: Gifu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Gihu
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Gunma
@@ -71,8 +80,9 @@ regions:
         iso3166-2: JP-10
       names:
         - name: Gunma
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Hiroshima
@@ -80,11 +90,13 @@ regions:
         iso3166-2: JP-34
       names:
         - name: Hiroshima
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hirosima
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Hokkaido
@@ -92,11 +104,13 @@ regions:
         iso3166-2: JP-01
       names:
         - name: Hokkaido
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hokkaidô
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Fukui
@@ -104,11 +118,13 @@ regions:
         iso3166-2: JP-18
       names:
         - name: Fukui
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hukui
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Fukuoka
@@ -116,11 +132,13 @@ regions:
         iso3166-2: JP-40
       names:
         - name: Fukuoka
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hukuoka
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Hyogo
@@ -128,11 +146,13 @@ regions:
         iso3166-2: JP-28
       names:
         - name: Hyogo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hyôgo
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Ibaraki
@@ -140,8 +160,9 @@ regions:
         iso3166-2: JP-08
       names:
         - name: Ibaraki
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Ishikawa
@@ -149,11 +170,13 @@ regions:
         iso3166-2: JP-17
       names:
         - name: Ishikawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Isikawa
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Iwate
@@ -161,8 +184,9 @@ regions:
         iso3166-2: JP-03
       names:
         - name: Iwate
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Kagawa
@@ -170,8 +194,9 @@ regions:
         iso3166-2: JP-37
       names:
         - name: Kagawa
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Kagoshima
@@ -179,11 +204,13 @@ regions:
         iso3166-2: JP-46
       names:
         - name: Kagoshima
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Kagosima
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Kanagawa
@@ -191,8 +218,9 @@ regions:
         iso3166-2: JP-14
       names:
         - name: Kanagawa
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Kochi
@@ -200,11 +228,14 @@ regions:
         iso3166-2: JP-39
       names:
         - name: Kochi
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Kôti
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Kô
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+              value: Kôti
     
 
     # Kumamoto
@@ -212,8 +243,9 @@ regions:
         iso3166-2: JP-43
       names:
         - name: Kumamoto
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Kyoto
@@ -221,11 +253,13 @@ regions:
         iso3166-2: JP-26
       names:
         - name: Kyoto
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Kyôto
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Mie
@@ -233,8 +267,9 @@ regions:
         iso3166-2: JP-24
       names:
         - name: Mie
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Miyagi
@@ -242,8 +277,9 @@ regions:
         iso3166-2: JP-04
       names:
         - name: Miyagi
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Miyazaki
@@ -251,8 +287,9 @@ regions:
         iso3166-2: JP-45
       names:
         - name: Miyazaki
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Nagano
@@ -260,8 +297,9 @@ regions:
         iso3166-2: JP-20
       names:
         - name: Nagano
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Nagasaki
@@ -269,8 +307,9 @@ regions:
         iso3166-2: JP-42
       names:
         - name: Nagasaki
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Nara
@@ -278,8 +317,9 @@ regions:
         iso3166-2: JP-29
       names:
         - name: Nara
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Niigata
@@ -287,8 +327,9 @@ regions:
         iso3166-2: JP-15
       names:
         - name: Niigata
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Oita
@@ -296,11 +337,13 @@ regions:
         iso3166-2: JP-44
       names:
         - name: Oita
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Ôita
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Okayama
@@ -308,8 +351,9 @@ regions:
         iso3166-2: JP-33
       names:
         - name: Okayama
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Okinawa
@@ -317,8 +361,9 @@ regions:
         iso3166-2: JP-47
       names:
         - name: Okinawa
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Osaka
@@ -326,11 +371,14 @@ regions:
         iso3166-2: JP-27
       names:
         - name: Osaka
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Ôsaka
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Ô
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+              value: Ôsaka
     
 
     # Saga
@@ -338,8 +386,9 @@ regions:
         iso3166-2: JP-41
       names:
         - name: Saga
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Saitama
@@ -347,8 +396,9 @@ regions:
         iso3166-2: JP-11
       names:
         - name: Saitama
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Shimane
@@ -356,11 +406,13 @@ regions:
         iso3166-2: JP-32
       names:
         - name: Shimane
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Simane
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Shizuoka
@@ -368,11 +420,13 @@ regions:
         iso3166-2: JP-22
       names:
         - name: Shizuoka
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Sizuoka
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Shiga
@@ -380,11 +434,13 @@ regions:
         iso3166-2: JP-25
       names:
         - name: Shiga
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Siga
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Chiba
@@ -392,11 +448,13 @@ regions:
         iso3166-2: JP-12
       names:
         - name: Chiba
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Tiba
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Tokushima
@@ -404,11 +462,13 @@ regions:
         iso3166-2: JP-36
       names:
         - name: Tokushima
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Tokusima
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Tochigi
@@ -416,11 +476,13 @@ regions:
         iso3166-2: JP-09
       names:
         - name: Tochigi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Totigi
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Tottori
@@ -428,8 +490,9 @@ regions:
         iso3166-2: JP-31
       names:
         - name: Tottori
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Toyama
@@ -437,8 +500,9 @@ regions:
         iso3166-2: JP-16
       names:
         - name: Toyama
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Tokyo
@@ -446,11 +510,13 @@ regions:
         iso3166-2: JP-13
       names:
         - name: Tokyo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Tôkyô
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Wakayama
@@ -458,8 +524,9 @@ regions:
         iso3166-2: JP-30
       names:
         - name: Wakayama
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Yamagata
@@ -467,8 +534,9 @@ regions:
         iso3166-2: JP-06
       names:
         - name: Yamagata
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Yamaguchi
@@ -476,11 +544,13 @@ regions:
         iso3166-2: JP-35
       names:
         - name: Yamaguchi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Yamaguti
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]
     
 
     # Yamanashi
@@ -488,8 +558,10 @@ regions:
         iso3166-2: JP-19
       names:
         - name: Yamanashi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Yamanasi
-          languages: [ja]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ja]

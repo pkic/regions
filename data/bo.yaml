@@ -3,13 +3,25 @@ complete: false
 regions:
     
 
+    # Beni
+    - codes:
+        iso3166-2: BO-B
+      names:
+        - name: Beni
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: El Beni
+    
+
     # Chuquisaca
     - codes:
         iso3166-2: BO-H
       names:
         - name: Chuquisaca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cochabamba
@@ -17,26 +29,9 @@ regions:
         iso3166-2: BO-C
       names:
         - name: Cochabamba
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # El Beni
-    - codes:
-        iso3166-2: BO-B
-      names:
-        - name: El Beni
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Paz
-    - codes:
-        iso3166-2: BO-L
-      names:
-        - name: La Paz
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Oruro
@@ -44,8 +39,9 @@ regions:
         iso3166-2: BO-O
       names:
         - name: Oruro
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Pando
@@ -53,8 +49,20 @@ regions:
         iso3166-2: BO-N
       names:
         - name: Pando
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Paz
+    - codes:
+        iso3166-2: BO-L
+      names:
+        - name: Paz
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Paz
     
 
     # Potosí
@@ -62,8 +70,9 @@ regions:
         iso3166-2: BO-P
       names:
         - name: Potosí
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Santa Cruz
@@ -71,8 +80,9 @@ regions:
         iso3166-2: BO-S
       names:
         - name: Santa Cruz
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Tarija
@@ -80,5 +90,6 @@ regions:
         iso3166-2: BO-T
       names:
         - name: Tarija
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

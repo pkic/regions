@@ -9,7 +9,8 @@ regions:
         iso3166-2: ME-01
       names:
         - name: Andrijevica
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Bar
@@ -17,7 +18,8 @@ regions:
         iso3166-2: ME-02
       names:
         - name: Bar
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Berane
@@ -25,7 +27,8 @@ regions:
         iso3166-2: ME-03
       names:
         - name: Berane
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Bijelo Polje
@@ -33,7 +36,8 @@ regions:
         iso3166-2: ME-04
       names:
         - name: Bijelo Polje
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Budva
@@ -41,7 +45,8 @@ regions:
         iso3166-2: ME-05
       names:
         - name: Budva
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Cetinje
@@ -49,7 +54,8 @@ regions:
         iso3166-2: ME-06
       names:
         - name: Cetinje
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Danilovgrad
@@ -57,7 +63,8 @@ regions:
         iso3166-2: ME-07
       names:
         - name: Danilovgrad
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Gusinje
@@ -65,7 +72,8 @@ regions:
         iso3166-2: ME-22
       names:
         - name: Gusinje
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Herceg-Novi
@@ -73,7 +81,8 @@ regions:
         iso3166-2: ME-08
       names:
         - name: Herceg-Novi
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Kolašin
@@ -81,7 +90,8 @@ regions:
         iso3166-2: ME-09
       names:
         - name: Kolašin
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Kotor
@@ -89,7 +99,8 @@ regions:
         iso3166-2: ME-10
       names:
         - name: Kotor
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Mojkovac
@@ -97,15 +108,18 @@ regions:
         iso3166-2: ME-11
       names:
         - name: Mojkovac
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
-    # Nikšić
+    # Nikš ć
     - codes:
         iso3166-2: ME-12
       names:
-        - name: Nikšić
-          sources: [iso3166-2]
+        - name: Nikš ć
+          sources:
+            - name: iso3166-2
+              value: Nikšić
     
 
     # Petnjica
@@ -113,7 +127,8 @@ regions:
         iso3166-2: ME-23
       names:
         - name: Petnjica
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Plav
@@ -121,7 +136,8 @@ regions:
         iso3166-2: ME-13
       names:
         - name: Plav
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Pljevlja
@@ -129,7 +145,8 @@ regions:
         iso3166-2: ME-14
       names:
         - name: Pljevlja
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Plužine
@@ -137,7 +154,8 @@ regions:
         iso3166-2: ME-15
       names:
         - name: Plužine
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Podgorica
@@ -145,7 +163,8 @@ regions:
         iso3166-2: ME-16
       names:
         - name: Podgorica
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Rožaje
@@ -153,7 +172,8 @@ regions:
         iso3166-2: ME-17
       names:
         - name: Rožaje
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Tivat
@@ -161,7 +181,8 @@ regions:
         iso3166-2: ME-19
       names:
         - name: Tivat
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Tuzi
@@ -169,7 +190,8 @@ regions:
         iso3166-2: ME-24
       names:
         - name: Tuzi
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Ulcinj
@@ -177,7 +199,8 @@ regions:
         iso3166-2: ME-20
       names:
         - name: Ulcinj
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Šavnik
@@ -185,7 +208,8 @@ regions:
         iso3166-2: ME-18
       names:
         - name: Šavnik
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Žabljak
@@ -193,4 +217,5 @@ regions:
         iso3166-2: ME-21
       names:
         - name: Žabljak
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2

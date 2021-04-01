@@ -8,8 +8,9 @@ regions:
         iso3166-2: CO-AMA
       names:
         - name: Amazonas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Antioquia
@@ -17,8 +18,9 @@ regions:
         iso3166-2: CO-ANT
       names:
         - name: Antioquia
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Arauca
@@ -26,8 +28,9 @@ regions:
         iso3166-2: CO-ARA
       names:
         - name: Arauca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Atlántico
@@ -35,8 +38,9 @@ regions:
         iso3166-2: CO-ATL
       names:
         - name: Atlántico
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Bolívar
@@ -44,8 +48,9 @@ regions:
         iso3166-2: CO-BOL
       names:
         - name: Bolívar
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Boyacá
@@ -53,8 +58,9 @@ regions:
         iso3166-2: CO-BOY
       names:
         - name: Boyacá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Caldas
@@ -62,8 +68,9 @@ regions:
         iso3166-2: CO-CAL
       names:
         - name: Caldas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Caquetá
@@ -71,8 +78,9 @@ regions:
         iso3166-2: CO-CAQ
       names:
         - name: Caquetá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Casanare
@@ -80,8 +88,9 @@ regions:
         iso3166-2: CO-CAS
       names:
         - name: Casanare
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cauca
@@ -89,8 +98,9 @@ regions:
         iso3166-2: CO-CAU
       names:
         - name: Cauca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cesar
@@ -98,8 +108,9 @@ regions:
         iso3166-2: CO-CES
       names:
         - name: Cesar
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chocó
@@ -107,8 +118,9 @@ regions:
         iso3166-2: CO-CHO
       names:
         - name: Chocó
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cundinamarca
@@ -116,8 +128,9 @@ regions:
         iso3166-2: CO-CUN
       names:
         - name: Cundinamarca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Córdoba
@@ -125,8 +138,9 @@ regions:
         iso3166-2: CO-COR
       names:
         - name: Córdoba
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Distrito
@@ -134,20 +148,37 @@ regions:
         iso3166-2: CO-DC
       names:
         - name: Distrito
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Distrito Capital
         - name: Distrito Bogotá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Distrito Capital de Bogotá
     
 
-    # Guainía
+    # Guainí
     - codes:
         iso3166-2: CO-GUA
       names:
-        - name: Guainía
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Guainí
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Guainía
+    
+
+    # Guajira
+    - codes:
+        iso3166-2: CO-LAG
+      names:
+        - name: Guajira
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Guajira
     
 
     # Guaviare
@@ -155,8 +186,9 @@ regions:
         iso3166-2: CO-GUV
       names:
         - name: Guaviare
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Huila
@@ -164,17 +196,9 @@ regions:
         iso3166-2: CO-HUI
       names:
         - name: Huila
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Guajira
-    - codes:
-        iso3166-2: CO-LAG
-      names:
-        - name: La Guajira
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Magdalena
@@ -182,8 +206,9 @@ regions:
         iso3166-2: CO-MAG
       names:
         - name: Magdalena
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Meta
@@ -191,26 +216,31 @@ regions:
         iso3166-2: CO-MET
       names:
         - name: Meta
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Nariño
+    # Nariñ
     - codes:
         iso3166-2: CO-NAR
       names:
-        - name: Nariño
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Nariñ
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Nariño
     
 
-    # Norte de Santander
+    # Norte Santander
     - codes:
         iso3166-2: CO-NSA
       names:
-        - name: Norte de Santander
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Norte Santander
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Norte de Santander
     
 
     # Putumayo
@@ -218,17 +248,20 @@ regions:
         iso3166-2: CO-PUT
       names:
         - name: Putumayo
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Quindío
+    # Quindí
     - codes:
         iso3166-2: CO-QUI
       names:
-        - name: Quindío
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Quindí
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Quindío
     
 
     # Risaralda
@@ -236,8 +269,9 @@ regions:
         iso3166-2: CO-RIS
       names:
         - name: Risaralda
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # San Andrés
@@ -245,11 +279,14 @@ regions:
         iso3166-2: CO-SAP
       names:
         - name: San Andrés
-          languages: [es]
-          sources: [iso3166-2]
-        - name: San Andrés, Providencia y Santa Catalina
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+        - name: San Andrés, Providencia Santa Catalina
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: San Andrés, Providencia y Santa Catalina
     
 
     # Santander
@@ -257,8 +294,9 @@ regions:
         iso3166-2: CO-SAN
       names:
         - name: Santander
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Sucre
@@ -266,8 +304,9 @@ regions:
         iso3166-2: CO-SUC
       names:
         - name: Sucre
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Tolima
@@ -275,8 +314,9 @@ regions:
         iso3166-2: CO-TOL
       names:
         - name: Tolima
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Valle
@@ -284,11 +324,13 @@ regions:
         iso3166-2: CO-VAC
       names:
         - name: Valle
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Valle del Cauca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Vaupés
@@ -296,8 +338,9 @@ regions:
         iso3166-2: CO-VAU
       names:
         - name: Vaupés
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Vichada
@@ -305,5 +348,6 @@ regions:
         iso3166-2: CO-VID
       names:
         - name: Vichada
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

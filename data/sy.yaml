@@ -8,8 +8,9 @@ regions:
         iso3166-2: SY-LA
       names:
         - name: Al Lādhiqīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Qunayţirah
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SY-QU
       names:
         - name: Al Qunayţirah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Ḩasakah
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SY-HA
       names:
         - name: Al Ḩasakah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ar Raqqah
@@ -35,8 +38,9 @@ regions:
         iso3166-2: SY-RA
       names:
         - name: Ar Raqqah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # As Suwaydā'
@@ -44,8 +48,9 @@ regions:
         iso3166-2: SY-SU
       names:
         - name: As Suwaydā'
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dar'ā
@@ -53,17 +58,20 @@ regions:
         iso3166-2: SY-DR
       names:
         - name: Dar'ā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Dayr az Zawr
+    # Dayr Zawr
     - codes:
         iso3166-2: SY-DY
       names:
-        - name: Dayr az Zawr
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Dayr Zawr
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Dayr az Zawr
     
 
     # Dimashq
@@ -71,8 +79,9 @@ regions:
         iso3166-2: SY-DI
       names:
         - name: Dimashq
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Idlib
@@ -80,8 +89,9 @@ regions:
         iso3166-2: SY-ID
       names:
         - name: Idlib
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Rīf Dimashq
@@ -89,8 +99,9 @@ regions:
         iso3166-2: SY-RD
       names:
         - name: Rīf Dimashq
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ţarţūs
@@ -98,8 +109,9 @@ regions:
         iso3166-2: SY-TA
       names:
         - name: Ţarţūs
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ḩalab
@@ -107,8 +119,9 @@ regions:
         iso3166-2: SY-HL
       names:
         - name: Ḩalab
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ḩamāh
@@ -116,8 +129,9 @@ regions:
         iso3166-2: SY-HM
       names:
         - name: Ḩamāh
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ḩimş
@@ -125,5 +139,6 @@ regions:
         iso3166-2: SY-HI
       names:
         - name: Ḩimş
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

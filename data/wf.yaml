@@ -8,8 +8,9 @@ regions:
         iso3166-2: WF-AL
       names:
         - name: Alo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sigave
@@ -17,8 +18,9 @@ regions:
         iso3166-2: WF-SG
       names:
         - name: Sigave
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Uvea
@@ -26,5 +28,6 @@ regions:
         iso3166-2: WF-UV
       names:
         - name: Uvea
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

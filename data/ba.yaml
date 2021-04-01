@@ -9,17 +9,20 @@ regions:
         iso3166-2: BA-BRC
       names:
         - name: Brčko distrikt
-          languages: [bs, hr, sr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [bs, hr, sr]
     
 
-    # Federacija Bosne i Hercegovine
+    # Federacija Bosne Hercegovine
     - codes:
         iso3166-2: BA-BIH
       names:
-        - name: Federacija Bosne i Hercegovine
-          languages: [bs, hr, sr]
-          sources: [iso3166-2]
+        - name: Federacija Bosne Hercegovine
+          sources:
+            - name: iso3166-2
+              languages: [bs, hr, sr]
+              value: Federacija Bosne i Hercegovine
     
 
     # Republika Srpska
@@ -27,5 +30,6 @@ regions:
         iso3166-2: BA-SRP
       names:
         - name: Republika Srpska
-          languages: [bs, hr, sr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [bs, hr, sr]

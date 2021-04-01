@@ -3,22 +3,26 @@ complete: false
 regions:
     
 
-    # Ad Dawḩah
+    # Ad Dawḩ
     - codes:
         iso3166-2: QA-DA
       names:
-        - name: Ad Dawḩah
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Ad Dawḩ
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Ad Dawḩah
     
 
-    # Al Khawr wa adh Dhakhīrah
+    # Al Khawr adh Dhakhīrah
     - codes:
         iso3166-2: QA-KH
       names:
-        - name: Al Khawr wa adh Dhakhīrah
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Al Khawr adh Dhakhīrah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Al Khawr wa adh Dhakhīrah
     
 
     # Al Wakrah
@@ -26,8 +30,9 @@ regions:
         iso3166-2: QA-WA
       names:
         - name: Al Wakrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ar Rayyān
@@ -35,8 +40,9 @@ regions:
         iso3166-2: QA-RA
       names:
         - name: Ar Rayyān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Shamāl
@@ -44,8 +50,9 @@ regions:
         iso3166-2: QA-MS
       names:
         - name: Ash Shamāl
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Shīḩānīyah
@@ -53,17 +60,9 @@ regions:
         iso3166-2: QA-SH
       names:
         - name: Ash Shīḩānīyah
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Az̧ Z̧a‘āyin
-    - codes:
-        iso3166-2: QA-ZA
-      names:
-        - name: Az̧ Z̧a‘āyin
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Umm Şalāl
@@ -71,5 +70,17 @@ regions:
         iso3166-2: QA-US
       names:
         - name: Umm Şalāl
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # ̧ ̧ ‘āyin
+    - codes:
+        iso3166-2: QA-ZA
+      names:
+        - name: ̧ ̧ ‘āyin
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Az̧ Z̧a‘āyin

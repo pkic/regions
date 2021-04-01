@@ -8,11 +8,14 @@ regions:
         iso3166-2: AE-AZ
       names:
         - name: Abu Dhabi
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: Abū Z̧aby
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: Abū ̧aby
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Abū Z̧aby
     
 
     # Al Fujayrah
@@ -20,11 +23,13 @@ regions:
         iso3166-2: AE-FU
       names:
         - name: Al Fujayrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Fujairah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Shāriqah
@@ -32,11 +37,13 @@ regions:
         iso3166-2: AE-SH
       names:
         - name: Ash Shāriqah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Sharjah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dubai
@@ -44,11 +51,13 @@ regions:
         iso3166-2: AE-DU
       names:
         - name: Dubai
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Dubayy
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ras Al Khaimah
@@ -56,11 +65,13 @@ regions:
         iso3166-2: AE-RK
       names:
         - name: Ras Al Khaimah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Ra’s al Khaymah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Umm Al Quwain
@@ -68,11 +79,13 @@ regions:
         iso3166-2: AE-UQ
       names:
         - name: Umm Al Quwain
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Umm al Qaywayn
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # ‘Ajmān
@@ -80,5 +93,6 @@ regions:
         iso3166-2: AE-AJ
       names:
         - name: ‘Ajmān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

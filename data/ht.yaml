@@ -8,11 +8,13 @@ regions:
         iso3166-2: HT-AR
       names:
         - name: Artibonite
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Latibonit
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
     
 
     # Centre
@@ -20,11 +22,13 @@ regions:
         iso3166-2: HT-CE
       names:
         - name: Centre
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Sant
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
     
 
     # Grandans
@@ -32,11 +36,13 @@ regions:
         iso3166-2: HT-GA
       names:
         - name: Grandans
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
         - name: Grande’Anse
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Lwès
@@ -44,11 +50,13 @@ regions:
         iso3166-2: HT-OU
       names:
         - name: Lwès
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
         - name: Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nip
@@ -56,11 +64,13 @@ regions:
         iso3166-2: HT-NI
       names:
         - name: Nip
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
         - name: Nippes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nord
@@ -68,11 +78,13 @@ regions:
         iso3166-2: HT-ND
       names:
         - name: Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nò
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
     
 
     # Nord-Ouest
@@ -80,11 +92,13 @@ regions:
         iso3166-2: HT-NO
       names:
         - name: Nord-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nòdwès
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
     
 
     # Nord-Est
@@ -92,11 +106,13 @@ regions:
         iso3166-2: HT-NE
       names:
         - name: Nord-Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nòdès
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
     
 
     # Sid
@@ -104,11 +120,13 @@ regions:
         iso3166-2: HT-SD
       names:
         - name: Sid
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
         - name: Sud
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sidès
@@ -116,8 +134,10 @@ regions:
         iso3166-2: HT-SE
       names:
         - name: Sidès
-          languages: [ht]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ht]
         - name: Sud-Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

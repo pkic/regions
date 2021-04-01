@@ -8,8 +8,9 @@ regions:
         iso3166-2: CM-AD
       names:
         - name: Adamaoua
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Centre
@@ -17,8 +18,9 @@ regions:
         iso3166-2: CM-CE
       names:
         - name: Centre
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # East
@@ -26,11 +28,13 @@ regions:
         iso3166-2: CM-ES
       names:
         - name: East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Far North
@@ -38,11 +42,13 @@ regions:
         iso3166-2: CM-EN
       names:
         - name: Extrême-Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Far North
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Littoral
@@ -50,8 +56,9 @@ regions:
         iso3166-2: CM-LT
       names:
         - name: Littoral
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # North-West
@@ -59,11 +66,13 @@ regions:
         iso3166-2: CM-NW
       names:
         - name: Nord-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: North-West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North
@@ -71,11 +80,13 @@ regions:
         iso3166-2: CM-NO
       names:
         - name: Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: North
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # West
@@ -83,11 +94,13 @@ regions:
         iso3166-2: CM-OU
       names:
         - name: Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South
@@ -95,11 +108,13 @@ regions:
         iso3166-2: CM-SU
       names:
         - name: South
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Sud
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # South-West
@@ -107,8 +122,10 @@ regions:
         iso3166-2: CM-SW
       names:
         - name: South-West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Sud-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

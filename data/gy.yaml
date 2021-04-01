@@ -8,8 +8,9 @@ regions:
         iso3166-2: GY-BA
       names:
         - name: Barima-Waini
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Cuyuni-Mazaruni
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GY-CU
       names:
         - name: Cuyuni-Mazaruni
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Demerara-Mahaica
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GY-DE
       names:
         - name: Demerara-Mahaica
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # East Berbice-Corentyne
@@ -35,8 +38,9 @@ regions:
         iso3166-2: GY-EB
       names:
         - name: East Berbice-Corentyne
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Essequibo Islands-West Demerara
@@ -44,8 +48,9 @@ regions:
         iso3166-2: GY-ES
       names:
         - name: Essequibo Islands-West Demerara
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mahaica-Berbice
@@ -53,8 +58,9 @@ regions:
         iso3166-2: GY-MA
       names:
         - name: Mahaica-Berbice
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Pomeroon-Supenaam
@@ -62,8 +68,9 @@ regions:
         iso3166-2: GY-PM
       names:
         - name: Pomeroon-Supenaam
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Potaro-Siparuni
@@ -71,8 +78,9 @@ regions:
         iso3166-2: GY-PT
       names:
         - name: Potaro-Siparuni
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Upper Demerara-Berbice
@@ -80,8 +88,9 @@ regions:
         iso3166-2: GY-UD
       names:
         - name: Upper Demerara-Berbice
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Upper Takutu-Upper Essequibo
@@ -89,5 +98,6 @@ regions:
         iso3166-2: GY-UT
       names:
         - name: Upper Takutu-Upper Essequibo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

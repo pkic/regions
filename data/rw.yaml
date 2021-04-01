@@ -8,14 +8,17 @@ regions:
         iso3166-2: RW-05
       names:
         - name: Amajyepfo
-          languages: [rw]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [rw]
         - name: Southern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Sud
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Eastern
@@ -23,14 +26,36 @@ regions:
         iso3166-2: RW-02
       names:
         - name: Eastern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Iburasirazuba
-          languages: [rw]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [rw]
+    
+
+    # Kigali
+    - codes:
+        iso3166-2: RW-01
+      names:
+        - name: Kigali
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Ville de Kigali
+            - name: iso3166-2
+              languages: [en]
+              value: City of Kigali
+        - name: Umujyi Kigali
+          sources:
+            - name: iso3166-2
+              languages: [rw]
+              value: Umujyi wa Kigali
     
 
     # Northern
@@ -38,29 +63,17 @@ regions:
         iso3166-2: RW-03
       names:
         - name: Amajyaruguru
-          languages: [rw]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [rw]
         - name: Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Northern
-          languages: [en]
-          sources: [iso3166-2]
-    
-
-    # City of Kigali
-    - codes:
-        iso3166-2: RW-01
-      names:
-        - name: City of Kigali
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Umujyi wa Kigali
-          languages: [rw]
-          sources: [iso3166-2]
-        - name: Ville de Kigali
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -68,11 +81,14 @@ regions:
         iso3166-2: RW-04
       names:
         - name: Iburengerazuba
-          languages: [rw]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [rw]
         - name: Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

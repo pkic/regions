@@ -10,23 +10,156 @@ regions:
         iso3166-2: DK-82
       names:
         - name: Central Jutland
-          languages: [en]
-          sources: [euvoc]
-        - name: Jutlandi i Mesëm
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Central Jutland region
+        - name: Jutlandi Mesëm
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jutlandi i Mesëm (rajon)
         - name: Midden-Jutland
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Midden-Jutland (regio)
         - name: Midtjylland
-          languages: [cs, da, de, el, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Midtjylland (regionas)
+            - name: euvoc
+              languages: [da]
+              value: Region Midtjylland
+            - name: euvoc
+              languages: [et]
+              value: Midtjylland (piirkond)
+            - name: euvoc
+              languages: [hr, sl]
+              value: Midtjylland (regija)
+            - name: euvoc
+              languages: [cs, de, pl, sv]
+              value: Midtjylland (region)
+            - name: euvoc
+              languages: [fi]
+              value: Midtjylland (alue)
+            - name: euvoc
+              languages: [mt]
+              value: Midtjylland (reġjun)
+            - name: euvoc
+              languages: [pt]
+              value: Midtjylland (região)
+            - name: euvoc
+              languages: [el]
+              value: Midtjylland (περιφέρεια)
+            - name: euvoc
+              languages: [lv]
+              value: Midtjylland (reģions)
+            - name: euvoc
+              languages: [ro]
+              value: Midtjylland (regiune)
+            - name: euvoc
+              languages: [it]
+              value: Midtjylland (regione)
+            - name: euvoc
+              languages: [fr]
+              value: Midtjylland (région)
+            - name: euvoc
+              languages: [hu]
+              value: Midtjylland (régió)
+            - name: euvoc
+              languages: [es, sk]
+              value: Midtjylland (región)
+            - name: iso3166-2
+              languages: [da]
         - name: Митјиланд
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Митјиланд (регион)
+            - name: euvoc
+              languages: [sr]
+              value: Митјиланд (област)
         - name: Централен Ютланд
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Централен Ютланд (регион)
+    
+
+    # Hovedstaden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8279
+        iso3166-2: DK-84
+      names:
+        - name: Hovedstaden
+          sources:
+            - name: euvoc
+              languages: [cs, de, en, pl, sv]
+              value: Hovedstaden (Region)
+            - name: euvoc
+              languages: [lv]
+              value: Hovedstaden (reģions)
+            - name: euvoc
+              languages: [pt]
+              value: Hovedstaden (região)
+            - name: euvoc
+              languages: [hr, sl]
+              value: Hovedstaden (regija)
+            - name: euvoc
+              languages: [it]
+              value: Hovedstaden (regione)
+            - name: euvoc
+              languages: [hu]
+              value: Hovedstaden (régió)
+            - name: euvoc
+              languages: [et]
+              value: Hovedstaden (piirkond)
+            - name: euvoc
+              languages: [es, sk]
+              value: Hovedstaden (región)
+            - name: euvoc
+              languages: [mt]
+              value: Hovedstaden (reġjun)
+            - name: euvoc
+              languages: [da]
+              value: Region Hovedstaden
+            - name: euvoc
+              languages: [el]
+              value: Hovedstaden (περιφέρεια)
+            - name: euvoc
+              languages: [ro]
+              value: Hovedstaden (regiune)
+            - name: euvoc
+              languages: [fi]
+              value: Hovedstaden (alue)
+            - name: euvoc
+              languages: [fr]
+              value: Hovedstaden (région)
+            - name: euvoc
+              languages: [nl]
+              value: Hovedstaden (regio)
+            - name: euvoc
+              languages: [sq]
+              value: Hovedstaden (rajon)
+            - name: iso3166-2
+              languages: [da]
+        - name: Hovedstadenas
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Hovedstadenas (regionas)
+        - name: Ховедстаден
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
+              value: Ховедстаден (регион)
+        - name: Хуведстадн
+          sources:
+            - name: euvoc
+              languages: [sr]
+              value: Хуведстадн (област)
     
 
     # Nordjylland
@@ -35,23 +168,79 @@ regions:
         iso3166-2: DK-81
       names:
         - name: Jutlandi Verior
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jutlandi Verior (rajon)
         - name: Noord-Jutland
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Noord-Jutland (regio)
         - name: Nordjylland
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Nordjylland (alue)
+            - name: euvoc
+              languages: [cs, de, en, pl, sv]
+              value: Nordjylland (region)
+            - name: euvoc
+              languages: [hr, sl]
+              value: Nordjylland (regija)
+            - name: euvoc
+              languages: [et]
+              value: Nordjylland (piirkond)
+            - name: euvoc
+              languages: [da]
+              value: Region Nordjylland
+            - name: euvoc
+              languages: [lv]
+              value: Nordjylland (reģions)
+            - name: euvoc
+              languages: [pt]
+              value: Nordjylland (região)
+            - name: euvoc
+              languages: [it]
+              value: Nordjylland (regione)
+            - name: euvoc
+              languages: [hu]
+              value: Nordjylland (régió)
+            - name: euvoc
+              languages: [es, sk]
+              value: Nordjylland (región)
+            - name: euvoc
+              languages: [lt]
+              value: Nordjylland (regionas)
+            - name: euvoc
+              languages: [fr]
+              value: Nordjylland (région)
+            - name: euvoc
+              languages: [mt]
+              value: Nordjylland (reġjun)
+            - name: euvoc
+              languages: [ro]
+              value: Nordjylland (regiune)
+            - name: euvoc
+              languages: [el]
+              value: Nordjylland (περιφέρεια)
+            - name: iso3166-2
+              languages: [da]
         - name: Северна Данска
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Северна Данска (регион)
         - name: Северна Ютландия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Северна Ютландия (регион)
         - name: Северни Јиланд
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
+              value: Северни Јиланд (област)
     
 
     # Sjælland
@@ -60,29 +249,86 @@ regions:
         iso3166-2: DK-85
       names:
         - name: Seeland
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Seeland (regio)
         - name: Sjaelland
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Sjaelland (région)
         - name: Sjalland
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Sjalland (regija)
         - name: Sjelanda
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Sjelanda (rajon)
         - name: Sjælland
-          languages: [cs, da, de, el, en, es, et, fi, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Sjælland (regione)
+            - name: euvoc
+              languages: [fi]
+              value: Sjælland (alue)
+            - name: euvoc
+              languages: [el]
+              value: Sjælland (περιφέρεια)
+            - name: euvoc
+              languages: [cs, de, en, pl, sv]
+              value: Sjælland (region)
+            - name: euvoc
+              languages: [es, sk]
+              value: Sjælland (región)
+            - name: euvoc
+              languages: [sl]
+              value: Sjælland (regija)
+            - name: euvoc
+              languages: [pt]
+              value: Sjælland (região)
+            - name: euvoc
+              languages: [lv]
+              value: Sjælland (reģions)
+            - name: euvoc
+              languages: [et]
+              value: Sjælland (piirkond)
+            - name: euvoc
+              languages: [ro]
+              value: Sjælland (regiune)
+            - name: euvoc
+              languages: [mt]
+              value: Sjælland (reġjun)
+            - name: euvoc
+              languages: [lt]
+              value: Sjælland (regionas)
+            - name: euvoc
+              languages: [hu]
+              value: Sjælland (régió)
+            - name: euvoc
+              languages: [da]
+              value: Region Sjælland
+            - name: iso3166-2
+              languages: [da]
         - name: Зеланд
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Зеланд (регион)
         - name: Селанд
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Селанд (регион)
         - name: Шеланд
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
+              value: Шеланд (област)
     
 
     # Syddanmark
@@ -91,36 +337,74 @@ regions:
         iso3166-2: DK-83
       names:
         - name: Syddanmark
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [es, sk]
+              value: Syddanmark (región)
+            - name: euvoc
+              languages: [cs, de, en, pl, sv]
+              value: Syddanmark (region)
+            - name: euvoc
+              languages: [fi]
+              value: Syddanmark (alue)
+            - name: euvoc
+              languages: [lt]
+              value: Syddanmark (regionas)
+            - name: euvoc
+              languages: [fr]
+              value: Syddanmark (région)
+            - name: euvoc
+              languages: [mt]
+              value: Syddanmark (reġjun)
+            - name: euvoc
+              languages: [ro]
+              value: Syddanmark (regiune)
+            - name: euvoc
+              languages: [hr, sl]
+              value: Syddanmark (regija)
+            - name: euvoc
+              languages: [el]
+              value: Syddanmark (περιφέρεια)
+            - name: euvoc
+              languages: [da]
+              value: Region Syddanmark
+            - name: euvoc
+              languages: [pt]
+              value: Syddanmark (região)
+            - name: euvoc
+              languages: [lv]
+              value: Syddanmark (reģions)
+            - name: euvoc
+              languages: [et]
+              value: Syddanmark (piirkond)
+            - name: euvoc
+              languages: [hu]
+              value: Syddanmark (régió)
+            - name: euvoc
+              languages: [it]
+              value: Syddanmark (regione)
+            - name: iso3166-2
+              languages: [da]
         - name: Zuid-Denemarken
-          languages: [nl]
-          sources: [euvoc]
-        - name: i i Danimarkës Jugore
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Zuid-Denemarken (regio)
+        - name: rajoni Danimarkës Jugore
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Danimarkës Jugore
         - name: Јужна Данска
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
+              value: Јужна Данска (област)
+            - name: euvoc
+              languages: [mk]
+              value: Јужна Данска (регион)
         - name: Южна Дания
-          languages: [bg]
-          sources: [euvoc]
-    
-
-    # en
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8279
-        iso3166-2: DK-84
-      names:
-        - name: en
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
-        - name: enas
-          languages: [lt]
-          sources: [euvoc]
-        - name: Ховедстаден
-          languages: [bg, mk]
-          sources: [euvoc]
-        - name: Хуведстадн
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Южна Дания (регион)

@@ -8,17 +8,22 @@ regions:
         iso3166-2: IL-M
       names:
         - name: Al Awsaţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: Awsaṭ
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Awsaṭ
         - name: Central
-          languages: [he]
-          sources: [iso3166-2]
-        - name: El Awsaṭ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
         - name: HaMerkaz
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
     
 
     # Al Quds
@@ -26,17 +31,22 @@ regions:
         iso3166-2: IL-JM
       names:
         - name: Al Quds
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: El Quds
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Jerusalem
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
+        - name: Quds
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Quds
         - name: Yerushalayim
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
     
 
     # Ash Shamālī
@@ -44,17 +54,21 @@ regions:
         iso3166-2: IL-Z
       names:
         - name: Ash Shamālī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Esh Shamālī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: HaTsafon
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
         - name: Northern
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
     
 
     # Al Janūbī
@@ -62,17 +76,22 @@ regions:
         iso3166-2: IL-D
       names:
         - name: Al Janūbī
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: El Janūbī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: HaDarom
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
+        - name: Janūbī
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Janūbī
         - name: Southern
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
     
 
     # Tall Abīb
@@ -80,14 +99,17 @@ regions:
         iso3166-2: IL-TA
       names:
         - name: Tall Abīb
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Tel Aviv
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
         - name: Tell Abīb
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Haifa
@@ -95,14 +117,18 @@ regions:
         iso3166-2: IL-HA
       names:
         - name: Haifa
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
         - name: H̱efa
-          languages: [he]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [he]
         - name: Ḥeifa
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Ḩayfā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

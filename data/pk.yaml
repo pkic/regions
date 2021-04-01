@@ -8,14 +8,18 @@ regions:
         iso3166-2: PK-JK
       names:
         - name: AJ&K
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Azad Jammu and Kashmir
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Āzād Jammūñ o Kashmīr
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Ā ād Jammūñ Kashmīr
+          sources:
+            - name: iso3166-2
+              languages: [ur]
+              value: Āzād Jammūñ o Kashmīr
     
 
     # Balochistan
@@ -23,11 +27,13 @@ regions:
         iso3166-2: PK-BA
       names:
         - name: Balochistan
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Balōchistān
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ur]
     
 
     # Gilgit-Baltistan
@@ -35,11 +41,13 @@ regions:
         iso3166-2: PK-GB
       names:
         - name: Gilgit-Baltistan
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Gilgit-Baltistān
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ur]
     
 
     # Islamabad
@@ -47,11 +55,13 @@ regions:
         iso3166-2: PK-IS
       names:
         - name: Islamabad
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Islāmābād
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ur]
     
 
     # Khyber Pakhtunkhwa
@@ -59,11 +69,13 @@ regions:
         iso3166-2: PK-KP
       names:
         - name: Khaībar Pakhtūnkhwā
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ur]
         - name: Khyber Pakhtunkhwa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Punjab
@@ -71,11 +83,13 @@ regions:
         iso3166-2: PK-PB
       names:
         - name: Panjāb
-          languages: [ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ur]
         - name: Punjab
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Sindh
@@ -83,5 +97,6 @@ regions:
         iso3166-2: PK-SD
       names:
         - name: Sindh
-          languages: [en, ur]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, ur]

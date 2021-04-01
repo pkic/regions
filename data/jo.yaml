@@ -8,8 +8,9 @@ regions:
         iso3166-2: JO-BA
       names:
         - name: Al Balqā’
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Karak
@@ -17,8 +18,9 @@ regions:
         iso3166-2: JO-KA
       names:
         - name: Al Karak
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Mafraq
@@ -26,8 +28,24 @@ regions:
         iso3166-2: JO-MA
       names:
         - name: Al Mafraq
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Al ‘ ̅şimah
+    - codes:
+        iso3166-2: JO-AM
+      names:
+        - name: Al ‘ ̅şimah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Al ‘A̅şimah
+        - name: ‘Ammān
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al ‘Aqabah
@@ -35,41 +53,13 @@ regions:
         iso3166-2: JO-AQ
       names:
         - name: Al ‘Aqabah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Aqaba
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Al ‘A̅şimah
-    - codes:
-        iso3166-2: JO-AM
-      names:
-        - name: Al ‘A̅şimah
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: ‘Ammān
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Az Zarqā’
-    - codes:
-        iso3166-2: JO-AZ
-      names:
-        - name: Az Zarqā’
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Aţ Ţafīlah
-    - codes:
-        iso3166-2: JO-AT
-      names:
-        - name: Aţ Ţafīlah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Irbid
@@ -77,8 +67,9 @@ regions:
         iso3166-2: JO-IR
       names:
         - name: Irbid
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Jarash
@@ -86,8 +77,9 @@ regions:
         iso3166-2: JO-JA
       names:
         - name: Jarash
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ma‘ān
@@ -95,8 +87,9 @@ regions:
         iso3166-2: JO-MN
       names:
         - name: Ma‘ān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Mādabā
@@ -104,8 +97,31 @@ regions:
         iso3166-2: JO-MD
       names:
         - name: Mādabā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Zarqā’
+    - codes:
+        iso3166-2: JO-AZ
+      names:
+        - name: Zarqā’
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Az Zarqā’
+    
+
+    # ţ Ţ īlah
+    - codes:
+        iso3166-2: JO-AT
+      names:
+        - name: ţ Ţ īlah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Aţ Ţafīlah
     
 
     # ‘Ajlūn
@@ -113,5 +129,6 @@ regions:
         iso3166-2: JO-AJ
       names:
         - name: ‘Ajlūn
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: JM-13
       names:
         - name: Clarendon
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Hanover
@@ -17,8 +18,9 @@ regions:
         iso3166-2: JM-09
       names:
         - name: Hanover
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kingston
@@ -26,8 +28,9 @@ regions:
         iso3166-2: JM-01
       names:
         - name: Kingston
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Manchester
@@ -35,8 +38,9 @@ regions:
         iso3166-2: JM-12
       names:
         - name: Manchester
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Portland
@@ -44,8 +48,9 @@ regions:
         iso3166-2: JM-04
       names:
         - name: Portland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Andrew
@@ -53,8 +58,9 @@ regions:
         iso3166-2: JM-02
       names:
         - name: Saint Andrew
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Ann
@@ -62,8 +68,9 @@ regions:
         iso3166-2: JM-06
       names:
         - name: Saint Ann
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Catherine
@@ -71,8 +78,9 @@ regions:
         iso3166-2: JM-14
       names:
         - name: Saint Catherine
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Elizabeth
@@ -80,8 +88,9 @@ regions:
         iso3166-2: JM-11
       names:
         - name: Saint Elizabeth
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint James
@@ -89,8 +98,9 @@ regions:
         iso3166-2: JM-08
       names:
         - name: Saint James
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Mary
@@ -98,8 +108,9 @@ regions:
         iso3166-2: JM-05
       names:
         - name: Saint Mary
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Thomas
@@ -107,8 +118,9 @@ regions:
         iso3166-2: JM-03
       names:
         - name: Saint Thomas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Trelawny
@@ -116,8 +128,9 @@ regions:
         iso3166-2: JM-07
       names:
         - name: Trelawny
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Westmoreland
@@ -125,5 +138,6 @@ regions:
         iso3166-2: JM-10
       names:
         - name: Westmoreland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

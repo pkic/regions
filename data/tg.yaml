@@ -8,8 +8,9 @@ regions:
         iso3166-2: TG-C
       names:
         - name: Centrale
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kara
@@ -17,8 +18,9 @@ regions:
         iso3166-2: TG-K
       names:
         - name: Kara
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Maritime
@@ -26,8 +28,10 @@ regions:
         iso3166-2: TG-M
       names:
         - name: Maritime
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Maritime (Région)
     
 
     # Plateaux
@@ -35,8 +39,9 @@ regions:
         iso3166-2: TG-P
       names:
         - name: Plateaux
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Savanes
@@ -44,5 +49,6 @@ regions:
         iso3166-2: TG-S
       names:
         - name: Savanes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

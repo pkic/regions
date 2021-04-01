@@ -8,8 +8,9 @@ regions:
         iso3166-2: OM-DA
       names:
         - name: Ad Dākhilīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Buraymī
@@ -17,8 +18,9 @@ regions:
         iso3166-2: OM-BU
       names:
         - name: Al Buraymī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Wusţá
@@ -26,17 +28,9 @@ regions:
         iso3166-2: OM-WU
       names:
         - name: Al Wusţá
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Az̧ Z̧āhirah
-    - codes:
-        iso3166-2: OM-ZA
-      names:
-        - name: Az̧ Z̧āhirah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Janūb al Bāţinah
@@ -44,8 +38,9 @@ regions:
         iso3166-2: OM-BJ
       names:
         - name: Janūb al Bāţinah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Janūb ash Sharqīyah
@@ -53,8 +48,9 @@ regions:
         iso3166-2: OM-SJ
       names:
         - name: Janūb ash Sharqīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Masqaţ
@@ -62,11 +58,13 @@ regions:
         iso3166-2: OM-MA
       names:
         - name: Masqaţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Muscat
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Musandam
@@ -74,8 +72,9 @@ regions:
         iso3166-2: OM-MU
       names:
         - name: Musandam
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Shamāl al Bāţinah
@@ -83,8 +82,9 @@ regions:
         iso3166-2: OM-BS
       names:
         - name: Shamāl al Bāţinah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Shamāl ash Sharqīyah
@@ -92,8 +92,20 @@ regions:
         iso3166-2: OM-SS
       names:
         - name: Shamāl ash Sharqīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # ̧ ̧āhirah
+    - codes:
+        iso3166-2: OM-ZA
+      names:
+        - name: ̧ ̧āhirah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Az̧ Z̧āhirah
     
 
     # Dhofar
@@ -101,8 +113,11 @@ regions:
         iso3166-2: OM-ZU
       names:
         - name: Dhofar
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: Z̧ufār
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: ̧ufār
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Z̧ufār

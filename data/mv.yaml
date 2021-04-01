@@ -3,49 +3,56 @@ complete: false
 regions:
     
 
-    # Addu City
+    # Addu
     - codes:
         iso3166-2: MV-01
       names:
         - name: Addu
-          languages: [dv]
-          sources: [iso3166-2]
-        - name: Addu City
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv, en]
         - name: Seenu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
-    # South Ari Atoll
+    # South Atoll
     - codes:
         iso3166-2: MV-00
       names:
         - name: Alifu Dhaalu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Ariatholhu Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
-        - name: South Ari Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
+        - name: South Atoll
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: South Ari Atoll
     
 
-    # North Ari Atoll
+    # North Atoll
     - codes:
         iso3166-2: MV-02
       names:
         - name: Alifu Alifu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Ariatholhu Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
-        - name: North Ari Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
+        - name: North Atoll
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: North Ari Atoll
     
 
     # Faadhippolhu
@@ -53,11 +60,13 @@ regions:
         iso3166-2: MV-03
       names:
         - name: Faadhippolhu
-          languages: [dv, en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv, en]
         - name: Lhaviyani
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # Felidhu Atoll
@@ -65,14 +74,17 @@ regions:
         iso3166-2: MV-04
       names:
         - name: Felidheatholhu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Felidhu Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Vaavu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # Fuvammulah
@@ -80,11 +92,13 @@ regions:
         iso3166-2: MV-29
       names:
         - name: Fuvammulah
-          languages: [dv, en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv, en]
         - name: Gnaviyani
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # Hahdhunmathi
@@ -92,11 +106,13 @@ regions:
         iso3166-2: MV-05
       names:
         - name: Hahdhunmathi
-          languages: [dv, en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv, en]
         - name: Laamu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # South Huvadhu Atoll
@@ -104,14 +120,17 @@ regions:
         iso3166-2: MV-28
       names:
         - name: Gaafu Dhaalu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Huvadhuatholhu Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: South Huvadhu Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Huvadhu Atoll
@@ -119,14 +138,17 @@ regions:
         iso3166-2: MV-27
       names:
         - name: Gaafu Alifu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Huvadhuatholhu Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: North Huvadhu Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kolhumadulu
@@ -134,11 +156,13 @@ regions:
         iso3166-2: MV-08
       names:
         - name: Kolhumadulu
-          languages: [dv, en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv, en]
         - name: Thaa
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # South Maalhosmadulu
@@ -146,14 +170,17 @@ regions:
         iso3166-2: MV-20
       names:
         - name: Baa
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Maalhosmadulu Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: South Maalhosmadulu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Maalhosmadulu
@@ -161,14 +188,17 @@ regions:
         iso3166-2: MV-13
       names:
         - name: Maalhosmadulu Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: North Maalhosmadulu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Raa
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # Male
@@ -176,11 +206,13 @@ regions:
         iso3166-2: MV-MLE
       names:
         - name: Maale
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Male
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Male Atoll
@@ -188,14 +220,17 @@ regions:
         iso3166-2: MV-26
       names:
         - name: Kaafu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Maaleatholhu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Male Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mulaku Atoll
@@ -203,14 +238,17 @@ regions:
         iso3166-2: MV-12
       names:
         - name: Meemu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Mulakatholhu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Mulaku Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Nilandhe Atoll
@@ -218,14 +256,17 @@ regions:
         iso3166-2: MV-14
       names:
         - name: Faafu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Nilandheatholhu Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: North Nilandhe Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North Miladhunmadulu
@@ -233,14 +274,17 @@ regions:
         iso3166-2: MV-24
       names:
         - name: Miladhunmadulu Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: North Miladhunmadulu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Shaviyani
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # South Miladhunmadulu
@@ -248,14 +292,17 @@ regions:
         iso3166-2: MV-25
       names:
         - name: Miladhunmadulu Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Noonu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: South Miladhunmadulu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South Nilandhe Atoll
@@ -263,14 +310,17 @@ regions:
         iso3166-2: MV-17
       names:
         - name: Dhaalu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: Nilandheatholhu Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: South Nilandhe Atoll
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South Thiladhunmathi
@@ -278,14 +328,17 @@ regions:
         iso3166-2: MV-23
       names:
         - name: Haa Dhaalu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: South Thiladhunmathi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Thiladhunmathee Dhekunuburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
     
 
     # North Thiladhunmathi
@@ -293,11 +346,14 @@ regions:
         iso3166-2: MV-07
       names:
         - name: Haa Alifu
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]
         - name: North Thiladhunmathi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Thiladhunmathee Uthuruburi
-          languages: [dv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [dv]

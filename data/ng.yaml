@@ -8,17 +8,20 @@ regions:
         iso3166-2: NG-AB
       names:
         - name: Abia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Abuja Federal Territory
+    # Abuja Federal
     - codes:
         iso3166-2: NG-FC
       names:
-        - name: Abuja Federal Territory
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Abuja Federal
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Abuja Federal Capital Territory
     
 
     # Adamawa
@@ -26,8 +29,9 @@ regions:
         iso3166-2: NG-AD
       names:
         - name: Adamawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Akwa Ibom
@@ -35,8 +39,9 @@ regions:
         iso3166-2: NG-AK
       names:
         - name: Akwa Ibom
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Anambra
@@ -44,8 +49,9 @@ regions:
         iso3166-2: NG-AN
       names:
         - name: Anambra
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bauchi
@@ -53,8 +59,9 @@ regions:
         iso3166-2: NG-BA
       names:
         - name: Bauchi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bayelsa
@@ -62,8 +69,9 @@ regions:
         iso3166-2: NG-BY
       names:
         - name: Bayelsa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Benue
@@ -71,8 +79,9 @@ regions:
         iso3166-2: NG-BE
       names:
         - name: Benue
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Borno
@@ -80,8 +89,9 @@ regions:
         iso3166-2: NG-BO
       names:
         - name: Borno
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Cross River
@@ -89,8 +99,9 @@ regions:
         iso3166-2: NG-CR
       names:
         - name: Cross River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Delta
@@ -98,8 +109,9 @@ regions:
         iso3166-2: NG-DE
       names:
         - name: Delta
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ebonyi
@@ -107,8 +119,9 @@ regions:
         iso3166-2: NG-EB
       names:
         - name: Ebonyi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Edo
@@ -116,8 +129,9 @@ regions:
         iso3166-2: NG-ED
       names:
         - name: Edo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ekiti
@@ -125,8 +139,9 @@ regions:
         iso3166-2: NG-EK
       names:
         - name: Ekiti
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Enugu
@@ -134,8 +149,9 @@ regions:
         iso3166-2: NG-EN
       names:
         - name: Enugu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Gombe
@@ -143,8 +159,9 @@ regions:
         iso3166-2: NG-GO
       names:
         - name: Gombe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Imo
@@ -152,8 +169,9 @@ regions:
         iso3166-2: NG-IM
       names:
         - name: Imo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jigawa
@@ -161,8 +179,9 @@ regions:
         iso3166-2: NG-JI
       names:
         - name: Jigawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kaduna
@@ -170,8 +189,9 @@ regions:
         iso3166-2: NG-KD
       names:
         - name: Kaduna
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kano
@@ -179,8 +199,9 @@ regions:
         iso3166-2: NG-KN
       names:
         - name: Kano
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Katsina
@@ -188,8 +209,9 @@ regions:
         iso3166-2: NG-KT
       names:
         - name: Katsina
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kebbi
@@ -197,8 +219,9 @@ regions:
         iso3166-2: NG-KE
       names:
         - name: Kebbi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kogi
@@ -206,8 +229,9 @@ regions:
         iso3166-2: NG-KO
       names:
         - name: Kogi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kwara
@@ -215,8 +239,9 @@ regions:
         iso3166-2: NG-KW
       names:
         - name: Kwara
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lagos
@@ -224,8 +249,9 @@ regions:
         iso3166-2: NG-LA
       names:
         - name: Lagos
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nasarawa
@@ -233,8 +259,9 @@ regions:
         iso3166-2: NG-NA
       names:
         - name: Nasarawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Niger
@@ -242,8 +269,9 @@ regions:
         iso3166-2: NG-NI
       names:
         - name: Niger
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ogun
@@ -251,8 +279,9 @@ regions:
         iso3166-2: NG-OG
       names:
         - name: Ogun
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ondo
@@ -260,8 +289,9 @@ regions:
         iso3166-2: NG-ON
       names:
         - name: Ondo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Osun
@@ -269,8 +299,9 @@ regions:
         iso3166-2: NG-OS
       names:
         - name: Osun
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Oyo
@@ -278,8 +309,9 @@ regions:
         iso3166-2: NG-OY
       names:
         - name: Oyo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Plateau
@@ -287,8 +319,9 @@ regions:
         iso3166-2: NG-PL
       names:
         - name: Plateau
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Rivers
@@ -296,8 +329,9 @@ regions:
         iso3166-2: NG-RI
       names:
         - name: Rivers
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Sokoto
@@ -305,8 +339,9 @@ regions:
         iso3166-2: NG-SO
       names:
         - name: Sokoto
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Taraba
@@ -314,8 +349,9 @@ regions:
         iso3166-2: NG-TA
       names:
         - name: Taraba
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Yobe
@@ -323,8 +359,9 @@ regions:
         iso3166-2: NG-YO
       names:
         - name: Yobe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Zamfara
@@ -332,5 +369,6 @@ regions:
         iso3166-2: NG-ZA
       names:
         - name: Zamfara
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

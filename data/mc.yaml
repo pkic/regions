@@ -4,13 +4,47 @@ complete: false
 regions:
     
 
+    # Colle
+    - codes:
+        iso3166-2: MC-CL
+      names:
+        - name: Colle
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: La Colle
+    
+
+    # Condamine
+    - codes:
+        iso3166-2: MC-CO
+      names:
+        - name: Condamine
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: La Condamine
+    
+
     # Fontvieille
     - codes:
         iso3166-2: MC-FO
       names:
         - name: Fontvieille
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+    
+
+    # Gare
+    - codes:
+        iso3166-2: MC-GA
+      names:
+        - name: Gare
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: La Gare
     
 
     # Jardin Exotique
@@ -18,44 +52,9 @@ regions:
         iso3166-2: MC-JE
       names:
         - name: Jardin Exotique
-          languages: [fr]
-          sources: [iso3166-2]
-    
-
-    # La Colle
-    - codes:
-        iso3166-2: MC-CL
-      names:
-        - name: La Colle
-          languages: [fr]
-          sources: [iso3166-2]
-    
-
-    # La Condamine
-    - codes:
-        iso3166-2: MC-CO
-      names:
-        - name: La Condamine
-          languages: [fr]
-          sources: [iso3166-2]
-    
-
-    # La Gare
-    - codes:
-        iso3166-2: MC-GA
-      names:
-        - name: La Gare
-          languages: [fr]
-          sources: [iso3166-2]
-    
-
-    # La Source
-    - codes:
-        iso3166-2: MC-SO
-      names:
-        - name: La Source
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Larvotto
@@ -63,8 +62,9 @@ regions:
         iso3166-2: MC-LA
       names:
         - name: Larvotto
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Malbousquet
@@ -72,17 +72,20 @@ regions:
         iso3166-2: MC-MA
       names:
         - name: Malbousquet
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
-    # Monaco-Ville
+    # Monaco
     - codes:
         iso3166-2: MC-MO
       names:
-        - name: Monaco-Ville
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Monaco
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Monaco-Ville
     
 
     # Moneghetti
@@ -90,8 +93,9 @@ regions:
         iso3166-2: MC-MG
       names:
         - name: Moneghetti
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Monte-Carlo
@@ -99,8 +103,9 @@ regions:
         iso3166-2: MC-MC
       names:
         - name: Monte-Carlo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Moulins
@@ -108,8 +113,9 @@ regions:
         iso3166-2: MC-MU
       names:
         - name: Moulins
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Port-Hercule
@@ -117,8 +123,9 @@ regions:
         iso3166-2: MC-PH
       names:
         - name: Port-Hercule
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Saint-Roman
@@ -126,8 +133,9 @@ regions:
         iso3166-2: MC-SR
       names:
         - name: Saint-Roman
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sainte-Dévote
@@ -135,8 +143,20 @@ regions:
         iso3166-2: MC-SD
       names:
         - name: Sainte-Dévote
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+    
+
+    # Source
+    - codes:
+        iso3166-2: MC-SO
+      names:
+        - name: Source
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: La Source
     
 
     # Spélugues
@@ -144,14 +164,17 @@ regions:
         iso3166-2: MC-SP
       names:
         - name: Spélugues
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
-    # Vallon de la Rousse
+    # Vallon Rousse
     - codes:
         iso3166-2: MC-VR
       names:
-        - name: Vallon de la Rousse
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Vallon Rousse
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Vallon de la Rousse

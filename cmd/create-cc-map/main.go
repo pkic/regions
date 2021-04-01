@@ -13,9 +13,14 @@ import (
 	"regexp"
 	"strings"
 	"text/template"
+	"unicode"
 
 	"github.com/pkic/regions"
 
+	"golang.org/x/text/runes"
+	"golang.org/x/text/secure/precis"
+	"golang.org/x/text/transform"
+	"golang.org/x/text/unicode/norm"
 	yaml "gopkg.in/yaml.v3"
 )
 
@@ -94,7 +99,24 @@ func renderRegionsMap(path string, writer io.Writer) error {
 			}
 
 			for _, name := range region.Names {
-				countryRegions.Regions[strings.ToUpper(name.Name)] = true
+				countryRegions.Regions[prepareValue(name.Name)] = true
+
+				norm, err := precisNormalization(name.Name)
+				if err == nil && norm != name.Name {
+					countryRegions.Regions[prepareValue(norm)] = true
+				}
+
+				// Include source values, which are set in meta-data normalization
+				for _, source := range name.Sources {
+					if source.Value != "" {
+						countryRegions.Regions[prepareValue(source.Value)] = true
+
+						norm, err := precisNormalization(source.Value)
+						if err == nil && norm != source.Value {
+							countryRegions.Regions[prepareValue(norm)] = true
+						}
+					}
+				}
 			}
 		}
 
@@ -156,4 +178,27 @@ func getISO3166RegionCode(r *regions.Region) string {
 		}
 	}
 	return ""
+}
+
+// remove hypens and change to captials
+func prepareValue(s string) string {
+	return strings.ToUpper(strings.Replace(s, "-", " ", -1))
+}
+
+// precisNormalization is used to allow comparing strings of different character sets.
+//
+// This function is using "PRECIS" (Preparation, Enforcement, and Comparison of Internationalized
+// Strings in Application Protocols) as defined by RFC7564.
+func precisNormalization(name string) (string, error) {
+	profile := precis.NewIdentifier(
+		precis.AdditionalMapping(func() transform.Transformer {
+			return transform.Chain(norm.NFD, runes.Remove(runes.In(unicode.Mn)))
+		}),
+		precis.Norm(norm.NFC),
+	)
+	result, err := profile.String(name)
+	if err != nil {
+		return "", err
+	}
+	return result, nil
 }

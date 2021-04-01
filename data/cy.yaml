@@ -9,11 +9,13 @@ regions:
         iso3166-2: CY-06
       names:
         - name: Girne
-          languages: [tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tr]
         - name: Keryneia
-          languages: [el]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el]
     
 
     # Larnaka
@@ -21,8 +23,9 @@ regions:
         iso3166-2: CY-03
       names:
         - name: Larnaka
-          languages: [el, tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el, tr]
     
 
     # Lefkosia
@@ -30,11 +33,14 @@ regions:
         iso3166-2: CY-01
       names:
         - name: Lefkosia
-          languages: [el]
-          sources: [iso3166-2]
-        - name: Lefkoşa
-          languages: [tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el]
+        - name: Lefkoş
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+              value: Lefkoşa
     
 
     # Lemesos
@@ -42,11 +48,13 @@ regions:
         iso3166-2: CY-02
       names:
         - name: Lemesos
-          languages: [el]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el]
         - name: Leymasun
-          languages: [tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tr]
     
 
     # Ammochostos
@@ -54,11 +62,13 @@ regions:
         iso3166-2: CY-04
       names:
         - name: Ammochostos
-          languages: [el]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el]
         - name: Mağusa
-          languages: [tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tr]
     
 
     # Baf
@@ -66,8 +76,10 @@ regions:
         iso3166-2: CY-05
       names:
         - name: Baf
-          languages: [tr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tr]
         - name: Pafos
-          languages: [el]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [el]

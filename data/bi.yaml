@@ -8,8 +8,9 @@ regions:
         iso3166-2: BI-BB
       names:
         - name: Bubanza
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Bujumbura Mairie
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BI-BM
       names:
         - name: Bujumbura Mairie
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Bujumbura Rural
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BI-BL
       names:
         - name: Bujumbura Rural
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Bururi
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BI-BR
       names:
         - name: Bururi
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Cankuzo
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BI-CA
       names:
         - name: Cankuzo
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Cibitoke
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BI-CI
       names:
         - name: Cibitoke
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Gitega
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BI-GI
       names:
         - name: Gitega
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Karuzi
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BI-KR
       names:
         - name: Karuzi
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Kayanza
@@ -80,8 +88,9 @@ regions:
         iso3166-2: BI-KY
       names:
         - name: Kayanza
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Kirundo
@@ -89,8 +98,9 @@ regions:
         iso3166-2: BI-KI
       names:
         - name: Kirundo
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Makamba
@@ -98,8 +108,9 @@ regions:
         iso3166-2: BI-MA
       names:
         - name: Makamba
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Muramvya
@@ -107,8 +118,9 @@ regions:
         iso3166-2: BI-MU
       names:
         - name: Muramvya
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Muyinga
@@ -116,8 +128,9 @@ regions:
         iso3166-2: BI-MY
       names:
         - name: Muyinga
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Mwaro
@@ -125,8 +138,9 @@ regions:
         iso3166-2: BI-MW
       names:
         - name: Mwaro
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Ngozi
@@ -134,8 +148,9 @@ regions:
         iso3166-2: BI-NG
       names:
         - name: Ngozi
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Rumonge
@@ -143,8 +158,9 @@ regions:
         iso3166-2: BI-RM
       names:
         - name: Rumonge
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Rutana
@@ -152,8 +168,9 @@ regions:
         iso3166-2: BI-RT
       names:
         - name: Rutana
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]
     
 
     # Ruyigi
@@ -161,5 +178,6 @@ regions:
         iso3166-2: BI-RY
       names:
         - name: Ruyigi
-          languages: [fr, rn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr, rn]

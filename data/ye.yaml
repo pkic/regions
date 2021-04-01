@@ -8,8 +8,9 @@ regions:
         iso3166-2: YE-AB
       names:
         - name: Abyan
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Bayḑā’
@@ -17,8 +18,9 @@ regions:
         iso3166-2: YE-BA
       names:
         - name: Al Bayḑā’
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Jawf
@@ -26,8 +28,9 @@ regions:
         iso3166-2: YE-JA
       names:
         - name: Al Jawf
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Mahrah
@@ -35,8 +38,9 @@ regions:
         iso3166-2: YE-MR
       names:
         - name: Al Mahrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Maḩwīt
@@ -44,8 +48,9 @@ regions:
         iso3166-2: YE-MW
       names:
         - name: Al Maḩwīt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Ḩudaydah
@@ -53,8 +58,9 @@ regions:
         iso3166-2: YE-HU
       names:
         - name: Al Ḩudaydah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Amānat al ‘Āşimah
@@ -62,8 +68,10 @@ regions:
         iso3166-2: YE-SA
       names:
         - name: Amānat al ‘Āşimah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Amānat al ‘Āşimah [city]
     
 
     # Arkhabīl Suquţrá
@@ -71,17 +79,9 @@ regions:
         iso3166-2: YE-SU
       names:
         - name: Arkhabīl Suquţrá
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Aḑ Ḑāli‘
-    - codes:
-        iso3166-2: YE-DA
-      names:
-        - name: Aḑ Ḑāli‘
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dhamār
@@ -89,8 +89,9 @@ regions:
         iso3166-2: YE-DH
       names:
         - name: Dhamār
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ibb
@@ -98,17 +99,9 @@ regions:
         iso3166-2: YE-IB
       names:
         - name: Ibb
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Laḩij
-    - codes:
-        iso3166-2: YE-LA
-      names:
-        - name: Laḩij
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ma’rib
@@ -116,8 +109,9 @@ regions:
         iso3166-2: YE-MA
       names:
         - name: Ma’rib
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Raymah
@@ -125,8 +119,9 @@ regions:
         iso3166-2: YE-RA
       names:
         - name: Raymah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Shabwah
@@ -134,8 +129,9 @@ regions:
         iso3166-2: YE-SH
       names:
         - name: Shabwah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tāʻizz
@@ -143,17 +139,20 @@ regions:
         iso3166-2: YE-TA
       names:
         - name: Tāʻizz
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Şanʻā’
+    # Ş ʻā’
     - codes:
         iso3166-2: YE-SN
       names:
-        - name: Şanʻā’
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Ş ʻā’
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Şanʻā’
     
 
     # Şāʻdah
@@ -161,8 +160,31 @@ regions:
         iso3166-2: YE-SD
       names:
         - name: Şāʻdah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # ḑ Ḑāli‘
+    - codes:
+        iso3166-2: YE-DA
+      names:
+        - name: ḑ Ḑāli‘
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Aḑ Ḑāli‘
+    
+
+    # Ḩ ḑramawt
+    - codes:
+        iso3166-2: YE-HD
+      names:
+        - name: Ḩ ḑramawt
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Ḩaḑramawt
     
 
     # Ḩajjah
@@ -170,17 +192,20 @@ regions:
         iso3166-2: YE-HJ
       names:
         - name: Ḩajjah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Ḩaḑramawt
+    # ḩij
     - codes:
-        iso3166-2: YE-HD
+        iso3166-2: YE-LA
       names:
-        - name: Ḩaḑramawt
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: ḩij
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Laḩij
     
 
     # ‘Adan
@@ -188,8 +213,9 @@ regions:
         iso3166-2: YE-AD
       names:
         - name: ‘Adan
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # ‘Amrān
@@ -197,5 +223,6 @@ regions:
         iso3166-2: YE-AM
       names:
         - name: ‘Amrān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

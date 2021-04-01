@@ -8,17 +8,20 @@ regions:
         iso3166-2: BH-14
       names:
         - name: Al Janūbīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Al Muḩarraq
+    # Al ḩarraq
     - codes:
         iso3166-2: BH-15
       names:
-        - name: Al Muḩarraq
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Al ḩarraq
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Al Muḩarraq
     
 
     # Al Manāmah
@@ -26,11 +29,13 @@ regions:
         iso3166-2: BH-13
       names:
         - name: Al Manāmah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Al ‘Āşimah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Shamālīyah
@@ -38,5 +43,6 @@ regions:
         iso3166-2: BH-17
       names:
         - name: Ash Shamālīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

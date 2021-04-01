@@ -17,12 +17,16 @@ var (
 // IsCountryRegion returns true if the input is a known region for
 // the given country.
 func IsCountryRegion(country, region string) error {
-	if country, ok := regionMap[strings.ToUpper(country)]; ok {
-		if _, ok := country.regions[strings.ToUpper(region)]; ok {
+	country = strings.ToUpper(country)
+	if c, ok := regionMap[country]; ok {
+		if !(len(region) == 5 && strings.HasPrefix(region, country+"-")) {
+			region = strings.Replace(region, "-", " ", -1)
+		}
+		if _, ok := c.regions[strings.ToUpper(region)]; ok {
 			return nil
 		}
 		// Region not defined in country
-		if country.complete {
+		if c.complete {
 			// Region data is indicated as complete
 			return ErrRegionNotExist
 		}

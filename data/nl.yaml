@@ -10,74 +10,100 @@ regions:
         iso3166-2: NL-NB
       names:
         - name: Brabancja Północna
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Brabant tat-Tramuntana
-          languages: [mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Brabant-Septentrional
-          languages: [fr, ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
         - name: Brabante Septentrional
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Brabante Setentrional
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Brabante settentrionale
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Brabanti Verior
-          languages: [sq]
-          sources: [euvoc]
-        - name: Brabantul de Nord
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Brabantul Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Brabantul de Nord
         - name: Noord-Brabant
-          languages: [da, nl]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, nl]
+            - name: iso3166-2
+              languages: [nl]
         - name: Nordbrabant
-          languages: [de, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de, sv]
         - name: North Brabant
-          languages: [en]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
         - name: Pohjois-Brabant
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Põhja-Brabant
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Severni Brabant
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Severní Brabantsko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Severný Brabant
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Sjeverni Brabant
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Ziemeļbrabante
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Észak-Brabant
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Šiaurės Brabantas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Βόρεια Βραβάνδη
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Северен Брабант
-          languages: [bg, mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
         - name: Северни Брабант
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # South Holland
@@ -86,74 +112,102 @@ regions:
         iso3166-2: NL-ZH
       names:
         - name: Dienvidholande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Dél-Hollandia
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Etelä-Hollanti
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Holanda Jugore
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Holanda Meridional
-          languages: [es, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, pt]
         - name: Holandia Południowa
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Hollande-Méridionale
-          languages: [fr]
-          sources: [euvoc]
-        - name: Jižní Holandsko
-          languages: [cs]
-          sources: [euvoc]
-        - name: Južna Holandija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Juž Holandija
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Južna Holandija
         - name: Južni Holland
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Južné Holandsko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Lõuna-Holland
-          languages: [et]
-          sources: [euvoc]
-        - name: Olanda de Sud
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Olanda Sud
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Olanda de Sud
         - name: Olanda meridionale
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Olanda tan-Nofsinhar
-          languages: [mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Pietų Olandija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: South Holland
-          languages: [en]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
         - name: Sydholland
-          languages: [da, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [da, sv]
         - name: Südholland
-          languages: [de]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
         - name: Zuid-Holland
-          languages: [nl]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [nl]
+            - name: iso3166-2
+              languages: [nl]
+        - name: žní Holandsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Jižní Holandsko
         - name: Νότια Ολλανδία
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Јужна Холандија
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Южна Холандия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Drenthe
@@ -162,23 +216,31 @@ regions:
         iso3166-2: NL-DR
       names:
         - name: Drente
-          languages: [de, es, lv, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de, es, lv, sq]
         - name: Drenthe
-          languages: [cs, da, en, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Drentė
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Ντρέντε
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Дренте
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Дрентъ
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Flevoland
@@ -187,23 +249,31 @@ regions:
         iso3166-2: NL-FL
       names:
         - name: Flevoland
-          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Flevolandas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Flevolande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Flevolandi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Φλεβολάνδη
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Флеволанд
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Friesland
@@ -211,50 +281,65 @@ regions:
         euvoc: http://eurovoc.europa.eu/1101
       names:
         - name: Friesland
-          languages: [da, de, en, hr, hu, mt, nl, ro, sk, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [da, de, en, hr, hu, mt, nl, ro, sk, sv]
         - name: Friisimaa
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Friisinmaa
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Frise
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Frisia
-          languages: [es, it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, it]
         - name: Frislandi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Frizija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Fryzija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Fryzja
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Frísia
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Frísko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Frīzlande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Φρεισία
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Фризија
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Фризланд
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Fryslân
@@ -262,8 +347,9 @@ regions:
         iso3166-2: NL-FR
       names:
         - name: Fryslân
-          languages: [fy]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fy]
     
 
     # Gelderland
@@ -272,41 +358,55 @@ regions:
         iso3166-2: NL-GE
       names:
         - name: Gelderland
-          languages: [da, en, et, fi, hr, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, en, et, fi, hr, mt, nl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Gelderlandas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Gelderlande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Gelderlandi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Geldern
-          languages: [de, hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de, hu]
         - name: Geldria
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Gerderland
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Gheldria
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Gueldre
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Güeldres
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Γκέλντρια
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Гелдерланд
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Groningen
@@ -315,26 +415,35 @@ regions:
         iso3166-2: NL-GR
       names:
         - name: Groninga
-          languages: [es, it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, it]
         - name: Groningen
-          languages: [cs, da, de, en, et, fi, hr, hu, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, et, fi, hr, hu, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Groningena
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Groningenas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Groningue
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Γκρόνινγκεν
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Гронинген
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # North Holland
@@ -343,74 +452,100 @@ regions:
         iso3166-2: NL-NH
       names:
         - name: Holanda Septentrional
-          languages: [es]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es]
         - name: Holanda Setentrional
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Holanda Veriore
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Holandia Północna
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Hollande-Septentrionale
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Noord-Holland
-          languages: [nl]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [nl]
+            - name: iso3166-2
+              languages: [nl]
         - name: Nordholland
-          languages: [da, de, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [da, de, sv]
         - name: North Holland
-          languages: [en]
-          sources: [euvoc]
-        - name: Olanda de Nord
-          languages: [ro]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Olanda Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Olanda de Nord
         - name: Olanda settentrionale
-          languages: [it]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [it]
         - name: Olanda tat-Tramuntana
-          languages: [mt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Pohjois-Hollanti
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Põhja-Holland
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Severna Holandija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Severné Holandsko
-          languages: [sk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sk]
         - name: Severní Holandsko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Sjeverni Holland
-          languages: [hr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hr]
         - name: Ziemeļholande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Észak-Hollandia
-          languages: [hu]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: Šiaurės Olandija
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Βόρεια Ολλανδία
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Северна Холандия
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Северна Холандија
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Limburg
@@ -419,35 +554,47 @@ regions:
         iso3166-2: NL-LI
       names:
         - name: Limbourg
-          languages: [fr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fr]
         - name: Limburg
-          languages: [da, de, en, et, fi, hr, hu, mt, nl, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [da, de, en, et, fi, hr, hu, mt, nl, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Limburga
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Limburgas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Limburgia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Limburgo
-          languages: [es, it, pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, it, pt]
         - name: Limburgu
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Limbursko
-          languages: [cs]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Λιμβούργο
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Лимбург
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Overijssel
@@ -456,26 +603,35 @@ regions:
         iso3166-2: NL-OV
       names:
         - name: Overeisela
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Overijssel
-          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, lt, mt, nl, pl, pt, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, lt, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Overiseli
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Οβεράισσελ
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Оверејсел
-          languages: [mk]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk]
         - name: Овърейсъл
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
         - name: Оферјесел
-          languages: [sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Zeeland
@@ -484,41 +640,58 @@ regions:
         iso3166-2: NL-ZE
       names:
         - name: Seeland
-          languages: [de]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [de]
         - name: Zeeland
-          languages: [cs, da, en, et, fi, hr, hu, mt, nl, ro, sk, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, et, fi, hr, hu, mt, nl, ro, sk, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Zelanda
-          languages: [es, it, sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [es, it, sq]
         - name: Zelandas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Zelandia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Zelandia (Holandia)
         - name: Zelandija
-          languages: [sl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sl]
         - name: Zelândia
-          languages: [pt]
-          sources: [euvoc]
-        - name: Zélande
-          languages: [fr]
-          sources: [euvoc]
-        - name: Zēlande
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: élande
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Zélande
+        - name: ēlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Zēlande
         - name: Ζηλανδία
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Зеланд
-          languages: [mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
         - name: Зелант
-          languages: [bg]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Utrecht
@@ -527,23 +700,32 @@ regions:
         iso3166-2: NL-UT
       names:
         - name: Utrecht
-          languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, ro, sk, sl, sv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [nl]
         - name: Utrechtas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Utrehta
-          languages: [lv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Utrehti
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Utreque
-          languages: [pt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pt]
         - name: Ουτρέχτη
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Утрехт
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]

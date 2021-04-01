@@ -7,24 +7,30 @@ regions:
     - codes:
         iso3166-2: PS-BTH
       names:
-        - name: Bayt Laḩm
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Bayt ḩm
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Bayt Laḩm
         - name: Bethlehem
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Deir El Balah
+    # Deir Balah
     - codes:
         iso3166-2: PS-DEB
       names:
         - name: Dayr al Balaḩ
-          languages: [ar]
-          sources: [iso3166-2]
-        - name: Deir El Balah
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: Deir Balah
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Deir El Balah
     
 
     # Gaza
@@ -32,11 +38,13 @@ regions:
         iso3166-2: PS-GZA
       names:
         - name: Gaza
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Ghazzah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Hebron
@@ -44,11 +52,13 @@ regions:
         iso3166-2: PS-HBN
       names:
         - name: Al Khalīl
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Hebron
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jenin
@@ -56,11 +66,13 @@ regions:
         iso3166-2: PS-JEN
       names:
         - name: Janīn
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Jenin
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jericho and Al Aghwar
@@ -68,11 +80,13 @@ regions:
         iso3166-2: PS-JRH
       names:
         - name: Arīḩā wal Aghwār
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Jericho and Al Aghwar
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jerusalem
@@ -80,11 +94,13 @@ regions:
         iso3166-2: PS-JEM
       names:
         - name: Al Quds
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Jerusalem
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Khan Yunis
@@ -92,11 +108,14 @@ regions:
         iso3166-2: PS-KYS
       names:
         - name: Khan Yunis
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Khān Yūnis
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Khān ūnis
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Khān Yūnis
     
 
     # North Gaza
@@ -104,11 +123,13 @@ regions:
         iso3166-2: PS-NGZ
       names:
         - name: North Gaza
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Shamāl Ghazzah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nablus
@@ -116,11 +137,13 @@ regions:
         iso3166-2: PS-NBS
       names:
         - name: Nablus
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Nāblus
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Qalqilya
@@ -128,11 +151,13 @@ regions:
         iso3166-2: PS-QQA
       names:
         - name: Qalqilya
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Qalqīlyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Rafah
@@ -140,11 +165,13 @@ regions:
         iso3166-2: PS-RFH
       names:
         - name: Rafah
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Rafaḩ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ramallah
@@ -152,11 +179,13 @@ regions:
         iso3166-2: PS-RBH
       names:
         - name: Ramallah
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Rām Allāh wal Bīrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Salfit
@@ -164,11 +193,13 @@ regions:
         iso3166-2: PS-SLT
       names:
         - name: Salfit
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Salfīt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tubas
@@ -176,11 +207,13 @@ regions:
         iso3166-2: PS-TBS
       names:
         - name: Tubas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Ţūbās
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tulkarm
@@ -188,8 +221,10 @@ regions:
         iso3166-2: PS-TKM
       names:
         - name: Tulkarm
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Ţūlkarm
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

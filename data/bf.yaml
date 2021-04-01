@@ -8,8 +8,9 @@ regions:
         iso3166-2: BF-BAL
       names:
         - name: Balé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Bam
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BF-BAM
       names:
         - name: Bam
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Banwa
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BF-BAN
       names:
         - name: Banwa
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Bazèga
@@ -35,17 +38,20 @@ regions:
         iso3166-2: BF-BAZ
       names:
         - name: Bazèga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
-    # Boucle du Mouhoun
+    # Boucle Mouhoun
     - codes:
         iso3166-2: BF-01
       names:
-        - name: Boucle du Mouhoun
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Boucle Mouhoun
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Boucle du Mouhoun
     
 
     # Bougouriba
@@ -53,8 +59,9 @@ regions:
         iso3166-2: BF-BGR
       names:
         - name: Bougouriba
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Boulgou
@@ -62,8 +69,9 @@ regions:
         iso3166-2: BF-BLG
       names:
         - name: Boulgou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Boulkiemdé
@@ -71,8 +79,9 @@ regions:
         iso3166-2: BF-BLK
       names:
         - name: Boulkiemdé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Cascades
@@ -80,8 +89,9 @@ regions:
         iso3166-2: BF-02
       names:
         - name: Cascades
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Centre
@@ -89,8 +99,9 @@ regions:
         iso3166-2: BF-03
       names:
         - name: Centre
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Centre-Est
@@ -98,8 +109,9 @@ regions:
         iso3166-2: BF-04
       names:
         - name: Centre-Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Centre-Nord
@@ -107,8 +119,9 @@ regions:
         iso3166-2: BF-05
       names:
         - name: Centre-Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Centre-Ouest
@@ -116,8 +129,9 @@ regions:
         iso3166-2: BF-06
       names:
         - name: Centre-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Centre-Sud
@@ -125,8 +139,9 @@ regions:
         iso3166-2: BF-07
       names:
         - name: Centre-Sud
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Comoé
@@ -134,8 +149,9 @@ regions:
         iso3166-2: BF-COM
       names:
         - name: Comoé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Est
@@ -143,8 +159,9 @@ regions:
         iso3166-2: BF-08
       names:
         - name: Est
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ganzourgou
@@ -152,8 +169,9 @@ regions:
         iso3166-2: BF-GAN
       names:
         - name: Ganzourgou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Gnagna
@@ -161,8 +179,9 @@ regions:
         iso3166-2: BF-GNA
       names:
         - name: Gnagna
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Gourma
@@ -170,8 +189,9 @@ regions:
         iso3166-2: BF-GOU
       names:
         - name: Gourma
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Hauts-Bassins
@@ -179,8 +199,9 @@ regions:
         iso3166-2: BF-09
       names:
         - name: Hauts-Bassins
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Houet
@@ -188,8 +209,9 @@ regions:
         iso3166-2: BF-HOU
       names:
         - name: Houet
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ioba
@@ -197,8 +219,9 @@ regions:
         iso3166-2: BF-IOB
       names:
         - name: Ioba
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kadiogo
@@ -206,8 +229,9 @@ regions:
         iso3166-2: BF-KAD
       names:
         - name: Kadiogo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Komondjari
@@ -215,8 +239,9 @@ regions:
         iso3166-2: BF-KMD
       names:
         - name: Komondjari
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kompienga
@@ -224,8 +249,9 @@ regions:
         iso3166-2: BF-KMP
       names:
         - name: Kompienga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kossi
@@ -233,8 +259,9 @@ regions:
         iso3166-2: BF-KOS
       names:
         - name: Kossi
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Koulpélogo
@@ -242,8 +269,9 @@ regions:
         iso3166-2: BF-KOP
       names:
         - name: Koulpélogo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kouritenga
@@ -251,8 +279,9 @@ regions:
         iso3166-2: BF-KOT
       names:
         - name: Kouritenga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kourwéogo
@@ -260,8 +289,9 @@ regions:
         iso3166-2: BF-KOW
       names:
         - name: Kourwéogo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kénédougou
@@ -269,8 +299,9 @@ regions:
         iso3166-2: BF-KEN
       names:
         - name: Kénédougou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Loroum
@@ -278,8 +309,9 @@ regions:
         iso3166-2: BF-LOR
       names:
         - name: Loroum
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Léraba
@@ -287,8 +319,9 @@ regions:
         iso3166-2: BF-LER
       names:
         - name: Léraba
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Mouhoun
@@ -296,8 +329,9 @@ regions:
         iso3166-2: BF-MOU
       names:
         - name: Mouhoun
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nahouri
@@ -305,8 +339,9 @@ regions:
         iso3166-2: BF-NAO
       names:
         - name: Nahouri
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Namentenga
@@ -314,8 +349,9 @@ regions:
         iso3166-2: BF-NAM
       names:
         - name: Namentenga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nayala
@@ -323,8 +359,9 @@ regions:
         iso3166-2: BF-NAY
       names:
         - name: Nayala
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Nord
@@ -332,8 +369,9 @@ regions:
         iso3166-2: BF-10
       names:
         - name: Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Noumbiel
@@ -341,8 +379,9 @@ regions:
         iso3166-2: BF-NOU
       names:
         - name: Noumbiel
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Oubritenga
@@ -350,8 +389,9 @@ regions:
         iso3166-2: BF-OUB
       names:
         - name: Oubritenga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Oudalan
@@ -359,8 +399,9 @@ regions:
         iso3166-2: BF-OUD
       names:
         - name: Oudalan
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Passoré
@@ -368,8 +409,9 @@ regions:
         iso3166-2: BF-PAS
       names:
         - name: Passoré
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Plateau-Central
@@ -377,8 +419,9 @@ regions:
         iso3166-2: BF-11
       names:
         - name: Plateau-Central
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Poni
@@ -386,8 +429,9 @@ regions:
         iso3166-2: BF-PON
       names:
         - name: Poni
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sahel
@@ -395,8 +439,9 @@ regions:
         iso3166-2: BF-12
       names:
         - name: Sahel
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sanguié
@@ -404,8 +449,9 @@ regions:
         iso3166-2: BF-SNG
       names:
         - name: Sanguié
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sanmatenga
@@ -413,8 +459,9 @@ regions:
         iso3166-2: BF-SMT
       names:
         - name: Sanmatenga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sissili
@@ -422,8 +469,9 @@ regions:
         iso3166-2: BF-SIS
       names:
         - name: Sissili
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Soum
@@ -431,8 +479,9 @@ regions:
         iso3166-2: BF-SOM
       names:
         - name: Soum
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sourou
@@ -440,8 +489,9 @@ regions:
         iso3166-2: BF-SOR
       names:
         - name: Sourou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sud-Ouest
@@ -449,17 +499,20 @@ regions:
         iso3166-2: BF-13
       names:
         - name: Sud-Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
-    # Séno
+    # Sé
     - codes:
         iso3166-2: BF-SEN
       names:
-        - name: Séno
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Sé
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Séno
     
 
     # Tapoa
@@ -467,8 +520,9 @@ regions:
         iso3166-2: BF-TAP
       names:
         - name: Tapoa
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tuy
@@ -476,8 +530,9 @@ regions:
         iso3166-2: BF-TUI
       names:
         - name: Tuy
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Yagha
@@ -485,8 +540,9 @@ regions:
         iso3166-2: BF-YAG
       names:
         - name: Yagha
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Yatenga
@@ -494,8 +550,9 @@ regions:
         iso3166-2: BF-YAT
       names:
         - name: Yatenga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ziro
@@ -503,8 +560,9 @@ regions:
         iso3166-2: BF-ZIR
       names:
         - name: Ziro
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Zondoma
@@ -512,8 +570,9 @@ regions:
         iso3166-2: BF-ZON
       names:
         - name: Zondoma
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Zoundwéogo
@@ -521,5 +580,6 @@ regions:
         iso3166-2: BF-ZOU
       names:
         - name: Zoundwéogo
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

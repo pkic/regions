@@ -8,8 +8,9 @@ regions:
         iso3166-2: SN-DK
       names:
         - name: Dakar
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Diourbel
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SN-DB
       names:
         - name: Diourbel
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Fatick
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SN-FK
       names:
         - name: Fatick
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kaffrine
@@ -35,8 +38,9 @@ regions:
         iso3166-2: SN-KA
       names:
         - name: Kaffrine
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kaolack
@@ -44,8 +48,9 @@ regions:
         iso3166-2: SN-KL
       names:
         - name: Kaolack
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kolda
@@ -53,8 +58,9 @@ regions:
         iso3166-2: SN-KD
       names:
         - name: Kolda
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kédougou
@@ -62,8 +68,9 @@ regions:
         iso3166-2: SN-KE
       names:
         - name: Kédougou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Louga
@@ -71,8 +78,9 @@ regions:
         iso3166-2: SN-LG
       names:
         - name: Louga
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Matam
@@ -80,8 +88,9 @@ regions:
         iso3166-2: SN-MT
       names:
         - name: Matam
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Saint-Louis
@@ -89,8 +98,9 @@ regions:
         iso3166-2: SN-SL
       names:
         - name: Saint-Louis
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sédhiou
@@ -98,8 +108,9 @@ regions:
         iso3166-2: SN-SE
       names:
         - name: Sédhiou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tambacounda
@@ -107,8 +118,9 @@ regions:
         iso3166-2: SN-TC
       names:
         - name: Tambacounda
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Thiès
@@ -116,8 +128,9 @@ regions:
         iso3166-2: SN-TH
       names:
         - name: Thiès
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ziguinchor
@@ -125,5 +138,6 @@ regions:
         iso3166-2: SN-ZG
       names:
         - name: Ziguinchor
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

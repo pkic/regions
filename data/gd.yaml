@@ -8,8 +8,9 @@ regions:
         iso3166-2: GD-01
       names:
         - name: Saint Andrew
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint David
@@ -17,8 +18,9 @@ regions:
         iso3166-2: GD-02
       names:
         - name: Saint David
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint George
@@ -26,8 +28,9 @@ regions:
         iso3166-2: GD-03
       names:
         - name: Saint George
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint John
@@ -35,8 +38,9 @@ regions:
         iso3166-2: GD-04
       names:
         - name: Saint John
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Mark
@@ -44,8 +48,9 @@ regions:
         iso3166-2: GD-05
       names:
         - name: Saint Mark
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Patrick
@@ -53,8 +58,9 @@ regions:
         iso3166-2: GD-06
       names:
         - name: Saint Patrick
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Carriacou
@@ -62,8 +68,10 @@ regions:
         iso3166-2: GD-10
       names:
         - name: Carriacou
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Southern Grenadine Islands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

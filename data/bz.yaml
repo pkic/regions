@@ -8,8 +8,9 @@ regions:
         iso3166-2: BZ-BZ
       names:
         - name: Belize
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Cayo
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BZ-CY
       names:
         - name: Cayo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Corozal
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BZ-CZL
       names:
         - name: Corozal
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Orange Walk
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BZ-OW
       names:
         - name: Orange Walk
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Stann Creek
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BZ-SC
       names:
         - name: Stann Creek
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Toledo
@@ -53,5 +58,6 @@ regions:
         iso3166-2: BZ-TOL
       names:
         - name: Toledo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

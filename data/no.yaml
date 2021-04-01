@@ -9,8 +9,9 @@ regions:
         iso3166-2: NO-42
       names:
         - name: Agder
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Innlandet
@@ -18,8 +19,9 @@ regions:
         iso3166-2: NO-34
       names:
         - name: Innlandet
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Møre og Romsdal
@@ -27,8 +29,9 @@ regions:
         iso3166-2: NO-15
       names:
         - name: Møre og Romsdal
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Nordland
@@ -36,8 +39,9 @@ regions:
         iso3166-2: NO-18
       names:
         - name: Nordland
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Oslo
@@ -45,8 +49,9 @@ regions:
         iso3166-2: NO-03
       names:
         - name: Oslo
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Rogaland
@@ -54,8 +59,9 @@ regions:
         iso3166-2: NO-11
       names:
         - name: Rogaland
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Romssa ja Finnmárkku
@@ -63,13 +69,16 @@ regions:
         iso3166-2: NO-54
       names:
         - name: Romssa ja Finnmárkku
-          languages: [se]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [se]
         - name: Troms og Finnmark
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
         - name: Tromssan ja Finmarkun
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Trööndelage
@@ -77,10 +86,12 @@ regions:
         iso3166-2: NO-50
       names:
         - name: Trööndelage
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Trøndelag
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Vestfold og Telemark
@@ -88,8 +99,9 @@ regions:
         iso3166-2: NO-38
       names:
         - name: Vestfold og Telemark
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Vestland
@@ -97,8 +109,9 @@ regions:
         iso3166-2: NO-46
       names:
         - name: Vestland
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]
     
 
     # Viken
@@ -106,5 +119,6 @@ regions:
         iso3166-2: NO-30
       names:
         - name: Viken
-          languages: [nb, nn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nb, nn]

@@ -3,13 +3,15 @@ complete: false
 regions:
     
 
-    # Australian Territory
+    # Australian
     - codes:
         iso3166-2: AU-ACT
       names:
-        - name: Australian Territory
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Australian
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Australian Capital Territory
     
 
     # New South Wales
@@ -17,17 +19,20 @@ regions:
         iso3166-2: AU-NSW
       names:
         - name: New South Wales
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Northern Territory
+    # Northern
     - codes:
         iso3166-2: AU-NT
       names:
-        - name: Northern Territory
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Northern
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Northern Territory
     
 
     # Queensland
@@ -35,8 +40,9 @@ regions:
         iso3166-2: AU-QLD
       names:
         - name: Queensland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South Australia
@@ -44,8 +50,9 @@ regions:
         iso3166-2: AU-SA
       names:
         - name: South Australia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tasmania
@@ -53,8 +60,9 @@ regions:
         iso3166-2: AU-TAS
       names:
         - name: Tasmania
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Victoria
@@ -62,8 +70,9 @@ regions:
         iso3166-2: AU-VIC
       names:
         - name: Victoria
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western Australia
@@ -71,5 +80,6 @@ regions:
         iso3166-2: AU-WA
       names:
         - name: Western Australia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

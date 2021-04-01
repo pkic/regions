@@ -8,8 +8,9 @@ regions:
         iso3166-2: CI-AB
       names:
         - name: Abidjan
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Bas-Sassandra
@@ -17,8 +18,9 @@ regions:
         iso3166-2: CI-BS
       names:
         - name: Bas-Sassandra
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Comoé
@@ -26,8 +28,9 @@ regions:
         iso3166-2: CI-CM
       names:
         - name: Comoé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Denguélé
@@ -35,8 +38,9 @@ regions:
         iso3166-2: CI-DN
       names:
         - name: Denguélé
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Gôh-Djiboua
@@ -44,8 +48,9 @@ regions:
         iso3166-2: CI-GD
       names:
         - name: Gôh-Djiboua
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Lacs
@@ -53,8 +58,9 @@ regions:
         iso3166-2: CI-LC
       names:
         - name: Lacs
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Lagunes
@@ -62,8 +68,9 @@ regions:
         iso3166-2: CI-LG
       names:
         - name: Lagunes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Montagnes
@@ -71,8 +78,9 @@ regions:
         iso3166-2: CI-MG
       names:
         - name: Montagnes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sassandra-Marahoué
@@ -80,8 +88,9 @@ regions:
         iso3166-2: CI-SM
       names:
         - name: Sassandra-Marahoué
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Savanes
@@ -89,17 +98,20 @@ regions:
         iso3166-2: CI-SV
       names:
         - name: Savanes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
-    # Vallée du Bandama
+    # Vallée Bandama
     - codes:
         iso3166-2: CI-VB
       names:
-        - name: Vallée du Bandama
-          languages: [fr]
-          sources: [iso3166-2]
+        - name: Vallée Bandama
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Vallée du Bandama
     
 
     # Woroba
@@ -107,8 +119,9 @@ regions:
         iso3166-2: CI-WR
       names:
         - name: Woroba
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Yamoussoukro
@@ -116,8 +129,9 @@ regions:
         iso3166-2: CI-YM
       names:
         - name: Yamoussoukro
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Zanzan
@@ -125,5 +139,6 @@ regions:
         iso3166-2: CI-ZZ
       names:
         - name: Zanzan
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

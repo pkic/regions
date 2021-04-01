@@ -8,8 +8,9 @@ regions:
         iso3166-2: HN-AT
       names:
         - name: Atlántida
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Choluteca
@@ -17,8 +18,9 @@ regions:
         iso3166-2: HN-CH
       names:
         - name: Choluteca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Colón
@@ -26,8 +28,9 @@ regions:
         iso3166-2: HN-CL
       names:
         - name: Colón
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Comayagua
@@ -35,8 +38,9 @@ regions:
         iso3166-2: HN-CM
       names:
         - name: Comayagua
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Copán
@@ -44,8 +48,9 @@ regions:
         iso3166-2: HN-CP
       names:
         - name: Copán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cortés
@@ -53,17 +58,9 @@ regions:
         iso3166-2: HN-CR
       names:
         - name: Cortés
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # El Paraíso
-    - codes:
-        iso3166-2: HN-EP
-      names:
-        - name: El Paraíso
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Francisco Morazán
@@ -71,17 +68,20 @@ regions:
         iso3166-2: HN-FM
       names:
         - name: Francisco Morazán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Gracias a Dios
+    # Gracias Dios
     - codes:
         iso3166-2: HN-GD
       names:
-        - name: Gracias a Dios
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Gracias Dios
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Gracias a Dios
     
 
     # Intibucá
@@ -89,26 +89,20 @@ regions:
         iso3166-2: HN-IN
       names:
         - name: Intibucá
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Islas de la Bahía
+    # Islas Bahí
     - codes:
         iso3166-2: HN-IB
       names:
-        - name: Islas de la Bahía
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Paz
-    - codes:
-        iso3166-2: HN-LP
-      names:
-        - name: La Paz
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Islas Bahí
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Islas de la Bahía
     
 
     # Lempira
@@ -116,8 +110,9 @@ regions:
         iso3166-2: HN-LE
       names:
         - name: Lempira
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Ocotepeque
@@ -125,8 +120,9 @@ regions:
         iso3166-2: HN-OC
       names:
         - name: Ocotepeque
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Olancho
@@ -134,8 +130,31 @@ regions:
         iso3166-2: HN-OL
       names:
         - name: Olancho
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Paraíso
+    - codes:
+        iso3166-2: HN-EP
+      names:
+        - name: Paraíso
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: El Paraíso
+    
+
+    # Paz
+    - codes:
+        iso3166-2: HN-LP
+      names:
+        - name: Paz
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Paz
     
 
     # Santa Bárbara
@@ -143,8 +162,9 @@ regions:
         iso3166-2: HN-SB
       names:
         - name: Santa Bárbara
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Valle
@@ -152,8 +172,9 @@ regions:
         iso3166-2: HN-VA
       names:
         - name: Valle
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Yoro
@@ -161,5 +182,6 @@ regions:
         iso3166-2: HN-YO
       names:
         - name: Yoro
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: LR-BM
       names:
         - name: Bomi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bong
@@ -17,8 +18,9 @@ regions:
         iso3166-2: LR-BG
       names:
         - name: Bong
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Gbarpolu
@@ -26,8 +28,9 @@ regions:
         iso3166-2: LR-GP
       names:
         - name: Gbarpolu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grand Bassa
@@ -35,8 +38,9 @@ regions:
         iso3166-2: LR-GB
       names:
         - name: Grand Bassa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grand Cape Mount
@@ -44,8 +48,9 @@ regions:
         iso3166-2: LR-CM
       names:
         - name: Grand Cape Mount
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grand Gedeh
@@ -53,8 +58,9 @@ regions:
         iso3166-2: LR-GG
       names:
         - name: Grand Gedeh
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grand Kru
@@ -62,8 +68,9 @@ regions:
         iso3166-2: LR-GK
       names:
         - name: Grand Kru
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lofa
@@ -71,8 +78,9 @@ regions:
         iso3166-2: LR-LO
       names:
         - name: Lofa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Margibi
@@ -80,8 +88,9 @@ regions:
         iso3166-2: LR-MG
       names:
         - name: Margibi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Maryland
@@ -89,8 +98,9 @@ regions:
         iso3166-2: LR-MY
       names:
         - name: Maryland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Montserrado
@@ -98,8 +108,9 @@ regions:
         iso3166-2: LR-MO
       names:
         - name: Montserrado
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nimba
@@ -107,8 +118,9 @@ regions:
         iso3166-2: LR-NI
       names:
         - name: Nimba
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # River Cess
@@ -116,11 +128,13 @@ regions:
         iso3166-2: LR-RI
       names:
         - name: River Cess
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Rivercess
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # River Gee
@@ -128,8 +142,9 @@ regions:
         iso3166-2: LR-RG
       names:
         - name: River Gee
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Sinoe
@@ -137,5 +152,6 @@ regions:
         iso3166-2: LR-SI
       names:
         - name: Sinoe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

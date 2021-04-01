@@ -8,32 +8,41 @@ regions:
         iso3166-2: ZA-FS
       names:
         - name: Foreisetata
-          languages: [st, tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st, tn]
         - name: Free State
-          languages: [en, ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, ts]
         - name: Freistata
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: Freyisitata
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Freyistata
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: Fuleyisitata
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Fureisitata
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
         - name: Vrystaat
-          languages: [af]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af]
         - name: iFreyistata
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # Gauteng
@@ -41,17 +50,21 @@ regions:
         iso3166-2: ZA-GP
       names:
         - name: Gauteng
-          languages: [af, en, ss, tn, ts, ve, zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af, en, ss, tn, ts, ve, zu]
         - name: Kgauteng
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: Rhawuti
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: iGauteng
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # KwaZulu-Natal
@@ -59,25 +72,32 @@ regions:
         iso3166-2: ZA-KZN
       names:
         - name: GaZulu-Natala
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: HaZulu-Natal
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
         - name: Hazolo-Natala
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: KwaZulu-Natal
-          languages: [af, en, tn, ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af, en, tn, ts]
         - name: KwaZulu-Natala
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: KwaZulu-Natali
-          languages: [ss, zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ss, zu]
         - name: iKwaZulu-Natal
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # Limpopo
@@ -85,11 +105,13 @@ regions:
         iso3166-2: ZA-LP
       names:
         - name: Limpopo
-          languages: [af, en, nr, ss, st, tn, ts, xh, zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af, en, nr, ss, st, tn, ts, xh, zu]
         - name: Vhembe
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
     
 
     # Eastern Cape
@@ -97,37 +119,48 @@ regions:
         iso3166-2: ZA-EC
       names:
         - name: Eastern Cape
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Kapa Bohlabela
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Kapa Botjhabela
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: Kapa Botlhaba
-          languages: [tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tn]
         - name: Kapa Vhubvaḓuvha
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
         - name: Kapa-Vuxa
-          languages: [ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ts]
         - name: Mpuma-Koloni
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: Mpumalanga-Kapa
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Mpumalanga-Koloni
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Oos-Kaap
-          languages: [af]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af]
         - name: iPumalanga-Kapa
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # Western Cape
@@ -135,37 +168,48 @@ regions:
         iso3166-2: ZA-WC
       names:
         - name: Kapa Bodikela
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Kapa Bophirima
-          languages: [tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tn]
         - name: Kapa Bophirimela
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: Kapa Vhukovhela
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
         - name: Kapa-Vupeladyambu
-          languages: [ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ts]
         - name: Ntshona-Koloni
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: Ntshonalanga-Kapa
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Ntshonalanga-Koloni
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Wes-Kaap
-          languages: [af]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af]
         - name: Western Cape
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: iTjhingalanga-Kapa
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # Northern Cape
@@ -173,38 +217,49 @@ regions:
         iso3166-2: ZA-NC
       names:
         - name: Kapa Bokone
-          languages: [tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tn]
         - name: Kapa Devhula
-          languages: [ve]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ve]
         - name: Kapa Leboa
-          languages: [tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tn]
         - name: Kapa Leboya
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
         - name: Kapa-N'walungu
-          languages: [ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ts]
         - name: Mntla-Koloni
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: Noord-Kaap
-          languages: [af]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af]
         - name: Northern Cape
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Nyakatho-Kapa
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: Nyakatho-Koloni
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: iTlhagwini-Kapa
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # North-West
@@ -212,31 +267,41 @@ regions:
         iso3166-2: ZA-NW
       names:
         - name: Bokone Bophirima
-          languages: [tn]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [tn]
         - name: Lebowa Bodikela
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Leboya  Bophirima
-          languages: [st]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [st]
+              value: Leboya (le) Bophirima
         - name: Mntla-Ntshona
-          languages: [xh]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [xh]
         - name: N'walungu-Vupeladyambu
-          languages: [ts]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ts]
         - name: Noordwes
-          languages: [af]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af]
         - name: North-West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Nyakatho-Ntshonalanga
-          languages: [zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [zu]
         - name: iTlhagwini-Tjhingalanga
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]
     
 
     # Mpumalanga
@@ -244,8 +309,10 @@ regions:
         iso3166-2: ZA-MP
       names:
         - name: Mpumalanga
-          languages: [af, en, ss, st, tn, ts, ve, xh, zu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [af, en, ss, st, tn, ts, ve, xh, zu]
         - name: iMpumalanga
-          languages: [nr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nr]

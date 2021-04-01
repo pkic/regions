@@ -8,8 +8,9 @@ regions:
         iso3166-2: ZW-BU
       names:
         - name: Bulawayo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Harare
@@ -17,8 +18,9 @@ regions:
         iso3166-2: ZW-HA
       names:
         - name: Harare
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Manicaland
@@ -26,8 +28,9 @@ regions:
         iso3166-2: ZW-MA
       names:
         - name: Manicaland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mashonaland Central
@@ -35,8 +38,9 @@ regions:
         iso3166-2: ZW-MC
       names:
         - name: Mashonaland Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mashonaland East
@@ -44,8 +48,9 @@ regions:
         iso3166-2: ZW-ME
       names:
         - name: Mashonaland East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mashonaland West
@@ -53,8 +58,9 @@ regions:
         iso3166-2: ZW-MW
       names:
         - name: Mashonaland West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Masvingo
@@ -62,8 +68,9 @@ regions:
         iso3166-2: ZW-MV
       names:
         - name: Masvingo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Matabeleland North
@@ -71,8 +78,9 @@ regions:
         iso3166-2: ZW-MN
       names:
         - name: Matabeleland North
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Matabeleland South
@@ -80,8 +88,9 @@ regions:
         iso3166-2: ZW-MS
       names:
         - name: Matabeleland South
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Midlands
@@ -89,5 +98,6 @@ regions:
         iso3166-2: ZW-MI
       names:
         - name: Midlands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

@@ -9,11 +9,13 @@ regions:
         iso3166-2: GE-AB
       names:
         - name: Abkhazia
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
         - name: Apkhazeti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Ach'ara
@@ -21,11 +23,13 @@ regions:
         iso3166-2: GE-AJ
       names:
         - name: Ach'ara
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
         - name: Ajaria
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Guria
@@ -33,8 +37,9 @@ regions:
         iso3166-2: GE-GU
       names:
         - name: Guria
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Imereti
@@ -42,8 +47,9 @@ regions:
         iso3166-2: GE-IM
       names:
         - name: Imereti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # K'akheti
@@ -51,8 +57,9 @@ regions:
         iso3166-2: GE-KA
       names:
         - name: K'akheti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Kvemo Kartli
@@ -60,8 +67,9 @@ regions:
         iso3166-2: GE-KK
       names:
         - name: Kvemo Kartli
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Mtskheta-Mtianeti
@@ -69,17 +77,20 @@ regions:
         iso3166-2: GE-MM
       names:
         - name: Mtskheta-Mtianeti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
-    # Rach'a-Lechkhumi-Kvemo Svaneti
+    # Rach' Lechkhumi-Kvemo Svaneti
     - codes:
         iso3166-2: GE-RL
       names:
-        - name: Rach'a-Lechkhumi-Kvemo Svaneti
-          languages: [ka]
-          sources: [iso3166-2]
+        - name: Rach' Lechkhumi-Kvemo Svaneti
+          sources:
+            - name: iso3166-2
+              languages: [ka]
+              value: Rach'a-Lechkhumi-Kvemo Svaneti
     
 
     # Samegrelo-Zemo Svaneti
@@ -87,8 +98,9 @@ regions:
         iso3166-2: GE-SZ
       names:
         - name: Samegrelo-Zemo Svaneti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Samtskhe-Javakheti
@@ -96,8 +108,9 @@ regions:
         iso3166-2: GE-SJ
       names:
         - name: Samtskhe-Javakheti
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Shida Kartli
@@ -105,8 +118,9 @@ regions:
         iso3166-2: GE-SK
       names:
         - name: Shida Kartli
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]
     
 
     # Tbilisi
@@ -114,5 +128,6 @@ regions:
         iso3166-2: GE-TB
       names:
         - name: Tbilisi
-          languages: [ka]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ka]

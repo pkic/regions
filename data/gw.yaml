@@ -5,6 +5,10 @@ regions:
 
     - codes:
         iso3166-2: GW-BL
+      names:
+        - sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Bafatá
@@ -12,8 +16,9 @@ regions:
         iso3166-2: GW-BA
       names:
         - name: Bafatá
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Biombo
@@ -21,8 +26,9 @@ regions:
         iso3166-2: GW-BM
       names:
         - name: Biombo
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Bissau
@@ -30,11 +36,13 @@ regions:
         iso3166-2: GW-BS
       names:
         - name: Bissau
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
         - name: SAB
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Cacheu
@@ -42,8 +50,9 @@ regions:
         iso3166-2: GW-CA
       names:
         - name: Cacheu
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Gabú
@@ -51,8 +60,9 @@ regions:
         iso3166-2: GW-GA
       names:
         - name: Gabú
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Leste
@@ -60,8 +70,9 @@ regions:
         iso3166-2: GW-L
       names:
         - name: Leste
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Norte
@@ -69,8 +80,9 @@ regions:
         iso3166-2: GW-N
       names:
         - name: Norte
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Oio
@@ -78,8 +90,9 @@ regions:
         iso3166-2: GW-OI
       names:
         - name: Oio
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Quinara
@@ -87,8 +100,9 @@ regions:
         iso3166-2: GW-QU
       names:
         - name: Quinara
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Sul
@@ -96,8 +110,9 @@ regions:
         iso3166-2: GW-S
       names:
         - name: Sul
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Tombali
@@ -105,5 +120,6 @@ regions:
         iso3166-2: GW-TO
       names:
         - name: Tombali
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]

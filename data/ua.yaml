@@ -9,8 +9,9 @@ regions:
         iso3166-2: UA-43
       names:
         - name: Avtonomna Respublika Krym
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Cherkaska oblast
@@ -18,8 +19,9 @@ regions:
         iso3166-2: UA-71
       names:
         - name: Cherkaska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Chernihivska oblast
@@ -27,8 +29,9 @@ regions:
         iso3166-2: UA-74
       names:
         - name: Chernihivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Chernivetska oblast
@@ -36,8 +39,9 @@ regions:
         iso3166-2: UA-77
       names:
         - name: Chernivetska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Dnipropetrovska oblast
@@ -45,8 +49,9 @@ regions:
         iso3166-2: UA-12
       names:
         - name: Dnipropetrovska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Donetska oblast
@@ -54,8 +59,9 @@ regions:
         iso3166-2: UA-14
       names:
         - name: Donetska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Ivano-Frankivska oblast
@@ -63,8 +69,9 @@ regions:
         iso3166-2: UA-26
       names:
         - name: Ivano-Frankivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Kharkivska oblast
@@ -72,8 +79,9 @@ regions:
         iso3166-2: UA-63
       names:
         - name: Kharkivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Khersonska oblast
@@ -81,8 +89,9 @@ regions:
         iso3166-2: UA-65
       names:
         - name: Khersonska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Khmelnytska oblast
@@ -90,8 +99,9 @@ regions:
         iso3166-2: UA-68
       names:
         - name: Khmelnytska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Kirovohradska oblast
@@ -99,8 +109,9 @@ regions:
         iso3166-2: UA-35
       names:
         - name: Kirovohradska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Kyiv
@@ -108,8 +119,9 @@ regions:
         iso3166-2: UA-30
       names:
         - name: Kyiv
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Kyivska oblast
@@ -117,8 +129,9 @@ regions:
         iso3166-2: UA-32
       names:
         - name: Kyivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Luhanska oblast
@@ -126,8 +139,9 @@ regions:
         iso3166-2: UA-09
       names:
         - name: Luhanska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Lvivska oblast
@@ -135,8 +149,9 @@ regions:
         iso3166-2: UA-46
       names:
         - name: Lvivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Mykolaivska oblast
@@ -144,8 +159,9 @@ regions:
         iso3166-2: UA-48
       names:
         - name: Mykolaivska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Odeska oblast
@@ -153,8 +169,9 @@ regions:
         iso3166-2: UA-51
       names:
         - name: Odeska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Poltavska oblast
@@ -162,8 +179,9 @@ regions:
         iso3166-2: UA-53
       names:
         - name: Poltavska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Rivnenska oblast
@@ -171,8 +189,9 @@ regions:
         iso3166-2: UA-56
       names:
         - name: Rivnenska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Sevastopol
@@ -180,8 +199,9 @@ regions:
         iso3166-2: UA-40
       names:
         - name: Sevastopol
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Sumska oblast
@@ -189,8 +209,9 @@ regions:
         iso3166-2: UA-59
       names:
         - name: Sumska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Ternopilska oblast
@@ -198,8 +219,9 @@ regions:
         iso3166-2: UA-61
       names:
         - name: Ternopilska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Vinnytska oblast
@@ -207,8 +229,9 @@ regions:
         iso3166-2: UA-05
       names:
         - name: Vinnytska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Volynska oblast
@@ -216,8 +239,9 @@ regions:
         iso3166-2: UA-07
       names:
         - name: Volynska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Zakarpatska oblast
@@ -225,8 +249,9 @@ regions:
         iso3166-2: UA-21
       names:
         - name: Zakarpatska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Zaporizka oblast
@@ -234,8 +259,9 @@ regions:
         iso3166-2: UA-23
       names:
         - name: Zaporizka oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]
     
 
     # Zhytomyrska oblast
@@ -243,5 +269,6 @@ regions:
         iso3166-2: UA-18
       names:
         - name: Zhytomyrska oblast
-          languages: [uk]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uk]

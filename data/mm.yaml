@@ -8,8 +8,9 @@ regions:
         iso3166-2: MM-07
       names:
         - name: Ayeyarwady
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Bago
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MM-02
       names:
         - name: Bago
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Chin
@@ -26,8 +28,9 @@ regions:
         iso3166-2: MM-14
       names:
         - name: Chin
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Kachin
@@ -35,8 +38,9 @@ regions:
         iso3166-2: MM-11
       names:
         - name: Kachin
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Kayah
@@ -44,8 +48,9 @@ regions:
         iso3166-2: MM-12
       names:
         - name: Kayah
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Kayin
@@ -53,8 +58,9 @@ regions:
         iso3166-2: MM-13
       names:
         - name: Kayin
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Magway
@@ -62,8 +68,9 @@ regions:
         iso3166-2: MM-03
       names:
         - name: Magway
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Mandalay
@@ -71,8 +78,9 @@ regions:
         iso3166-2: MM-04
       names:
         - name: Mandalay
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Mon
@@ -80,8 +88,9 @@ regions:
         iso3166-2: MM-15
       names:
         - name: Mon
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Nay Pyi Taw
@@ -89,8 +98,9 @@ regions:
         iso3166-2: MM-18
       names:
         - name: Nay Pyi Taw
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Rakhine
@@ -98,8 +108,9 @@ regions:
         iso3166-2: MM-16
       names:
         - name: Rakhine
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Sagaing
@@ -107,8 +118,9 @@ regions:
         iso3166-2: MM-01
       names:
         - name: Sagaing
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Shan
@@ -116,8 +128,9 @@ regions:
         iso3166-2: MM-17
       names:
         - name: Shan
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Tanintharyi
@@ -125,8 +138,9 @@ regions:
         iso3166-2: MM-05
       names:
         - name: Tanintharyi
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]
     
 
     # Yangon
@@ -134,5 +148,6 @@ regions:
         iso3166-2: MM-06
       names:
         - name: Yangon
-          languages: [my]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [my]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: NR-01
       names:
         - name: Aiwo
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Anabar
@@ -17,8 +18,9 @@ regions:
         iso3166-2: NR-02
       names:
         - name: Anabar
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Anetan
@@ -26,8 +28,9 @@ regions:
         iso3166-2: NR-03
       names:
         - name: Anetan
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Anibare
@@ -35,8 +38,9 @@ regions:
         iso3166-2: NR-04
       names:
         - name: Anibare
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Baiti
@@ -44,11 +48,13 @@ regions:
         iso3166-2: NR-05
       names:
         - name: Baiti
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
         - name: Baitsi
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Boe
@@ -56,8 +62,9 @@ regions:
         iso3166-2: NR-06
       names:
         - name: Boe
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Buada
@@ -65,8 +72,9 @@ regions:
         iso3166-2: NR-07
       names:
         - name: Buada
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Denigomodu
@@ -74,8 +82,9 @@ regions:
         iso3166-2: NR-08
       names:
         - name: Denigomodu
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Ewa
@@ -83,8 +92,9 @@ regions:
         iso3166-2: NR-09
       names:
         - name: Ewa
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Ijuw
@@ -92,8 +102,9 @@ regions:
         iso3166-2: NR-10
       names:
         - name: Ijuw
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Meneng
@@ -101,8 +112,9 @@ regions:
         iso3166-2: NR-11
       names:
         - name: Meneng
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Nibok
@@ -110,8 +122,9 @@ regions:
         iso3166-2: NR-12
       names:
         - name: Nibok
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Uaboe
@@ -119,8 +132,9 @@ regions:
         iso3166-2: NR-13
       names:
         - name: Uaboe
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]
     
 
     # Yaren
@@ -128,5 +142,6 @@ regions:
         iso3166-2: NR-14
       names:
         - name: Yaren
-          languages: [en, na]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, na]

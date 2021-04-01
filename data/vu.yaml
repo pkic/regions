@@ -8,8 +8,9 @@ regions:
         iso3166-2: VU-MAP
       names:
         - name: Malampa
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Pénama
@@ -17,8 +18,9 @@ regions:
         iso3166-2: VU-PAM
       names:
         - name: Pénama
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Sanma
@@ -26,8 +28,9 @@ regions:
         iso3166-2: VU-SAM
       names:
         - name: Sanma
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Shéfa
@@ -35,17 +38,20 @@ regions:
         iso3166-2: VU-SEE
       names:
         - name: Shéfa
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
-    # Taféa
+    # Tafé
     - codes:
         iso3166-2: VU-TAE
       names:
-        - name: Taféa
-          languages: [en, fr]
-          sources: [iso3166-2]
+        - name: Tafé
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
+              value: Taféa
     
 
     # Torba
@@ -53,5 +59,6 @@ regions:
         iso3166-2: VU-TOB
       names:
         - name: Torba
-          languages: [en, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]

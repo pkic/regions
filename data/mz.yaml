@@ -8,8 +8,9 @@ regions:
         iso3166-2: MZ-P
       names:
         - name: Cabo Delgado
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Gaza
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MZ-G
       names:
         - name: Gaza
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Inhambane
@@ -26,8 +28,9 @@ regions:
         iso3166-2: MZ-I
       names:
         - name: Inhambane
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Manica
@@ -35,8 +38,9 @@ regions:
         iso3166-2: MZ-B
       names:
         - name: Manica
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Maputo
@@ -44,8 +48,9 @@ regions:
         iso3166-2: MZ-MPM
       names:
         - name: Maputo
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Nampula
@@ -53,8 +58,9 @@ regions:
         iso3166-2: MZ-N
       names:
         - name: Nampula
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Niassa
@@ -62,8 +68,9 @@ regions:
         iso3166-2: MZ-A
       names:
         - name: Niassa
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Sofala
@@ -71,8 +78,9 @@ regions:
         iso3166-2: MZ-S
       names:
         - name: Sofala
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Tete
@@ -80,8 +88,9 @@ regions:
         iso3166-2: MZ-T
       names:
         - name: Tete
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]
     
 
     # Zambézia
@@ -89,5 +98,6 @@ regions:
         iso3166-2: MZ-Q
       names:
         - name: Zambézia
-          languages: [pt]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [pt]

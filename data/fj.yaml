@@ -8,8 +8,9 @@ regions:
         iso3166-2: FJ-01
       names:
         - name: Ba
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bua
@@ -17,8 +18,9 @@ regions:
         iso3166-2: FJ-02
       names:
         - name: Bua
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Cakaudrove
@@ -26,8 +28,9 @@ regions:
         iso3166-2: FJ-03
       names:
         - name: Cakaudrove
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Central
@@ -35,8 +38,9 @@ regions:
         iso3166-2: FJ-C
       names:
         - name: Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Eastern
@@ -44,8 +48,9 @@ regions:
         iso3166-2: FJ-E
       names:
         - name: Eastern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kadavu
@@ -53,8 +58,9 @@ regions:
         iso3166-2: FJ-04
       names:
         - name: Kadavu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lau
@@ -62,8 +68,9 @@ regions:
         iso3166-2: FJ-05
       names:
         - name: Lau
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lomaiviti
@@ -71,8 +78,9 @@ regions:
         iso3166-2: FJ-06
       names:
         - name: Lomaiviti
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Macuata
@@ -80,8 +88,9 @@ regions:
         iso3166-2: FJ-07
       names:
         - name: Macuata
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nadroga and Navosa
@@ -89,8 +98,9 @@ regions:
         iso3166-2: FJ-08
       names:
         - name: Nadroga and Navosa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Naitasiri
@@ -98,8 +108,9 @@ regions:
         iso3166-2: FJ-09
       names:
         - name: Naitasiri
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Namosi
@@ -107,8 +118,9 @@ regions:
         iso3166-2: FJ-10
       names:
         - name: Namosi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Northern
@@ -116,8 +128,9 @@ regions:
         iso3166-2: FJ-N
       names:
         - name: Northern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ra
@@ -125,8 +138,9 @@ regions:
         iso3166-2: FJ-11
       names:
         - name: Ra
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Rewa
@@ -134,8 +148,9 @@ regions:
         iso3166-2: FJ-12
       names:
         - name: Rewa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Rotuma
@@ -143,8 +158,9 @@ regions:
         iso3166-2: FJ-R
       names:
         - name: Rotuma
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Serua
@@ -152,8 +168,9 @@ regions:
         iso3166-2: FJ-13
       names:
         - name: Serua
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tailevu
@@ -161,8 +178,9 @@ regions:
         iso3166-2: FJ-14
       names:
         - name: Tailevu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -170,5 +188,6 @@ regions:
         iso3166-2: FJ-W
       names:
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

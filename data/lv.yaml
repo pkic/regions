@@ -9,11 +9,14 @@ regions:
         iso3166-2: LV-001
       names:
         - name: Aglona
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Aglonas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Aglonas novads
     
 
     # Aizkraukle
@@ -21,11 +24,14 @@ regions:
         iso3166-2: LV-002
       names:
         - name: Aizkraukle
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Aizkraukles
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Aizkraukles novads
     
 
     # Aizpute
@@ -33,11 +39,14 @@ regions:
         iso3166-2: LV-003
       names:
         - name: Aizpute
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Aizputes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Aizputes novads
     
 
     # Aknīste
@@ -45,11 +54,14 @@ regions:
         iso3166-2: LV-004
       names:
         - name: Aknīste
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Aknīstes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Aknīstes novads
     
 
     # Aloja
@@ -57,11 +69,14 @@ regions:
         iso3166-2: LV-005
       names:
         - name: Aloja
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Alojas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Alojas novads
     
 
     # Alsunga
@@ -69,11 +84,14 @@ regions:
         iso3166-2: LV-006
       names:
         - name: Alsunga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Alsungas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Alsungas novads
     
 
     # Alūksne
@@ -81,11 +99,14 @@ regions:
         iso3166-2: LV-007
       names:
         - name: Alūksne
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Alūksnes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Alūksnes novads
     
 
     # Amata
@@ -93,11 +114,14 @@ regions:
         iso3166-2: LV-008
       names:
         - name: Amata
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Amatas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Amatas novads
     
 
     # Ape
@@ -105,11 +129,14 @@ regions:
         iso3166-2: LV-009
       names:
         - name: Ape
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Apes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Apes novads
     
 
     # Auce
@@ -117,23 +144,30 @@ regions:
         iso3166-2: LV-010
       names:
         - name: Auce
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Auces
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Auces novads
     
 
-    # Babīte
+    # Babī
     - codes:
         iso3166-2: LV-012
       names:
-        - name: Babīte
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Babī
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Babīte
         - name: Babītes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Babītes novads
     
 
     # Baldone
@@ -141,11 +175,14 @@ regions:
         iso3166-2: LV-013
       names:
         - name: Baldone
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Baldones
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Baldones novads
     
 
     # Baltinava
@@ -153,11 +190,14 @@ regions:
         iso3166-2: LV-014
       names:
         - name: Baltinava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Baltinavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Baltinavas novads
     
 
     # Balvi
@@ -165,11 +205,14 @@ regions:
         iso3166-2: LV-015
       names:
         - name: Balvi
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Balvu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Balvu novads
     
 
     # Bauska
@@ -177,23 +220,30 @@ regions:
         iso3166-2: LV-016
       names:
         - name: Bauska
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Bauskas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Bauskas novads
     
 
-    # Beverīna
+    # Beverī
     - codes:
         iso3166-2: LV-017
       names:
-        - name: Beverīna
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Beverī
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Beverīna
         - name: Beverīnas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Beverīnas novads
     
 
     # Brocēni
@@ -201,11 +251,14 @@ regions:
         iso3166-2: LV-018
       names:
         - name: Brocēni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Brocēnu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Brocēnu novads
     
 
     # Burtnieki
@@ -213,11 +266,14 @@ regions:
         iso3166-2: LV-019
       names:
         - name: Burtnieki
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Burtnieku
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Burtnieku novads
     
 
     # Carnikava
@@ -225,11 +281,14 @@ regions:
         iso3166-2: LV-020
       names:
         - name: Carnikava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Carnikavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Carnikavas novads
     
 
     # Cesvaine
@@ -237,11 +296,14 @@ regions:
         iso3166-2: LV-021
       names:
         - name: Cesvaine
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Cesvaines
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Cesvaines novads
     
 
     # Cibla
@@ -249,11 +311,14 @@ regions:
         iso3166-2: LV-023
       names:
         - name: Cibla
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ciblas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ciblas novads
     
 
     # Cēsis
@@ -261,11 +326,14 @@ regions:
         iso3166-2: LV-022
       names:
         - name: Cēsis
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Cēsu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Cēsu novads
     
 
     # Dagda
@@ -273,11 +341,14 @@ regions:
         iso3166-2: LV-024
       names:
         - name: Dagda
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Dagdas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Dagdas novads
     
 
     # Daugavpils
@@ -285,8 +356,12 @@ regions:
         iso3166-2: LV-DGV
       names:
         - name: Daugavpils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Daugavpils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Dobele
@@ -294,11 +369,14 @@ regions:
         iso3166-2: LV-026
       names:
         - name: Dobele
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Dobeles
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Dobeles novads
     
 
     # Dundaga
@@ -306,11 +384,14 @@ regions:
         iso3166-2: LV-027
       names:
         - name: Dundaga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Dundagas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Dundagas novads
     
 
     # Durbe
@@ -318,11 +399,14 @@ regions:
         iso3166-2: LV-028
       names:
         - name: Durbe
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Durbes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Durbes novads
     
 
     # Engure
@@ -330,11 +414,14 @@ regions:
         iso3166-2: LV-029
       names:
         - name: Engure
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Engures
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Engures novads
     
 
     # Garkalne
@@ -342,23 +429,30 @@ regions:
         iso3166-2: LV-031
       names:
         - name: Garkalne
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Garkalnes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Garkalnes novads
     
 
-    # Grobiņa
+    # Grobiņ
     - codes:
         iso3166-2: LV-032
       names:
-        - name: Grobiņa
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Grobiņ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Grobiņa
         - name: Grobiņas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Grobiņas novads
     
 
     # Gulbene
@@ -366,11 +460,14 @@ regions:
         iso3166-2: LV-033
       names:
         - name: Gulbene
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Gulbenes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Gulbenes novads
     
 
     # Iecava
@@ -378,11 +475,14 @@ regions:
         iso3166-2: LV-034
       names:
         - name: Iecava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Iecavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Iecavas novads
     
 
     # Ikšķile
@@ -390,23 +490,14 @@ regions:
         iso3166-2: LV-035
       names:
         - name: Ikšķile
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ikšķiles
-          languages: [lv]
-          sources: [iso3166-2]
-    
-
-    # Ilūkste
-    - codes:
-        iso3166-2: LV-036
-      names:
-        - name: Ilūkste
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Ilūkstes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ikšķiles novads
     
 
     # Inčukalna
@@ -414,11 +505,14 @@ regions:
         iso3166-2: LV-037
       names:
         - name: Inčukalna
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Inčukalna novads
         - name: Inčukalns
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Jaunjelgava
@@ -426,11 +520,14 @@ regions:
         iso3166-2: LV-038
       names:
         - name: Jaunjelgava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Jaunjelgavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Jaunjelgavas novads
     
 
     # Jaunpiebalga
@@ -438,11 +535,14 @@ regions:
         iso3166-2: LV-039
       names:
         - name: Jaunpiebalga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Jaunpiebalgas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Jaunpiebalgas novads
     
 
     # Jaunpils
@@ -450,8 +550,12 @@ regions:
         iso3166-2: LV-040
       names:
         - name: Jaunpils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Jaunpils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Jelgava
@@ -459,11 +563,14 @@ regions:
         iso3166-2: LV-JEL
       names:
         - name: Jelgava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Jelgavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Jelgavas novads
     
 
     # Jēkabpils
@@ -471,8 +578,12 @@ regions:
         iso3166-2: LV-JKB
       names:
         - name: Jēkabpils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Jēkabpils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Jūrmala
@@ -480,8 +591,9 @@ regions:
         iso3166-2: LV-JUR
       names:
         - name: Jūrmala
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Kandava
@@ -489,11 +601,14 @@ regions:
         iso3166-2: LV-043
       names:
         - name: Kandava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Kandavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Kandavas novads
     
 
     # Kocēni
@@ -501,11 +616,14 @@ regions:
         iso3166-2: LV-045
       names:
         - name: Kocēni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Kocēnu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Kocēnu novads
     
 
     # Koknese
@@ -513,11 +631,14 @@ regions:
         iso3166-2: LV-046
       names:
         - name: Koknese
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Kokneses
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Kokneses novads
     
 
     # Krimulda
@@ -525,11 +646,14 @@ regions:
         iso3166-2: LV-048
       names:
         - name: Krimulda
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Krimuldas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Krimuldas novads
     
 
     # Krustpils
@@ -537,8 +661,12 @@ regions:
         iso3166-2: LV-049
       names:
         - name: Krustpils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Krustpils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Krāslava
@@ -546,11 +674,14 @@ regions:
         iso3166-2: LV-047
       names:
         - name: Krāslava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Krāslavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Krāslavas novads
     
 
     # Kuldīga
@@ -558,11 +689,14 @@ regions:
         iso3166-2: LV-050
       names:
         - name: Kuldīga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Kuldīgas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Kuldīgas novads
     
 
     # Kurzeme
@@ -570,23 +704,29 @@ regions:
         euvoc: http://eurovoc.europa.eu/7866
       names:
         - name: Kuramaa
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Kurlandia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Kurzeme
-          languages: [cs, da, de, el, en, es, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
         - name: Kurzemi
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Kuržemė
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Курземе
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Kārsava
@@ -594,11 +734,14 @@ regions:
         iso3166-2: LV-044
       names:
         - name: Kārsava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Kārsavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Kārsavas novads
     
 
     # Latgale
@@ -606,20 +749,25 @@ regions:
         euvoc: http://eurovoc.europa.eu/7862
       names:
         - name: Latgala
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Latgale
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
         - name: Latgali
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Łatgalia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Латгале
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Lielvārde
@@ -627,11 +775,14 @@ regions:
         iso3166-2: LV-053
       names:
         - name: Lielvārde
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Lielvārdes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Lielvārdes novads
     
 
     # Liepāja
@@ -639,20 +790,23 @@ regions:
         iso3166-2: LV-LPX
       names:
         - name: Liepāja
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
-    # Limbaži
+    # Limbaž
     - codes:
         iso3166-2: LV-054
       names:
-        - name: Limbaži
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Limbažu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Limbaž
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Limbažu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Limbaži
     
 
     # Vidzeme
@@ -660,32 +814,41 @@ regions:
         euvoc: http://eurovoc.europa.eu/7865
       names:
         - name: Liwonia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Vidzeme
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
         - name: Vidžemė
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Vixema
-          languages: [sq]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [sq]
         - name: Видземе
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
-    # Lubāna
+    # Lubā
     - codes:
         iso3166-2: LV-057
       names:
-        - name: Lubāna
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Lubā
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Lubāna
         - name: Lubānas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Lubānas novads
     
 
     # Ludza
@@ -693,11 +856,14 @@ regions:
         iso3166-2: LV-058
       names:
         - name: Ludza
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ludzas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ludzas novads
     
 
     # Līgatne
@@ -705,11 +871,14 @@ regions:
         iso3166-2: LV-055
       names:
         - name: Līgatne
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Līgatnes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Līgatnes novads
     
 
     # Līvāni
@@ -717,11 +886,14 @@ regions:
         iso3166-2: LV-056
       names:
         - name: Līvāni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Līvānu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Līvānu novads
     
 
     # Madona
@@ -729,11 +901,14 @@ regions:
         iso3166-2: LV-059
       names:
         - name: Madona
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Madonas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Madonas novads
     
 
     # Mazsalaca
@@ -741,11 +916,14 @@ regions:
         iso3166-2: LV-060
       names:
         - name: Mazsalaca
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Mazsalacas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Mazsalacas novads
     
 
     # Mālpils
@@ -753,8 +931,12 @@ regions:
         iso3166-2: LV-061
       names:
         - name: Mālpils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Mālpils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Mārupe
@@ -762,11 +944,14 @@ regions:
         iso3166-2: LV-062
       names:
         - name: Mārupe
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Mārupes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Mārupes novads
     
 
     # Mērsraga
@@ -774,11 +959,14 @@ regions:
         iso3166-2: LV-063
       names:
         - name: Mērsraga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Mērsraga novads
         - name: Mērsrags
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Naukšēni
@@ -786,11 +974,14 @@ regions:
         iso3166-2: LV-064
       names:
         - name: Naukšēni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Naukšēnu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Naukšēnu novads
     
 
     # Nereta
@@ -798,11 +989,14 @@ regions:
         iso3166-2: LV-065
       names:
         - name: Nereta
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Neretas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Neretas novads
     
 
     # Nīca
@@ -810,11 +1004,14 @@ regions:
         iso3166-2: LV-066
       names:
         - name: Nīca
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Nīcas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Nīcas novads
     
 
     # Ogre
@@ -822,11 +1019,14 @@ regions:
         iso3166-2: LV-067
       names:
         - name: Ogre
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ogres
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ogres novads
     
 
     # Olaine
@@ -834,11 +1034,14 @@ regions:
         iso3166-2: LV-068
       names:
         - name: Olaine
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Olaines
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Olaines novads
     
 
     # Ozolnieki
@@ -846,23 +1049,28 @@ regions:
         iso3166-2: LV-069
       names:
         - name: Ozolnieki
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ozolnieku
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ozolnieku novads
     
 
-    # Preiļi
+    # Preiļ
     - codes:
         iso3166-2: LV-073
       names:
-        - name: Preiļi
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Preiļu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Preiļ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Preiļu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Preiļi
     
 
     # Priekule
@@ -870,23 +1078,28 @@ regions:
         iso3166-2: LV-074
       names:
         - name: Priekule
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Priekules
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Priekules novads
     
 
-    # Priekuļi
+    # Priekuļ
     - codes:
         iso3166-2: LV-075
       names:
-        - name: Priekuļi
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Priekuļu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Priekuļ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Priekuļu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Priekuļi
     
 
     # Pārgauja
@@ -894,11 +1107,14 @@ regions:
         iso3166-2: LV-070
       names:
         - name: Pārgauja
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Pārgaujas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Pārgaujas novads
     
 
     # Pāvilosta
@@ -906,23 +1122,29 @@ regions:
         iso3166-2: LV-071
       names:
         - name: Pāvilosta
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Pāvilostas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Pāvilostas novads
     
 
-    # Pļaviņas
+    # Pļaviņ
     - codes:
         iso3166-2: LV-072
       names:
+        - name: Pļaviņ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Pļaviņu novads
         - name: Pļaviņas
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Pļaviņu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Rauna
@@ -930,23 +1152,28 @@ regions:
         iso3166-2: LV-076
       names:
         - name: Rauna
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Raunas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Raunas novads
     
 
-    # Riebiņi
+    # Riebiņ
     - codes:
         iso3166-2: LV-078
       names:
-        - name: Riebiņi
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Riebiņu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Riebiņ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Riebiņu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Riebiņi
     
 
     # Riga
@@ -955,32 +1182,44 @@ regions:
         iso3166-2: LV-RIX
       names:
         - name: Riga
-          languages: [cs, da, de, en, fr, hr, hu, it, mt, nl, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, fr, hr, hu, it, mt, nl, pt, ro, sk, sl, sq, sv]
         - name: Riia
-          languages: [et]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [et]
         - name: Riika
-          languages: [fi]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [fi]
         - name: Ryga
-          languages: [pl]
-          sources: [euvoc]
-        - name: Rygosas
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Rygos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Rygos regionas
         - name: Ríge
-          languages: [ga]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [ga]
         - name: Rīga
-          languages: [es, lv]
-          sources: [euvoc, iso3166-2]
+          sources:
+            - name: euvoc
+              languages: [es, lv]
+            - name: iso3166-2
+              languages: [lv]
         - name: Ρίγα
-          languages: [el]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [el]
         - name: Рига
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Roja
@@ -988,23 +1227,28 @@ regions:
         iso3166-2: LV-079
       names:
         - name: Roja
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Rojas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rojas novads
     
 
-    # Ropaži
+    # Ropaž
     - codes:
         iso3166-2: LV-080
       names:
-        - name: Ropaži
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Ropažu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Ropaž
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ropažu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Ropaži
     
 
     # Rucava
@@ -1012,35 +1256,44 @@ regions:
         iso3166-2: LV-081
       names:
         - name: Rucava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Rucavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rucavas novads
     
 
-    # Rugāji
+    # Rugā
     - codes:
         iso3166-2: LV-082
       names:
-        - name: Rugāji
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Rugā
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rugāji
         - name: Rugāju
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rugāju novads
     
 
-    # Rundāle
+    # Rundā
     - codes:
         iso3166-2: LV-083
       names:
-        - name: Rundāle
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Rundāles
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Rundā
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rundāles novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Rundāle
     
 
     # Rēzekne
@@ -1048,11 +1301,14 @@ regions:
         iso3166-2: LV-REZ
       names:
         - name: Rēzekne
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Rēzeknes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rēzeknes novads
     
 
     # Rūjiena
@@ -1060,11 +1316,14 @@ regions:
         iso3166-2: LV-084
       names:
         - name: Rūjiena
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Rūjienas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Rūjienas novads
     
 
     # Salacgrīva
@@ -1072,11 +1331,14 @@ regions:
         iso3166-2: LV-086
       names:
         - name: Salacgrīva
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Salacgrīvas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Salacgrīvas novads
     
 
     # Sala
@@ -1084,11 +1346,14 @@ regions:
         iso3166-2: LV-085
       names:
         - name: Sala
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Salas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Salas novads
     
 
     # Salaspils
@@ -1096,8 +1361,12 @@ regions:
         iso3166-2: LV-087
       names:
         - name: Salaspils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Salaspils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Saldus
@@ -1105,8 +1374,12 @@ regions:
         iso3166-2: LV-088
       names:
         - name: Saldus
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Saldus novads
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Saulkrasti
@@ -1114,11 +1387,14 @@ regions:
         iso3166-2: LV-089
       names:
         - name: Saulkrasti
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Saulkrastu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Saulkrastu novads
     
 
     # Zemgale
@@ -1126,20 +1402,25 @@ regions:
         euvoc: http://eurovoc.europa.eu/7867
       names:
         - name: Semgallen
-          languages: [nl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: Semigalia
-          languages: [pl]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [pl]
         - name: Zemgale
-          languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, pt, ro, sk, sl, sq, sv]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, pt, ro, sk, sl, sq, sv]
         - name: Žiemgala
-          languages: [lt]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Земгале
-          languages: [bg, mk, sr]
-          sources: [euvoc]
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Sigulda
@@ -1147,11 +1428,14 @@ regions:
         iso3166-2: LV-091
       names:
         - name: Sigulda
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Siguldas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Siguldas novads
     
 
     # Skrunda
@@ -1159,11 +1443,14 @@ regions:
         iso3166-2: LV-093
       names:
         - name: Skrunda
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Skrundas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Skrundas novads
     
 
     # Skrīveri
@@ -1171,11 +1458,14 @@ regions:
         iso3166-2: LV-092
       names:
         - name: Skrīveri
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Skrīveru
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Skrīveru novads
     
 
     # Smiltene
@@ -1183,35 +1473,42 @@ regions:
         iso3166-2: LV-094
       names:
         - name: Smiltene
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Smiltenes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Smiltenes novads
     
 
-    # Stopiņi
+    # Stopiņ
     - codes:
         iso3166-2: LV-095
       names:
-        - name: Stopiņi
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Stopiņu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Stopiņ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Stopiņu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Stopiņi
     
 
-    # Strenči
+    # Strenč
     - codes:
         iso3166-2: LV-096
       names:
-        - name: Strenči
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Strenču
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Strenč
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Strenču novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Strenči
     
 
     # Sēja
@@ -1219,11 +1516,14 @@ regions:
         iso3166-2: LV-090
       names:
         - name: Sēja
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Sējas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Sējas novads
     
 
     # Talsi
@@ -1231,11 +1531,14 @@ regions:
         iso3166-2: LV-097
       names:
         - name: Talsi
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Talsu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Talsu novads
     
 
     # Tukuma
@@ -1243,11 +1546,14 @@ regions:
         iso3166-2: LV-099
       names:
         - name: Tukuma
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Tukuma novads
         - name: Tukums
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Tērvete
@@ -1255,11 +1561,14 @@ regions:
         iso3166-2: LV-098
       names:
         - name: Tērvete
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Tērvetes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Tērvetes novads
     
 
     # Vaiņode
@@ -1267,11 +1576,14 @@ regions:
         iso3166-2: LV-100
       names:
         - name: Vaiņode
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Vaiņodes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Vaiņodes novads
     
 
     # Valka
@@ -1279,11 +1591,14 @@ regions:
         iso3166-2: LV-101
       names:
         - name: Valka
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Valkas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Valkas novads
     
 
     # Valmiera
@@ -1291,8 +1606,9 @@ regions:
         iso3166-2: LV-VMR
       names:
         - name: Valmiera
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Varakļāni
@@ -1300,11 +1616,14 @@ regions:
         iso3166-2: LV-102
       names:
         - name: Varakļāni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Varakļānu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Varakļānu novads
     
 
     # Vecpiebalga
@@ -1312,11 +1631,14 @@ regions:
         iso3166-2: LV-104
       names:
         - name: Vecpiebalga
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Vecpiebalgas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Vecpiebalgas novads
     
 
     # Vecumnieki
@@ -1324,11 +1646,14 @@ regions:
         iso3166-2: LV-105
       names:
         - name: Vecumnieki
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Vecumnieku
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Vecumnieku novads
     
 
     # Ventspils
@@ -1336,20 +1661,28 @@ regions:
         iso3166-2: LV-VEN
       names:
         - name: Ventspils
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ventspils novads
+            - name: iso3166-2
+              languages: [lv]
     
 
-    # Viesīte
+    # Viesī
     - codes:
         iso3166-2: LV-107
       names:
-        - name: Viesīte
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Viesī
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Viesīte
         - name: Viesītes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Viesītes novads
     
 
     # Viļaka
@@ -1357,11 +1690,14 @@ regions:
         iso3166-2: LV-108
       names:
         - name: Viļaka
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Viļakas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Viļakas novads
     
 
     # Viļāni
@@ -1369,11 +1705,14 @@ regions:
         iso3166-2: LV-109
       names:
         - name: Viļāni
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Viļānu
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Viļānu novads
     
 
     # Vārkava
@@ -1381,11 +1720,14 @@ regions:
         iso3166-2: LV-103
       names:
         - name: Vārkava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Vārkavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Vārkavas novads
     
 
     # Zilupe
@@ -1393,35 +1735,42 @@ regions:
         iso3166-2: LV-110
       names:
         - name: Zilupe
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Zilupes
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Zilupes novads
     
 
-    # Ādaži
+    # Ā ž
     - codes:
         iso3166-2: LV-011
       names:
-        - name: Ādaži
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Ādažu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Ā ž
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ādažu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Ādaži
     
 
-    # Ērgļi
+    # Ērgļ
     - codes:
         iso3166-2: LV-030
       names:
-        - name: Ērgļi
-          languages: [lv]
-          sources: [iso3166-2]
-        - name: Ērgļu
-          languages: [lv]
-          sources: [iso3166-2]
+        - name: Ērgļ
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ērgļu novads
+            - name: iso3166-2
+              languages: [lv]
+              value: Ērgļi
     
 
     # Ķeguma
@@ -1429,11 +1778,14 @@ regions:
         iso3166-2: LV-051
       names:
         - name: Ķeguma
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ķeguma novads
         - name: Ķegums
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
     
 
     # Ķekava
@@ -1441,8 +1793,27 @@ regions:
         iso3166-2: LV-052
       names:
         - name: Ķekava
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
         - name: Ķekavas
-          languages: [lv]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ķekavas novads
+    
+
+    # ūkste
+    - codes:
+        iso3166-2: LV-036
+      names:
+        - name: ūkste
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ilūkste
+        - name: ūkstes
+          sources:
+            - name: iso3166-2
+              languages: [lv]
+              value: Ilūkstes novads

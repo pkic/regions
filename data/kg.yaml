@@ -8,14 +8,17 @@ regions:
         iso3166-2: KG-B
       names:
         - name: Batken
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
         - name: Batkenskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Batkenskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
     
 
     # Chuyskaya oblast'
@@ -23,14 +26,18 @@ regions:
         iso3166-2: KG-C
       names:
         - name: Chuyskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
-        - name: Chüy
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
+        - name: Chü
+          sources:
+            - name: iso3166-2
+              languages: [ky]
+              value: Chüy
         - name: Čujskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
     
 
     # Dzhalal-Abadskaya oblast'
@@ -38,14 +45,17 @@ regions:
         iso3166-2: KG-J
       names:
         - name: Dzhalal-Abadskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Džalal-Abadskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Jalal-Abad
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
     
 
     # Bishkek Shaary
@@ -53,14 +63,17 @@ regions:
         iso3166-2: KG-GB
       names:
         - name: Bishkek Shaary
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
         - name: Gorod Bishkek
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Gorod Biškek
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
     
 
     # Gorod Osh
@@ -68,14 +81,18 @@ regions:
         iso3166-2: KG-GO
       names:
         - name: Gorod Osh
-          languages: [ru]
-          sources: [iso3166-2]
-        - name: Gorod Oš
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
+        - name: Gorod š
+          sources:
+            - name: iso3166-2
+              languages: [ru]
+              value: Gorod Oš
         - name: Osh Shaary
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
     
 
     # Issyk-Kul'skaja oblast'
@@ -83,14 +100,17 @@ regions:
         iso3166-2: KG-Y
       names:
         - name: Issyk-Kul'skaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Issyk-Kul'skaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Ysyk-Köl
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
     
 
     # Naryn
@@ -98,14 +118,17 @@ regions:
         iso3166-2: KG-N
       names:
         - name: Naryn
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
         - name: Narynskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Narynskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
     
 
     # Osh
@@ -113,14 +136,18 @@ regions:
         iso3166-2: KG-O
       names:
         - name: Osh
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
         - name: Oshskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
-        - name: Ošskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
+        - name: šskaja oblast'
+          sources:
+            - name: iso3166-2
+              languages: [ru]
+              value: Ošskaja oblast'
     
 
     # Talas
@@ -128,11 +155,14 @@ regions:
         iso3166-2: KG-T
       names:
         - name: Talas
-          languages: [ky]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ky]
         - name: Talasskaja oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]
         - name: Talasskaya oblast'
-          languages: [ru]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ru]

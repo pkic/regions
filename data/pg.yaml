@@ -8,8 +8,9 @@ regions:
         iso3166-2: PG-NSB
       names:
         - name: Bougainville
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Central
@@ -17,8 +18,9 @@ regions:
         iso3166-2: PG-CPM
       names:
         - name: Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Chimbu
@@ -26,8 +28,9 @@ regions:
         iso3166-2: PG-CPK
       names:
         - name: Chimbu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # East New Britain
@@ -35,8 +38,9 @@ regions:
         iso3166-2: PG-EBR
       names:
         - name: East New Britain
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # East Sepik
@@ -44,8 +48,9 @@ regions:
         iso3166-2: PG-ESW
       names:
         - name: East Sepik
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Eastern Highlands
@@ -53,8 +58,9 @@ regions:
         iso3166-2: PG-EHG
       names:
         - name: Eastern Highlands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Enga
@@ -62,8 +68,9 @@ regions:
         iso3166-2: PG-EPW
       names:
         - name: Enga
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Gulf
@@ -71,8 +78,9 @@ regions:
         iso3166-2: PG-GPK
       names:
         - name: Gulf
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Hela
@@ -80,8 +88,9 @@ regions:
         iso3166-2: PG-HLA
       names:
         - name: Hela
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jiwaka
@@ -89,8 +98,9 @@ regions:
         iso3166-2: PG-JWK
       names:
         - name: Jiwaka
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Madang
@@ -98,8 +108,9 @@ regions:
         iso3166-2: PG-MPM
       names:
         - name: Madang
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Manus
@@ -107,8 +118,9 @@ regions:
         iso3166-2: PG-MRL
       names:
         - name: Manus
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Milne Bay
@@ -116,8 +128,9 @@ regions:
         iso3166-2: PG-MBA
       names:
         - name: Milne Bay
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Morobe
@@ -125,8 +138,9 @@ regions:
         iso3166-2: PG-MPL
       names:
         - name: Morobe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # National District
@@ -134,8 +148,10 @@ regions:
         iso3166-2: PG-NCD
       names:
         - name: National District
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: National Capital District (Port Moresby)
     
 
     # New Ireland
@@ -143,8 +159,9 @@ regions:
         iso3166-2: PG-NIK
       names:
         - name: New Ireland
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Northern
@@ -152,8 +169,9 @@ regions:
         iso3166-2: PG-NPP
       names:
         - name: Northern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Southern Highlands
@@ -161,8 +179,9 @@ regions:
         iso3166-2: PG-SHM
       names:
         - name: Southern Highlands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # West New Britain
@@ -170,8 +189,9 @@ regions:
         iso3166-2: PG-WBK
       names:
         - name: West New Britain
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # West Sepik
@@ -179,8 +199,9 @@ regions:
         iso3166-2: PG-SAN
       names:
         - name: West Sepik
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western
@@ -188,8 +209,9 @@ regions:
         iso3166-2: PG-WPD
       names:
         - name: Western
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Western Highlands
@@ -197,5 +219,6 @@ regions:
         iso3166-2: PG-WHM
       names:
         - name: Western Highlands
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: TT-ARI
       names:
         - name: Arima
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Chaguanas
@@ -17,8 +18,9 @@ regions:
         iso3166-2: TT-CHA
       names:
         - name: Chaguanas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Couva-Tabaquite-Talparo
@@ -26,8 +28,9 @@ regions:
         iso3166-2: TT-CTT
       names:
         - name: Couva-Tabaquite-Talparo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Diego Martin
@@ -35,8 +38,9 @@ regions:
         iso3166-2: TT-DMN
       names:
         - name: Diego Martin
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mayaro-Rio Claro
@@ -44,8 +48,9 @@ regions:
         iso3166-2: TT-MRC
       names:
         - name: Mayaro-Rio Claro
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Penal-Debe
@@ -53,8 +58,9 @@ regions:
         iso3166-2: TT-PED
       names:
         - name: Penal-Debe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Point Fortin
@@ -62,17 +68,20 @@ regions:
         iso3166-2: TT-PTF
       names:
         - name: Point Fortin
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Port of Spain
+    # Port Spain
     - codes:
         iso3166-2: TT-POS
       names:
-        - name: Port of Spain
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Port Spain
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Port of Spain
     
 
     # Princes Town
@@ -80,8 +89,9 @@ regions:
         iso3166-2: TT-PRT
       names:
         - name: Princes Town
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # San Fernando
@@ -89,8 +99,9 @@ regions:
         iso3166-2: TT-SFO
       names:
         - name: San Fernando
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # San Juan-Laventille
@@ -98,8 +109,9 @@ regions:
         iso3166-2: TT-SJL
       names:
         - name: San Juan-Laventille
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Sangre Grande
@@ -107,8 +119,9 @@ regions:
         iso3166-2: TT-SGE
       names:
         - name: Sangre Grande
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Siparia
@@ -116,8 +129,9 @@ regions:
         iso3166-2: TT-SIP
       names:
         - name: Siparia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tobago
@@ -125,8 +139,9 @@ regions:
         iso3166-2: TT-TOB
       names:
         - name: Tobago
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tunapuna-Piarco
@@ -134,5 +149,6 @@ regions:
         iso3166-2: TT-TUP
       names:
         - name: Tunapuna-Piarco
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

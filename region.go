@@ -27,19 +27,15 @@ func (r *Region) RemoveSource(source string) error {
 	delete(r.Codes, source)
 
 	for nid := 0; nid < len(r.Names); nid++ {
-		n := r.Names[nid]
-		for sid := 0; sid < len(n.Sources); sid++ {
-			if strings.HasPrefix(strings.ToLower(n.Sources[sid]), strings.ToLower(source)) {
-				if len(n.Sources) == 1 {
-					// Remove region name
-					r.Names = append(r.Names[:nid], r.Names[nid+1:]...)
-					nid--
-				} else {
-					// Remove source attribution
-					r.Names[nid].Sources = append(n.Sources[:sid], n.Sources[sid+1:]...)
-					sid--
-				}
-			}
+		err := r.Names[nid].removeSource(source)
+		if err != nil {
+			return err
+		}
+
+		// Remove region name if no sources left
+		if r.Names[nid].Sources == nil || len(r.Names[nid].Sources) == 0 {
+			r.Names = append(r.Names[:nid], r.Names[nid+1:]...)
+			nid--
 		}
 	}
 
@@ -47,39 +43,26 @@ func (r *Region) RemoveSource(source string) error {
 }
 
 // Add a new region
-func (r *Region) Add(name, language, source string) error {
-	// TODO: Should we add a comment about removed meta-date?
-	name = removeMetaData(name)
-	if name == "" {
-		return nil
+func (r *Region) Add(regionName, language, source string) error {
+	normalizedName := removeMetaData(regionName)
+	if normalizedName == "" {
+		normalizedName = regionName
 	}
 
 	for _, n := range r.Names {
 		// If exists, check if source is listed, else add for reference
-		if strings.EqualFold(n.Name, name) {
-			// If we have multiple names for different languages, bundle and add language
-			if !stringInSlice(n.Languages, language) && language != "" {
-				n.Languages = append(n.Languages, strings.ToLower(language))
-			}
-			for _, s := range n.Sources {
-				if strings.EqualFold(s, source) {
-					return nil
-				}
-			}
-			n.Sources = append(n.Sources, source)
-			return nil
+		if strings.EqualFold(n.Name, normalizedName) {
+			return n.addSource(normalizedName, regionName, language, source)
 		}
 	}
 
-	rn := &RegionName{
-		Name:    name,
-		Sources: []string{source},
-	}
-	if language != "" {
-		rn.Languages = []string{strings.ToLower(language)}
+	// Add name if not present
+	rn := &RegionName{Name: normalizedName}
+	err := rn.addSource(normalizedName, regionName, language, source)
+	if err != nil {
+		return err
 	}
 
-	// Add name if not present
 	r.Names = append(r.Names, rn)
 
 	return nil
@@ -102,9 +85,11 @@ func (r *Region) sort() {
 // name is present.
 func (r *Region) String() string {
 	for _, n := range r.Names {
-		for _, l := range n.Languages {
-			if l == "en" {
-				return n.Name
+		for _, s := range n.Sources {
+			for _, l := range s.Languages {
+				if l == "en" {
+					return n.Name
+				}
 			}
 		}
 	}

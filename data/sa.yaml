@@ -8,17 +8,20 @@ regions:
         iso3166-2: SA-14
       names:
         - name: '''Asīr'
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Al Bāḩah
+    # Al Bāḩ
     - codes:
         iso3166-2: SA-11
       names:
-        - name: Al Bāḩah
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Al Bāḩ
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Al Bāḩah
     
 
     # Al Jawf
@@ -26,8 +29,9 @@ regions:
         iso3166-2: SA-12
       names:
         - name: Al Jawf
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Madīnah al Munawwarah
@@ -35,8 +39,9 @@ regions:
         iso3166-2: SA-03
       names:
         - name: Al Madīnah al Munawwarah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Qaşīm
@@ -44,8 +49,9 @@ regions:
         iso3166-2: SA-05
       names:
         - name: Al Qaşīm
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Ḩudūd ash Shamālīyah
@@ -53,8 +59,9 @@ regions:
         iso3166-2: SA-08
       names:
         - name: Al Ḩudūd ash Shamālīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ar Riyāḑ
@@ -62,8 +69,9 @@ regions:
         iso3166-2: SA-01
       names:
         - name: Ar Riyāḑ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ash Sharqīyah
@@ -71,17 +79,20 @@ regions:
         iso3166-2: SA-04
       names:
         - name: Ash Sharqīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Jāzān
+    # Jā ān
     - codes:
         iso3166-2: SA-09
       names:
-        - name: Jāzān
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Jā ān
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Jāzān
     
 
     # Makkah al Mukarramah
@@ -89,8 +100,9 @@ regions:
         iso3166-2: SA-02
       names:
         - name: Makkah al Mukarramah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Najrān
@@ -98,8 +110,9 @@ regions:
         iso3166-2: SA-10
       names:
         - name: Najrān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tabūk
@@ -107,14 +120,17 @@ regions:
         iso3166-2: SA-07
       names:
         - name: Tabūk
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Ḩā'il
+    # Ḩā'
     - codes:
         iso3166-2: SA-06
       names:
-        - name: Ḩā'il
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Ḩā'
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Ḩā'il

@@ -8,8 +8,9 @@ regions:
         iso3166-2: BW-CE
       names:
         - name: Central
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Chobe
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BW-CH
       names:
         - name: Chobe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Francistown
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BW-FR
       names:
         - name: Francistown
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Gaborone
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BW-GA
       names:
         - name: Gaborone
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ghanzi
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BW-GH
       names:
         - name: Ghanzi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Jwaneng
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BW-JW
       names:
         - name: Jwaneng
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kgalagadi
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BW-KG
       names:
         - name: Kgalagadi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kgatleng
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BW-KL
       names:
         - name: Kgatleng
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kweneng
@@ -80,8 +88,9 @@ regions:
         iso3166-2: BW-KW
       names:
         - name: Kweneng
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lobatse
@@ -89,8 +98,9 @@ regions:
         iso3166-2: BW-LO
       names:
         - name: Lobatse
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North East
@@ -98,8 +108,9 @@ regions:
         iso3166-2: BW-NE
       names:
         - name: North East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # North West
@@ -107,8 +118,9 @@ regions:
         iso3166-2: BW-NW
       names:
         - name: North West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Selibe Phikwe
@@ -116,8 +128,9 @@ regions:
         iso3166-2: BW-SP
       names:
         - name: Selibe Phikwe
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # South East
@@ -125,8 +138,9 @@ regions:
         iso3166-2: BW-SE
       names:
         - name: South East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Southern
@@ -134,8 +148,9 @@ regions:
         iso3166-2: BW-SO
       names:
         - name: Southern
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Sowa Town
@@ -143,5 +158,6 @@ regions:
         iso3166-2: BW-ST
       names:
         - name: Sowa Town
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

@@ -3,13 +3,26 @@ complete: false
 regions:
     
 
+    - codes:
+        iso3166-2: NA-KA
+      names:
+        - sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Karas; !Karas
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
     # Erongo
     - codes:
         iso3166-2: NA-ER
       names:
         - name: Erongo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Hardap
@@ -17,17 +30,9 @@ regions:
         iso3166-2: NA-HA
       names:
         - name: Hardap
-          languages: [en]
-          sources: [iso3166-2]
-    
-
-    # Karas; !Karas
-    - codes:
-        iso3166-2: NA-KA
-      names:
-        - name: Karas; !Karas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kavango East
@@ -35,8 +40,9 @@ regions:
         iso3166-2: NA-KE
       names:
         - name: Kavango East
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kavango West
@@ -44,8 +50,9 @@ regions:
         iso3166-2: NA-KW
       names:
         - name: Kavango West
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Khomas
@@ -53,8 +60,9 @@ regions:
         iso3166-2: NA-KH
       names:
         - name: Khomas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kunene
@@ -62,8 +70,9 @@ regions:
         iso3166-2: NA-KU
       names:
         - name: Kunene
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Ohangwena
@@ -71,8 +80,9 @@ regions:
         iso3166-2: NA-OW
       names:
         - name: Ohangwena
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Omaheke
@@ -80,8 +90,9 @@ regions:
         iso3166-2: NA-OH
       names:
         - name: Omaheke
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Omusati
@@ -89,8 +100,9 @@ regions:
         iso3166-2: NA-OS
       names:
         - name: Omusati
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Oshana
@@ -98,8 +110,9 @@ regions:
         iso3166-2: NA-ON
       names:
         - name: Oshana
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Oshikoto
@@ -107,8 +120,9 @@ regions:
         iso3166-2: NA-OT
       names:
         - name: Oshikoto
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Otjozondjupa
@@ -116,8 +130,9 @@ regions:
         iso3166-2: NA-OD
       names:
         - name: Otjozondjupa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Zambezi
@@ -125,5 +140,6 @@ regions:
         iso3166-2: NA-CA
       names:
         - name: Zambezi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

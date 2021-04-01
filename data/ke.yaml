@@ -4,7 +4,19 @@ regions:
     
 
     - codes:
+        iso3166-2: KE-05
+      names:
+        - sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    - codes:
         iso3166-2: KE-39
+      names:
+        - sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Baringo
@@ -12,8 +24,9 @@ regions:
         iso3166-2: KE-01
       names:
         - name: Baringo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bomet
@@ -21,8 +34,9 @@ regions:
         iso3166-2: KE-02
       names:
         - name: Bomet
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Bungoma
@@ -30,8 +44,9 @@ regions:
         iso3166-2: KE-03
       names:
         - name: Bungoma
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Busia
@@ -39,8 +54,9 @@ regions:
         iso3166-2: KE-04
       names:
         - name: Busia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Embu
@@ -48,8 +64,9 @@ regions:
         iso3166-2: KE-06
       names:
         - name: Embu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Garissa
@@ -57,8 +74,9 @@ regions:
         iso3166-2: KE-07
       names:
         - name: Garissa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Homa Bay
@@ -66,8 +84,9 @@ regions:
         iso3166-2: KE-08
       names:
         - name: Homa Bay
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Isiolo
@@ -75,8 +94,9 @@ regions:
         iso3166-2: KE-09
       names:
         - name: Isiolo
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kajiado
@@ -84,8 +104,9 @@ regions:
         iso3166-2: KE-10
       names:
         - name: Kajiado
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kakamega
@@ -93,8 +114,9 @@ regions:
         iso3166-2: KE-11
       names:
         - name: Kakamega
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kericho
@@ -102,8 +124,9 @@ regions:
         iso3166-2: KE-12
       names:
         - name: Kericho
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kiambu
@@ -111,8 +134,9 @@ regions:
         iso3166-2: KE-13
       names:
         - name: Kiambu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kilifi
@@ -120,8 +144,9 @@ regions:
         iso3166-2: KE-14
       names:
         - name: Kilifi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kirinyaga
@@ -129,8 +154,9 @@ regions:
         iso3166-2: KE-15
       names:
         - name: Kirinyaga
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kisii
@@ -138,8 +164,9 @@ regions:
         iso3166-2: KE-16
       names:
         - name: Kisii
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kisumu
@@ -147,8 +174,9 @@ regions:
         iso3166-2: KE-17
       names:
         - name: Kisumu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kitui
@@ -156,8 +184,9 @@ regions:
         iso3166-2: KE-18
       names:
         - name: Kitui
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Kwale
@@ -165,8 +194,9 @@ regions:
         iso3166-2: KE-19
       names:
         - name: Kwale
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Laikipia
@@ -174,8 +204,9 @@ regions:
         iso3166-2: KE-20
       names:
         - name: Laikipia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Lamu
@@ -183,8 +214,9 @@ regions:
         iso3166-2: KE-21
       names:
         - name: Lamu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Machakos
@@ -192,8 +224,9 @@ regions:
         iso3166-2: KE-22
       names:
         - name: Machakos
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Makueni
@@ -201,8 +234,9 @@ regions:
         iso3166-2: KE-23
       names:
         - name: Makueni
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mandera
@@ -210,8 +244,9 @@ regions:
         iso3166-2: KE-24
       names:
         - name: Mandera
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Marsabit
@@ -219,8 +254,9 @@ regions:
         iso3166-2: KE-25
       names:
         - name: Marsabit
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Meru
@@ -228,8 +264,9 @@ regions:
         iso3166-2: KE-26
       names:
         - name: Meru
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Migori
@@ -237,8 +274,9 @@ regions:
         iso3166-2: KE-27
       names:
         - name: Migori
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Mombasa
@@ -246,26 +284,31 @@ regions:
         iso3166-2: KE-28
       names:
         - name: Mombasa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
-    # Murang'a
+    # Murang'
     - codes:
         iso3166-2: KE-29
       names:
-        - name: Murang'a
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Murang'
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Murang'a
     
 
-    # Nairobi City
+    # Nairobi
     - codes:
         iso3166-2: KE-30
       names:
-        - name: Nairobi City
-          languages: [en]
-          sources: [iso3166-2]
+        - name: Nairobi
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Nairobi City
     
 
     # Nakuru
@@ -273,8 +316,9 @@ regions:
         iso3166-2: KE-31
       names:
         - name: Nakuru
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nandi
@@ -282,8 +326,9 @@ regions:
         iso3166-2: KE-32
       names:
         - name: Nandi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Narok
@@ -291,8 +336,9 @@ regions:
         iso3166-2: KE-33
       names:
         - name: Narok
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nyamira
@@ -300,8 +346,9 @@ regions:
         iso3166-2: KE-34
       names:
         - name: Nyamira
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nyandarua
@@ -309,12 +356,9 @@ regions:
         iso3166-2: KE-35
       names:
         - name: Nyandarua
-          languages: [en]
-          sources: [iso3166-2]
-    
-
-    - codes:
-        iso3166-2: KE-05
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Nyeri
@@ -322,8 +366,9 @@ regions:
         iso3166-2: KE-36
       names:
         - name: Nyeri
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Samburu
@@ -331,8 +376,9 @@ regions:
         iso3166-2: KE-37
       names:
         - name: Samburu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Siaya
@@ -340,8 +386,9 @@ regions:
         iso3166-2: KE-38
       names:
         - name: Siaya
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tana River
@@ -349,8 +396,9 @@ regions:
         iso3166-2: KE-40
       names:
         - name: Tana River
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Tharaka-Nithi
@@ -358,8 +406,9 @@ regions:
         iso3166-2: KE-41
       names:
         - name: Tharaka-Nithi
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Trans Nzoia
@@ -367,8 +416,9 @@ regions:
         iso3166-2: KE-42
       names:
         - name: Trans Nzoia
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Turkana
@@ -376,8 +426,9 @@ regions:
         iso3166-2: KE-43
       names:
         - name: Turkana
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Uasin Gishu
@@ -385,8 +436,9 @@ regions:
         iso3166-2: KE-44
       names:
         - name: Uasin Gishu
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Vihiga
@@ -394,8 +446,9 @@ regions:
         iso3166-2: KE-45
       names:
         - name: Vihiga
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Wajir
@@ -403,8 +456,9 @@ regions:
         iso3166-2: KE-46
       names:
         - name: Wajir
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # West Pokot
@@ -412,5 +466,6 @@ regions:
         iso3166-2: KE-47
       names:
         - name: West Pokot
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

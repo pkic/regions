@@ -8,8 +8,9 @@ regions:
         iso3166-2: VC-01
       names:
         - name: Charlotte
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Grenadines
@@ -17,8 +18,9 @@ regions:
         iso3166-2: VC-06
       names:
         - name: Grenadines
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Andrew
@@ -26,8 +28,9 @@ regions:
         iso3166-2: VC-02
       names:
         - name: Saint Andrew
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint David
@@ -35,8 +38,9 @@ regions:
         iso3166-2: VC-03
       names:
         - name: Saint David
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint George
@@ -44,8 +48,9 @@ regions:
         iso3166-2: VC-04
       names:
         - name: Saint George
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Patrick
@@ -53,5 +58,6 @@ regions:
         iso3166-2: VC-05
       names:
         - name: Saint Patrick
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

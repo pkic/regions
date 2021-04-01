@@ -8,11 +8,13 @@ regions:
         iso3166-2: ET-BE
       names:
         - name: Benshangul-Gumaz
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Bīnshangul Gumuz
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Dire Dawa
@@ -20,11 +22,13 @@ regions:
         iso3166-2: ET-DD
       names:
         - name: Dire Dawa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Dirē Dawa
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Gambela Peoples
@@ -32,11 +36,14 @@ regions:
         iso3166-2: ET-GA
       names:
         - name: Gambela Peoples
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Gambēla Hizboch
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Gambē Hizboch
+          sources:
+            - name: iso3166-2
+              languages: [am]
+              value: Gambēla Hizboch
     
 
     # Harari People
@@ -44,11 +51,13 @@ regions:
         iso3166-2: ET-HA
       names:
         - name: Harari People
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Hārerī Hizb
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Oromia
@@ -56,11 +65,14 @@ regions:
         iso3166-2: ET-OR
       names:
         - name: Oromia
-          languages: [en]
-          sources: [iso3166-2]
-        - name: Oromīya
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Oromī
+          sources:
+            - name: iso3166-2
+              languages: [am]
+              value: Oromīya
     
 
     # Somali
@@ -68,11 +80,13 @@ regions:
         iso3166-2: ET-SO
       names:
         - name: Somali
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Sumalē
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Tigrai
@@ -80,11 +94,13 @@ regions:
         iso3166-2: ET-TI
       names:
         - name: Tigrai
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Tigray
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Southern Nations, Nationalities and Peoples
@@ -92,11 +108,14 @@ regions:
         iso3166-2: ET-SN
       names:
         - name: Southern Nations, Nationalities and Peoples
-          languages: [en]
-          sources: [iso3166-2]
-        - name: YeDebub Bihēroch Bihēreseboch na Hizboch
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: YeDebub Bihēroch Bihēreseboch Hizboch
+          sources:
+            - name: iso3166-2
+              languages: [am]
+              value: YeDebub Bihēroch Bihēreseboch na Hizboch
     
 
     # Addis Ababa
@@ -104,11 +123,13 @@ regions:
         iso3166-2: ET-AA
       names:
         - name: Addis Ababa
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Ādīs Ābeba
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Afar
@@ -116,11 +137,13 @@ regions:
         iso3166-2: ET-AF
       names:
         - name: Afar
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Āfar
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]
     
 
     # Amara
@@ -128,8 +151,10 @@ regions:
         iso3166-2: ET-AM
       names:
         - name: Amara
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
         - name: Āmara
-          languages: [am]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [am]

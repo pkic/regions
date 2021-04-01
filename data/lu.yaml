@@ -9,14 +9,17 @@ regions:
         iso3166-2: LU-CL
       names:
         - name: Clerf
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
         - name: Clervaux
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Klierf
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Diekirch
@@ -24,11 +27,13 @@ regions:
         iso3166-2: LU-DI
       names:
         - name: Diekirch
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Diekrech
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Echternach
@@ -36,26 +41,32 @@ regions:
         iso3166-2: LU-EC
       names:
         - name: Echternach
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Iechternach
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
-    # Esch an der Alzette
+    # Esch Alzette
     - codes:
         iso3166-2: LU-ES
       names:
-        - name: Esch an der Alzette
-          languages: [de]
-          sources: [iso3166-2]
+        - name: Esch Alzette
+          sources:
+            - name: iso3166-2
+              languages: [de]
+              value: Esch an der Alzette
         - name: Esch-Uelzecht
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
         - name: Esch-sur-Alzette
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Grevenmacher
@@ -63,11 +74,13 @@ regions:
         iso3166-2: LU-GR
       names:
         - name: Grevenmacher
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Gréivemaacher
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Capellen
@@ -75,11 +88,13 @@ regions:
         iso3166-2: LU-CA
       names:
         - name: Capellen
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Kapellen
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Luxembourg
@@ -87,14 +102,17 @@ regions:
         iso3166-2: LU-LU
       names:
         - name: Luxembourg
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Luxemburg
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
         - name: Lëtzebuerg
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Mersch
@@ -102,11 +120,13 @@ regions:
         iso3166-2: LU-ME
       names:
         - name: Mersch
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Miersch
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Redange
@@ -114,14 +134,17 @@ regions:
         iso3166-2: LU-RD
       names:
         - name: Redange
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Redingen
-          languages: [de]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de]
         - name: Réiden-Atert
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Remich
@@ -129,11 +152,13 @@ regions:
         iso3166-2: LU-RM
       names:
         - name: Remich
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Réimech
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
     
 
     # Veianen
@@ -141,11 +166,13 @@ regions:
         iso3166-2: LU-VD
       names:
         - name: Veianen
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]
         - name: Vianden
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
     
 
     # Wiltz
@@ -153,8 +180,10 @@ regions:
         iso3166-2: LU-WI
       names:
         - name: Wiltz
-          languages: [de, fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [de, fr]
         - name: Wolz
-          languages: [lb]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [lb]

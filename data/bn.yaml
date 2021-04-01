@@ -8,8 +8,9 @@ regions:
         iso3166-2: BN-BE
       names:
         - name: Belait
-          languages: [en, ms]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, ms]
     
 
     # Brunei-Muara
@@ -17,11 +18,13 @@ regions:
         iso3166-2: BN-BM
       names:
         - name: Brunei dan Muara
-          languages: [ms]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ms]
         - name: Brunei-Muara
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Temburong
@@ -29,8 +32,9 @@ regions:
         iso3166-2: BN-TE
       names:
         - name: Temburong
-          languages: [en, ms]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, ms]
     
 
     # Tutong
@@ -38,5 +42,6 @@ regions:
         iso3166-2: BN-TU
       names:
         - name: Tutong
-          languages: [en, ms]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en, ms]

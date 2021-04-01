@@ -8,8 +8,9 @@ regions:
         iso3166-2: SV-AH
       names:
         - name: Ahuachapán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cabañas
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SV-CA
       names:
         - name: Cabañas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chalatenango
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SV-CH
       names:
         - name: Chalatenango
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cuscatlán
@@ -35,35 +38,20 @@ regions:
         iso3166-2: SV-CU
       names:
         - name: Cuscatlán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # La Libertad
+    # Libertad
     - codes:
         iso3166-2: SV-LI
       names:
-        - name: La Libertad
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Paz
-    - codes:
-        iso3166-2: SV-PA
-      names:
-        - name: La Paz
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Unión
-    - codes:
-        iso3166-2: SV-UN
-      names:
-        - name: La Unión
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Libertad
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Libertad
     
 
     # Morazán
@@ -71,8 +59,20 @@ regions:
         iso3166-2: SV-MO
       names:
         - name: Morazán
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Paz
+    - codes:
+        iso3166-2: SV-PA
+      names:
+        - name: Paz
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Paz
     
 
     # San Miguel
@@ -80,8 +80,9 @@ regions:
         iso3166-2: SV-SM
       names:
         - name: San Miguel
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # San Salvador
@@ -89,8 +90,9 @@ regions:
         iso3166-2: SV-SS
       names:
         - name: San Salvador
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # San Vicente
@@ -98,8 +100,9 @@ regions:
         iso3166-2: SV-SV
       names:
         - name: San Vicente
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Santa Ana
@@ -107,8 +110,9 @@ regions:
         iso3166-2: SV-SA
       names:
         - name: Santa Ana
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Sonsonate
@@ -116,8 +120,20 @@ regions:
         iso3166-2: SV-SO
       names:
         - name: Sonsonate
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Unión
+    - codes:
+        iso3166-2: SV-UN
+      names:
+        - name: Unión
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: La Unión
     
 
     # Usulután
@@ -125,5 +141,6 @@ regions:
         iso3166-2: SV-US
       names:
         - name: Usulután
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

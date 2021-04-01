@@ -8,8 +8,9 @@ regions:
         iso3166-2: ML-BKO
       names:
         - name: Bamako
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Gao
@@ -17,8 +18,9 @@ regions:
         iso3166-2: ML-7
       names:
         - name: Gao
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kayes
@@ -26,8 +28,9 @@ regions:
         iso3166-2: ML-1
       names:
         - name: Kayes
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Kidal
@@ -35,8 +38,9 @@ regions:
         iso3166-2: ML-8
       names:
         - name: Kidal
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Koulikoro
@@ -44,8 +48,9 @@ regions:
         iso3166-2: ML-2
       names:
         - name: Koulikoro
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Mopti
@@ -53,8 +58,9 @@ regions:
         iso3166-2: ML-5
       names:
         - name: Mopti
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ménaka
@@ -62,8 +68,9 @@ regions:
         iso3166-2: ML-9
       names:
         - name: Ménaka
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Sikasso
@@ -71,8 +78,9 @@ regions:
         iso3166-2: ML-3
       names:
         - name: Sikasso
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Ségou
@@ -80,8 +88,9 @@ regions:
         iso3166-2: ML-4
       names:
         - name: Ségou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Taoudenni; Taoudéni
@@ -89,11 +98,13 @@ regions:
         iso3166-2: ML-10
       names:
         - name: Taoudenni; Taoudéni
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Taoudénit
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tombouctou
@@ -101,5 +112,6 @@ regions:
         iso3166-2: ML-6
       names:
         - name: Tombouctou
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

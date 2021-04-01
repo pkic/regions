@@ -8,8 +8,9 @@ regions:
         iso3166-2: UZ-AN
       names:
         - name: Andijon
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Buxoro
@@ -17,8 +18,9 @@ regions:
         iso3166-2: UZ-BU
       names:
         - name: Buxoro
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Farg‘ona
@@ -26,8 +28,9 @@ regions:
         iso3166-2: UZ-FA
       names:
         - name: Farg‘ona
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Jizzax
@@ -35,8 +38,9 @@ regions:
         iso3166-2: UZ-JI
       names:
         - name: Jizzax
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Namangan
@@ -44,8 +48,9 @@ regions:
         iso3166-2: UZ-NG
       names:
         - name: Namangan
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Navoiy
@@ -53,8 +58,9 @@ regions:
         iso3166-2: UZ-NW
       names:
         - name: Navoiy
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Qashqadaryo
@@ -62,8 +68,9 @@ regions:
         iso3166-2: UZ-QA
       names:
         - name: Qashqadaryo
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Qoraqalpog‘iston Respublikasi
@@ -71,8 +78,9 @@ regions:
         iso3166-2: UZ-QR
       names:
         - name: Qoraqalpog‘iston Respublikasi
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Samarqand
@@ -80,8 +88,9 @@ regions:
         iso3166-2: UZ-SA
       names:
         - name: Samarqand
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Sirdaryo
@@ -89,8 +98,9 @@ regions:
         iso3166-2: UZ-SI
       names:
         - name: Sirdaryo
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Surxondaryo
@@ -98,8 +108,9 @@ regions:
         iso3166-2: UZ-SU
       names:
         - name: Surxondaryo
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Toshkent
@@ -107,8 +118,9 @@ regions:
         iso3166-2: UZ-TO
       names:
         - name: Toshkent
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]
     
 
     # Xorazm
@@ -116,5 +128,6 @@ regions:
         iso3166-2: UZ-XO
       names:
         - name: Xorazm
-          languages: [uz]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [uz]

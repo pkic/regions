@@ -9,8 +9,9 @@ regions:
         iso3166-2: MD-AN
       names:
         - name: Anenii Noi
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Basarabeasca
@@ -18,8 +19,9 @@ regions:
         iso3166-2: MD-BS
       names:
         - name: Basarabeasca
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Bender
@@ -27,8 +29,10 @@ regions:
         iso3166-2: MD-BD
       names:
         - name: Bender
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Bender [Tighina]
     
 
     # Briceni
@@ -36,17 +40,20 @@ regions:
         iso3166-2: MD-BR
       names:
         - name: Briceni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Bălți
+    # Bălț
     - codes:
         iso3166-2: MD-BA
       names:
-        - name: Bălți
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Bălț
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Bălți
     
 
     # Cahul
@@ -54,8 +61,9 @@ regions:
         iso3166-2: MD-CA
       names:
         - name: Cahul
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Cantemir
@@ -63,17 +71,20 @@ regions:
         iso3166-2: MD-CT
       names:
         - name: Cantemir
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Chișinău
+    # Chișină
     - codes:
         iso3166-2: MD-CU
       names:
-        - name: Chișinău
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Chișină
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Chișinău
     
 
     # Cimișlia
@@ -81,8 +92,9 @@ regions:
         iso3166-2: MD-CM
       names:
         - name: Cimișlia
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Criuleni
@@ -90,26 +102,31 @@ regions:
         iso3166-2: MD-CR
       names:
         - name: Criuleni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Călărași
-    - codes:
-        iso3166-2: MD-CL
-      names:
-        - name: Călărași
-          languages: [ro]
-          sources: [iso3166-2]
-    
-
-    # Căușeni
+    # Că șeni
     - codes:
         iso3166-2: MD-CS
       names:
-        - name: Căușeni
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Că șeni
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Căușeni
+    
+
+    # Călăraș
+    - codes:
+        iso3166-2: MD-CL
+      names:
+        - name: Călăraș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Călărași
     
 
     # Dondușeni
@@ -117,8 +134,9 @@ regions:
         iso3166-2: MD-DO
       names:
         - name: Dondușeni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Drochia
@@ -126,8 +144,9 @@ regions:
         iso3166-2: MD-DR
       names:
         - name: Drochia
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Dubăsari
@@ -135,8 +154,9 @@ regions:
         iso3166-2: MD-DU
       names:
         - name: Dubăsari
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Edineț
@@ -144,26 +164,31 @@ regions:
         iso3166-2: MD-ED
       names:
         - name: Edineț
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Florești
+    # Floreș
     - codes:
         iso3166-2: MD-FL
       names:
-        - name: Florești
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Floreș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Florești
     
 
-    # Fălești
+    # Fă ș
     - codes:
         iso3166-2: MD-FA
       names:
-        - name: Fălești
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Fă ș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Fălești
     
 
     # Glodeni
@@ -171,8 +196,9 @@ regions:
         iso3166-2: MD-GL
       names:
         - name: Glodeni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Găgăuzia, Unitatea teritorială autonomă
@@ -180,17 +206,21 @@ regions:
         iso3166-2: MD-GA
       names:
         - name: Găgăuzia, Unitatea teritorială autonomă
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Găgăuzia, Unitatea teritorială autonomă (UTAG)
     
 
-    # Hîncești
+    # Hînceș
     - codes:
         iso3166-2: MD-HI
       names:
-        - name: Hîncești
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Hînceș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Hîncești
     
 
     # Ialoveni
@@ -198,8 +228,9 @@ regions:
         iso3166-2: MD-IA
       names:
         - name: Ialoveni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Leova
@@ -207,8 +238,9 @@ regions:
         iso3166-2: MD-LE
       names:
         - name: Leova
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Nisporeni
@@ -216,17 +248,20 @@ regions:
         iso3166-2: MD-NI
       names:
         - name: Nisporeni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Ocnița
+    # Ocniț
     - codes:
         iso3166-2: MD-OC
       names:
-        - name: Ocnița
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Ocniț
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Ocnița
     
 
     # Orhei
@@ -234,8 +269,9 @@ regions:
         iso3166-2: MD-OR
       names:
         - name: Orhei
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Rezina
@@ -243,8 +279,9 @@ regions:
         iso3166-2: MD-RE
       names:
         - name: Rezina
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Rîșcani
@@ -252,8 +289,9 @@ regions:
         iso3166-2: MD-RI
       names:
         - name: Rîșcani
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Soroca
@@ -261,8 +299,9 @@ regions:
         iso3166-2: MD-SO
       names:
         - name: Soroca
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Strășeni
@@ -270,8 +309,9 @@ regions:
         iso3166-2: MD-ST
       names:
         - name: Strășeni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Stînga Nistrului, unitatea teritorială din
@@ -279,8 +319,9 @@ regions:
         iso3166-2: MD-SN
       names:
         - name: Stînga Nistrului, unitatea teritorială din
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Sîngerei
@@ -288,8 +329,9 @@ regions:
         iso3166-2: MD-SI
       names:
         - name: Sîngerei
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
     # Taraclia
@@ -297,17 +339,20 @@ regions:
         iso3166-2: MD-TA
       names:
         - name: Taraclia
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Telenești
+    # Teleneș
     - codes:
         iso3166-2: MD-TE
       names:
-        - name: Telenești
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Teleneș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Telenești
     
 
     # Ungheni
@@ -315,17 +360,20 @@ regions:
         iso3166-2: MD-UN
       names:
         - name: Ungheni
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]
     
 
-    # Șoldănești
+    # Șoldăneș
     - codes:
         iso3166-2: MD-SD
       names:
-        - name: Șoldănești
-          languages: [ro]
-          sources: [iso3166-2]
+        - name: Șoldăneș
+          sources:
+            - name: iso3166-2
+              languages: [ro]
+              value: Șoldănești
     
 
     # Ștefan Vodă
@@ -333,5 +381,6 @@ regions:
         iso3166-2: MD-SV
       names:
         - name: Ștefan Vodă
-          languages: [ro]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ro]

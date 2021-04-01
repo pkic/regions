@@ -8,14 +8,17 @@ regions:
         iso3166-2: PE-AMA
       names:
         - name: Amarumayu
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
         - name: Amasunu
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Amazonas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Ancash
@@ -23,14 +26,17 @@ regions:
         iso3166-2: PE-ANC
       names:
         - name: Ancash
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Ankashu
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Anqash
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Apurimaq
@@ -38,11 +44,13 @@ regions:
         iso3166-2: PE-APU
       names:
         - name: Apurimaq
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
         - name: Apurímac
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Arequipa
@@ -50,14 +58,17 @@ regions:
         iso3166-2: PE-ARE
       names:
         - name: Arequipa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Arikipa
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Ariqipa
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Ayacucho
@@ -65,29 +76,36 @@ regions:
         iso3166-2: PE-AYA
       names:
         - name: Ayacucho
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Ayakuchu
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
         - name: Ayaquchu
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
     
 
-    # El Callao
+    # Callao
     - codes:
         iso3166-2: PE-CAL
       names:
-        - name: El Callao
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Callao
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: El Callao
         - name: Kallao
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Qallaw
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Huánuco
@@ -95,11 +113,13 @@ regions:
         iso3166-2: PE-HUC
       names:
         - name: Huánuco
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Wanuku
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
     
 
     # Ica
@@ -107,11 +127,13 @@ regions:
         iso3166-2: PE-ICA
       names:
         - name: Ica
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Ika
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
     
 
     # Hunin
@@ -119,26 +141,17 @@ regions:
         iso3166-2: PE-JUN
       names:
         - name: Hunin
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
         - name: Junin
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Junín
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # La Libertad
-    - codes:
-        iso3166-2: PE-LAL
-      names:
-        - name: La Libertad
-          languages: [ay, es]
-          sources: [iso3166-2]
-        - name: Qispi kay
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Lambayeque
@@ -146,11 +159,28 @@ regions:
         iso3166-2: PE-LAM
       names:
         - name: Lambayeque
-          languages: [ay, es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
         - name: Lampalliqi
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
+    
+
+    # Libertad
+    - codes:
+        iso3166-2: PE-LAL
+      names:
+        - name: Libertad
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
+              value: La Libertad
+        - name: Qispi kay
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Lima
@@ -158,8 +188,9 @@ regions:
         iso3166-2: PE-LIM
       names:
         - name: Lima
-          languages: [ay, es, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es, qu]
     
 
     # Lima hatun llaqta
@@ -167,14 +198,18 @@ regions:
         iso3166-2: PE-LMA
       names:
         - name: Lima hatun llaqta
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Lima llaqta suyu
-          languages: [qu]
-          sources: [iso3166-2]
-        - name: Municipalidad Metropolitana de Lima
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
+        - name: Municipalidad Metropolitana Lima
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Municipalidad Metropolitana de Lima
     
 
     # Loreto
@@ -182,23 +217,28 @@ regions:
         iso3166-2: PE-LOR
       names:
         - name: Loreto
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Luritu
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
     
 
-    # Madre de Dios
+    # Madre Dios
     - codes:
         iso3166-2: PE-MDD
       names:
-        - name: Madre de Dios
-          languages: [ay, es]
-          sources: [iso3166-2]
+        - name: Madre Dios
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
+              value: Madre de Dios
         - name: Mayutata
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Moquegua
@@ -206,14 +246,17 @@ regions:
         iso3166-2: PE-MOQ
       names:
         - name: Moquegua
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Moqwegwa
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Muqiwa
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Pasco
@@ -221,11 +264,13 @@ regions:
         iso3166-2: PE-PAS
       names:
         - name: Pasco
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Pasqu
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
     
 
     # Piura
@@ -233,11 +278,13 @@ regions:
         iso3166-2: PE-PIU
       names:
         - name: Piura
-          languages: [ay, es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
         - name: Piwra
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Puno
@@ -245,11 +292,13 @@ regions:
         iso3166-2: PE-PUN
       names:
         - name: Puno
-          languages: [ay, es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
         - name: Punu
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Cajamarca
@@ -257,14 +306,17 @@ regions:
         iso3166-2: PE-CAJ
       names:
         - name: Cajamarca
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Kashamarka
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
         - name: Qajamarka
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
     
 
     # Cusco
@@ -272,17 +324,21 @@ regions:
         iso3166-2: PE-CUS
       names:
         - name: Cusco
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Cuzco
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Kusku
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Qusqu
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # San Martin
@@ -290,11 +346,13 @@ regions:
         iso3166-2: PE-SAM
       names:
         - name: San Martin
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
         - name: San Martín
-          languages: [ay, es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
     
 
     # Tacna
@@ -302,14 +360,17 @@ regions:
         iso3166-2: PE-TAC
       names:
         - name: Tacna
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Takna
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Taqna
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Tumbes
@@ -317,11 +378,13 @@ regions:
         iso3166-2: PE-TUM
       names:
         - name: Tumbes
-          languages: [ay, es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, es]
         - name: Tumpis
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]
     
 
     # Ucayali
@@ -329,11 +392,13 @@ regions:
         iso3166-2: PE-UCA
       names:
         - name: Ucayali
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Ukayali
-          languages: [ay, qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay, qu]
     
 
     # Huancavelica
@@ -341,11 +406,14 @@ regions:
         iso3166-2: PE-HUV
       names:
         - name: Huancavelica
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
         - name: Wankawelika
-          languages: [ay]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ay]
         - name: Wankawillka
-          languages: [qu]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [qu]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: MR-07
       names:
         - name: Adrar
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Assaba
@@ -17,8 +18,9 @@ regions:
         iso3166-2: MR-03
       names:
         - name: Assaba
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Brakna
@@ -26,8 +28,9 @@ regions:
         iso3166-2: MR-05
       names:
         - name: Brakna
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dakhlet Nouâdhibou
@@ -35,8 +38,9 @@ regions:
         iso3166-2: MR-08
       names:
         - name: Dakhlet Nouâdhibou
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Gorgol
@@ -44,8 +48,9 @@ regions:
         iso3166-2: MR-04
       names:
         - name: Gorgol
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Guidimaka
@@ -53,8 +58,20 @@ regions:
         iso3166-2: MR-10
       names:
         - name: Guidimaka
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Hodh Gharbi
+    - codes:
+        iso3166-2: MR-02
+      names:
+        - name: Hodh Gharbi
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Hodh el Gharbi
     
 
     # Hodh ech Chargui
@@ -62,17 +79,9 @@ regions:
         iso3166-2: MR-01
       names:
         - name: Hodh ech Chargui
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Hodh el Gharbi
-    - codes:
-        iso3166-2: MR-02
-      names:
-        - name: Hodh el Gharbi
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Inchiri
@@ -80,8 +89,9 @@ regions:
         iso3166-2: MR-12
       names:
         - name: Inchiri
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nouakchott Nord
@@ -89,11 +99,13 @@ regions:
         iso3166-2: MR-14
       names:
         - name: Nouakchott Nord
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nuwākshūţ ash Shamālīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nouakchott Ouest
@@ -101,11 +113,13 @@ regions:
         iso3166-2: MR-13
       names:
         - name: Nouakchott Ouest
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nuwākshūţ al Gharbīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Nouakchott Sud
@@ -113,11 +127,13 @@ regions:
         iso3166-2: MR-15
       names:
         - name: Nouakchott Sud
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Nuwākshūţ al Janūbīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tagant
@@ -125,8 +141,9 @@ regions:
         iso3166-2: MR-09
       names:
         - name: Tagant
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tiris Zemmour
@@ -134,8 +151,9 @@ regions:
         iso3166-2: MR-11
       names:
         - name: Tiris Zemmour
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Trarza
@@ -143,5 +161,6 @@ regions:
         iso3166-2: MR-06
       names:
         - name: Trarza
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

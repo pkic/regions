@@ -8,8 +8,9 @@ regions:
         iso3166-2: NE-1
       names:
         - name: Agadez
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Diffa
@@ -17,8 +18,9 @@ regions:
         iso3166-2: NE-2
       names:
         - name: Diffa
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Dosso
@@ -26,8 +28,9 @@ regions:
         iso3166-2: NE-3
       names:
         - name: Dosso
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Maradi
@@ -35,8 +38,9 @@ regions:
         iso3166-2: NE-4
       names:
         - name: Maradi
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Niamey
@@ -44,8 +48,9 @@ regions:
         iso3166-2: NE-8
       names:
         - name: Niamey
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tahoua
@@ -53,8 +58,9 @@ regions:
         iso3166-2: NE-5
       names:
         - name: Tahoua
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Tillabéri
@@ -62,8 +68,9 @@ regions:
         iso3166-2: NE-6
       names:
         - name: Tillabéri
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Zinder
@@ -71,5 +78,6 @@ regions:
         iso3166-2: NE-7
       names:
         - name: Zinder
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]

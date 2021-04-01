@@ -8,16 +8,20 @@ regions:
         iso3166-2: KM-A
       names:
         - name: Andjouân
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Anjouan
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Anjwān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Ndzuwani
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
     
 
     # Mohéli
@@ -25,16 +29,20 @@ regions:
         iso3166-2: KM-M
       names:
         - name: Mohéli
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Moûhîlî
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Mwali
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
         - name: Mūhīlī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Andjazîdja
@@ -42,13 +50,17 @@ regions:
         iso3166-2: KM-G
       names:
         - name: Andjazîdja
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Anjazījah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Grande Comore
-          languages: [fr]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [fr]
         - name: Ngazidja
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2

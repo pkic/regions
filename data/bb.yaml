@@ -8,8 +8,9 @@ regions:
         iso3166-2: BB-01
       names:
         - name: Christ Church
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Andrew
@@ -17,8 +18,9 @@ regions:
         iso3166-2: BB-02
       names:
         - name: Saint Andrew
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint George
@@ -26,8 +28,9 @@ regions:
         iso3166-2: BB-03
       names:
         - name: Saint George
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint James
@@ -35,8 +38,9 @@ regions:
         iso3166-2: BB-04
       names:
         - name: Saint James
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint John
@@ -44,8 +48,9 @@ regions:
         iso3166-2: BB-05
       names:
         - name: Saint John
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Joseph
@@ -53,8 +58,9 @@ regions:
         iso3166-2: BB-06
       names:
         - name: Saint Joseph
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Lucy
@@ -62,8 +68,9 @@ regions:
         iso3166-2: BB-07
       names:
         - name: Saint Lucy
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Michael
@@ -71,8 +78,9 @@ regions:
         iso3166-2: BB-08
       names:
         - name: Saint Michael
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Peter
@@ -80,8 +88,9 @@ regions:
         iso3166-2: BB-09
       names:
         - name: Saint Peter
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Philip
@@ -89,8 +98,9 @@ regions:
         iso3166-2: BB-10
       names:
         - name: Saint Philip
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]
     
 
     # Saint Thomas
@@ -98,5 +108,6 @@ regions:
         iso3166-2: BB-11
       names:
         - name: Saint Thomas
-          languages: [en]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [en]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: NI-BO
       names:
         - name: Boaco
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Carazo
@@ -17,8 +18,9 @@ regions:
         iso3166-2: NI-CA
       names:
         - name: Carazo
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chinandega
@@ -26,8 +28,9 @@ regions:
         iso3166-2: NI-CI
       names:
         - name: Chinandega
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chontales
@@ -35,8 +38,9 @@ regions:
         iso3166-2: NI-CO
       names:
         - name: Chontales
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Costa Caribe Norte
@@ -44,8 +48,9 @@ regions:
         iso3166-2: NI-AN
       names:
         - name: Costa Caribe Norte
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Costa Caribe Sur
@@ -53,8 +58,9 @@ regions:
         iso3166-2: NI-AS
       names:
         - name: Costa Caribe Sur
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Estelí
@@ -62,8 +68,9 @@ regions:
         iso3166-2: NI-ES
       names:
         - name: Estelí
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Granada
@@ -71,8 +78,9 @@ regions:
         iso3166-2: NI-GR
       names:
         - name: Granada
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Jinotega
@@ -80,17 +88,9 @@ regions:
         iso3166-2: NI-JI
       names:
         - name: Jinotega
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # León
-    - codes:
-        iso3166-2: NI-LE
-      names:
-        - name: León
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Madriz
@@ -98,8 +98,9 @@ regions:
         iso3166-2: NI-MD
       names:
         - name: Madriz
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Managua
@@ -107,8 +108,9 @@ regions:
         iso3166-2: NI-MN
       names:
         - name: Managua
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Masaya
@@ -116,8 +118,9 @@ regions:
         iso3166-2: NI-MS
       names:
         - name: Masaya
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Matagalpa
@@ -125,8 +128,9 @@ regions:
         iso3166-2: NI-MT
       names:
         - name: Matagalpa
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Nueva Segovia
@@ -134,8 +138,9 @@ regions:
         iso3166-2: NI-NS
       names:
         - name: Nueva Segovia
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Rivas
@@ -143,14 +148,28 @@ regions:
         iso3166-2: NI-RI
       names:
         - name: Rivas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Río San Juan
+    # Rí San Juan
     - codes:
         iso3166-2: NI-SJ
       names:
-        - name: Río San Juan
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Rí San Juan
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Río San Juan
+    
+
+    # ón
+    - codes:
+        iso3166-2: NI-LE
+      names:
+        - name: ón
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: León

@@ -4,13 +4,15 @@ complete: false
 regions:
     
 
-    # Andorra la Vella
+    # Andorra Vella
     - codes:
         iso3166-2: AD-07
       names:
-        - name: Andorra la Vella
-          languages: [ca]
-          sources: [iso3166-2]
+        - name: Andorra Vella
+          sources:
+            - name: iso3166-2
+              languages: [ca]
+              value: Andorra la Vella
     
 
     # Canillo
@@ -18,8 +20,9 @@ regions:
         iso3166-2: AD-02
       names:
         - name: Canillo
-          languages: [ca]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ca]
     
 
     # Encamp
@@ -27,8 +30,9 @@ regions:
         iso3166-2: AD-03
       names:
         - name: Encamp
-          languages: [ca]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ca]
     
 
     # Escaldes-Engordany
@@ -36,17 +40,20 @@ regions:
         iso3166-2: AD-08
       names:
         - name: Escaldes-Engordany
-          languages: [ca]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ca]
     
 
-    # La Massana
+    # Massana
     - codes:
         iso3166-2: AD-04
       names:
-        - name: La Massana
-          languages: [ca]
-          sources: [iso3166-2]
+        - name: Massana
+          sources:
+            - name: iso3166-2
+              languages: [ca]
+              value: La Massana
     
 
     # Ordino
@@ -54,14 +61,17 @@ regions:
         iso3166-2: AD-05
       names:
         - name: Ordino
-          languages: [ca]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ca]
     
 
-    # Sant Julià de Lòria
+    # Sant Julià Lòria
     - codes:
         iso3166-2: AD-06
       names:
-        - name: Sant Julià de Lòria
-          languages: [ca]
-          sources: [iso3166-2]
+        - name: Sant Julià Lòria
+          sources:
+            - name: iso3166-2
+              languages: [ca]
+              value: Sant Julià de Lòria

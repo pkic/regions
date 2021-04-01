@@ -8,8 +8,9 @@ regions:
         iso3166-2: DZ-01
       names:
         - name: Adrar
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Alger
@@ -17,8 +18,9 @@ regions:
         iso3166-2: DZ-16
       names:
         - name: Alger
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Annaba
@@ -26,26 +28,9 @@ regions:
         iso3166-2: DZ-23
       names:
         - name: Annaba
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Aïn Defla
-    - codes:
-        iso3166-2: DZ-44
-      names:
-        - name: Aïn Defla
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Aïn Témouchent
-    - codes:
-        iso3166-2: DZ-46
-      names:
-        - name: Aïn Témouchent
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Batna
@@ -53,8 +38,20 @@ regions:
         iso3166-2: DZ-05
       names:
         - name: Batna
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Bayadh
+    - codes:
+        iso3166-2: DZ-32
+      names:
+        - name: Bayadh
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Bayadh
     
 
     # Biskra
@@ -62,8 +59,9 @@ regions:
         iso3166-2: DZ-07
       names:
         - name: Biskra
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Blida
@@ -71,8 +69,9 @@ regions:
         iso3166-2: DZ-09
       names:
         - name: Blida
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Bordj Bou Arréridj
@@ -80,8 +79,9 @@ regions:
         iso3166-2: DZ-34
       names:
         - name: Bordj Bou Arréridj
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Bouira
@@ -89,8 +89,9 @@ regions:
         iso3166-2: DZ-10
       names:
         - name: Bouira
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Boumerdès
@@ -98,8 +99,9 @@ regions:
         iso3166-2: DZ-35
       names:
         - name: Boumerdès
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Béchar
@@ -107,17 +109,20 @@ regions:
         iso3166-2: DZ-08
       names:
         - name: Béchar
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Béjaïa
+    # Béjaï
     - codes:
         iso3166-2: DZ-06
       names:
-        - name: Béjaïa
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Béjaï
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Béjaïa
     
 
     # Chlef
@@ -125,8 +130,9 @@ regions:
         iso3166-2: DZ-02
       names:
         - name: Chlef
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Constantine
@@ -134,8 +140,9 @@ regions:
         iso3166-2: DZ-25
       names:
         - name: Constantine
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Djelfa
@@ -143,44 +150,20 @@ regions:
         iso3166-2: DZ-17
       names:
         - name: Djelfa
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # El Bayadh
-    - codes:
-        iso3166-2: DZ-32
-      names:
-        - name: El Bayadh
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # El Oued
-    - codes:
-        iso3166-2: DZ-39
-      names:
-        - name: El Oued
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # El Tarf
-    - codes:
-        iso3166-2: DZ-36
-      names:
-        - name: El Tarf
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # Ghardaïa
+    # Ghardaï
     - codes:
         iso3166-2: DZ-47
       names:
-        - name: Ghardaïa
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Ghardaï
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Ghardaïa
     
 
     # Guelma
@@ -188,8 +171,9 @@ regions:
         iso3166-2: DZ-24
       names:
         - name: Guelma
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Illizi
@@ -197,8 +181,9 @@ regions:
         iso3166-2: DZ-33
       names:
         - name: Illizi
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Jijel
@@ -206,8 +191,9 @@ regions:
         iso3166-2: DZ-18
       names:
         - name: Jijel
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Khenchela
@@ -215,8 +201,9 @@ regions:
         iso3166-2: DZ-40
       names:
         - name: Khenchela
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Laghouat
@@ -224,8 +211,9 @@ regions:
         iso3166-2: DZ-03
       names:
         - name: Laghouat
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # M'sila
@@ -233,8 +221,9 @@ regions:
         iso3166-2: DZ-28
       names:
         - name: M'sila
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Mascara
@@ -242,8 +231,9 @@ regions:
         iso3166-2: DZ-29
       names:
         - name: Mascara
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Mila
@@ -251,8 +241,9 @@ regions:
         iso3166-2: DZ-43
       names:
         - name: Mila
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Mostaganem
@@ -260,17 +251,20 @@ regions:
         iso3166-2: DZ-27
       names:
         - name: Mostaganem
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Médéa
+    # Médé
     - codes:
         iso3166-2: DZ-26
       names:
-        - name: Médéa
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Médé
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Médéa
     
 
     # Naama
@@ -278,8 +272,9 @@ regions:
         iso3166-2: DZ-45
       names:
         - name: Naama
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Oran
@@ -287,8 +282,9 @@ regions:
         iso3166-2: DZ-31
       names:
         - name: Oran
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Ouargla
@@ -296,17 +292,31 @@ regions:
         iso3166-2: DZ-30
       names:
         - name: Ouargla
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Oum el Bouaghi
+    # Oued
+    - codes:
+        iso3166-2: DZ-39
+      names:
+        - name: Oued
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Oued
+    
+
+    # Oum Bouaghi
     - codes:
         iso3166-2: DZ-04
       names:
-        - name: Oum el Bouaghi
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Oum Bouaghi
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Oum el Bouaghi
     
 
     # Relizane
@@ -314,17 +324,20 @@ regions:
         iso3166-2: DZ-48
       names:
         - name: Relizane
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
-    # Saïda
+    # Saï
     - codes:
         iso3166-2: DZ-20
       names:
-        - name: Saïda
-          languages: [ar]
-          sources: [iso3166-2]
+        - name: Saï
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Saïda
     
 
     # Sidi Bel Abbès
@@ -332,8 +345,9 @@ regions:
         iso3166-2: DZ-22
       names:
         - name: Sidi Bel Abbès
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Skikda
@@ -341,8 +355,9 @@ regions:
         iso3166-2: DZ-21
       names:
         - name: Skikda
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Souk Ahras
@@ -350,8 +365,9 @@ regions:
         iso3166-2: DZ-41
       names:
         - name: Souk Ahras
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Sétif
@@ -359,8 +375,9 @@ regions:
         iso3166-2: DZ-19
       names:
         - name: Sétif
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tamanrasset
@@ -368,8 +385,20 @@ regions:
         iso3166-2: DZ-11
       names:
         - name: Tamanrasset
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Tarf
+    - codes:
+        iso3166-2: DZ-36
+      names:
+        - name: Tarf
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: El Tarf
     
 
     # Tiaret
@@ -377,8 +406,9 @@ regions:
         iso3166-2: DZ-14
       names:
         - name: Tiaret
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tindouf
@@ -386,8 +416,9 @@ regions:
         iso3166-2: DZ-37
       names:
         - name: Tindouf
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tipaza
@@ -395,8 +426,9 @@ regions:
         iso3166-2: DZ-42
       names:
         - name: Tipaza
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tissemsilt
@@ -404,8 +436,9 @@ regions:
         iso3166-2: DZ-38
       names:
         - name: Tissemsilt
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tizi Ouzou
@@ -413,8 +446,9 @@ regions:
         iso3166-2: DZ-15
       names:
         - name: Tizi Ouzou
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tlemcen
@@ -422,8 +456,9 @@ regions:
         iso3166-2: DZ-13
       names:
         - name: Tlemcen
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Tébessa
@@ -431,5 +466,28 @@ regions:
         iso3166-2: DZ-12
       names:
         - name: Tébessa
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # ïn Defla
+    - codes:
+        iso3166-2: DZ-44
+      names:
+        - name: ïn Defla
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Aïn Defla
+    
+
+    # ïn Témouchent
+    - codes:
+        iso3166-2: DZ-46
+      names:
+        - name: ïn Témouchent
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Aïn Témouchent

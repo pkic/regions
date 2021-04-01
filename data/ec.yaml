@@ -8,8 +8,9 @@ regions:
         iso3166-2: EC-A
       names:
         - name: Azuay
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Bolívar
@@ -17,8 +18,9 @@ regions:
         iso3166-2: EC-B
       names:
         - name: Bolívar
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Carchi
@@ -26,8 +28,9 @@ regions:
         iso3166-2: EC-C
       names:
         - name: Carchi
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cañar
@@ -35,8 +38,9 @@ regions:
         iso3166-2: EC-F
       names:
         - name: Cañar
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Chimborazo
@@ -44,8 +48,9 @@ regions:
         iso3166-2: EC-H
       names:
         - name: Chimborazo
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Cotopaxi
@@ -53,17 +58,9 @@ regions:
         iso3166-2: EC-X
       names:
         - name: Cotopaxi
-          languages: [es]
-          sources: [iso3166-2]
-    
-
-    # El Oro
-    - codes:
-        iso3166-2: EC-O
-      names:
-        - name: El Oro
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Esmeraldas
@@ -71,8 +68,9 @@ regions:
         iso3166-2: EC-E
       names:
         - name: Esmeraldas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Galápagos
@@ -80,8 +78,9 @@ regions:
         iso3166-2: EC-W
       names:
         - name: Galápagos
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Guayas
@@ -89,8 +88,9 @@ regions:
         iso3166-2: EC-G
       names:
         - name: Guayas
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Imbabura
@@ -98,8 +98,9 @@ regions:
         iso3166-2: EC-I
       names:
         - name: Imbabura
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Loja
@@ -107,8 +108,9 @@ regions:
         iso3166-2: EC-L
       names:
         - name: Loja
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Los Ríos
@@ -116,8 +118,9 @@ regions:
         iso3166-2: EC-R
       names:
         - name: Los Ríos
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Manabí
@@ -125,8 +128,9 @@ regions:
         iso3166-2: EC-M
       names:
         - name: Manabí
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Morona Santiago
@@ -134,8 +138,9 @@ regions:
         iso3166-2: EC-S
       names:
         - name: Morona Santiago
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Napo
@@ -143,8 +148,9 @@ regions:
         iso3166-2: EC-N
       names:
         - name: Napo
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Orellana
@@ -152,8 +158,20 @@ regions:
         iso3166-2: EC-D
       names:
         - name: Orellana
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Oro
+    - codes:
+        iso3166-2: EC-O
+      names:
+        - name: Oro
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: El Oro
     
 
     # Pastaza
@@ -161,8 +179,9 @@ regions:
         iso3166-2: EC-Y
       names:
         - name: Pastaza
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Pichincha
@@ -170,8 +189,9 @@ regions:
         iso3166-2: EC-P
       names:
         - name: Pichincha
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Santa Elena
@@ -179,17 +199,20 @@ regions:
         iso3166-2: EC-SE
       names:
         - name: Santa Elena
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
-    # Santo Domingo de los Tsáchilas
+    # Santo Domingo los Tsáchilas
     - codes:
         iso3166-2: EC-SD
       names:
-        - name: Santo Domingo de los Tsáchilas
-          languages: [es]
-          sources: [iso3166-2]
+        - name: Santo Domingo los Tsáchilas
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Santo Domingo de los Tsáchilas
     
 
     # Sucumbíos
@@ -197,8 +220,9 @@ regions:
         iso3166-2: EC-U
       names:
         - name: Sucumbíos
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Tungurahua
@@ -206,8 +230,9 @@ regions:
         iso3166-2: EC-T
       names:
         - name: Tungurahua
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]
     
 
     # Zamora Chinchipe
@@ -215,5 +240,6 @@ regions:
         iso3166-2: EC-Z
       names:
         - name: Zamora Chinchipe
-          languages: [es]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [es]

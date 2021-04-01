@@ -8,11 +8,13 @@ regions:
         iso3166-2: ER-DU
       names:
         - name: Al Janūbī
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Debub
-          languages: [ti]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
     
 
     # Ansabā
@@ -20,11 +22,13 @@ regions:
         iso3166-2: ER-AN
       names:
         - name: Ansabā
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: ‘Anseba
-          languages: [ti]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
     
 
     # Gash-Barka
@@ -32,11 +36,13 @@ regions:
         iso3166-2: ER-GB
       names:
         - name: Gash-Barka
-          languages: [ti]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
         - name: Qāsh-Barkah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Debubawi K’eyyĭḥ Baḥri
@@ -44,11 +50,14 @@ regions:
         iso3166-2: ER-DK
       names:
         - name: Debubawi K’eyyĭḥ Baḥri
-          languages: [ti]
-          sources: [iso3166-2]
-        - name: Janūbī al Baḩrī al Aḩmar
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
+        - name: Janūbī al Baḩrī al ḩmar
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Janūbī al Baḩrī al Aḩmar
     
 
     # Al Awsaţ
@@ -56,11 +65,13 @@ regions:
         iso3166-2: ER-MA
       names:
         - name: Al Awsaţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Ma’ĭkel
-          languages: [ti]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
     
 
     # Semienawi K’eyyĭḥ Baḥri
@@ -68,8 +79,11 @@ regions:
         iso3166-2: ER-SK
       names:
         - name: Semienawi K’eyyĭḥ Baḥri
-          languages: [ti]
-          sources: [iso3166-2]
-        - name: Shimālī al Baḩrī al Aḩmar
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ti]
+        - name: Shimālī al Baḩrī al ḩmar
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Shimālī al Baḩrī al Aḩmar

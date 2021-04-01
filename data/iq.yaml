@@ -8,8 +8,9 @@ regions:
         iso3166-2: IQ-AN
       names:
         - name: Al Anbār
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Başrah
@@ -17,8 +18,9 @@ regions:
         iso3166-2: IQ-BA
       names:
         - name: Al Başrah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Muthanná
@@ -26,8 +28,9 @@ regions:
         iso3166-2: IQ-MU
       names:
         - name: Al Muthanná
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Al Qādisīyah
@@ -35,17 +38,9 @@ regions:
         iso3166-2: IQ-QA
       names:
         - name: Al Qādisīyah
-          languages: [ar]
-          sources: [iso3166-2]
-    
-
-    # An Najaf
-    - codes:
-        iso3166-2: IQ-NA
-      names:
-        - name: An Najaf
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # As Sulaymānīyah
@@ -53,11 +48,13 @@ regions:
         iso3166-2: IQ-SU
       names:
         - name: As Sulaymānīyah
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Slêmanî
-          languages: [ku]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ku]
     
 
     # Baghdād
@@ -65,8 +62,9 @@ regions:
         iso3166-2: IQ-BG
       names:
         - name: Baghdād
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Bābil
@@ -74,8 +72,9 @@ regions:
         iso3166-2: IQ-BB
       names:
         - name: Bābil
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dhī Qār
@@ -83,8 +82,9 @@ regions:
         iso3166-2: IQ-DQ
       names:
         - name: Dhī Qār
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Dahūk
@@ -92,11 +92,13 @@ regions:
         iso3166-2: IQ-DA
       names:
         - name: Dahūk
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Dihok
-          languages: [ku]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ku]
     
 
     # Diyālá
@@ -104,8 +106,9 @@ regions:
         iso3166-2: IQ-DI
       names:
         - name: Diyālá
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Arbīl
@@ -113,11 +116,13 @@ regions:
         iso3166-2: IQ-AR
       names:
         - name: Arbīl
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
         - name: Hewlêr
-          languages: [ku]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ku]
     
 
     # Karbalā’
@@ -125,8 +130,9 @@ regions:
         iso3166-2: IQ-KA
       names:
         - name: Karbalā’
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Kirkūk
@@ -134,8 +140,9 @@ regions:
         iso3166-2: IQ-KI
       names:
         - name: Kirkūk
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Maysān
@@ -143,8 +150,20 @@ regions:
         iso3166-2: IQ-MA
       names:
         - name: Maysān
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Najaf
+    - codes:
+        iso3166-2: IQ-NA
+      names:
+        - name: Najaf
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: An Najaf
     
 
     # Nīnawá
@@ -152,8 +171,9 @@ regions:
         iso3166-2: IQ-NI
       names:
         - name: Nīnawá
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Wāsiţ
@@ -161,8 +181,9 @@ regions:
         iso3166-2: IQ-WA
       names:
         - name: Wāsiţ
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]
     
 
     # Şalāḩ ad Dīn
@@ -170,5 +191,6 @@ regions:
         iso3166-2: IQ-SD
       names:
         - name: Şalāḩ ad Dīn
-          languages: [ar]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [ar]

@@ -8,8 +8,9 @@ regions:
         iso3166-2: SR-BR
       names:
         - name: Brokopondo
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Commewijne
@@ -17,8 +18,9 @@ regions:
         iso3166-2: SR-CM
       names:
         - name: Commewijne
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Coronie
@@ -26,8 +28,9 @@ regions:
         iso3166-2: SR-CR
       names:
         - name: Coronie
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Marowijne
@@ -35,8 +38,9 @@ regions:
         iso3166-2: SR-MA
       names:
         - name: Marowijne
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Nickerie
@@ -44,8 +48,9 @@ regions:
         iso3166-2: SR-NI
       names:
         - name: Nickerie
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Para
@@ -53,8 +58,9 @@ regions:
         iso3166-2: SR-PR
       names:
         - name: Para
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Paramaribo
@@ -62,8 +68,9 @@ regions:
         iso3166-2: SR-PM
       names:
         - name: Paramaribo
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Saramacca
@@ -71,8 +78,9 @@ regions:
         iso3166-2: SR-SA
       names:
         - name: Saramacca
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Sipaliwini
@@ -80,8 +88,9 @@ regions:
         iso3166-2: SR-SI
       names:
         - name: Sipaliwini
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
     
 
     # Wanica
@@ -89,5 +98,6 @@ regions:
         iso3166-2: SR-WA
       names:
         - name: Wanica
-          languages: [nl]
-          sources: [iso3166-2]
+          sources:
+            - name: iso3166-2
+              languages: [nl]
