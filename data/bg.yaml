@@ -26,9 +26,6 @@ regions:
               languages: [nl]
               value: regio Blagoevgrad
             - name: euvoc
-              languages: [ga]
-              value: réigiún Blagoevgrad
-            - name: euvoc
               languages: [en]
               value: Blagoevgrad region
             - name: euvoc
@@ -40,6 +37,9 @@ regions:
             - name: euvoc
               languages: [fr]
               value: région de Blagoevgrad
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Blagoevgrad
             - name: iso3166-2
               languages: [bg]
         - name: Blagoevgrad régió
@@ -128,8 +128,11 @@ regions:
         - name: Burgas
           sources:
             - name: euvoc
-              languages: [en]
-              value: Burgas region
+              languages: [it]
+              value: regione Burgas
+            - name: euvoc
+              languages: [sl]
+              value: regija Burgas
             - name: euvoc
               languages: [de, pl]
               value: Region Burgas
@@ -137,17 +140,14 @@ regions:
               languages: [nl]
               value: regio Burgas
             - name: euvoc
-              languages: [sl]
-              value: regija Burgas
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Burgas
-            - name: euvoc
-              languages: [it]
-              value: regione Burgas
+              languages: [en]
+              value: Burgas region
             - name: euvoc
               languages: [lt]
               value: Burgas regionas
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Burgas
             - name: iso3166-2
               languages: [bg]
         - name: Burgas apgabals
@@ -226,8 +226,11 @@ regions:
         - name: Dobrich
           sources:
             - name: euvoc
-              languages: [ga]
-              value: réigiún Dobrich
+              languages: [de]
+              value: Region Dobrich
+            - name: euvoc
+              languages: [en]
+              value: Dobrich region
             - name: euvoc
               languages: [nl]
               value: regio Dobrich
@@ -235,17 +238,14 @@ regions:
               languages: [it]
               value: regione Dobrich
             - name: euvoc
-              languages: [de]
-              value: Region Dobrich
-            - name: euvoc
               languages: [lt]
               value: Dobrich regionas
             - name: euvoc
-              languages: [en]
-              value: Dobrich region
-            - name: euvoc
               languages: [fr]
               value: région de Dobrich
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Dobrich
             - name: iso3166-2
               languages: [bg]
         - name: Dobrich apgabals
@@ -338,17 +338,14 @@ regions:
         - name: Gabrovo
           sources:
             - name: euvoc
-              languages: [et]
-              value: Gabrovo piirkond
+              languages: [sl]
+              value: regija Gabrovo
             - name: euvoc
               languages: [de]
               value: Region Gabrovo
             - name: euvoc
-              languages: [sl]
-              value: regija Gabrovo
-            - name: euvoc
-              languages: [fr]
-              value: région de Gabrovo
+              languages: [et]
+              value: Gabrovo piirkond
             - name: euvoc
               languages: [en]
               value: Gabrovo region
@@ -361,6 +358,9 @@ regions:
             - name: euvoc
               languages: [lt]
               value: Gabrovo regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Gabrovo
             - name: euvoc
               languages: [ga]
               value: réigiún Gabrovo
@@ -459,29 +459,29 @@ regions:
         - name: Haskovo
           sources:
             - name: euvoc
-              languages: [de]
-              value: Region Haskovo
-            - name: euvoc
-              languages: [en]
-              value: Haskovo region
-            - name: euvoc
               languages: [sl]
               value: regija Haskovo
             - name: euvoc
-              languages: [nl]
-              value: regio Haskovo
+              languages: [de]
+              value: Region Haskovo
             - name: euvoc
               languages: [et]
               value: Haskovo piirkond
             - name: euvoc
-              languages: [fr]
-              value: région de Haskovo
+              languages: [en]
+              value: Haskovo region
+            - name: euvoc
+              languages: [nl]
+              value: regio Haskovo
+            - name: euvoc
+              languages: [it]
+              value: regione Haskovo
             - name: euvoc
               languages: [lt]
               value: Haskovo regionas
             - name: euvoc
-              languages: [it]
-              value: regione Haskovo
+              languages: [fr]
+              value: région de Haskovo
             - name: euvoc
               languages: [ga]
               value: réigiún Haskovo
@@ -557,17 +557,14 @@ regions:
         - name: Kardzhali
           sources:
             - name: euvoc
-              languages: [et]
-              value: Kardzhali piirkond
+              languages: [sl]
+              value: regija Kardzhali
             - name: euvoc
               languages: [de]
               value: Region Kardzhali
             - name: euvoc
-              languages: [sl]
-              value: regija Kardzhali
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Kardzhali
+              languages: [et]
+              value: Kardzhali piirkond
             - name: euvoc
               languages: [en]
               value: Kardzhali region
@@ -577,6 +574,9 @@ regions:
             - name: euvoc
               languages: [lt]
               value: Kardzhali regionas
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Kardzhali
             - name: iso3166-2
               languages: [bg]
         - name: Kardzhali apgabals
@@ -696,8 +696,11 @@ regions:
               languages: [sl]
               value: regija Kyustendil
             - name: euvoc
-              languages: [it]
-              value: regione Kyustendil
+              languages: [de]
+              value: Region Kyustendil
+            - name: euvoc
+              languages: [nl]
+              value: regio Kyustendil
             - name: euvoc
               languages: [en]
               value: Kyustendil region
@@ -705,14 +708,11 @@ regions:
               languages: [lt]
               value: Kyustendil regionas
             - name: euvoc
-              languages: [de]
-              value: Region Kyustendil
+              languages: [it]
+              value: regione Kyustendil
             - name: euvoc
               languages: [ga]
               value: réigiún Kyustendil
-            - name: euvoc
-              languages: [nl]
-              value: regio Kyustendil
             - name: iso3166-2
               languages: [bg]
         - name: Kyustendil apgabals
@@ -792,26 +792,26 @@ regions:
         - name: Lovech
           sources:
             - name: euvoc
+              languages: [de]
+              value: Region Lovech
+            - name: euvoc
               languages: [en]
               value: Lovech region
             - name: euvoc
               languages: [nl]
               value: regio Lovech
             - name: euvoc
-              languages: [de]
-              value: Region Lovech
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Lovech
+              languages: [it]
+              value: regione Lovech
             - name: euvoc
               languages: [lt]
               value: Lovech regionas
             - name: euvoc
-              languages: [it]
-              value: regione Lovech
-            - name: euvoc
               languages: [fr]
               value: région de Lovech
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Lovech
             - name: iso3166-2
               languages: [bg]
         - name: Lovech régió
@@ -910,20 +910,23 @@ regions:
         - name: Montana
           sources:
             - name: euvoc
-              languages: [nl]
-              value: regio Montana
-            - name: euvoc
-              languages: [de, pl]
-              value: Region Montana
+              languages: [lt]
+              value: Montana regionas
             - name: euvoc
               languages: [hr, sl]
               value: regija Montana
             - name: euvoc
-              languages: [en]
-              value: Montana region
+              languages: [de, pl]
+              value: Region Montana
             - name: euvoc
               languages: [et]
               value: Montana piirkond
+            - name: euvoc
+              languages: [en]
+              value: Montana region
+            - name: euvoc
+              languages: [nl]
+              value: regio Montana
             - name: euvoc
               languages: [it]
               value: regione Montana (Bulgaria)
@@ -933,9 +936,6 @@ regions:
             - name: euvoc
               languages: [ga]
               value: réigiún Montana
-            - name: euvoc
-              languages: [lt]
-              value: Montana regionas
             - name: iso3166-2
               languages: [bg]
         - name: Montana apgabals
@@ -1008,22 +1008,26 @@ regions:
         - name: Pazardjik
           sources:
             - name: euvoc
+              languages: [en]
+              value: Pazardjik region
+              type: alternative
+            - name: euvoc
               languages: [fr]
               value: région de Pazardjik
         - name: Pazardzhik
           sources:
-            - name: euvoc
-              languages: [it]
-              value: regione Pazardzhik
-            - name: euvoc
-              languages: [lt]
-              value: Pazardzhik regionas
             - name: euvoc
               languages: [de]
               value: Region Pazardzhik
             - name: euvoc
               languages: [en]
               value: Pazardzhik region
+            - name: euvoc
+              languages: [it]
+              value: regione Pazardzhik
+            - name: euvoc
+              languages: [lt]
+              value: Pazardzhik regionas
             - name: euvoc
               languages: [ga]
               value: réigiún Pazardzhik
@@ -1130,6 +1134,15 @@ regions:
         - name: Pernik
           sources:
             - name: euvoc
+              languages: [it]
+              value: regione Pernik
+            - name: euvoc
+              languages: [sl]
+              value: regija Pernik
+            - name: euvoc
+              languages: [de, pl]
+              value: Region Pernik
+            - name: euvoc
               languages: [nl]
               value: regio Pernik
             - name: euvoc
@@ -1138,15 +1151,6 @@ regions:
             - name: euvoc
               languages: [lt]
               value: Pernik regionas
-            - name: euvoc
-              languages: [sl]
-              value: regija Pernik
-            - name: euvoc
-              languages: [it]
-              value: regione Pernik
-            - name: euvoc
-              languages: [de, pl]
-              value: region Pernik
             - name: euvoc
               languages: [fr]
               value: région de Pernik
@@ -1235,29 +1239,29 @@ regions:
         - name: Pleven
           sources:
             - name: euvoc
-              languages: [nl]
-              value: regio Pleven
-            - name: euvoc
-              languages: [it]
-              value: regione Pleven
-            - name: euvoc
               languages: [sl]
               value: regija Pleven
-            - name: euvoc
-              languages: [fr]
-              value: région de Pleven
-            - name: euvoc
-              languages: [lt]
-              value: Pleven regionas
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Pleven
             - name: euvoc
               languages: [de]
               value: Region Pleven
             - name: euvoc
               languages: [en]
               value: Pleven region
+            - name: euvoc
+              languages: [nl]
+              value: regio Pleven
+            - name: euvoc
+              languages: [it]
+              value: regione Pleven
+            - name: euvoc
+              languages: [lt]
+              value: Pleven regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Pleven
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Pleven
             - name: iso3166-2
               languages: [bg]
         - name: Pleven régió
@@ -1303,11 +1307,11 @@ regions:
         - name: n Pleven
           sources:
             - name: euvoc
-              languages: [es]
-              value: región de Pleven
-            - name: euvoc
               languages: [sk]
               value: región Pleven
+            - name: euvoc
+              languages: [es]
+              value: región de Pleven
         - name: regiunea Plevna
           sources:
             - name: euvoc
@@ -1345,20 +1349,20 @@ regions:
         - name: Plovdiv
           sources:
             - name: euvoc
-              languages: [en]
-              value: Plovdiv region
+              languages: [sl]
+              value: regija Plovdiv
             - name: euvoc
               languages: [de]
               value: Region Plovdiv
             - name: euvoc
-              languages: [sl]
-              value: regija Plovdiv
-            - name: euvoc
-              languages: [it]
-              value: regione Plovdiv
+              languages: [en]
+              value: Plovdiv region
             - name: euvoc
               languages: [nl]
               value: regio Plovdiv
+            - name: euvoc
+              languages: [it]
+              value: regione Plovdiv
             - name: euvoc
               languages: [fr]
               value: région de Plovdiv
@@ -1447,26 +1451,26 @@ regions:
         - name: Razgrad
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Razgrad
-            - name: euvoc
-              languages: [nl]
-              value: regio Razgrad
-            - name: euvoc
-              languages: [de, pl]
-              value: Region Razgrad
-            - name: euvoc
-              languages: [fr]
-              value: région de Razgrad
-            - name: euvoc
               languages: [lt]
               value: Razgrad regionas
             - name: euvoc
               languages: [sl]
               value: regija Razgrad
             - name: euvoc
+              languages: [de, pl]
+              value: Region Razgrad
+            - name: euvoc
               languages: [en]
               value: Razgrad region
+            - name: euvoc
+              languages: [nl]
+              value: regio Razgrad
+            - name: euvoc
+              languages: [it]
+              value: regione Razgrad
+            - name: euvoc
+              languages: [fr]
+              value: région de Razgrad
             - name: euvoc
               languages: [ga]
               value: réigiún Razgrad
@@ -1551,29 +1555,29 @@ regions:
               languages: [sl]
               value: regija Ruse
             - name: euvoc
-              languages: [it]
-              value: regione Ruse
-            - name: euvoc
-              languages: [nl]
-              value: regio Ruse
-            - name: euvoc
               languages: [de, pl]
               value: Region Ruse
-            - name: euvoc
-              languages: [fr]
-              value: région de Ruse
-            - name: euvoc
-              languages: [en]
-              value: Ruse region
             - name: euvoc
               languages: [et]
               value: Ruse piirkond
             - name: euvoc
-              languages: [ga]
-              value: réigiún Ruse
+              languages: [en]
+              value: Ruse region
+            - name: euvoc
+              languages: [nl]
+              value: regio Ruse
+            - name: euvoc
+              languages: [it]
+              value: regione Ruse
             - name: euvoc
               languages: [lt]
               value: Ruse regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Ruse
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Ruse
             - name: iso3166-2
               languages: [bg]
         - name: Ruse apgabals
@@ -1634,6 +1638,184 @@ regions:
               languages: [bg, mk, sr]
     
 
+    # Severen tsentralen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8311
+      names:
+        - name: Bułgaria Północno-Środkowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Severen centralen
+          sources:
+            - name: euvoc
+              languages: [hr, sq]
+        - name: Severen tsentralen
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Severen tsentralen (Bolgarija)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Severen tsentralen (Bulgária)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Severen tsentralen (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Severen tsentralen (Bulgarien)
+            - name: euvoc
+              languages: [et]
+              value: Severen tsentralen (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Severen tsentralen (il-Bulgarija)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Severen tsentralen (Bulgaria)
+            - name: euvoc
+              languages: [nl]
+              value: Severen tsentralen (Bulgarije)
+            - name: euvoc
+              languages: [el]
+              value: Severen tsentralen (Βουλγαρία)
+            - name: euvoc
+              languages: [lv]
+              value: Severen tsentralen (Bulgārija)
+            - name: euvoc
+              languages: [lt]
+              value: Severen tsentralen (Bulgarija)
+            - name: euvoc
+              languages: [fr]
+              value: Severen tsentralen (Bulgarie)
+            - name: euvoc
+              languages: [ga]
+              value: Severen tsentralen (An Bhulgáir)
+        - name: Северен централен
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Severoiztochen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8317
+      names:
+        - name: Bułgaria Północno-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Severoiztochen
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Severoiztochen (Bolgarija)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Severoiztochen (Bulgária)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Severoiztochen (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Severoiztochen (Bulgarien)
+            - name: euvoc
+              languages: [et]
+              value: Severoiztochen (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Severoiztochen (il-Bulgarija)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Severoiztochen (Bulgaria)
+            - name: euvoc
+              languages: [nl]
+              value: Severoiztochen (Bulgarije)
+            - name: euvoc
+              languages: [el]
+              value: Severoiztochen (Βουλγαρία)
+            - name: euvoc
+              languages: [lv]
+              value: Severoiztochen (Bulgārija)
+            - name: euvoc
+              languages: [lt]
+              value: Severoiztochen (Bulgarija)
+            - name: euvoc
+              languages: [fr]
+              value: Severoiztochen (Bulgarie)
+            - name: euvoc
+              languages: [ga]
+              value: Severoiztochen (An Bhulgáir)
+        - name: Severoiztoçeni
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Severoiztoçeni (Bullgari)
+        - name: Severoiztoč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Severoiztočen
+        - name: Североизточен
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Североисточен
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Severozapaden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8324
+      names:
+        - name: Bułgaria Północno-Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Severozapaden
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Severozapaden (Bolgarija)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Severozapaden (Bulgária)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Severozapaden (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Severozapaden (Bulgarien)
+            - name: euvoc
+              languages: [et]
+              value: Severozapaden (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Severozapaden (il-Bulgarija)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Severozapaden (Bulgaria)
+            - name: euvoc
+              languages: [nl]
+              value: Severozapaden (Bulgarije)
+            - name: euvoc
+              languages: [el]
+              value: Severozapaden (Βουλγαρία)
+            - name: euvoc
+              languages: [fr, ga, hr, lt, lv]
+        - name: Severozapadeni
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Severozapadeni (Bullgari)
+        - name: Северозападен
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
     # Shumen
     - codes:
         euvoc: http://eurovoc.europa.eu/8320
@@ -1647,11 +1829,11 @@ regions:
         - name: Shumen
           sources:
             - name: euvoc
-              languages: [nl]
-              value: regio Shumen
+              languages: [lt]
+              value: Shumen regionas
             - name: euvoc
-              languages: [fr]
-              value: région de Shumen
+              languages: [sl]
+              value: regija Shumen
             - name: euvoc
               languages: [de]
               value: Region Shumen
@@ -1659,14 +1841,14 @@ regions:
               languages: [en]
               value: Shumen region
             - name: euvoc
-              languages: [sl]
-              value: regija Shumen
+              languages: [nl]
+              value: regio Shumen
             - name: euvoc
               languages: [it]
               value: regione Shumen
             - name: euvoc
-              languages: [lt]
-              value: Shumen regionas
+              languages: [fr]
+              value: région de Shumen
             - name: euvoc
               languages: [ga]
               value: réigiún Shumen
@@ -1759,32 +1941,32 @@ regions:
         - name: Silistra
           sources:
             - name: euvoc
-              languages: [de, pl]
-              value: region Silistra
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Silistra
+              languages: [lt]
+              value: Silistra regionas
             - name: euvoc
               languages: [sl]
               value: regija Silistra
             - name: euvoc
-              languages: [en]
-              value: Silistra region
+              languages: [de, pl]
+              value: Region Silistra
             - name: euvoc
               languages: [et]
               value: Silistra piirkond
             - name: euvoc
-              languages: [lt]
-              value: Silistra regionas
-            - name: euvoc
-              languages: [fr]
-              value: région de Silistra
+              languages: [en]
+              value: Silistra region
             - name: euvoc
               languages: [nl]
               value: regio Silistra
             - name: euvoc
               languages: [it]
               value: regione Silistra
+            - name: euvoc
+              languages: [fr]
+              value: région de Silistra
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Silistra
             - name: iso3166-2
               languages: [bg]
         - name: Silistra régió
@@ -1839,7 +2021,7 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Силистренска Област
+        - name: Силистренска област
           sources:
             - name: euvoc
               languages: [bg, mk]
@@ -1858,23 +2040,23 @@ regions:
         - name: Sliven
           sources:
             - name: euvoc
+              languages: [fr]
+              value: région de Sliven
+            - name: euvoc
               languages: [sl]
               value: regija Sliven
             - name: euvoc
               languages: [de]
               value: Region Sliven
             - name: euvoc
-              languages: [fr]
-              value: région de Sliven
-            - name: euvoc
-              languages: [it]
-              value: regione Sliven
+              languages: [nl]
+              value: regio Sliven
             - name: euvoc
               languages: [en]
               value: Sliven region
             - name: euvoc
-              languages: [nl]
-              value: regio Sliven
+              languages: [it]
+              value: regione Sliven
             - name: euvoc
               languages: [ga]
               value: réigiún Sliven
@@ -1924,11 +2106,11 @@ regions:
         - name: n Sliven
           sources:
             - name: euvoc
-              languages: [es]
-              value: región de Sliven
-            - name: euvoc
               languages: [sk]
               value: región Sliven
+            - name: euvoc
+              languages: [es]
+              value: región de Sliven
         - name: rajoni Slivenit
           sources:
             - name: euvoc
@@ -1966,11 +2148,11 @@ regions:
         - name: Smolian
           sources:
             - name: euvoc
-              languages: [fr]
-              value: région de Smolian
-            - name: euvoc
               languages: [pl]
               value: region Smolian
+            - name: euvoc
+              languages: [fr]
+              value: région de Smolian
         - name: Smoljanregionen
           sources:
             - name: euvoc
@@ -1987,26 +2169,26 @@ regions:
         - name: Smolyan
           sources:
             - name: euvoc
-              languages: [nl]
-              value: regio Smolyan
-            - name: euvoc
-              languages: [lt]
-              value: Smolyan regionas
-            - name: euvoc
               languages: [sl]
               value: regija Smolyan
-            - name: euvoc
-              languages: [it]
-              value: regione Smolyan
             - name: euvoc
               languages: [de]
               value: Region Smolyan
             - name: euvoc
-              languages: [ga]
-              value: réigiún Smolyan
-            - name: euvoc
               languages: [en]
               value: Smolyan region
+            - name: euvoc
+              languages: [nl]
+              value: regio Smolyan
+            - name: euvoc
+              languages: [it]
+              value: regione Smolyan
+            - name: euvoc
+              languages: [lt]
+              value: Smolyan regionas
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Smolyan
             - name: iso3166-2
               languages: [bg]
         - name: Smolyan régió
@@ -2073,1174 +2255,10 @@ regions:
               languages: [sr]
     
 
-    # Stara Zagora
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8310
-        iso3166-2: BG-24
-      names:
-        - name: ''' Stara Zagora'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Stara Zagora
-        - name: Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: région de Stara Zagora
-            - name: euvoc
-              languages: [de, pl]
-              value: region Stara Zagora
-            - name: euvoc
-              languages: [lt]
-              value: Stara Zagora regionas
-            - name: euvoc
-              languages: [en]
-              value: Stara Zagora region
-            - name: euvoc
-              languages: [it]
-              value: regione Stara Zagora
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Stara Zagora
-            - name: euvoc
-              languages: [sl]
-              value: regija Stara Zagora
-            - name: euvoc
-              languages: [et]
-              value: Stara Zagora piirkond
-            - name: euvoc
-              languages: [nl]
-              value: regio Stara Zagora
-            - name: iso3166-2
-              languages: [bg]
-        - name: Stara Zagora apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Stara Zagora régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Stara Zagora-regionen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Stara Zagoran
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Stara Zagoran alue
-        - name: Stara Zagoraregionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Starozagorska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Starozagorska regija
-        - name: Starozagorská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: n Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Stara Zagora
-            - name: euvoc
-              languages: [es]
-              value: región de Stara Zagora
-        - name: rajoni Stara Zagorës
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Stara Zagorës
-        - name: regiunea Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: regiã Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Stara Zagora
-        - name: περιοχή Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Старозагорска Област
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Targovishte
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8322
-        iso3166-2: BG-25
-      names:
-        - name: ''' Targovishte'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Targovishte
-        - name: Targovishte
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Region Targovishte
-            - name: euvoc
-              languages: [en]
-              value: Targovishte region
-            - name: euvoc
-              languages: [fr]
-              value: région de Targovishte
-            - name: euvoc
-              languages: [it]
-              value: regione Targovishte
-            - name: euvoc
-              languages: [lt]
-              value: Targovishte regionas
-            - name: euvoc
-              languages: [nl]
-              value: regio Targovishte
-            - name: euvoc
-              languages: [sl]
-              value: regija Targovishte
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Targovishte
-            - name: iso3166-2
-              languages: [bg]
-        - name: Targovishte régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Targovishten
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Targovishten alue
-        - name: Targovishteregionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Targovisjteregionen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Targovišhtes apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Trgoviš
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Trgoviška regija
-        - name: Tyrgowiszte
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: region Tyrgowiszte
-        - name: Târgoviş
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Târgovişte piirkond
-        - name: Tărgovištská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: n Targovishte
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Targovishte
-        - name: n Targoviš
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Targovište
-        - name: rajoni Targovishtës
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Targovishtës
-        - name: regiunea Târgoviș
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: regiunea Târgoviște
-        - name: regiã Targovishte
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Targovishte
-        - name: περιοχή Targovishte
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Трговишка Област
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Търговищка област
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Varna
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8323
-        iso3166-2: BG-03
-      names:
-        - name: ''' Varna'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Varna
-        - name: Varna
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Varna region
-            - name: euvoc
-              languages: [sl]
-              value: regija Varna
-            - name: euvoc
-              languages: [et]
-              value: Varna piirkond
-            - name: euvoc
-              languages: [nl]
-              value: regio Varna
-            - name: euvoc
-              languages: [de]
-              value: Region Varna
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Varna
-            - name: euvoc
-              languages: [it]
-              value: regione Varna
-            - name: euvoc
-              languages: [fr]
-              value: région de Varna
-            - name: iso3166-2
-              languages: [bg]
-        - name: Varnan
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Varnan alue
-        - name: Varnaregionen
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Varnas apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Varnenska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Varnenska regija
-        - name: Varnos
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Varnos regionas
-        - name: Varnská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Várna régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Warna
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: n Varna
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Varna
-            - name: euvoc
-              languages: [es]
-              value: región de Varna
-        - name: rajoni Varnës
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Varnës
-        - name: regiunea Varna
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: regiã Varna
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Varna
-        - name: περιοχή Βάρνας
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Варненска област
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Veliko Tarnovo
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8316
-        iso3166-2: BG-04
-      names:
-        - name: ''' Veliko Tarnovo'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Veliko Tarnovo
-        - name: Veliko Tarnovo
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: région de Veliko Tarnovo
-            - name: euvoc
-              languages: [de]
-              value: Region Veliko Tarnovo
-            - name: euvoc
-              languages: [sl]
-              value: regija Veliko Tarnovo
-            - name: euvoc
-              languages: [it]
-              value: regione Veliko Tarnovo
-            - name: euvoc
-              languages: [nl]
-              value: regio Veliko Tarnovo
-            - name: euvoc
-              languages: [lt]
-              value: Veliko Tarnovo regionas
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Veliko Tarnovo
-            - name: euvoc
-              languages: [et]
-              value: Veliko Tarnovo piirkond
-            - name: euvoc
-              languages: [en]
-              value: Veliko Tarnovo region
-            - name: iso3166-2
-              languages: [bg]
-        - name: Veliko Tarnovo apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Veliko Tarnovo régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Veliko Tarnovo-regionen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Veliko Tarnovon
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Veliko Tarnovon alue
-        - name: Veliko Tarnovoregionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Velikotrnovska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Velikotrnovska regija
-        - name: Velikotărnovská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Wielkie Tyrnowo
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: region Wielkie Tyrnowo
-        - name: n Veliko Tarnovo
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Veliko Tarnovo
-            - name: euvoc
-              languages: [es]
-              value: región de Veliko Tarnovo
-        - name: rajoni Veliko Tarnovos
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Veliko Tarnovos
-        - name: regiunea Veliko Târnovo
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: regiã Veliko Tarnovo
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Veliko Tarnovo
-        - name: περιοχή Veliko Tarnovo
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Великотърновска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: великотрновска област
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Vidin
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8326
-        iso3166-2: BG-05
-      names:
-        - name: ''' Vidin'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Vidin
-        - name: Vidin
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Region Vidin
-            - name: euvoc
-              languages: [sl]
-              value: regija Vidin
-            - name: euvoc
-              languages: [nl]
-              value: regio Vidin
-            - name: euvoc
-              languages: [lt]
-              value: Vidin regionas
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Vidin
-            - name: euvoc
-              languages: [it]
-              value: regione Vidin
-            - name: euvoc
-              languages: [fr]
-              value: région de Vidin
-            - name: euvoc
-              languages: [en]
-              value: Vidin region
-            - name: iso3166-2
-              languages: [bg]
-        - name: Vidin régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Vidinas apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vidini
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Vidini piirkond
-        - name: Vidinin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Vidinin alue
-        - name: Vidinregionen
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Vidinska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Vidinska regija
-        - name: Vidinská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Widin
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: region Widin
-        - name: n Vidin
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Vidin
-            - name: euvoc
-              languages: [es]
-              value: región de Vidin
-        - name: rajoni Vidinit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Vidinit
-        - name: regiunea Vidin
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: regiã Vidin
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Vidin
-        - name: περιοχή Vidin
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Видинска област
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Vratza
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8327
-        iso3166-2: BG-06
-      names:
-        - name: ''' Vratsa'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Vratsa
-        - name: Vracká oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Vratsa
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Region Vratsa
-            - name: euvoc
-              languages: [fr]
-              value: région de Vratsa
-            - name: euvoc
-              languages: [et]
-              value: Vratsa piirkond
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Vratsa
-            - name: iso3166-2
-              languages: [bg]
-        - name: Vratza
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: regio Vratza
-            - name: euvoc
-              languages: [en]
-              value: Vratza region
-            - name: euvoc
-              languages: [it]
-              value: regione Vratza
-            - name: euvoc
-              languages: [lt]
-              value: Vratza regionas
-        - name: Vratza apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vratza régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Vratzan
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Vratzan alue
-        - name: Vratzaregionen
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Vrač
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: regija Vrača
-        - name: Vračanska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Vračanska regija
-        - name: Wraca
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: region Wraca
-        - name: n Vraca
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Vraca
-        - name: n Vratsa
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Vratsa
-        - name: rajoni Vracas
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Vracas
-        - name: regiunea Vraț
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: regiunea Vrața
-        - name: regiã Vratsa
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Vratsa
-        - name: περιοχή Vratza
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Врачанска Област
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Yambol
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8331
-        iso3166-2: BG-28
-      names:
-        - name: ''' Yambol'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Yambol
-        - name: Jambolas apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Jambolregionen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Jambolska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Jambolska regija
-        - name: Jambolská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Jamboł
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: region Jamboł
-        - name: Yambol
-          sources:
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Yambol
-            - name: euvoc
-              languages: [nl]
-              value: regio Yambol
-            - name: euvoc
-              languages: [sl]
-              value: regija Yambol
-            - name: euvoc
-              languages: [lt]
-              value: Yambol regionas
-            - name: euvoc
-              languages: [en]
-              value: Yambol region
-            - name: euvoc
-              languages: [fr]
-              value: région de Yambol
-            - name: euvoc
-              languages: [de]
-              value: Region Yambol
-            - name: euvoc
-              languages: [it]
-              value: regione Yambol
-            - name: iso3166-2
-              languages: [bg]
-        - name: Yambol régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Yamboli
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Yamboli piirkond
-        - name: Yambolin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Yambolin alue
-        - name: Yambolregionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: n Jambol
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Jambol
-        - name: n Yambol
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Yambol
-        - name: rajoni Jambolit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Jambolit
-        - name: regiunea Iambol
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: regiã Yambol
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Yambol
-        - name: περιοχή Yambol
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јамболска област
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Ямболска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Yugoiztochen
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8328
-      names:
-        - name: Bułgaria Południowo-Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Jugoistoč
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Jugoistočen
-        - name: Jugoiztoçeni
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Jugoiztoçeni (Bullgari)
-        - name: Yugoiztochen
-          sources:
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Yugoiztochen (Bulgaria)
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Yugoiztochen (Bulgarien)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Yugoiztochen (Bulharsko)
-            - name: euvoc
-              languages: [mt]
-              value: Yugoiztochen (il-Bulgarija)
-            - name: euvoc
-              languages: [el]
-              value: Yugoiztochen (Βουλγαρία)
-            - name: euvoc
-              languages: [lv]
-              value: Yugoiztochen (Bulgārija)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Yugoiztochen (Bulgária)
-            - name: euvoc
-              languages: [nl]
-              value: Yugoiztochen (Bulgarije)
-            - name: euvoc
-              languages: [et]
-              value: Yugoiztochen (Bulgaaria)
-            - name: euvoc
-              languages: [sl]
-              value: Yugoiztochen (Bolgarija)
-            - name: euvoc
-              languages: [ga]
-              value: Yugoiztochen (An Bhulgáir)
-            - name: euvoc
-              languages: [lt]
-              value: Yugoiztochen (Bulgarija)
-            - name: euvoc
-              languages: [fr]
-              value: Yugoiztochen (Bulgarie)
-        - name: Југоисточен
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Югоизточен
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Yugozapaden
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8332
-      names:
-        - name: Bułgaria Południowo-Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Jugozapaden
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Jugozapadeni
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Jugozapadeni (Bullgari)
-        - name: Yugozapaden
-          sources:
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Yugozapaden (Bulgarien)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Yugozapaden (Bulgária)
-            - name: euvoc
-              languages: [sl]
-              value: Yugozapaden (Bolgarija)
-            - name: euvoc
-              languages: [et]
-              value: Yugozapaden (Bulgaaria)
-            - name: euvoc
-              languages: [mt]
-              value: Yugozapaden (il-Bulgarija)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Yugozapaden (Bulharsko)
-            - name: euvoc
-              languages: [el]
-              value: Yugozapaden (Βουλγαρία)
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Yugozapaden (Bulgaria)
-            - name: euvoc
-              languages: [ga]
-              value: Yugozapaden (An Bhulgáir)
-            - name: euvoc
-              languages: [lt]
-              value: Yugozapaden (Bulgarija)
-            - name: euvoc
-              languages: [nl]
-              value: Yugozapaden (Bulgarije)
-            - name: euvoc
-              languages: [fr]
-              value: Yugozapaden (Bulgarie)
-            - name: euvoc
-              languages: [lv]
-              value: Yugozapaden (Bulgārija)
-        - name: Југозападен
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Югозападен
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Yuzhen tsentralen
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8304
-      names:
-        - name: Bułgaria Południowo-Środkowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Juzheni qendror
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Juzheni qendror (Bullgari)
-        - name: Juž centralen
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Južen centralen
-        - name: Yuzhen tsentralen
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Yuzhen tsentralen (Bulgarie)
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Yuzhen tsentralen (Bulgarien)
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Yuzhen tsentralen (Bulgaria)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Yuzhen tsentralen (Bulharsko)
-            - name: euvoc
-              languages: [el]
-              value: Yuzhen tsentralen (Βουλγαρία)
-            - name: euvoc
-              languages: [sl]
-              value: Yuzhen tsentralen (Bolgarija)
-            - name: euvoc
-              languages: [et]
-              value: Yuzhen tsentralen (Bulgaaria)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Yuzhen tsentralen (Bulgária)
-            - name: euvoc
-              languages: [nl]
-              value: Yuzhen tsentralen (Bulgarije)
-            - name: euvoc
-              languages: [mt]
-              value: Yuzhen tsentralen (il-Bulgarija)
-            - name: euvoc
-              languages: [lt]
-              value: Yuzhen tsentralen (Bulgarija)
-            - name: euvoc
-              languages: [ga, lv]
-        - name: Јужен Централен
-          sources:
-            - name: euvoc
-              languages: [mk]
-              value: Јужен Централен (Бугарија)
-            - name: euvoc
-              languages: [sr]
-        - name: Южен централен
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Severoiztochen
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8317
-      names:
-        - name: Bułgaria Północno-Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Severoiztochen
-          sources:
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Severoiztochen (Bulgarien)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Severoiztochen (Bulharsko)
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Severoiztochen (Bulgaria)
-            - name: euvoc
-              languages: [sl]
-              value: Severoiztochen (Bolgarija)
-            - name: euvoc
-              languages: [et]
-              value: Severoiztochen (Bulgaaria)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Severoiztochen (Bulgária)
-            - name: euvoc
-              languages: [mt]
-              value: Severoiztochen (il-Bulgarija)
-            - name: euvoc
-              languages: [lv]
-              value: Severoiztochen (Bulgārija)
-            - name: euvoc
-              languages: [nl]
-              value: Severoiztochen (Bulgarije)
-            - name: euvoc
-              languages: [lt]
-              value: Severoiztochen (Bulgarija)
-            - name: euvoc
-              languages: [ga]
-              value: Severoiztochen (An Bhulgáir)
-            - name: euvoc
-              languages: [el]
-              value: Severoiztochen (Βουλγαρία)
-            - name: euvoc
-              languages: [fr]
-              value: Severoiztochen (Bulgarie)
-        - name: Severoiztoçeni
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Severoiztoçeni (Bullgari)
-        - name: Severoiztoč
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Severoiztočen
-        - name: Североизточен
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Североисточен
-          sources:
-            - name: euvoc
-              languages: [mk]
-              value: Североисточен (Бугарија)
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Severozapaden
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8324
-      names:
-        - name: Bułgaria Północno-Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Severozapaden
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-              value: Severozapaden (Bulharsko)
-            - name: euvoc
-              languages: [mt]
-              value: Severozapaden (il-Bulgarija)
-            - name: euvoc
-              languages: [et]
-              value: Severozapaden (Bulgaaria)
-            - name: euvoc
-              languages: [sl]
-              value: Severozapaden (Bolgarija)
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Severozapaden (Bulgarien)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Severozapaden (Bulgária)
-            - name: euvoc
-              languages: [nl]
-              value: Severozapaden (Bulgarije)
-            - name: euvoc
-              languages: [lt]
-              value: Severozapaden (Bulgarija)
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Severozapaden (Bulgaria)
-            - name: euvoc
-              languages: [lv]
-              value: Severozapaden (Bulgārija)
-            - name: euvoc
-              languages: [fr]
-              value: Severozapaden (Bulgarie)
-            - name: euvoc
-              languages: [el, ga, hr]
-        - name: Severozapadeni
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Severozapadeni (Bullgari)
-        - name: Северозападен
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Severen tsentralen
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8311
-      names:
-        - name: Bułgaria Północno-Środkowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Severen centralen
-          sources:
-            - name: euvoc
-              languages: [hr, sq]
-        - name: Severen tsentralen
-          sources:
-            - name: euvoc
-              languages: [en, es, fi, it, ro]
-              value: Severen tsentralen (Bulgaria)
-            - name: euvoc
-              languages: [hu, pt]
-              value: Severen tsentralen (Bulgária)
-            - name: euvoc
-              languages: [da, de, sv]
-              value: Severen tsentralen (Bulgarien)
-            - name: euvoc
-              languages: [nl]
-              value: Severen tsentralen (Bulgarije)
-            - name: euvoc
-              languages: [lv]
-              value: Severen tsentralen (Bulgārija)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Severen tsentralen (Bulharsko)
-            - name: euvoc
-              languages: [fr]
-              value: Severen tsentralen (Bulgarie)
-            - name: euvoc
-              languages: [ga]
-              value: Severen tsentralen (An Bhulgáir)
-            - name: euvoc
-              languages: [mt]
-              value: Severen tsentralen (il-Bulgarija)
-            - name: euvoc
-              languages: [el]
-              value: Severen tsentralen (Βουλγαρία)
-            - name: euvoc
-              languages: [sl]
-              value: Severen tsentralen (Bolgarija)
-            - name: euvoc
-              languages: [lt]
-              value: Severen tsentralen (Bulgarija)
-            - name: euvoc
-              languages: [et]
-              value: Severen tsentralen (Bulgaaria)
-        - name: Северен Централен
-          sources:
-            - name: euvoc
-              languages: [mk]
-              value: Северен Централен (Бугарија)
-            - name: euvoc
-              languages: [bg, sr]
-    
-
     # Sofia
     - codes:
         euvoc: http://eurovoc.europa.eu/8337
+        iso3166-2: BG-23
       names:
         - name: Chathair Shóifia
           sources:
@@ -3255,20 +2273,29 @@ regions:
         - name: Sofia
           sources:
             - name: euvoc
-              languages: [de]
-              value: Region Sofia Stadt
-            - name: euvoc
-              languages: [fr]
-              value: région de la Ville de Sofia
+              languages: [nl]
+              value: regio Sofia stad
             - name: euvoc
               languages: [pl]
               value: region miasto Sofia
             - name: euvoc
-              languages: [nl]
-              value: regio Sofia stad
+              languages: [de]
+              value: Region Sofia Stadt
+            - name: euvoc
+              languages: [en]
+              value: Sofia Grad region
+              type: alternative
             - name: euvoc
               languages: [en]
               value: Sofia City region
+            - name: euvoc
+              languages: [fr]
+              value: région de la Ville de Sofia
+            - name: iso3166-2
+              languages: [bg]
+              value: Sofia (stolitsa)
+            - name: iso3166-2
+              languages: [bg]
         - name: Sofia linna
           sources:
             - name: euvoc
@@ -3367,7 +2394,6 @@ regions:
     # Sofia District
     - codes:
         euvoc: http://eurovoc.europa.eu/8336
-        iso3166-2: BG-23
       names:
         - name: Cheantar Shóifia
           sources:
@@ -3384,11 +2410,6 @@ regions:
             - name: euvoc
               languages: [et]
               value: Sofia piirkond
-            - name: iso3166-2
-              languages: [bg]
-              value: Sofia (stolitsa)
-            - name: iso3166-2
-              languages: [bg]
         - name: Sofia District
           sources:
             - name: euvoc
@@ -3497,3 +2518,969 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+    
+
+    # Stara Zagora
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8310
+        iso3166-2: BG-24
+      names:
+        - name: ''' Stara Zagora'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Stara Zagora
+        - name: Stara Zagora
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: regija Stara Zagora
+            - name: euvoc
+              languages: [de, pl]
+              value: Region Stara Zagora
+            - name: euvoc
+              languages: [et]
+              value: Stara Zagora piirkond
+            - name: euvoc
+              languages: [en]
+              value: Stara Zagora region
+            - name: euvoc
+              languages: [nl]
+              value: regio Stara Zagora
+            - name: euvoc
+              languages: [it]
+              value: regione Stara Zagora
+            - name: euvoc
+              languages: [lt]
+              value: Stara Zagora regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Stara Zagora
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Stara Zagora
+            - name: iso3166-2
+              languages: [bg]
+        - name: Stara Zagora apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Stara Zagora régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Stara Zagora-regionen
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Stara Zagoran
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Stara Zagoran alue
+        - name: Stara Zagoraregionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Starozagorska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Starozagorska regija
+        - name: Starozagorská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: n Stara Zagora
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Stara Zagora
+            - name: euvoc
+              languages: [es]
+              value: región de Stara Zagora
+        - name: rajoni Stara Zagorës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Stara Zagorës
+        - name: regiunea Stara Zagora
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Stara Zagora
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Stara Zagora
+        - name: περιοχή Stara Zagora
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Старозагорска област
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Targovishte
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8322
+        iso3166-2: BG-25
+      names:
+        - name: ''' Targovishte'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Targovishte
+        - name: Targovishte
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione Targovishte
+            - name: euvoc
+              languages: [sl]
+              value: regija Targovishte
+            - name: euvoc
+              languages: [de]
+              value: Region Targovishte
+            - name: euvoc
+              languages: [en]
+              value: Targovishte region
+            - name: euvoc
+              languages: [nl]
+              value: regio Targovishte
+            - name: euvoc
+              languages: [lt]
+              value: Targovishte regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Targovishte
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Targovishte
+            - name: iso3166-2
+              languages: [bg]
+        - name: Targovishte régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Targovishten
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Targovishten alue
+        - name: Targovishteregionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Targovisjteregionen
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Targovišhtes apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Trgoviš
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Trgoviška regija
+        - name: Tyrgowiszte
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: region Tyrgowiszte
+        - name: Târgoviş
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Târgovişte piirkond
+        - name: Tărgovištská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: n Targovishte
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Targovishte
+        - name: n Targoviš
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Targovište
+        - name: rajoni Targovishtës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Targovishtës
+        - name: regiunea Târgoviș
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: regiunea Târgoviște
+        - name: regiã Targovishte
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Targovishte
+        - name: περιοχή Targovishte
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Трговишка област
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Търговищка област
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Varna
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8323
+        iso3166-2: BG-03
+      names:
+        - name: ''' Varna'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Varna
+        - name: Varna
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: regija Varna
+            - name: euvoc
+              languages: [de]
+              value: Region Varna
+            - name: euvoc
+              languages: [et]
+              value: Varna piirkond
+            - name: euvoc
+              languages: [en]
+              value: Varna region
+            - name: euvoc
+              languages: [nl]
+              value: regio Varna
+            - name: euvoc
+              languages: [it]
+              value: regione Varna
+            - name: euvoc
+              languages: [fr]
+              value: région de Varna
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Varna
+            - name: iso3166-2
+              languages: [bg]
+        - name: Varnan
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Varnan alue
+        - name: Varnaregionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Varnas apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Varnenska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Varnenska regija
+        - name: Varnos
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Varnos regionas
+        - name: Varnská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Várna régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Warna
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: n Varna
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Varna
+            - name: euvoc
+              languages: [es]
+              value: región de Varna
+        - name: rajoni Varnës
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Varnës
+        - name: regiunea Varna
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Varna
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Varna
+        - name: περιοχή Βάρνας
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Варненска област
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Veliko Tarnovo
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8316
+        iso3166-2: BG-04
+      names:
+        - name: ''' Veliko Tarnovo'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Veliko Tarnovo
+        - name: Veliko Tarnovo
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: regija Veliko Tarnovo
+            - name: euvoc
+              languages: [de]
+              value: Region Veliko Tarnovo
+            - name: euvoc
+              languages: [et]
+              value: Veliko Tarnovo piirkond
+            - name: euvoc
+              languages: [en]
+              value: Veliko Tarnovo region
+            - name: euvoc
+              languages: [nl]
+              value: regio Veliko Tarnovo
+            - name: euvoc
+              languages: [it]
+              value: regione Veliko Tarnovo
+            - name: euvoc
+              languages: [lt]
+              value: Veliko Tarnovo regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Veliko Tarnovo
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Veliko Tarnovo
+            - name: iso3166-2
+              languages: [bg]
+        - name: Veliko Tarnovo apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Veliko Tarnovo régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Veliko Tarnovo-regionen
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Veliko Tarnovon
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Veliko Tarnovon alue
+        - name: Veliko Tarnovoregionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Velikotrnovska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Velikotrnovska regija
+        - name: Velikotărnovská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Wielkie Tyrnowo
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: region Wielkie Tyrnowo
+        - name: n Veliko Tarnovo
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Veliko Tarnovo
+            - name: euvoc
+              languages: [es]
+              value: región de Veliko Tarnovo
+        - name: rajoni Veliko Tarnovos
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Veliko Tarnovos
+        - name: regiunea Veliko Târnovo
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Veliko Tarnovo
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Veliko Tarnovo
+        - name: περιοχή Veliko Tarnovo
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Великотърновска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: великотрновска област
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Vidin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8326
+        iso3166-2: BG-05
+      names:
+        - name: ''' Vidin'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Vidin
+        - name: Vidin
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione Vidin
+            - name: euvoc
+              languages: [sl]
+              value: regija Vidin
+            - name: euvoc
+              languages: [de]
+              value: Region Vidin
+            - name: euvoc
+              languages: [en]
+              value: Vidin region
+            - name: euvoc
+              languages: [nl]
+              value: regio Vidin
+            - name: euvoc
+              languages: [lt]
+              value: Vidin regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Vidin
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Vidin
+            - name: iso3166-2
+              languages: [bg]
+        - name: Vidin régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Vidinas apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vidini
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Vidini piirkond
+        - name: Vidinin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Vidinin alue
+        - name: Vidinregionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Vidinska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Vidinska regija
+        - name: Vidinská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Widin
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: region Widin
+        - name: n Vidin
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Vidin
+            - name: euvoc
+              languages: [es]
+              value: región de Vidin
+        - name: rajoni Vidinit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Vidinit
+        - name: regiunea Vidin
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Vidin
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Vidin
+        - name: περιοχή Vidin
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Видинска област
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Vratza
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8327
+        iso3166-2: BG-06
+      names:
+        - name: ''' Vratsa'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Vratsa
+        - name: Vracká oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Vratsa
+          sources:
+            - name: euvoc
+              languages: [de, en, et, fr, ga]
+              type: alternative
+            - name: iso3166-2
+              languages: [bg]
+        - name: Vratza
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Vratza region
+            - name: euvoc
+              languages: [it]
+              value: regione Vratza
+            - name: euvoc
+              languages: [lt]
+              value: Vratza regionas
+            - name: euvoc
+              languages: [nl]
+              value: regio Vratza
+        - name: Vratza apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vratza régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Vratzan
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Vratzan alue
+        - name: Vratzaregionen
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Vrač
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: regija Vrača
+        - name: Vračanska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Vračanska regija
+        - name: Wraca
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: region Wraca
+        - name: n Vraca
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Vraca
+        - name: n Vratsa
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Vratsa
+        - name: rajoni Vracas
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Vracas
+        - name: regiunea Vraț
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: regiunea Vrața
+        - name: regiã Vratsa
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Vratsa
+        - name: περιοχή Vratza
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Врачанска област
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Yambol
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8331
+        iso3166-2: BG-28
+      names:
+        - name: ''' Yambol'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta' Yambol
+        - name: Jambolas apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Jambolregionen
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Jambolska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jambolska regija
+        - name: Jambolská oblast
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Jamboł
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: region Jamboł
+        - name: Yambol
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione Yambol
+            - name: euvoc
+              languages: [sl]
+              value: regija Yambol
+            - name: euvoc
+              languages: [de]
+              value: Region Yambol
+            - name: euvoc
+              languages: [nl]
+              value: regio Yambol
+            - name: euvoc
+              languages: [en]
+              value: Yambol region
+            - name: euvoc
+              languages: [lt]
+              value: Yambol regionas
+            - name: euvoc
+              languages: [fr]
+              value: région de Yambol
+            - name: euvoc
+              languages: [ga]
+              value: réigiún Yambol
+            - name: iso3166-2
+              languages: [bg]
+        - name: Yambol régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Yamboli
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Yamboli piirkond
+        - name: Yambolin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Yambolin alue
+        - name: Yambolregionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: n Jambol
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Jambol
+        - name: n Yambol
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Yambol
+        - name: rajoni Jambolit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Jambolit
+        - name: regiunea Iambol
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: regiã Yambol
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Yambol
+        - name: περιοχή Yambol
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јамболска област
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Ямболска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Yugoiztochen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8328
+      names:
+        - name: Bułgaria Południowo-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Jugoistoč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jugoistočen
+        - name: Jugoiztoçeni
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jugoiztoçeni (Bullgari)
+        - name: Yugoiztochen
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Yugoiztochen (Bolgarija)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Yugoiztochen (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Yugoiztochen (Bulgarien)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Yugoiztochen (Bulgária)
+            - name: euvoc
+              languages: [et]
+              value: Yugoiztochen (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Yugoiztochen (il-Bulgarija)
+            - name: euvoc
+              languages: [nl]
+              value: Yugoiztochen (Bulgarije)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Yugoiztochen (Bulgaria)
+            - name: euvoc
+              languages: [el]
+              value: Yugoiztochen (Βουλγαρία)
+            - name: euvoc
+              languages: [lv]
+              value: Yugoiztochen (Bulgārija)
+            - name: euvoc
+              languages: [lt]
+              value: Yugoiztochen (Bulgarija)
+            - name: euvoc
+              languages: [fr]
+              value: Yugoiztochen (Bulgarie)
+            - name: euvoc
+              languages: [ga]
+              value: Yugoiztochen (An Bhulgáir)
+        - name: Југоисточен
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Югоизточен
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Yugozapaden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8332
+      names:
+        - name: Bułgaria Południowo-Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Jugozapaden
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Jugozapadeni
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jugozapadeni (Bullgari)
+        - name: Yugozapaden
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Yugozapaden (Bolgarija)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Yugozapaden (Bulgária)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Yugozapaden (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Yugozapaden (Bulgarien)
+            - name: euvoc
+              languages: [et]
+              value: Yugozapaden (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Yugozapaden (il-Bulgarija)
+            - name: euvoc
+              languages: [nl]
+              value: Yugozapaden (Bulgarije)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Yugozapaden (Bulgaria)
+            - name: euvoc
+              languages: [el]
+              value: Yugozapaden (Βουλγαρία)
+            - name: euvoc
+              languages: [lv]
+              value: Yugozapaden (Bulgārija)
+            - name: euvoc
+              languages: [lt]
+              value: Yugozapaden (Bulgarija)
+            - name: euvoc
+              languages: [fr]
+              value: Yugozapaden (Bulgarie)
+            - name: euvoc
+              languages: [ga]
+              value: Yugozapaden (An Bhulgáir)
+        - name: Југозападен
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Югозападен
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Yuzhen tsentralen
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8304
+      names:
+        - name: Bułgaria Południowo-Środkowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Juzheni qendror
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Juzheni qendror (Bullgari)
+        - name: Juž centralen
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Južen centralen
+        - name: Yuzhen tsentralen
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Yuzhen tsentralen (Bolgarija)
+            - name: euvoc
+              languages: [hu, pt]
+              value: Yuzhen tsentralen (Bulgária)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Yuzhen tsentralen (Bulharsko)
+            - name: euvoc
+              languages: [da, de, sv]
+              value: Yuzhen tsentralen (Bulgarien)
+            - name: euvoc
+              languages: [et]
+              value: Yuzhen tsentralen (Bulgaaria)
+            - name: euvoc
+              languages: [mt]
+              value: Yuzhen tsentralen (il-Bulgarija)
+            - name: euvoc
+              languages: [en, es, fi, it, ro]
+              value: Yuzhen tsentralen (Bulgaria)
+            - name: euvoc
+              languages: [fr]
+              value: Yuzhen tsentralen (Bulgarie)
+            - name: euvoc
+              languages: [nl]
+              value: Yuzhen tsentralen (Bulgarije)
+            - name: euvoc
+              languages: [el]
+              value: Yuzhen tsentralen (Βουλγαρία)
+            - name: euvoc
+              languages: [lv]
+              value: Yuzhen tsentralen (Bulgārija)
+            - name: euvoc
+              languages: [lt]
+              value: Yuzhen tsentralen (Bulgarija)
+            - name: euvoc
+              languages: [ga]
+        - name: Јужен централен
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Южен централен
+          sources:
+            - name: euvoc
+              languages: [bg]

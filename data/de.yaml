@@ -4,218 +4,6 @@ complete: false
 regions:
     
 
-    # Lower Saxony
-    - codes:
-        euvoc: http://eurovoc.europa.eu/4825
-        iso3166-2: DE-NI
-      names:
-        - name: Ala-Saksi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Alam-Saksi
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Alsó-Szászország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Baixa Saxónia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Baja Sajonia
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Bassa Sassonia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Basse-Saxe
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Dolné Sasko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Dolní Sasko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Donja Saska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Lejassaksija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Lower Saxony
-          sources:
-            - name: euvoc
-              languages: [en, mt]
-        - name: Neder-Saksen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Niedersachsen
-          sources:
-            - name: euvoc
-              languages: [da, de, sv]
-            - name: iso3166-2
-              languages: [de]
-        - name: Saksonia Dolna
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Saksonia e Poshtme
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Saxonia Inferioară
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Spodnja Saš
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Spodnja Saška
-        - name: Žemutinė Saksonija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Κάτω Σαξωνία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Долна Саксония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Долна Саксонија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Доња Саксонија
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Hamburg
-    - codes:
-        euvoc: http://eurovoc.europa.eu/1230
-        iso3166-2: DE-HH
-      names:
-        - name: Amburgo
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Hamborg
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Hambourg
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Hamburg
-          sources:
-            - name: euvoc
-              languages: [de, en, et, ga, hr, hu, nl, pl, ro, sk, sl, sv]
-            - name: iso3166-2
-              languages: [de]
-        - name: Hamburga
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Hamburgas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Hamburgo
-          sources:
-            - name: euvoc
-              languages: [es, pt]
-        - name: Hamburgu
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Hamburk
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Hampuri
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Ħamburgu
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Αμβούργο
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Хамбург
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
-    # Hesse
-    - codes:
-        euvoc: http://eurovoc.europa.eu/1239
-        iso3166-2: DE-HE
-      names:
-        - name: Assia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Hesenas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Hesene
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Heseni
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Hesensko
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-        - name: Hesja
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Hesse
-          sources:
-            - name: euvoc
-              languages: [en, es, fr, mt, pt]
-        - name: Hessen
-          sources:
-            - name: euvoc
-              languages: [da, de, et, fi, hr, hu, nl, ro, sl, sv]
-            - name: iso3166-2
-              languages: [de]
-        - name: Έσση
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Хесен
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
     # Baden-Württemberg
     - codes:
         euvoc: http://eurovoc.europa.eu/4560
@@ -304,6 +92,10 @@ regions:
               languages: [hu]
         - name: Bavaria
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Bavaria (Free State of)
+              type: alternative
             - name: euvoc
               languages: [en, ro, sq]
         - name: Bavarija
@@ -394,6 +186,10 @@ regions:
         - name: Berlin
           sources:
             - name: euvoc
+              languages: [en]
+              value: Berlin (Land)
+              type: alternative
+            - name: euvoc
               languages: [da, de, en, fr, hr, hu, mt, pl, ro, sl, sv]
             - name: iso3166-2
               languages: [de]
@@ -442,6 +238,10 @@ regions:
               languages: [es, it, pt]
         - name: Brandenburg
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Brandenburg (Land)
+              type: alternative
             - name: euvoc
               languages: [da, de, en, et, fi, hr, hu, mt, nl, ro, sl, sv]
             - name: iso3166-2
@@ -492,6 +292,10 @@ regions:
         - name: Bremen
           sources:
             - name: euvoc
+              languages: [en]
+              value: Bremen (Free Hanseatic City of)
+              type: alternative
+            - name: euvoc
               languages: [da, de, en, es, et, fi, hr, mt, nl, ro, sl, sv]
             - name: iso3166-2
               languages: [de]
@@ -529,139 +333,228 @@ regions:
               languages: [bg, mk, sr]
     
 
-    # Thuringia
+    # Hamburg
     - codes:
-        euvoc: http://eurovoc.europa.eu/5932
-        iso3166-2: DE-TH
+        euvoc: http://eurovoc.europa.eu/1230
+        iso3166-2: DE-HH
       names:
-        - name: Duryňsko
+        - name: Amburgo
           sources:
             - name: euvoc
-              languages: [cs]
-        - name: Durínsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Thuringe
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Thuringia
-          sources:
-            - name: euvoc
-              languages: [en, mt, ro]
-        - name: Thüringen
-          sources:
-            - name: euvoc
-              languages: [da, de, fi, hr, nl, sv]
-            - name: iso3166-2
-              languages: [de]
-        - name: Turingia
-          sources:
-            - name: euvoc
-              languages: [es, it, sq]
-        - name: Turingija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Turyngia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Turíngia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Türingia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Tüüringi
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Tīringene
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: ūringija
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Tiūringija
-        - name: Θουριγγία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Тирингија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Тюрингия
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Schleswig-Holstein
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3918
-        iso3166-2: DE-SH
-      names:
-        - name: Eslésvico-Holsácia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Schleswig-Holstein
-          sources:
-            - name: euvoc
-              languages: [de, en, es, et, fi, fr, hr, hu, it, mt, ro, sl, sv]
-            - name: iso3166-2
-              languages: [de]
-        - name: Shlesvig-Holstini
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Sleeswijk-Holstein
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Slesvig-Holsten
+              languages: [it]
+        - name: Hamborg
           sources:
             - name: euvoc
               languages: [da]
-        - name: Szlezwik-Holsztyn
+        - name: Hambourg
           sources:
             - name: euvoc
-              languages: [pl]
-        - name: Šlesvicko-Holštýnsko
+              languages: [fr]
+        - name: Hamburg
           sources:
             - name: euvoc
-              languages: [cs]
-        - name: Šlezvicko-Holštajnsko
-          sources:
+              languages: [en]
+              value: Hamburg (Free Hanseatic City of)
+              type: alternative
             - name: euvoc
-              languages: [sk]
-        - name: Šlēsviga-Holšteina
+              languages: [de, en, et, ga, hr, hu, nl, pl, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [de]
+        - name: Hamburga
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Šlėzvigas-Holšteinas
+        - name: Hamburgas
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Σλέσβιχ-Χολστάιν
+        - name: Hamburgo
+          sources:
+            - name: euvoc
+              languages: [es, pt]
+        - name: Hamburgu
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Hamburk
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Hampuri
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Ħamburgu
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Αμβούργο
           sources:
             - name: euvoc
               languages: [el]
-        - name: Шлезвиг-Холштајн
+        - name: Хамбург
           sources:
             - name: euvoc
-              languages: [mk, sr]
-        - name: Шлезвиг–Холщайн
+              languages: [bg, mk, sr]
+    
+
+    # Hesse
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1239
+        iso3166-2: DE-HE
+      names:
+        - name: Assia
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Hesenas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Hesene
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Heseni
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Hesensko
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+        - name: Hesja
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Hesse
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Hesse (Land)
+              type: alternative
+            - name: euvoc
+              languages: [en, es, fr, mt, pt]
+        - name: Hessen
+          sources:
+            - name: euvoc
+              languages: [da, de, et, fi, hr, hu, nl, ro, sl, sv]
+            - name: iso3166-2
+              languages: [de]
+        - name: Έσση
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Хесен
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
+    # Lower Saxony
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4825
+        iso3166-2: DE-NI
+      names:
+        - name: Ala-Saksi
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Alam-Saksi
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Alsó-Szászország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Baixa Saxónia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Baja Sajonia
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Bassa Sassonia
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Basse-Saxe
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+        - name: Dolné Sasko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Dolní Sasko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Donja Saska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Lejassaksija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Lower Saxony
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Lower Saxony (Land)
+              type: alternative
+            - name: euvoc
+              languages: [en, mt]
+        - name: Neder-Saksen
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Niedersachsen
+          sources:
+            - name: euvoc
+              languages: [da, de, sv]
+            - name: iso3166-2
+              languages: [de]
+        - name: Saksonia Dolna
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Saksonia e Poshtme
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Saxonia Inferioară
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Spodnja Saš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Spodnja Saška
+        - name: Žemutinė Saksonija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Κάτω Σαξωνία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Долна Саксония
           sources:
             - name: euvoc
               languages: [bg]
+        - name: Долна Саксонија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Доња Саксонија
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Mecklenburg-Western Pomerania
@@ -709,6 +602,10 @@ regions:
               languages: [de]
         - name: Mecklenburg-Western Pomerania
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Mecklenburg-Western Pomerania (Land)
+              type: alternative
             - name: euvoc
               languages: [en, mt]
         - name: Mecklenburg– ő-Pomeránia
@@ -783,6 +680,10 @@ regions:
               languages: [de]
         - name: North Rhine-Westphalia
           sources:
+            - name: euvoc
+              languages: [en]
+              value: North Rhine-Westphalia (Land)
+              type: alternative
             - name: euvoc
               languages: [en, mt]
         - name: Renania Nord-Westfalia
@@ -909,6 +810,10 @@ regions:
               languages: [de]
         - name: Rhineland-Palatinate
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Rhineland-Palatinate (Land)
+              type: alternative
             - name: euvoc
               languages: [en, mt]
         - name: Rhénanie-Palatinat
@@ -1058,6 +963,10 @@ regions:
         - name: Saxony
           sources:
             - name: euvoc
+              languages: [en]
+              value: Saxony (Free State of)
+              type: alternative
+            - name: euvoc
               languages: [en, mt]
         - name: Saxónia
           sources:
@@ -1144,6 +1053,10 @@ regions:
         - name: Saxony-Anhalt
           sources:
             - name: euvoc
+              languages: [en]
+              value: Saxony-Anhalt (Land)
+              type: alternative
+            - name: euvoc
               languages: [en, mt]
         - name: Saxónia-Anhalt
           sources:
@@ -1174,3 +1087,142 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+    
+
+    # Schleswig-Holstein
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3918
+        iso3166-2: DE-SH
+      names:
+        - name: Eslésvico-Holsácia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Schleswig-Holstein
+          sources:
+            - name: euvoc
+              languages: [de, en, es, et, fi, fr, hr, hu, it, mt, ro, sl, sv]
+            - name: iso3166-2
+              languages: [de]
+        - name: Shlesvig-Holstini
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Sleeswijk-Holstein
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Slesvig-Holsten
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Szlezwik-Holsztyn
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Šlesvicko-Holštýnsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Šlezvicko-Holštajnsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Šlēsviga-Holšteina
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Šlėzvigas-Holšteinas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Σλέσβιχ-Χολστάιν
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Шлезвиг-Холштајн
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Шлезвиг–Холщайн
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Thuringia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5932
+        iso3166-2: DE-TH
+      names:
+        - name: Duryňsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Durínsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Thuringe
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Thuringia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Thuringia (Free State of)
+              type: alternative
+            - name: euvoc
+              languages: [en, mt, ro]
+        - name: Thüringen
+          sources:
+            - name: euvoc
+              languages: [da, de, fi, hr, nl, sv]
+            - name: iso3166-2
+              languages: [de]
+        - name: Turingia
+          sources:
+            - name: euvoc
+              languages: [es, it, sq]
+        - name: Turingija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Turyngia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Turíngia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Türingia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Tüüringi
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Tīringene
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: ūringija
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Tiūringija
+        - name: Θουριγγία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Тирингија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Тюрингия
+          sources:
+            - name: euvoc
+              languages: [bg]

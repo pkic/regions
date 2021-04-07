@@ -14,45 +14,26 @@ regions:
               value: Anhui Sheng
     
 
-    # Macao SAR
-    - codes:
-        iso3166-2: CN-MO
-      names:
-        - name: Aomen Tebiexingzhengqu
-          sources:
-            - name: iso3166-2
-              languages: [zh]
-              value: Aomen Tebiexingzhengqu (see also separate country code entry under MO)
-        - name: Macao SAR
-          sources:
-            - name: iso3166-2
-              languages: [en]
-              value: Macao SAR (see also separate country code entry under MO)
-        - name: Macau SAR
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-              value: Macau SAR (see also separate country code entry under MO)
-    
-
-    # Beijing Shi
+    # Beijing
     - codes:
         iso3166-2: CN-BJ
       names:
-        - name: Beijing Shi
+        - name: Beijing
           sources:
             - name: iso3166-2
               languages: [zh]
+              value: Beijing Shi
     
 
-    # Chongqing Shi
+    # Chongqing
     - codes:
         iso3166-2: CN-CQ
       names:
-        - name: Chongqing Shi
+        - name: Chongqing
           sources:
             - name: iso3166-2
               languages: [zh]
+              value: Chongqing Shi
     
 
     # Fujian
@@ -153,6 +134,22 @@ regions:
               value: Henan Sheng
     
 
+    # Hong Kong
+    - codes:
+        iso3166-2: CN-HK
+      names:
+        - name: Hong Kong
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Hong Kong SAR (see also separate country code entry under HK)
+        - name: Xianggang Tebiexingzhengqu
+          sources:
+            - name: iso3166-2
+              languages: [zh]
+              value: Xianggang Tebiexingzhengqu (see also separate country code entry under HK)
+    
+
     # Hubei
     - codes:
         iso3166-2: CN-HB
@@ -219,6 +216,27 @@ regions:
               value: Liaoning Sheng
     
 
+    # Macao
+    - codes:
+        iso3166-2: CN-MO
+      names:
+        - name: Aomen Tebiexingzhengqu
+          sources:
+            - name: iso3166-2
+              languages: [zh]
+              value: Aomen Tebiexingzhengqu (see also separate country code entry under MO)
+        - name: Macao
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Macao SAR (see also separate country code entry under MO)
+        - name: Macau
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Macau SAR (see also separate country code entry under MO)
+    
+
     # Nei Mongol Zizhiqu
     - codes:
         iso3166-2: CN-NM
@@ -272,14 +290,15 @@ regions:
               value: Shandong Sheng
     
 
-    # Shanghai Shi
+    # Shanghai
     - codes:
         iso3166-2: CN-SH
       names:
-        - name: Shanghai Shi
+        - name: Shanghai
           sources:
             - name: iso3166-2
               languages: [zh]
+              value: Shanghai Shi
     
 
     # Shanxi
@@ -315,30 +334,15 @@ regions:
               value: Taiwan Sheng (see also separate country code entry under TW)
     
 
-    # Tianjin Shi
+    # Tianjin
     - codes:
         iso3166-2: CN-TJ
       names:
-        - name: Tianjin Shi
+        - name: Tianjin
           sources:
             - name: iso3166-2
               languages: [zh]
-    
-
-    # Hong Kong SAR
-    - codes:
-        iso3166-2: CN-HK
-      names:
-        - name: Hong Kong SAR
-          sources:
-            - name: iso3166-2
-              languages: [en]
-              value: Hong Kong SAR (see also separate country code entry under HK)
-        - name: Xianggang Tebiexingzhengqu
-          sources:
-            - name: iso3166-2
-              languages: [zh]
-              value: Xianggang Tebiexingzhengqu (see also separate country code entry under HK)
+              value: Tianjin Shi
     
 
     # Xinjiang Uygur Zizhiqu

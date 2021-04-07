@@ -174,95 +174,6 @@ regions:
               languages: [bg, mk, sr]
     
 
-    # Bucharest — Ilfov
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8490
-      names:
-        - name: Boekarest — Ilfov
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Bucarest - Ilfov
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Bucarest — Ilfov
-          sources:
-            - name: euvoc
-              languages: [fr, it]
-        - name: Bucareste — Ilfov
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Bucharest — Ilfov
-          sources:
-            - name: euvoc
-              languages: [en, mt]
-        - name: Bucureș — Ilfov
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: București — Ilfov
-        - name: Buhareste — Ilfov
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Bukarest — Ilfov
-          sources:
-            - name: euvoc
-              languages: [da, de, fi, hu, sv]
-        - name: Bukarest—Ilfov
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Bukareszt — Ilfov
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Bukareš — Ilfov
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Bukarešta — Ilfov
-        - name: Bukareštas — Ilfov
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Bukuresht — Ilfovi
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Bukurešt - Ilfov
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Bukurešť — Ilfov
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-        - name: Búcairist — Ilfov
-          sources:
-            - name: euvoc
-              languages: [ga]
-        - name: Βουκουρέστι — Ilfov
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Букурешт - Илфов
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Букурешт-Илфов
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Букурещ  и Илфов
-          sources:
-            - name: euvoc
-              languages: [bg]
-              value: Букурещ (град) и Илфов
-    
-
     # Botosani
     - codes:
         euvoc: http://eurovoc.europa.eu/8505
@@ -353,6 +264,100 @@ regions:
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+    
+
+    # Bucharest — Ilfov
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8490
+      names:
+        - name: Boekarest — Ilfov
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Bucarest
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Bucarest - Ilfov
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Bucarest — Ilfov
+          sources:
+            - name: euvoc
+              languages: [fr, it]
+        - name: Bucareste — Ilfov
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Bucharest — Ilfov
+          sources:
+            - name: euvoc
+              languages: [en, mt]
+        - name: Bucureș — Ilfov
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: București — Ilfov
+        - name: Buhareste — Ilfov
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Bukarest — Ilfov
+          sources:
+            - name: euvoc
+              languages: [da, de, fi, hu, sv]
+        - name: Bukarest—Ilfov
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Bukareszt — Ilfov
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Bukareš — Ilfov
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Bukarešta — Ilfov
+        - name: Bukareštas — Ilfov
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Bukuresht — Ilfovi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Bukurešt - Ilfov
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Bukurešť — Ilfov
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+        - name: Búcairist — Ilfov
+          sources:
+            - name: euvoc
+              languages: [ga]
+        - name: Βουκουρέστι — Ilfov
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Букурешт - Илфов
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Букурешт-Илфов
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Букурещ  и Илфов
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Букурещ (град) и Илфов
     
 
     # Bucureș
@@ -474,6 +479,12 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/8491
       names:
+        - name: Center
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Center (Romania)
+              type: alternative
         - name: Centro
           sources:
             - name: euvoc
@@ -482,56 +493,56 @@ regions:
         - name: Centru
           sources:
             - name: euvoc
-              languages: [el]
-              value: Centru (Ρουμανία)
-            - name: euvoc
-              languages: [en, fi, it]
-              value: Centru (Romania)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Centru (Rumunsko)
-            - name: euvoc
-              languages: [pt]
-              value: Centru (Roménia)
-            - name: euvoc
-              languages: [de, sv]
-              value: Centru (Rumänien)
+              languages: [sq]
+              value: Centru (Rumani)
             - name: euvoc
               languages: [sl]
               value: Centru (Romunija)
             - name: euvoc
-              languages: [da]
-              value: Centru (Rumænien)
-            - name: euvoc
-              languages: [lv]
-              value: Centru (Rumānija)
-            - name: euvoc
-              languages: [mt]
-              value: Centru (ir-Rumanija)
-            - name: euvoc
-              languages: [sq]
-              value: Centru (Rumani)
-            - name: euvoc
-              languages: [ro]
-              value: Centru (România)
-            - name: euvoc
-              languages: [lt]
-              value: Centru (Rumunija)
-            - name: euvoc
               languages: [hu]
               value: Centru (Románia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Centru (Rumänien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Centru (Rumunsko)
             - name: euvoc
               languages: [et]
               value: Centru (Rumeenia)
             - name: euvoc
-              languages: [ga]
-              value: Centru (An Rómáin)
+              languages: [mt]
+              value: Centru (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Centru (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Centru (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Centru (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Centru (Ρουμανία)
+            - name: euvoc
+              languages: [da]
+              value: Centru (Rumænien)
+            - name: euvoc
+              languages: [lt]
+              value: Centru (Rumunija)
+            - name: euvoc
+              languages: [lv]
+              value: Centru (Rumānija)
             - name: euvoc
               languages: [nl]
               value: Centru (Roemenië)
             - name: euvoc
               languages: [pl]
               value: Centru (Rumunia)
+            - name: euvoc
+              languages: [ga]
+              value: Centru (An Rómáin)
         - name: Roumanie Centre
           sources:
             - name: euvoc
@@ -634,6 +645,27 @@ regions:
               languages: [bg, mk, sr]
     
 
+    # Dolj
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8534
+        iso3166-2: RO-DJ
+      names:
+        - name: Dolj
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
+        - name: Долж
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
+        - name: Дољ
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
     # Dâmbovita
     - codes:
         euvoc: http://eurovoc.europa.eu/8523
@@ -667,27 +699,6 @@ regions:
           sources:
             - name: euvoc
               languages: [bg]
-    
-
-    # Dolj
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8534
-        iso3166-2: RO-DJ
-      names:
-        - name: Dolj
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-            - name: iso3166-2
-              languages: [ro]
-        - name: Долж
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-        - name: Дољ
-          sources:
-            - name: euvoc
-              languages: [sr]
     
 
     # Galati
@@ -880,284 +891,6 @@ regions:
               languages: [ro]
     
 
-    # Sud — Muntenia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8495
-      names:
-        - name: Jug — Muntenia
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Jug — Muntenia (Rumania)
-        - name: Jug-Muntenia
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: regija Jug-Muntenia (Rumunjska)
-        - name: Muntenia Południowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Roumanie Sud — Muntenia
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Roumanie du Sud — Muntenia
-        - name: Sud Muntenia
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Sud Muntenia (Rumänien)
-        - name: Sud — Muntenia
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-              value: Sud — Muntenia (Rumunsko)
-            - name: euvoc
-              languages: [pt]
-              value: Sud — Muntenia (Roménia)
-            - name: euvoc
-              languages: [en, fi, it]
-              value: Sud — Muntenia (Romania)
-            - name: euvoc
-              languages: [hu]
-              value: Sud — Muntenia (Románia)
-            - name: euvoc
-              languages: [mt]
-              value: Sud — Muntenia (ir-Rumanija)
-            - name: euvoc
-              languages: [sv]
-              value: Sud — Muntenia (Rumänien)
-            - name: euvoc
-              languages: [ro]
-              value: Sud — Muntenia (România)
-            - name: euvoc
-              languages: [sl]
-              value: Sud — Muntenia (Romunija)
-            - name: euvoc
-              languages: [lv]
-              value: Sud — Muntenia (Rumānija)
-            - name: euvoc
-              languages: [nl]
-              value: Sud — Muntenia (Roemenië)
-            - name: euvoc
-              languages: [ga]
-              value: Sud — Muntenia (An Rómáin)
-            - name: euvoc
-              languages: [da]
-              value: Sud — Muntenia (Rumænien)
-            - name: euvoc
-              languages: [el]
-              value: Sud — Muntenia (Ρουμανία)
-        - name: Sud-Muntenia
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Sud-Muntenia (Rumeenia)
-        - name: Sud—Muntenia
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Sud—Muntenia (Rumunija)
-        - name: Sur-Muntenia
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Sur-Muntenia (Rumanía)
-        - name: Јужна Мунтенија
-          sources:
-            - name: euvoc
-              languages: [mk]
-              value: Јужна Мунтенија (Романија)
-        - name: Јужна Румунија - Мунтенија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Южна Румъния
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Sud-Est
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8496
-      names:
-        - name: Juglindje
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Juglindje (Rumania)
-        - name: Jugoistoč
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Jugoistočna regija (Rumunjska)
-        - name: Roumanie Sud-Est
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Roumanie du Sud-Est
-        - name: Rumunia Południowo-Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Sud-Est
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Sud-Est (Románia)
-            - name: euvoc
-              languages: [et]
-              value: Sud-Est (Rumeenia)
-            - name: euvoc
-              languages: [da]
-              value: Sud-Est (Rumænien)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Sud-Est (Rumunsko)
-            - name: euvoc
-              languages: [de, sv]
-              value: Sud-Est (Rumänien)
-            - name: euvoc
-              languages: [el]
-              value: Sud-Est (Ρουμανία)
-            - name: euvoc
-              languages: [ga]
-              value: Sud-Est (An Rómáin)
-            - name: euvoc
-              languages: [pt]
-              value: Sud-Est (Roménia)
-            - name: euvoc
-              languages: [ro]
-              value: Sud-Est (România)
-            - name: euvoc
-              languages: [en, fi, it]
-              value: Sud-Est (Romania)
-            - name: euvoc
-              languages: [sl]
-              value: Sud-Est (Romunija)
-            - name: euvoc
-              languages: [mt]
-              value: Sud-Est (ir-Rumanija)
-            - name: euvoc
-              languages: [nl]
-              value: Sud-Est (Roemenië)
-            - name: euvoc
-              languages: [lt]
-              value: Sud-Est (Rumunija)
-            - name: euvoc
-              languages: [lv]
-              value: Sud-Est (Rumānija)
-        - name: Sureste
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Sureste (Rumanía)
-        - name: Југоисточна Романија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Југоисточна Румунија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Югоизточна Румъния
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Sud-Vest Oltenia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8497
-      names:
-        - name: Jugozapadna Oltenia
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: regija Jugozapadna Oltenia (Rumunjska)
-        - name: Oltenia Jugperëndimore
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Oltenia Jugperëndimore (Rumani)
-        - name: Oltenia Południowo-Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Roumanie Sud-Ouest Oltenia
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Roumanie du Sud-Ouest Oltenia
-        - name: Sud-Vest Oltenia
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-              value: Sud-Vest Oltenia (Rumunsko)
-            - name: euvoc
-              languages: [hu]
-              value: Sud-Vest Oltenia (Románia)
-            - name: euvoc
-              languages: [sl]
-              value: Sud-Vest Oltenia (Romunija)
-            - name: euvoc
-              languages: [de, sv]
-              value: Sud-Vest Oltenia (Rumänien)
-            - name: euvoc
-              languages: [ro]
-              value: Sud-Vest Oltenia (România)
-            - name: euvoc
-              languages: [lt]
-              value: Sud-Vest Oltenia (Rumunija)
-            - name: euvoc
-              languages: [nl]
-              value: Sud-Vest Oltenia (Roemenië)
-            - name: euvoc
-              languages: [lv]
-              value: Sud-Vest Oltenia (Rumānija)
-            - name: euvoc
-              languages: [el]
-              value: Sud-Vest Oltenia (Ρουμανία)
-            - name: euvoc
-              languages: [en, fi, it]
-              value: Sud-Vest Oltenia (Romania)
-            - name: euvoc
-              languages: [ga]
-              value: Sud-Vest Oltenia (An Rómáin)
-            - name: euvoc
-              languages: [pt]
-              value: Sud-Vest Oltenia (Roménia)
-            - name: euvoc
-              languages: [et]
-              value: Sud-Vest Oltenia (Rumeenia)
-            - name: euvoc
-              languages: [da]
-              value: Sud-Vest Oltenia (Rumænien)
-            - name: euvoc
-              languages: [mt]
-              value: Sud-Vest Oltenia (ir-Rumanija)
-        - name: Suroeste-Oltenia
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Suroeste-Oltenia (Rumanía)
-        - name: Југозападна Олтенија
-          sources:
-            - name: euvoc
-              languages: [mk]
-              value: Југозападна Олтенија (Романија)
-        - name: Југозападна Румунија - Олтенија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Югозападна Румъния
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Maramures
     - codes:
         euvoc: http://eurovoc.europa.eu/8514
@@ -1284,55 +1017,61 @@ regions:
         - name: Nord-Est
           sources:
             - name: euvoc
-              languages: [de, sv]
-              value: Nord-Est (Rumänien)
-            - name: euvoc
-              languages: [et]
-              value: Nord-Est (Rumeenia)
-            - name: euvoc
-              languages: [ro]
-              value: Nord-Est (România)
-            - name: euvoc
-              languages: [pt]
-              value: Nord-Est (Roménia)
+              languages: [sl]
+              value: Nord-Est (Romunija)
             - name: euvoc
               languages: [hu]
               value: Nord-Est (Románia)
             - name: euvoc
-              languages: [en, fi, it]
-              value: Nord-Est (Romania)
-            - name: euvoc
-              languages: [mt]
-              value: Nord-Est (ir-Rumanija)
+              languages: [de, sv]
+              value: Nord-Est (Rumänien)
             - name: euvoc
               languages: [cs, sk]
               value: Nord-Est (Rumunsko)
             - name: euvoc
-              languages: [sl]
-              value: Nord-Est (Romunija)
+              languages: [et]
+              value: Nord-Est (Rumeenia)
             - name: euvoc
-              languages: [da]
-              value: Nord-Est (Rumænien)
+              languages: [mt]
+              value: Nord-Est (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Nord-Est (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Nord-Est (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Nord-Est (Roménia)
             - name: euvoc
               languages: [el]
               value: Nord-Est (Ρουμανία)
             - name: euvoc
+              languages: [da]
+              value: Nord-Est (Rumænien)
+            - name: euvoc
               languages: [lt]
               value: Nord-Est (Rumunija)
-            - name: euvoc
-              languages: [ga]
-              value: Nord-Est (An Rómáin)
             - name: euvoc
               languages: [lv]
               value: Nord-Est (Rumānija)
             - name: euvoc
               languages: [nl]
               value: Nord-Est (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Nord-Est (An Rómáin)
         - name: Noreste
           sources:
             - name: euvoc
               languages: [es]
               value: Noreste (Rumanía)
+        - name: North-East
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: North-East (Romania)
+              type: alternative
         - name: Roumanie Nord-Est
           sources:
             - name: euvoc
@@ -1373,11 +1112,29 @@ regions:
         - name: Nord-Vest
           sources:
             - name: euvoc
-              languages: [nl]
-              value: Nord-Vest (Roemenië)
+              languages: [sl]
+              value: Nord-Vest (Romunija)
             - name: euvoc
-              languages: [lv]
-              value: Nord-Vest (Rumānija)
+              languages: [hu]
+              value: Nord-Vest (Románia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Nord-Vest (Rumänien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Nord-Vest (Rumunsko)
+            - name: euvoc
+              languages: [et]
+              value: Nord-Vest (Rumeenia)
+            - name: euvoc
+              languages: [mt]
+              value: Nord-Vest (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Nord-Vest (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Nord-Vest (Romania)
             - name: euvoc
               languages: [pt]
               value: Nord-Vest (Roménia)
@@ -1385,35 +1142,17 @@ regions:
               languages: [el]
               value: Nord-Vest (Ρουμανία)
             - name: euvoc
-              languages: [lt]
-              value: Nord-Vest (Rumunija)
-            - name: euvoc
-              languages: [mt]
-              value: Nord-Vest (ir-Rumanija)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Nord-Vest (Rumunsko)
-            - name: euvoc
-              languages: [sl]
-              value: Nord-Vest (Romunija)
-            - name: euvoc
-              languages: [et]
-              value: Nord-Vest (Rumeenia)
-            - name: euvoc
-              languages: [ro]
-              value: Nord-Vest (România)
-            - name: euvoc
-              languages: [de, sv]
-              value: Nord-Vest (Rumänien)
-            - name: euvoc
               languages: [da]
               value: Nord-Vest (Rumænien)
             - name: euvoc
-              languages: [hu]
-              value: Nord-Vest (Románia)
+              languages: [lt]
+              value: Nord-Vest (Rumunija)
             - name: euvoc
-              languages: [en, fi, it]
-              value: Nord-Vest (Romania)
+              languages: [lv]
+              value: Nord-Vest (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Nord-Vest (Roemenië)
             - name: euvoc
               languages: [ga]
               value: Nord-Vest (An Rómáin)
@@ -1422,6 +1161,12 @@ regions:
             - name: euvoc
               languages: [es]
               value: Noroeste (Rumanía)
+        - name: North-West
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: North-West (Romania)
+              type: alternative
         - name: Roumanie Nord-Ouest
           sources:
             - name: euvoc
@@ -1450,94 +1195,6 @@ regions:
             - name: euvoc
               languages: [sr]
         - name: Северозападна Румъния
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Vest
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8494
-      names:
-        - name: Oeste
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Oeste (Rumanía)
-        - name: Roumanie Ouest
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Roumanie de l'Ouest
-        - name: Rumunia Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Vest
-          sources:
-            - name: euvoc
-              languages: [en, fi, it]
-              value: Vest (Romania)
-            - name: euvoc
-              languages: [el]
-              value: Vest (Ρουμανία)
-            - name: euvoc
-              languages: [cs, sk]
-              value: Vest (Rumunsko)
-            - name: euvoc
-              languages: [ga]
-              value: Vest (An Rómáin)
-            - name: euvoc
-              languages: [hu]
-              value: Vest (Románia)
-            - name: euvoc
-              languages: [pt]
-              value: Vest (Roménia)
-            - name: euvoc
-              languages: [sl]
-              value: Vest (Romunija)
-            - name: euvoc
-              languages: [nl]
-              value: Vest (Roemenië)
-            - name: euvoc
-              languages: [lt]
-              value: Vest (Rumunija)
-            - name: euvoc
-              languages: [ro]
-              value: Vest (România)
-            - name: euvoc
-              languages: [de, sv]
-              value: Vest (Rumänien)
-            - name: euvoc
-              languages: [lv]
-              value: Vest (Rumānija)
-            - name: euvoc
-              languages: [mt]
-              value: Vest (ir-Rumanija)
-            - name: euvoc
-              languages: [da]
-              value: Vest (Rumænien)
-            - name: euvoc
-              languages: [et]
-              value: Vest (Rumeenia)
-        - name: Vesti
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Vesti (Rumani)
-        - name: Zapadna Rumunjska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Западна Романија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Западна Румунија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Западна Румъния
           sources:
             - name: euvoc
               languages: [bg]
@@ -1669,6 +1326,302 @@ regions:
               languages: [bg, mk, sr]
     
 
+    # Sud — Muntenia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8495
+      names:
+        - name: Jug — Muntenia
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jug — Muntenia (Rumania)
+        - name: Jug-Muntenia
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: regija Jug-Muntenia (Rumunjska)
+        - name: Muntenia Południowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Roumanie Sud — Muntenia
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud — Muntenia
+        - name: South — Muntenia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: South — Muntenia (Romania)
+              type: alternative
+        - name: Sud Muntenia
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Sud Muntenia (Rumänien)
+        - name: Sud — Muntenia
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Sud — Muntenia (Romunija)
+            - name: euvoc
+              languages: [hu]
+              value: Sud — Muntenia (Románia)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud — Muntenia (Rumunsko)
+            - name: euvoc
+              languages: [sv]
+              value: Sud — Muntenia (Rumänien)
+            - name: euvoc
+              languages: [mt]
+              value: Sud — Muntenia (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Sud — Muntenia (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud — Muntenia (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Sud — Muntenia (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Sud — Muntenia (Ρουμανία)
+            - name: euvoc
+              languages: [da]
+              value: Sud — Muntenia (Rumænien)
+            - name: euvoc
+              languages: [lv]
+              value: Sud — Muntenia (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud — Muntenia (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Sud — Muntenia (An Rómáin)
+        - name: Sud-Muntenia
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Sud-Muntenia (Rumeenia)
+        - name: Sud—Muntenia
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Sud—Muntenia (Rumunija)
+        - name: Sur-Muntenia
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Sur-Muntenia (Rumanía)
+        - name: Јужна Мунтенија
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Јужна Мунтенија (Романија)
+        - name: Јужна Румунија - Мунтенија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Южна Румъния
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Sud-Est
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8496
+      names:
+        - name: Juglindje
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Juglindje (Rumania)
+        - name: Jugoistoč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jugoistočna regija (Rumunjska)
+        - name: Roumanie Sud-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud-Est
+        - name: Rumunia Południowo-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: South-East
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: South-East (Romania)
+              type: alternative
+        - name: Sud-Est
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Sud-Est (Romunija)
+            - name: euvoc
+              languages: [hu]
+              value: Sud-Est (Románia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Sud-Est (Rumänien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud-Est (Rumunsko)
+            - name: euvoc
+              languages: [et]
+              value: Sud-Est (Rumeenia)
+            - name: euvoc
+              languages: [mt]
+              value: Sud-Est (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Sud-Est (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud-Est (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Sud-Est (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Sud-Est (Ρουμανία)
+            - name: euvoc
+              languages: [da]
+              value: Sud-Est (Rumænien)
+            - name: euvoc
+              languages: [lt]
+              value: Sud-Est (Rumunija)
+            - name: euvoc
+              languages: [lv]
+              value: Sud-Est (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud-Est (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Sud-Est (An Rómáin)
+        - name: Sureste
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Sureste (Rumanía)
+        - name: Југоисточна Романија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Југоисточна Румунија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Югоизточна Румъния
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Sud-Vest Oltenia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8497
+      names:
+        - name: Jugozapadna Oltenia
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: regija Jugozapadna Oltenia (Rumunjska)
+        - name: Oltenia Jugperëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Oltenia Jugperëndimore (Rumani)
+        - name: Oltenia Południowo-Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Roumanie Sud-Ouest Oltenia
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie du Sud-Ouest Oltenia
+        - name: South-West Oltenia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: South-West Oltenia (Romania)
+              type: alternative
+        - name: Sud-Vest Oltenia
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Sud-Vest Oltenia (Romunija)
+            - name: euvoc
+              languages: [hu]
+              value: Sud-Vest Oltenia (Románia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Sud-Vest Oltenia (Rumänien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Sud-Vest Oltenia (Rumunsko)
+            - name: euvoc
+              languages: [et]
+              value: Sud-Vest Oltenia (Rumeenia)
+            - name: euvoc
+              languages: [mt]
+              value: Sud-Vest Oltenia (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Sud-Vest Oltenia (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Sud-Vest Oltenia (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Sud-Vest Oltenia (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Sud-Vest Oltenia (Ρουμανία)
+            - name: euvoc
+              languages: [da]
+              value: Sud-Vest Oltenia (Rumænien)
+            - name: euvoc
+              languages: [lt]
+              value: Sud-Vest Oltenia (Rumunija)
+            - name: euvoc
+              languages: [lv]
+              value: Sud-Vest Oltenia (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Sud-Vest Oltenia (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Sud-Vest Oltenia (An Rómáin)
+        - name: Suroeste-Oltenia
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Suroeste-Oltenia (Rumanía)
+        - name: Југозападна Олтенија
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Југозападна Олтенија (Романија)
+        - name: Југозападна Румунија - Олтенија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Югозападна Румъния
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Teleorman
     - codes:
         euvoc: http://eurovoc.europa.eu/8527
@@ -1744,6 +1697,138 @@ regions:
               languages: [bg, mk, sr]
     
 
+    # Vaslui
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8510
+        iso3166-2: RO-VS
+      names:
+        - name: Vaslui
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
+        - name: Васлуй
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Васлуј
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Vest
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8494
+      names:
+        - name: Oeste
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Oeste (Rumanía)
+        - name: Roumanie Ouest
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Roumanie de l'Ouest
+        - name: Rumunia Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Vest
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Vest (Romunija)
+            - name: euvoc
+              languages: [hu]
+              value: Vest (Románia)
+            - name: euvoc
+              languages: [de, sv]
+              value: Vest (Rumänien)
+            - name: euvoc
+              languages: [cs, sk]
+              value: Vest (Rumunsko)
+            - name: euvoc
+              languages: [et]
+              value: Vest (Rumeenia)
+            - name: euvoc
+              languages: [mt]
+              value: Vest (ir-Rumanija)
+            - name: euvoc
+              languages: [ro]
+              value: Vest (România)
+            - name: euvoc
+              languages: [en, fi, it]
+              value: Vest (Romania)
+            - name: euvoc
+              languages: [pt]
+              value: Vest (Roménia)
+            - name: euvoc
+              languages: [el]
+              value: Vest (Ρουμανία)
+            - name: euvoc
+              languages: [da]
+              value: Vest (Rumænien)
+            - name: euvoc
+              languages: [lt]
+              value: Vest (Rumunija)
+            - name: euvoc
+              languages: [lv]
+              value: Vest (Rumānija)
+            - name: euvoc
+              languages: [nl]
+              value: Vest (Roemenië)
+            - name: euvoc
+              languages: [ga]
+              value: Vest (An Rómáin)
+        - name: Vesti
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Vesti (Rumani)
+        - name: West
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: West (Romania)
+              type: alternative
+        - name: Zapadna Rumunjska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Западна Романија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Западна Румунија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Западна Румъния
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Vrancea
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8533
+        iso3166-2: RO-VN
+      names:
+        - name: Vrancea
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+            - name: iso3166-2
+              languages: [ro]
+        - name: Вранча
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
     # Vâlcea
     - codes:
         euvoc: http://eurovoc.europa.eu/8538
@@ -1771,41 +1856,3 @@ regions:
           sources:
             - name: euvoc
               languages: [bg]
-    
-
-    # Vaslui
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8510
-        iso3166-2: RO-VS
-      names:
-        - name: Vaslui
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-            - name: iso3166-2
-              languages: [ro]
-        - name: Васлуй
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Васлуј
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Vrancea
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8533
-        iso3166-2: RO-VN
-      names:
-        - name: Vrancea
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-            - name: iso3166-2
-              languages: [ro]
-        - name: Вранча
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]

@@ -51,6 +51,35 @@ regions:
               languages: [fr]
     
 
+    # Newfoundland and Labrador
+    - codes:
+        iso3166-2: CA-NL
+      names:
+        - name: Newfoundland and Labrador
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Terre-Neuve-et-Labrador
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+    
+
+    # Northwest Territories
+    - codes:
+        iso3166-2: CA-NT
+      names:
+        - name: Northwest Territories
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Territoires Nord-Ouest
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Territoires du Nord-Ouest
+    
+
     # Nova Scotia
     - codes:
         iso3166-2: CA-NS
@@ -122,35 +151,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en, fr]
-    
-
-    # Newfoundland and Labrador
-    - codes:
-        iso3166-2: CA-NL
-      names:
-        - name: Newfoundland and Labrador
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Terre-Neuve-et-Labrador
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-    
-
-    # Northwest Territories
-    - codes:
-        iso3166-2: CA-NT
-      names:
-        - name: Northwest Territories
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Territoires Nord-Ouest
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-              value: Territoires du Nord-Ouest
     
 
     # Yukon

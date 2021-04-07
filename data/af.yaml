@@ -294,16 +294,6 @@ regions:
               languages: [fa, ps]
     
 
-    # Sar-e Pul
-    - codes:
-        iso3166-2: AF-SAR
-      names:
-        - name: Sar-e Pul
-          sources:
-            - name: iso3166-2
-              languages: [fa, ps]
-    
-
     # Takhār
     - codes:
         iso3166-2: AF-TAK
@@ -332,6 +322,17 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fa, ps]
+    
+
+    # e Pul
+    - codes:
+        iso3166-2: AF-SAR
+      names:
+        - name: e Pul
+          sources:
+            - name: iso3166-2
+              languages: [fa, ps]
+              value: Sar-e Pul
     
 
     # ābul

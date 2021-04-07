@@ -4,1282 +4,6 @@ complete: false
 regions:
     
 
-    # Kuyavia-Pomerania
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7979
-        iso3166-2: PL-04
-      names:
-        - name: ''' Kujavia-Pomerania'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Kujavia-Pomerania
-        - name: Cujávia-Pomerânia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Kujavien-Pommern
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Kujavijas-Pomerānijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Kujavijas-Pomerānijas novads
-        - name: Kujavijos Pamario vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Kujavsko-Pomorjansko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Kujavsko-Pomořanské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Kujavsko-pomeransko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Kujavsko-pomoranské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Kujawan-Pommerin voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kujawsko-Pomorskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Kujawy-Pomorze vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Kujáviai-pomerániai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Kuyavia-Pomerania
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Kuyavia-Pomerania province
-        - name: Woiwodschaft Kujawien-Pommern
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: kujawsko-pomorskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo kujawsko-pomorskie
-            - name: euvoc
-              languages: [el]
-            - name: iso3166-2
-              languages: [pl]
-        - name: rajoni Kujavia-Pomeranies
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Kujavia-Pomeranies
-        - name: voievodatul Cuyavia-Pomerania
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Cuiavia-Pomerania
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Cuiavia-Pomerania
-        - name: voivodato Kuyavia-Pomerania
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Kuyavia-Pomerania
-        - name: voïévodie Cujavie-Poméranie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Cujavie-Poméranie
-        - name: woiwodschap Kujavië-Pommeren
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Коявско-Поморска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Кујавско-померанско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Кујавско-поморско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-    
-
-    # Lodz
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7972
-        iso3166-2: PL-10
-      names:
-        - name: ''' Lodz'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Lodz
-        - name: Lodz
-          sources:
-            - name: euvoc
-              languages: [en, sv]
-        - name: Lodzas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Lodzas novads
-        - name: Lodzkie
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Lodzkie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Lodzsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Lodzės vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Lodžské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Lodžské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Lódzin voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lódź vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Lódźi vajdaság
-        - name: Lódź vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Lódźi vojevoodkond
-        - name: Vojvodstvo Lodz
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Woiwodschaft Lodz
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: e Loxit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Loxit
-        - name: regiã Lodz
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Lodz
-        - name: voievodatul Lodz
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Lodz
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Lodz
-        - name: voivodato Lódź
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Lódź
-        - name: voïévodie Lodz
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Lodz
-        - name: woiwodschap Łódź
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: łódzkie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo łódzkie
-            - name: iso3166-2
-              languages: [pl]
-        - name: Лодска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Лоѓско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Лоџско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Lublin
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7968
-        iso3166-2: PL-06
-      names:
-        - name: ''' Lublinu'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Lublinu
-        - name: Liublino vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Lubelskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Lubelské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Lublin
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Lublin province
-            - name: euvoc
-              languages: [sv]
-        - name: Lublini vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Lublini vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Lublinin voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lublinsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-        - name: Lublinské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Woiwodschaft Lublin
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: e Lublinit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Lublinit
-        - name: lubelskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo lubelskie
-            - name: euvoc
-              languages: [el]
-            - name: iso3166-2
-              languages: [pl]
-        - name: regiã Lublin
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Lublin
-        - name: voievodatul Lublin
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Lublin
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Lublin
-        - name: voivodato Lublino
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Lublino
-        - name: voïévodie Lublin
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Lublin
-        - name: woiwodschap Lublin
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Ļubļinas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Ļubļinas novads
-        - name: Љублинско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Лублинско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Любелско воеводство
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Lubus
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7973
-        iso3166-2: PL-08
-      names:
-        - name: ''' Lubus'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Lubus
-        - name: Liubuš vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Liubušo vaivadija
-        - name: Lubus
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Lubus province
-            - name: euvoc
-              languages: [lv]
-              value: Lubus novads
-        - name: Lubuskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Lubuskien voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lubusko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Lubuské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Lubuszi vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Lubuszi vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Lubuško vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Lubušské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Lubúsquia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Woiwodschaft Lebus
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zielona Gora/Gorzow Wlkp
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: e Lubusit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Lubusit
-        - name: lubuskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo lubuskie
-            - name: euvoc
-              languages: [el]
-            - name: iso3166-2
-              languages: [pl]
-        - name: voievodatul Lubus
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Lubus
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Lubus
-        - name: voivodato Lubusz
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Lubusz
-        - name: voïévodie Lubus
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Lubus
-        - name: woiwodschap Lubus
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Љубушко Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Лубушко војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Любюска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Mazovia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7965
-        iso3166-2: PL-14
-      names:
-        - name: ''' Mazovia'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Mazovia
-        - name: Masoovia vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Masovian voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Masovien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Mazovia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Mazovia province
-        - name: Mazoviecké vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Mazovijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Mazovijas novads
-        - name: Mazovijos vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Mazovijsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Mazovjecko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Mazovské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Mazowieckie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Mazóvia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Mazóviai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Woiwodschaft Masowien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: e Mazovisë
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Mazovisë
-        - name: mazowieckie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo mazowieckie
-            - name: euvoc
-              languages: [el]
-            - name: iso3166-2
-              languages: [pl]
-        - name: voievodatul Mazovia
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Masovia
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Masovia
-        - name: voivodato Mazovia
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Mazovia
-        - name: voïévodie Mazovie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Mazovie
-        - name: woiwodschap Mazovië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Мазовецко воеводство
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Мазовско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Мазовјецко војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Opole
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7978
-        iso3166-2: PL-16
-      names:
-        - name: ''' Opole'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Opole
-        - name: Opole
-          sources:
-            - name: euvoc
-              languages: [en, pt, sv]
-        - name: Opole vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Opolei vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Opolen voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Opoles
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Opoles novads
-        - name: Opoljsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Opolskie
-          sources:
-            - name: euvoc
-              languages: [el, pl]
-            - name: iso3166-2
-              languages: [pl]
-        - name: Opolskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Opolsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Opolské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Opolské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Opolės vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Voievodatul Opole
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Woiwodschaft Oppeln
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: krahina e Opolesë
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: voivodato Opole
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Opole
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Opole
-        - name: voïévodie d'Opole
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: woiwodschap Opole
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Ополска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Ополско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Podlachia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7975
-        iso3166-2: PL-20
-      names:
-        - name: ''' Podlachia'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Podlachia
-        - name: Palenkės vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Podlaasia vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Podlachia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Podlachia province
-        - name: Podlachie
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Podlasie
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Podlasien voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Podlaskie vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Podlaskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Podlasko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Podlaské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Podlačijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Podlačijas novads
-        - name: Podlaško vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Podleské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Podláquia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Woiwodschaft Podlachien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: krahina e Podlakias
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: podlaskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo podlaskie
-            - name: iso3166-2
-              languages: [pl]
-        - name: voievodatul Podlachia
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Podlachia
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Podlachia
-        - name: voivodato Podlasie
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Podlasie
-        - name: voïévodie Podlachie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Podlachie
-        - name: woiwodschap Podlachië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Подласка област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Подласко Војводство
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Silesia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7967
-        iso3166-2: PL-24
-      names:
-        - name: ''' Silesia'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Silesia
-        - name: Schlesien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Sileesia vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Silesia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Silesia province
-        - name: Silezijos vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Silésia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Silēzijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Silēzijas novads
-        - name: Slaskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Sleesian voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Slezské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Sliezske vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Sziléziai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Woiwodschaft Schlesien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: e Silezisë
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Silezisë
-        - name: voievodatul Silezia
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Silesia
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Silesia
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Silesia
-        - name: voïévodie Silésie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Silésie
-        - name: woiwodschap Silezië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: śląskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo śląskie
-            - name: iso3166-2
-              languages: [pl]
-        - name: Šlesko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Šlezijsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Σιλεσία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Силезийско воеводство
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Шлезиско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Шљонско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Varmia-Mazuria
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7980
-        iso3166-2: PL-28
-      names:
-        - name: ''' Varmia-Mazuria'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Varmia-Mazuria
-        - name: Ermland-Masurien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Krahina e Varmi-Mazurias
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Varmia-Mazuria
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Varmia-Mazuria province
-        - name: Varmijas-Mazūrijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Varmijas-Mazūrijas novads
-        - name: Varmijos Mozūrų vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Varminsko-mazursko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-        - name: Varmsko-Mazurské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Varmsko-mazúrske vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Vármia-Masúria
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Warmia-Masuuria vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Warmiai-mazúri vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Warmian-Masurian voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Warminsko-Mazurskie
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Warminsko-Mazurskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Woiwodschaft Ermland-Masuren
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: voievodatul Varmia-Mazuria
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Warmia-Masuria
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Warmia-Masuria
-        - name: voivodato Warmia-Mazuria
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Warmia-Mazuria
-        - name: voïévodie Varmie-Mazurie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Varmie-Mazurie
-        - name: warmińsko-mazurskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo warmińsko-mazurskie
-            - name: iso3166-2
-              languages: [pl]
-        - name: woiwodschap Varmie-Mazurië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Варминско-Мазурска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Варминско-мазурско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Lower Silesia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7974
-        iso3166-2: PL-02
-      names:
-        - name: Ala-Sleesian voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Alam-Sileesia vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Alsó-sziléziai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Baixa Silésia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Dolnoslaskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Dolnoslezské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Dolnosliezske vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Donjošlesko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Lejassilēzijas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Lejassilēzijas novads
-        - name: Lower Silesia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Lower Silesia province
-        - name: Nedre Schlesien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Spodnješlezijsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Woiwodschaft Niederschlesien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: dolnośląskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo dolnośląskie
-            - name: iso3166-2
-              languages: [pl]
-        - name: e Silezisë së Poshtme
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Silezisë së Poshtme
-        - name: tal-bassa Silesia
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja tal-bassa Silesia
-        - name: voievodatul Silezia Inferioară
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Baja Silesia
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Baja Silesia
-        - name: voivodato Bassa Slesia
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Bassa Slesia
-        - name: voïévodie Basse-Silésie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Basse-Silésie
-        - name: woiwodschap Neder-Silezië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Žemutinės Silezijos vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Κάτω Σιλεσία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Долносилезийска област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Долношлезиско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Доњошлезијско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Lower Carpathians
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7969
-        iso3166-2: PL-18
-      names:
-        - name: Alam-Karpaatia vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Karpaattien voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Karpatja tat-Tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja Karpatja tat-Tramuntana
-        - name: Kárpátaljai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Lejaskarpatu
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Lejaskarpatu novads
-        - name: Lower Carpathians
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Lower Carpathians province
-        - name: Pakarpatės vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Podkarpackie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Podkarpatsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Podkarpatské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Podkarpatské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Potkarpatsko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Rzeszów
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Subcarpácia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Woiwodschaft Karpatenvorland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: e Karpateve të Poshtme
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: provinca e Karpateve të Poshtme
-        - name: podkarpackie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo podkarpackie
-            - name: iso3166-2
-              languages: [pl]
-        - name: voievodatul Carpații Inferiori
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Podkarpacie
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Podkarpacie
-        - name: voivodato Precarpazi
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Precarpazi
-        - name: voïévodie des Basses-Carpates
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: woiwodschap Kleine Karpaten
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Κάτω Καρπάθια
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Подкарпатско воеводство
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Подкарпатско војводство
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Поткарпатско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk]
-    
-
     # Greater Poland
     - codes:
         euvoc: http://eurovoc.europa.eu/7976
@@ -1498,7 +222,7 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Светокрсно Војводство
+        - name: Светокрсно војводство
           sources:
             - name: euvoc
               languages: [mk, sr]
@@ -1506,6 +230,122 @@ regions:
           sources:
             - name: euvoc
               languages: [bg]
+    
+
+    # Kuyavia-Pomerania
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7979
+        iso3166-2: PL-04
+      names:
+        - name: ''' Kujavia-Pomerania'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Kujavia-Pomerania
+        - name: Cujávia-Pomerânia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Kujavien-Pommern
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Kujavijas-Pomerānijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Kujavijas-Pomerānijas novads
+        - name: Kujavijos Pamario vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Kujavsko-Pomorjansko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Kujavsko-Pomořanské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Kujavsko-pomeransko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Kujavsko-pomoranské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Kujawan-Pommerin voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kujawsko-Pomorskie
+          sources:
+            - name: euvoc
+              languages: [el, pl]
+            - name: iso3166-2
+              languages: [pl]
+        - name: Kujawsko-Pomorskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Kujawy-Pomorze vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Kujáviai-pomerániai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Kuyavia-Pomerania
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Kuyavia-Pomerania province
+        - name: Woiwodschaft Kujawien-Pommern
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: rajoni Kujavia-Pomeranies
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Kujavia-Pomeranies
+        - name: voievodatul Cuyavia-Pomerania
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Cuiavia-Pomerania
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Cuiavia-Pomerania
+        - name: voivodato Kuyavia-Pomerania
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Kuyavia-Pomerania
+        - name: voïévodie Cujavie-Poméranie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Cujavie-Poméranie
+        - name: woiwodschap Kujavië-Pommeren
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Коявско-Поморска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Кујавско-померанско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Кујавско-поморско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
     
 
     # Little Poland
@@ -1624,6 +464,1254 @@ regions:
               languages: [sr]
     
 
+    # Lodz
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7972
+        iso3166-2: PL-10
+      names:
+        - name: ''' Lodz'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Lodz
+        - name: Lodz
+          sources:
+            - name: euvoc
+              languages: [en, sv]
+        - name: Lodzas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Lodzas novads
+        - name: Lodzkie
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Lodzkie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Lodzsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Lodzės vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Lodžské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Lodžské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Lódzin voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lódź vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Lódźi vajdaság
+        - name: Lódź vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Lódźi vojevoodkond
+        - name: Vojvodstvo Lodz
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Woiwodschaft Lodz
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: e Loxit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Loxit
+        - name: regiã Lodz
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Lodz
+        - name: voievodatul Lodz
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Lodz
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Lodz
+        - name: voivodato Lódź
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Lódź
+        - name: voïévodie Lodz
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Lodz
+        - name: woiwodschap Łódź
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: łódzkie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo łódzkie
+            - name: iso3166-2
+              languages: [pl]
+        - name: Лодска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Лоѓско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Лоџско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Lower Carpathians
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7969
+        iso3166-2: PL-18
+      names:
+        - name: Alam-Karpaatia vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Karpaattien voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Karpatja tat-Tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja Karpatja tat-Tramuntana
+        - name: Kárpátaljai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Lejaskarpatu
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Lejaskarpatu novads
+        - name: Lower Carpathians
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Lower Carpathians province
+        - name: Pakarpatės vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Podkarpackie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Podkarpatsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Podkarpatské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Podkarpatské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Potkarpatsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Rzeszów
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Subcarpácia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Woiwodschaft Karpatenvorland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: e Karpateve të Poshtme
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Karpateve të Poshtme
+        - name: podkarpackie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo podkarpackie
+            - name: iso3166-2
+              languages: [pl]
+        - name: voievodatul Carpații Inferiori
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Podkarpacie
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Podkarpacie
+        - name: voivodato Precarpazi
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Precarpazi
+        - name: voïévodie des Basses-Carpates
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: woiwodschap Kleine Karpaten
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Κάτω Καρπάθια
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Подкарпатско воеводство
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Подкарпатско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Поткарпатско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+    
+
+    # Lower Silesia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7974
+        iso3166-2: PL-02
+      names:
+        - name: Ala-Sleesian voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Alam-Sileesia vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Alsó-sziléziai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Baixa Silésia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Dolnoslaskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Dolnoslezské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Dolnosliezske vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Donjošlesko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Lejassilēzijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Lejassilēzijas novads
+        - name: Lower Silesia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Lower Silesia province
+        - name: Nedre Schlesien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Spodnješlezijsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Woiwodschaft Niederschlesien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: dolnośląskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo dolnośląskie
+            - name: iso3166-2
+              languages: [pl]
+        - name: e Silezisë së Poshtme
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Silezisë së Poshtme
+        - name: tal-bassa Silesia
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja tal-bassa Silesia
+        - name: voievodatul Silezia Inferioară
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Baja Silesia
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Baja Silesia
+        - name: voivodato Bassa Slesia
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Bassa Slesia
+        - name: voïévodie Basse-Silésie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Basse-Silésie
+        - name: woiwodschap Neder-Silezië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Žemutinės Silezijos vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Κάτω Σιλεσία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Долносилезийска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Долношлезиско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Доњошлезијско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Lublin
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7968
+        iso3166-2: PL-06
+      names:
+        - name: ''' Lublinu'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Lublinu
+        - name: Liublino vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Lubelskie
+          sources:
+            - name: euvoc
+              languages: [el, pl]
+            - name: iso3166-2
+              languages: [pl]
+        - name: Lubelskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Lubelské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Lublin
+          sources:
+            - name: euvoc
+              languages: [en, sv]
+        - name: Lublini vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Lublini vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Lublinin voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lublinsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+        - name: Lublinské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Woiwodschaft Lublin
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: e Lublinit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Lublinit
+        - name: regiã Lublin
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Lublin
+        - name: voievodatul Lublin
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Lublin
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Lublin
+        - name: voivodato Lublino
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Lublino
+        - name: voïévodie Lublin
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Lublin
+        - name: woiwodschap Lublin
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Ļubļinas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Ļubļinas novads
+        - name: Љублинско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Лублинско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Любелско воеводство
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Lubus
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7973
+        iso3166-2: PL-08
+      names:
+        - name: ''' Lubus'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Lubus
+        - name: Liubuš vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Liubušo vaivadija
+        - name: Lubus
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Lubus province
+            - name: euvoc
+              languages: [lv]
+              value: Lubus novads
+        - name: Lubuskie
+          sources:
+            - name: euvoc
+              languages: [el, pl]
+            - name: iso3166-2
+              languages: [pl]
+        - name: Lubuskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Lubuskien voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lubusko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Lubuské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Lubuszi vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Lubuszi vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Lubuško vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Lubušské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Lubúsquia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Woiwodschaft Lebus
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zielona Gora/Gorzow Wlkp
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: e Lubusit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Lubusit
+        - name: voievodatul Lubus
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Lubus
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Lubus
+        - name: voivodato Lubusz
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Lubusz
+        - name: voïévodie Lubus
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Lubus
+        - name: woiwodschap Lubus
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Љубушко Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Лубушко војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Любюска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Mazovia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7965
+        iso3166-2: PL-14
+      names:
+        - name: ''' Mazovia'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Mazovia
+        - name: Masoovia vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Masovian voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Masovien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Mazovia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Mazovia province
+        - name: Mazoviecké vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Mazovijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Mazovijas novads
+        - name: Mazovijos vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Mazovijsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Mazovjecko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Mazovské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Mazowieckie
+          sources:
+            - name: euvoc
+              languages: [el, pl]
+            - name: iso3166-2
+              languages: [pl]
+        - name: Mazowieckie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Mazóvia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Mazóviai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Woiwodschaft Masowien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: e Mazovisë
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Mazovisë
+        - name: voievodatul Mazovia
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Masovia
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Masovia
+        - name: voivodato Mazovia
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Mazovia
+        - name: voïévodie Mazovie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Mazovie
+        - name: woiwodschap Mazovië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Мазовецко воеводство
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Мазовско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Мазовјецко војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Opole
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7978
+        iso3166-2: PL-16
+      names:
+        - name: ''' Opole'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Opole
+        - name: Opole
+          sources:
+            - name: euvoc
+              languages: [en, pt, sv]
+        - name: Opole vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Opolei vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Opolen voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Opoles
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Opoles novads
+        - name: Opoljsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Opolskie
+          sources:
+            - name: euvoc
+              languages: [el, pl]
+            - name: iso3166-2
+              languages: [pl]
+        - name: Opolskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Opolsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Opolské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Opolské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Opolės vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Voievodatul Opole
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Woiwodschaft Oppeln
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: krahina e Opolesë
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: voivodato Opole
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Opole
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Opole
+        - name: voïévodie d'Opole
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: woiwodschap Opole
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Ополска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Ополско војводство
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Podlachia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7975
+        iso3166-2: PL-20
+      names:
+        - name: ''' Podlachia'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Podlachia
+        - name: Palenkės vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Podlaasia vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Podlachia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Podlachia province
+        - name: Podlachie
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Podlasie
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Podlasien voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Podlaskie vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Podlaskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Podlasko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Podlaské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Podlačijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Podlačijas novads
+        - name: Podlaško vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Podleské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Podláquia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Woiwodschaft Podlachien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: krahina e Podlakias
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: podlaskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo podlaskie
+            - name: iso3166-2
+              languages: [pl]
+        - name: voievodatul Podlachia
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Podlachia
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Podlachia
+        - name: voivodato Podlasie
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Podlasie
+        - name: voïévodie Podlachie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Podlachie
+        - name: woiwodschap Podlachië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Подласка област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Подласко Војводство
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Pomerania
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7977
+        iso3166-2: PL-22
+      names:
+        - name: Pamario vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Pomerania
+          sources:
+            - name: euvoc
+              languages: [en, mt, sq]
+        - name: Pomeransko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Pomerániai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Pomerânia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Pomerānija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Pommerin voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Pommern
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Pomoranské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Pomorjansko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Pomorskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Pomorze vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Pomořanské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Woiwodschaft Pommern
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: pomorskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo pomorskie
+            - name: iso3166-2
+              languages: [pl]
+        - name: voievodatul Pomerania
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Pomerania
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Pomerania
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Pomerania
+        - name: voïévodie Poméranie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Poméranie
+        - name: woiwodschap Pommeren
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Πομερανία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Померанско војводство
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Поморска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Silesia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7967
+        iso3166-2: PL-24
+      names:
+        - name: ''' Silesia'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Silesia
+        - name: Schlesien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Sileesia vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Silesia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Silesia province
+        - name: Silezijos vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Silésia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Silēzijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Silēzijas novads
+        - name: Slaskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Sleesian voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Slezské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Sliezske vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Sziléziai vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Woiwodschaft Schlesien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: e Silezisë
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: provinca e Silezisë
+        - name: voievodatul Silezia
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Silesia
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Silesia
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Silesia
+        - name: voïévodie Silésie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Silésie
+        - name: woiwodschap Silezië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: śląskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo śląskie
+            - name: iso3166-2
+              languages: [pl]
+        - name: Šlesko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Šlezijsko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Σιλεσία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Силезийско воеводство
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Шлезиско Војводство
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Шљонско војводство
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Varmia-Mazuria
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7980
+        iso3166-2: PL-28
+      names:
+        - name: ''' Varmia-Mazuria'
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-provinċja ta' Varmia-Mazuria
+        - name: Ermland-Masurien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Krahina e Varmi-Mazurias
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Varmia-Mazuria
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Varmia-Mazuria province
+        - name: Varmijas-Mazūrijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Varmijas-Mazūrijas novads
+        - name: Varmijos Mozūrų vaivadija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Varminsko-mazursko vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+        - name: Varmsko-Mazurské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Varmsko-mazúrske vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Vármia-Masúria
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Warmia-Masuuria vojevoodkond
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Warmiai-mazúri vajdaság
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Warmian-Masurian voivodikunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Warminsko-Mazurskie
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Warminsko-Mazurskie-provinsen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Woiwodschaft Ermland-Masuren
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: voievodatul Varmia-Mazuria
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: voivodato Warmia-Masuria
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: voivodato di Warmia-Masuria
+        - name: voivodato Warmia-Mazuria
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: voivodato de Warmia-Mazuria
+        - name: voïévodie Varmie-Mazurie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: voïévodie de Varmie-Mazurie
+        - name: warmińsko-mazurskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: województwo warmińsko-mazurskie
+            - name: iso3166-2
+              languages: [pl]
+        - name: woiwodschap Varmie-Mazurië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Варминско-Мазурска област
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Варминско-мазурско војводство
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
     # Western Pomerania
     - codes:
         euvoc: http://eurovoc.europa.eu/7970
@@ -1737,109 +1825,6 @@ regions:
             - name: euvoc
               languages: [mk, sr]
         - name: Заходно Поморско воеводство
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Pomerania
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7977
-        iso3166-2: PL-22
-      names:
-        - name: Pamario vaivadija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Pomerania
-          sources:
-            - name: euvoc
-              languages: [en, mt, sq]
-        - name: Pomeransko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Pomerániai vajdaság
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Pomerânia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Pomerānija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Pommerin voivodikunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Pommern
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Pomoranské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Pomorjansko vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Pomorskie-provinsen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Pomorze vojevoodkond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Pomořanské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Woiwodschaft Pommern
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: pomorskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: województwo pomorskie
-            - name: iso3166-2
-              languages: [pl]
-        - name: voievodatul Pomerania
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: voivodato Pomerania
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: voivodato di Pomerania
-            - name: euvoc
-              languages: [es]
-              value: voivodato de Pomerania
-        - name: voïévodie Poméranie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: voïévodie de Poméranie
-        - name: woiwodschap Pommeren
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Πομερανία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Померанско Војводство
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Поморска област
           sources:
             - name: euvoc
               languages: [bg]

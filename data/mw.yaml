@@ -23,21 +23,6 @@ regions:
               languages: [en, ny]
     
 
-    # Northern
-    - codes:
-        iso3166-2: MW-N
-      names:
-        - name: Chakumpoto
-          sources:
-            - name: iso3166-2
-              languages: [ny]
-        - name: Northern
-          sources:
-            - name: iso3166-2
-              languages: [en]
-              value: Northern Region
-    
-
     # Central
     - codes:
         iso3166-2: MW-C
@@ -231,6 +216,21 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en, ny]
+    
+
+    # Northern
+    - codes:
+        iso3166-2: MW-N
+      names:
+        - name: Chakumpoto
+          sources:
+            - name: iso3166-2
+              languages: [ny]
+        - name: Northern
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Northern Region
     
 
     # Nsanje

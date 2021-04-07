@@ -61,20 +61,6 @@ regions:
               languages: [en, fr]
     
 
-    # North-West
-    - codes:
-        iso3166-2: CM-NW
-      names:
-        - name: Nord-Ouest
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-        - name: North-West
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # North
     - codes:
         iso3166-2: CM-NO
@@ -89,15 +75,15 @@ regions:
               languages: [en]
     
 
-    # West
+    # North-West
     - codes:
-        iso3166-2: CM-OU
+        iso3166-2: CM-NW
       names:
-        - name: Ouest
+        - name: Nord-Ouest
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: West
+        - name: North-West
           sources:
             - name: iso3166-2
               languages: [en]
@@ -129,3 +115,17 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
+    
+
+    # West
+    - codes:
+        iso3166-2: CM-OU
+      names:
+        - name: Ouest
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+        - name: West
+          sources:
+            - name: iso3166-2
+              languages: [en]

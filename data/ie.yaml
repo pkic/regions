@@ -4,69 +4,6 @@ complete: false
 regions:
     
 
-    # Ulster-Donegal
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5947
-      names:
-        - name: Alster-Donegali
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Alsteris-Donegalis
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Donegola
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Ulster-Donegal
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
-        - name: Όλστερ-Ντόνεγκαλ
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Алстер-Донегал
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Ълстър - Донегал
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Dublin
-    - codes:
-        iso3166-2: IE-D
-      names:
-        - name: Baile Átha Cliath
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-        - name: Dublin
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
-    # Cavan
-    - codes:
-        iso3166-2: IE-CN
-      names:
-        - name: Cabhán
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-              value: An Cabhán
-        - name: Cavan
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Carlow
     - codes:
         iso3166-2: IE-CW
@@ -81,43 +18,16 @@ regions:
               languages: [ga]
     
 
-    # Kerry
+    # Cavan
     - codes:
-        iso3166-2: IE-KY
+        iso3166-2: IE-CN
       names:
-        - name: Ciarraí
+        - name: Cabhán
           sources:
             - name: iso3166-2
               languages: [ga]
-        - name: Kerry
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
-    # Kilkenny
-    - codes:
-        iso3166-2: IE-KK
-      names:
-        - name: Cill Chainnigh
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-        - name: Kilkenny
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
-    # Wicklow
-    - codes:
-        iso3166-2: IE-WW
-      names:
-        - name: Cill Mhantáin
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-        - name: Wicklow
+              value: An Cabhán
+        - name: Cavan
           sources:
             - name: iso3166-2
               languages: [en]
@@ -210,6 +120,20 @@ regions:
               value: Dún na nGall
     
 
+    # Dublin
+    - codes:
+        iso3166-2: IE-D
+      names:
+        - name: Baile Átha Cliath
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+        - name: Dublin
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
     # Galway
     - codes:
         iso3166-2: IE-G
@@ -224,6 +148,20 @@ regions:
               languages: [en]
     
 
+    # Kerry
+    - codes:
+        iso3166-2: IE-KY
+      names:
+        - name: Ciarraí
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+        - name: Kerry
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
     # Kildare
     - codes:
         iso3166-2: IE-KE
@@ -233,6 +171,20 @@ regions:
             - name: iso3166-2
               languages: [ga]
         - name: Kildare
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # Kilkenny
+    - codes:
+        iso3166-2: IE-KK
+      names:
+        - name: Cill Chainnigh
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+        - name: Kilkenny
           sources:
             - name: iso3166-2
               languages: [en]
@@ -303,6 +255,20 @@ regions:
               languages: [ga]
     
 
+    # Limerick
+    - codes:
+        iso3166-2: IE-LK
+      names:
+        - name: Limerick
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Luimneach
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+    
+
     # Longford
     - codes:
         iso3166-2: IE-LD
@@ -332,20 +298,6 @@ regions:
               languages: [ga]
     
 
-    # Limerick
-    - codes:
-        iso3166-2: IE-LK
-      names:
-        - name: Limerick
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Luimneach
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-    
-
     # Mayo
     - codes:
         iso3166-2: IE-MO
@@ -358,6 +310,35 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # Meath
+    - codes:
+        iso3166-2: IE-MH
+      names:
+        - name: Meath
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Mhí
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+              value: An Mhí
+    
+
+    # Monaghan
+    - codes:
+        iso3166-2: IE-MN
+      names:
+        - name: Monaghan
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Muineachán
+          sources:
+            - name: iso3166-2
+              languages: [ga]
     
 
     # Munster
@@ -408,35 +389,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-    
-
-    # Meath
-    - codes:
-        iso3166-2: IE-MH
-      names:
-        - name: Meath
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Mhí
-          sources:
-            - name: iso3166-2
-              languages: [ga]
-              value: An Mhí
-    
-
-    # Monaghan
-    - codes:
-        iso3166-2: IE-MN
-      names:
-        - name: Monaghan
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Muineachán
-          sources:
-            - name: iso3166-2
-              languages: [ga]
     
 
     # Offaly
@@ -510,6 +462,40 @@ regions:
               languages: [en]
     
 
+    # Ulster-Donegal
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5947
+      names:
+        - name: Alster-Donegali
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Alsteris-Donegalis
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Donegola
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Ulster-Donegal
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+        - name: Όλστερ-Ντόνεγκαλ
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Алстер-Донегал
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Ълстър - Донегал
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Waterford
     - codes:
         iso3166-2: IE-WD
@@ -548,6 +534,20 @@ regions:
             - name: iso3166-2
               languages: [ga]
         - name: Wexford
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # Wicklow
+    - codes:
+        iso3166-2: IE-WW
+      names:
+        - name: Cill Mhantáin
+          sources:
+            - name: iso3166-2
+              languages: [ga]
+        - name: Wicklow
           sources:
             - name: iso3166-2
               languages: [en]

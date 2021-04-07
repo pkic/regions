@@ -3,6 +3,48 @@ complete: false
 regions:
     
 
+    # Addis Ababa
+    - codes:
+        iso3166-2: ET-AA
+      names:
+        - name: Addis Ababa
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Ādīs Ābeba
+          sources:
+            - name: iso3166-2
+              languages: [am]
+    
+
+    # Afar
+    - codes:
+        iso3166-2: ET-AF
+      names:
+        - name: Afar
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Āfar
+          sources:
+            - name: iso3166-2
+              languages: [am]
+    
+
+    # Amara
+    - codes:
+        iso3166-2: ET-AM
+      names:
+        - name: Amara
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Āmara
+          sources:
+            - name: iso3166-2
+              languages: [am]
+    
+
     # Benshangul-Gumaz
     - codes:
         iso3166-2: ET-BE
@@ -89,20 +131,6 @@ regions:
               languages: [am]
     
 
-    # Tigrai
-    - codes:
-        iso3166-2: ET-TI
-      names:
-        - name: Tigrai
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Tigray
-          sources:
-            - name: iso3166-2
-              languages: [am]
-    
-
     # Southern Nations, Nationalities and Peoples
     - codes:
         iso3166-2: ET-SN
@@ -118,43 +146,15 @@ regions:
               value: YeDebub Bihēroch Bihēreseboch na Hizboch
     
 
-    # Addis Ababa
+    # Tigrai
     - codes:
-        iso3166-2: ET-AA
+        iso3166-2: ET-TI
       names:
-        - name: Addis Ababa
+        - name: Tigrai
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Ādīs Ābeba
-          sources:
-            - name: iso3166-2
-              languages: [am]
-    
-
-    # Afar
-    - codes:
-        iso3166-2: ET-AF
-      names:
-        - name: Afar
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Āfar
-          sources:
-            - name: iso3166-2
-              languages: [am]
-    
-
-    # Amara
-    - codes:
-        iso3166-2: ET-AM
-      names:
-        - name: Amara
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Āmara
+        - name: Tigray
           sources:
             - name: iso3166-2
               languages: [am]

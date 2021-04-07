@@ -3,20 +3,6 @@ complete: false
 regions:
     
 
-    # Ailuk
-    - codes:
-        iso3166-2: MH-ALK
-      names:
-        - name: Aelok
-          sources:
-            - name: iso3166-2
-              languages: [mh]
-        - name: Ailuk
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Ailinglaplap
     - codes:
         iso3166-2: MH-ALL
@@ -26,6 +12,20 @@ regions:
             - name: iso3166-2
               languages: [mh]
         - name: Ailinglaplap
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # Ailuk
+    - codes:
+        iso3166-2: MH-ALK
+      names:
+        - name: Aelok
+          sources:
+            - name: iso3166-2
+              languages: [mh]
+        - name: Ailuk
           sources:
             - name: iso3166-2
               languages: [en]
@@ -71,20 +71,6 @@ regions:
               value: Pikinni & Kōle
     
 
-    # Enewetak & Ujelang
-    - codes:
-        iso3166-2: MH-ENI
-      names:
-        - name: Enewetak & Ujelang
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Ānewetak & Wūjlan̄
-          sources:
-            - name: iso3166-2
-              languages: [mh]
-    
-
     # Ebon
     - codes:
         iso3166-2: MH-EBO
@@ -94,6 +80,20 @@ regions:
             - name: iso3166-2
               languages: [en]
         - name: Epoon
+          sources:
+            - name: iso3166-2
+              languages: [mh]
+    
+
+    # Enewetak & Ujelang
+    - codes:
+        iso3166-2: MH-ENI
+      names:
+        - name: Enewetak & Ujelang
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Ānewetak & Wūjlan̄
           sources:
             - name: iso3166-2
               languages: [mh]
@@ -175,6 +175,35 @@ regions:
               languages: [en, mh]
     
 
+    # Majuro
+    - codes:
+        iso3166-2: MH-MAJ
+      names:
+        - name: Majuro
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Mājro
+          sources:
+            - name: iso3166-2
+              languages: [mh]
+    
+
+    # Maloelap
+    - codes:
+        iso3166-2: MH-MAL
+      names:
+        - name: Maloelap
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Ṃ ḷoeḷap
+          sources:
+            - name: iso3166-2
+              languages: [mh]
+              value: Ṃaḷoeḷap
+    
+
     # Mejit
     - codes:
         iso3166-2: MH-MEJ
@@ -203,18 +232,34 @@ regions:
               languages: [en]
     
 
-    # Majuro
+    # Namdrik
     - codes:
-        iso3166-2: MH-MAJ
+        iso3166-2: MH-NMK
       names:
-        - name: Majuro
+        - name: Namdrik
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Mājro
+        - name: ṃdik
           sources:
             - name: iso3166-2
               languages: [mh]
+              value: Naṃdik
+    
+
+    # Namu
+    - codes:
+        iso3166-2: MH-NMU
+      names:
+        - name: Namu
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: ṃ
+          sources:
+            - name: iso3166-2
+              languages: [mh]
+              value: Naṃo
     
 
     # Ralik chain
@@ -275,20 +320,6 @@ regions:
               languages: [mh]
     
 
-    # Wotje
-    - codes:
-        iso3166-2: MH-WTJ
-      names:
-        - name: Wotje
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Wōjjā
-          sources:
-            - name: iso3166-2
-              languages: [mh]
-    
-
     # Wotho
     - codes:
         iso3166-2: MH-WTH
@@ -303,46 +334,15 @@ regions:
               languages: [mh]
     
 
-    # Maloelap
+    # Wotje
     - codes:
-        iso3166-2: MH-MAL
+        iso3166-2: MH-WTJ
       names:
-        - name: Maloelap
+        - name: Wotje
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Ṃ ḷoeḷap
+        - name: Wōjjā
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Ṃaḷoeḷap
-    
-
-    # Namu
-    - codes:
-        iso3166-2: MH-NMU
-      names:
-        - name: Namu
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: ṃ
-          sources:
-            - name: iso3166-2
-              languages: [mh]
-              value: Naṃo
-    
-
-    # Namdrik
-    - codes:
-        iso3166-2: MH-NMK
-      names:
-        - name: Namdrik
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: ṃdik
-          sources:
-            - name: iso3166-2
-              languages: [mh]
-              value: Naṃdik

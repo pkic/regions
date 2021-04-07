@@ -33,7 +33,8 @@ regions:
         - name: Alytaus apskritis
           sources:
             - name: euvoc
-              languages: [lt]
+              languages: [en, lt]
+              type: alternative
             - name: iso3166-2
               languages: [lt]
         - name: Alytus
@@ -210,7 +211,8 @@ regions:
         - name: Kauno apskritis
           sources:
             - name: euvoc
-              languages: [lt]
+              languages: [en, lt]
+              type: alternative
             - name: iso3166-2
               languages: [lt]
         - name: Kauņ
@@ -286,6 +288,11 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
+        - name: Klaipedos apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Klaipedsko okrožje
           sources:
             - name: euvoc
@@ -401,6 +408,11 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
+        - name: Marijampoles apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Marijampolsko okrožje
           sources:
             - name: euvoc
@@ -515,6 +527,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/7873
         iso3166-2: LT-PN
       names:
+        - name: Panevezio apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Panevežijsko okrožje
           sources:
             - name: euvoc
@@ -657,68 +674,6 @@ regions:
               languages: [lt]
     
 
-    # Šiauliai county
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7874
-        iso3166-2: LT-SA
-      names:
-        - name: Siauliai
-          sources:
-            - name: euvoc
-              languages: [mt, ro]
-        - name: Szawle
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: district Siauliai
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: district de Siauliai
-        - name: qarku Shiauliait
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: qarku i Shiauliait
-        - name: Šauļ
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Šauļi
-        - name: Šiauliai
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, es, et, fi, hr, hu, it, nl, pt, sk, sv]
-            - name: iso3166-2
-              languages: [lt]
-        - name: Šiauliai county
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Šiauliajsko okrožje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Šiaulių apskritis
-          sources:
-            - name: euvoc
-              languages: [lt]
-            - name: iso3166-2
-              languages: [lt]
-        - name: Шаулејски Округ
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Шиаулиаи
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Шяуляй
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Skuodas
     - codes:
         iso3166-2: LT-48
@@ -738,6 +693,11 @@ regions:
           sources:
             - name: euvoc
               languages: [es, hr, mt, ro]
+        - name: Taurages apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Tauragė
           sources:
             - name: euvoc
@@ -803,6 +763,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
+        - name: Telsiu apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Telsze
           sources:
             - name: euvoc
@@ -864,6 +829,16 @@ regions:
               languages: [lt]
     
 
+    # Ukmergė
+    - codes:
+        iso3166-2: LT-53
+      names:
+        - name: Ukmergė
+          sources:
+            - name: iso3166-2
+              languages: [lt]
+    
+
     # Utena county
     - codes:
         euvoc: http://eurovoc.europa.eu/7877
@@ -886,7 +861,8 @@ regions:
         - name: Utenos apskritis
           sources:
             - name: euvoc
-              languages: [lt]
+              languages: [en, lt]
+              type: alternative
             - name: iso3166-2
               languages: [lt]
         - name: Utensko okrožje
@@ -912,16 +888,6 @@ regions:
               languages: [mk]
     
 
-    # Ukmergė
-    - codes:
-        iso3166-2: LT-53
-      names:
-        - name: Ukmergė
-          sources:
-            - name: iso3166-2
-              languages: [lt]
-    
-
     # Varė
     - codes:
         iso3166-2: LT-55
@@ -931,6 +897,27 @@ regions:
             - name: iso3166-2
               languages: [lt]
               value: Varėna
+    
+
+    # Vilkaviškis
+    - codes:
+        iso3166-2: LT-56
+      names:
+        - name: Vilkaviškis
+          sources:
+            - name: iso3166-2
+              languages: [lt]
+    
+
+    # Vilniaus
+    - codes:
+        iso3166-2: LT-57
+      names:
+        - name: Vilniaus
+          sources:
+            - name: iso3166-2
+              languages: [lt]
+              value: Vilniaus miestas
     
 
     # Vilnius county
@@ -949,7 +936,8 @@ regions:
         - name: Vilniaus apskritis
           sources:
             - name: euvoc
-              languages: [lt]
+              languages: [en, lt]
+              type: alternative
             - name: iso3166-2
               languages: [lt]
         - name: Vilnius
@@ -999,27 +987,6 @@ regions:
               languages: [sr]
     
 
-    # Vilkaviškis
-    - codes:
-        iso3166-2: LT-56
-      names:
-        - name: Vilkaviškis
-          sources:
-            - name: iso3166-2
-              languages: [lt]
-    
-
-    # Vilniaus
-    - codes:
-        iso3166-2: LT-57
-      names:
-        - name: Vilniaus
-          sources:
-            - name: iso3166-2
-              languages: [lt]
-              value: Vilniaus miestas
-    
-
     # Visaginas
     - codes:
         iso3166-2: LT-59
@@ -1058,6 +1025,73 @@ regions:
           sources:
             - name: iso3166-2
               languages: [lt]
+    
+
+    # Šiauliai county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7874
+        iso3166-2: LT-SA
+      names:
+        - name: Siauliai
+          sources:
+            - name: euvoc
+              languages: [mt, ro]
+        - name: Siauliu apskritis
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Szawle
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: district Siauliai
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: district de Siauliai
+        - name: qarku Shiauliait
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: qarku i Shiauliait
+        - name: Šauļ
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Šauļi
+        - name: Šiauliai
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, es, et, fi, hr, hu, it, nl, pt, sk, sv]
+            - name: iso3166-2
+              languages: [lt]
+        - name: Šiauliai county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Šiauliajsko okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Šiaulių apskritis
+          sources:
+            - name: euvoc
+              languages: [lt]
+            - name: iso3166-2
+              languages: [lt]
+        - name: Шаулејски Округ
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Шиаулиаи
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Шяуляй
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Šiaulių

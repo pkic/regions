@@ -107,34 +107,6 @@ regions:
               languages: [sw]
     
 
-    # Pemba South
-    - codes:
-        iso3166-2: TZ-10
-      names:
-        - name: Kusini Pemba
-          sources:
-            - name: iso3166-2
-              languages: [sw]
-        - name: Pemba South
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
-    # Zanzibar South
-    - codes:
-        iso3166-2: TZ-11
-      names:
-        - name: Kusini Unguja
-          sources:
-            - name: iso3166-2
-              languages: [sw]
-        - name: Zanzibar South
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Lindi
     - codes:
         iso3166-2: TZ-12
@@ -229,6 +201,20 @@ regions:
               languages: [en]
     
 
+    # Pemba South
+    - codes:
+        iso3166-2: TZ-10
+      names:
+        - name: Kusini Pemba
+          sources:
+            - name: iso3166-2
+              languages: [sw]
+        - name: Pemba South
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
     # Rukwa
     - codes:
         iso3166-2: TZ-20
@@ -318,6 +304,20 @@ regions:
             - name: iso3166-2
               languages: [sw]
         - name: Zanzibar North
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # Zanzibar South
+    - codes:
+        iso3166-2: TZ-11
+      names:
+        - name: Kusini Unguja
+          sources:
+            - name: iso3166-2
+              languages: [sw]
+        - name: Zanzibar South
           sources:
             - name: iso3166-2
               languages: [en]

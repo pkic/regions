@@ -97,6 +97,12 @@ regions:
           sources:
             - name: euvoc
               languages: [lt, lv]
+        - name: Autonomous Community Andalusia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Andalusia
+              type: alternative
         - name: Ανδαλουσία
           sources:
             - name: euvoc
@@ -182,6 +188,12 @@ regions:
           sources:
             - name: euvoc
               languages: [sk]
+        - name: Autonomous Community Aragon
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Aragon
+              type: alternative
         - name: Αραγώνα
           sources:
             - name: euvoc
@@ -196,122 +208,6 @@ regions:
               languages: [mk]
     
 
-    # Principality Asturias
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3822
-      names:
-        - name: Asturia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Asturian ruhtinaskunta
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Asturie
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Asturien
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Astuuria vürstiriik
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Astúria
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Astūrijas firstiste
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Astūrijos Kunigaikštystė
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Asztúriai Hercegség
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Fürstentum Asturien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Kneževina Asturija
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-        - name: Principado Asturias
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Principado de Asturias
-        - name: Principado Astúrias
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Principado das Astúrias
-        - name: Principality Asturias
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Principality of Asturias
-        - name: Principata e Asturias
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Principato delle Asturie
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Principatul Asturias
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Principauté des Asturies
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Prinsdom Asturië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Prinċipat tal-Asturji
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: il-Prinċipat tal-Asturji
-        - name: Πριγκιπάτο Αστουριών
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Кнежевина Астурија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Кнежевство Астурија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Княжество Астурия
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Asturias
-    - codes:
-        iso3166-2: ES-O
-      names:
-        - name: Asturias
-          sources:
-            - name: iso3166-2
-              languages: [es]
-    
-
     # Asturias, Principado
     - codes:
         iso3166-2: ES-AS
@@ -321,6 +217,858 @@ regions:
             - name: iso3166-2
               languages: [es]
               value: Asturias, Principado de
+    
+
+    # Badajoz
+    - codes:
+        iso3166-2: ES-BA
+      names:
+        - name: Badajoz
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Balearic Islands
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3386
+      names:
+        - name: Autonomous Community Balearic Islands
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Balearic Islands
+              type: alternative
+        - name: Baleaarid
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Baleaarit
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Balearen
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Balearerna
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Balearerne
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Baleari
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Balearic Islands
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Balearische Inseln
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Balearsko otočje
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Baleary
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Balearų salos
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Baleár-szigetek
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Baleárské ostrovy
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Baleáry
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Baleāru salas
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Gżejjer Baleariċ
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Gżejjer Baleariċi
+        - name: Insulele Baleare
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Ishujt Baleare
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Islas Baleares
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: ilhas Baleares
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: isole Baleari
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Î Baléares
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Îles Baléares
+        - name: Βαλεαρίδες Νήσοι
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Балеарска острва
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Балеарски Острови
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
+    
+
+    # Barcelona
+    - codes:
+        iso3166-2: ES-B
+      names:
+        - name: Barcelona
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Barcelona [Barcelona]
+    
+
+    # Basque Country
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2289
+        iso3166-2: ES-PV
+      names:
+        - name: Autonomous Community Basque country
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Basque country
+              type: alternative
+        - name: Baskenland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Baskerlandet
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Baskicko
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+        - name: Baskien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Baskija
+          sources:
+            - name: euvoc
+              languages: [hr, lt, sl]
+        - name: Baskimaa
+          sources:
+            - name: euvoc
+              languages: [et, fi]
+        - name: Baskische provincies
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Basku zeme
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Basków
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Kraj Basków
+        - name: Basque Country
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Baszkföld
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Euskal Herria
+          sources:
+            - name: iso3166-2
+              languages: [eu]
+        - name: Paese Basco
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Pays basque
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: País Basco
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: País Vasco
+          sources:
+            - name: euvoc
+              languages: [es]
+            - name: iso3166-2
+              languages: [es]
+        - name: pajjiż Bask
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-pajjiż Bask
+        - name: vendet Baske
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Țara Bascilor
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Χώρα των Βάσκων
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Баскија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Страната на баските
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Bizkaia
+    - codes:
+        iso3166-2: ES-BI
+      names:
+        - name: Bizkaia
+          sources:
+            - name: iso3166-2
+              languages: [eu]
+    
+
+    # Burgos
+    - codes:
+        iso3166-2: ES-BU
+      names:
+        - name: Burgos
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Canarias
+    - codes:
+        iso3166-2: ES-CN
+      names:
+        - name: Canarias
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Canary Islands
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4172
+      names:
+        - name: Autonomous Community Canary Islands
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Canary Islands
+              type: alternative
+        - name: Canarie
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Canaries
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+        - name: Canarische Eilanden
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Canary Islands
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Gżejjer Kanarji
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Insulele Canare
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Ishujt Kanarie
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Islas Canarias
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Kanaari saared
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Kanariansaaret
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kanarieöarna
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Kanarische Inseln
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Kanariske Øer
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: De Kanariske Øer
+        - name: Kanarski Otoci
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Kanarski otoki
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Kanarų salos
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Kanári-szigetek
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Kanárske ostrovy
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Kanárské ostrovy
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Kanāriju salas
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Wyspy Kanaryjskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: ilhas Canárias
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Κανάριοι Νήσοι
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Канарска острва
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Канарски Острови
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
+    
+
+    # Cantabria
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3385
+        iso3166-2: ES-S
+      names:
+        - name: Autonomous Community Cantabria
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Cantabria
+              type: alternative
+        - name: Cantabria
+          sources:
+            - name: euvoc
+              languages: [en, es, hr, it, mt, ro]
+            - name: iso3166-2
+              languages: [es]
+        - name: Cantabrie
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+        - name: Cantabrien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Cantabrië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Cantábria
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Kantaabria
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Kantabria
+          sources:
+            - name: euvoc
+              languages: [fi, pl, sq]
+        - name: Kantabrien
+          sources:
+            - name: euvoc
+              languages: [de, sv]
+        - name: Kantabrija
+          sources:
+            - name: euvoc
+              languages: [lt, lv, sl]
+        - name: Kantábria
+          sources:
+            - name: euvoc
+              languages: [hu, sk]
+        - name: Kantábrie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Κανταβρία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Кантабрия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Кантабрија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Castelló
+    - codes:
+        iso3166-2: ES-CS
+      names:
+        - name: Castelló
+          sources:
+            - name: iso3166-2
+              languages: [ca]
+              value: Castelló*
+        - name: Castellón
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
+    # Castile Mancha
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3384
+        iso3166-2: ES-CM
+      names:
+        - name: Autonomous Community Castile Mancha
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Castile-La Mancha
+              type: alternative
+        - name: Castela e Mancha
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Castiglia e Mancia
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Castile Mancha
+          sources:
+            - name: euvoc
+              languages: [en, mt]
+              value: Castile-La Mancha
+        - name: Castilia Mancha
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Castilia - La Mancha
+        - name: Castilië Mancha
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Castilië en La Mancha
+        - name: Castilla Mancha
+          sources:
+            - name: euvoc
+              languages: [da, es, et, sv]
+              value: Castilla-La Mancha
+            - name: euvoc
+              languages: [hr]
+              value: Castilla i La Mancha
+            - name: iso3166-2
+              languages: [es]
+              value: Castilla-La Mancha
+        - name: Castille Manche
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Castille-La Manche
+        - name: Kastil Manç
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Kastil-La Mança
+        - name: Kastilia Mancha
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Kastilia- La Mancha
+        - name: Kastilie Mancha
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Kastilie a La Mancha
+        - name: Kastilien Mancha
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Kastilien-La Mancha
+        - name: Kastilija in Manč
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Kastilija in Manča
+        - name: Kastilija ir Manč
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Kastilija ir La Manča
+        - name: Kastylia Mancha
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Kastylia i La Mancha
+        - name: Kastília Mancha
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Kastília-La Mancha
+        - name: Kastīlija-Lamanč
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Kastīlija-Lamanča
+        - name: Kasztília Mancha
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Kasztília-La Mancha
+        - name: Mancha
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: La Mancha
+              type: alternative
+        - name: Καστίλλη και Μάντσα
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Кастилия - Ла Манча
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Кастилја-Ла Манча
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Кастиља-Ла Манча
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Castile-Leon
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3382
+        iso3166-2: ES-CL
+      names:
+        - name: Autonomous Community Castile-Leon
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Castile-Leon
+              type: alternative
+        - name: Castela e ã
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Castela e Leão
+        - name: Castiglia e Leone
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Castile Léon
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Castile-y-Léon
+        - name: Castile-Leon
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Castilia - Leon
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Castilië Leon
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Castilië en Leon
+        - name: Castilla Leon
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: Castilla y Leon
+        - name: Castilla ón
+          sources:
+            - name: euvoc
+              languages: [et, sv]
+              value: Castilla-León
+            - name: euvoc
+              languages: [hr]
+              value: Castilla i León
+            - name: euvoc
+              languages: [es]
+              value: Castilla y León
+            - name: iso3166-2
+              languages: [es]
+              value: Castilla y León
+        - name: Castille et ón
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Castille et León
+        - name: Kastil-Leon
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Kastilia ja ón
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Kastilia ja León
+        - name: Kastilie ón
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Kastilie a León
+        - name: Kastilien-Leon
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Kastilija in ón
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Kastilija in León
+        - name: Kastilija ir Leonas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Kastylia Leon
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Kastylia i Leon
+        - name: Kastília ón
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Kastília-León
+        - name: Kastīlija-Leona
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Kasztília és ón
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Kasztília és León
+        - name: Leon
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Καστίλλη και Λεόνη
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Кастилия - Леон
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Кастилја и Леон
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Кастиља-Леон
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Catalonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5273
+      names:
+        - name: Autonomous Community Catalonia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Catalonia
+              type: alternative
+        - name: Catalogna
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Catalogne
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+        - name: Catalonia
+          sources:
+            - name: euvoc
+              languages: [en, mt, ro]
+        - name: Catalonien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Catalonië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Catalunha
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Cataluñ
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Cataluña
+        - name: Katalonia
+          sources:
+            - name: euvoc
+              languages: [fi, pl, sq]
+        - name: Katalonien
+          sources:
+            - name: euvoc
+              languages: [de, sv]
+        - name: Katalonija
+          sources:
+            - name: euvoc
+              languages: [hr, lt, lv, sl]
+        - name: Kataloonia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Katalánie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Katalánsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Katalónia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Καταλωνία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Каталония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Каталонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Catalunya
+    - codes:
+        iso3166-2: ES-CT
+      names:
+        - name: Catalunya
+          sources:
+            - name: iso3166-2
+              languages: [ca]
+              value: Catalunya [Cataluña]
+    
+
+    # Ceuta
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6282
+        iso3166-2: ES-CE
+      names:
+        - name: Autonomous Ceuta
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous City of Ceuta
+              type: alternative
+        - name: Ceuta
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
+            - name: iso3166-2
+              languages: [es]
+        - name: Seuta
+          sources:
+            - name: euvoc
+              languages: [lt, sq]
+        - name: Seū
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Seūta
+        - name: Θέουτα
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Сеута
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Community Madrid
@@ -477,6 +1225,11 @@ regions:
           sources:
             - name: euvoc
               languages: [da]
+        - name: Valencian Community
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Valencian yhteisö
           sources:
             - name: euvoc
@@ -538,799 +1291,6 @@ regions:
               languages: [mk]
     
 
-    # Badajoz
-    - codes:
-        iso3166-2: ES-BA
-      names:
-        - name: Badajoz
-          sources:
-            - name: iso3166-2
-              languages: [es]
-    
-
-    # Balearic Islands
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3386
-      names:
-        - name: Baleaarid
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Baleaarit
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Balearen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Balearerna
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Balearerne
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Baleari
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Balearic Islands
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Balearische Inseln
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Balearsko otočje
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Baleary
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Balearų salos
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Baleár-szigetek
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Baleárské ostrovy
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Baleáry
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Baleāru salas
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Gżejjer Baleariċ
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Gżejjer Baleariċi
-        - name: Insulele Baleare
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Ishujt Baleare
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Islas Baleares
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: ilhas Baleares
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: isole Baleari
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Î Baléares
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Îles Baléares
-        - name: Βαλεαρίδες Νήσοι
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Балеарска острва
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Балеарски Острови
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-    
-
-    # Barcelona
-    - codes:
-        iso3166-2: ES-B
-      names:
-        - name: Barcelona
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Barcelona [Barcelona]
-    
-
-    # Basque Country
-    - codes:
-        euvoc: http://eurovoc.europa.eu/2289
-        iso3166-2: ES-PV
-      names:
-        - name: Baskenland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Baskerlandet
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Baskicko
-          sources:
-            - name: euvoc
-              languages: [cs, sk]
-        - name: Baskien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Baskija
-          sources:
-            - name: euvoc
-              languages: [hr, lt, sl]
-        - name: Baskimaa
-          sources:
-            - name: euvoc
-              languages: [et, fi]
-        - name: Baskische provincies
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Basku zeme
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Basków
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Kraj Basków
-        - name: Basque Country
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Baszkföld
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Euskal Herria
-          sources:
-            - name: iso3166-2
-              languages: [eu]
-        - name: Paese Basco
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Pays basque
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: País Basco
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: País Vasco
-          sources:
-            - name: euvoc
-              languages: [es]
-            - name: iso3166-2
-              languages: [es]
-        - name: pajjiż Bask
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-pajjiż Bask
-        - name: vendet Baske
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Țara Bascilor
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Χώρα των Βάσκων
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Баскија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Страната на баските
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Bizkaia
-    - codes:
-        iso3166-2: ES-BI
-      names:
-        - name: Bizkaia
-          sources:
-            - name: iso3166-2
-              languages: [eu]
-    
-
-    # Burgos
-    - codes:
-        iso3166-2: ES-BU
-      names:
-        - name: Burgos
-          sources:
-            - name: iso3166-2
-              languages: [es]
-    
-
-    # Canarias
-    - codes:
-        iso3166-2: ES-CN
-      names:
-        - name: Canarias
-          sources:
-            - name: iso3166-2
-              languages: [es]
-    
-
-    # Canary Islands
-    - codes:
-        euvoc: http://eurovoc.europa.eu/4172
-      names:
-        - name: Canarie
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Canaries
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Canarische Eilanden
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Canary Islands
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Gżejjer Kanarji
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Insulele Canare
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Ishujt Kanarie
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Islas Canarias
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Kanaari saared
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Kanariansaaret
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kanarieöarna
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Kanarische Inseln
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Kanariske Øer
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: De Kanariske Øer
-        - name: Kanarski Otoci
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Kanarski otoki
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Kanarų salos
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Kanári-szigetek
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Kanárske ostrovy
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Kanárské ostrovy
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Kanāriju salas
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Wyspy Kanaryjskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: ilhas Canárias
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Κανάριοι Νήσοι
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Канарска острва
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Канарски Острови
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-    
-
-    # Cantabria
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3385
-        iso3166-2: ES-S
-      names:
-        - name: Cantabria
-          sources:
-            - name: euvoc
-              languages: [en, es, hr, it, mt, ro]
-            - name: iso3166-2
-              languages: [es]
-        - name: Cantabrie
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Cantabrien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Cantabrië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Cantábria
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Kantaabria
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Kantabria
-          sources:
-            - name: euvoc
-              languages: [fi, pl, sq]
-        - name: Kantabrien
-          sources:
-            - name: euvoc
-              languages: [de, sv]
-        - name: Kantabrija
-          sources:
-            - name: euvoc
-              languages: [lt, lv, sl]
-        - name: Kantábria
-          sources:
-            - name: euvoc
-              languages: [hu, sk]
-        - name: Kantábrie
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Κανταβρία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Кантабрия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Кантабрија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Castile Mancha
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3384
-        iso3166-2: ES-CM
-      names:
-        - name: Castela e Mancha
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Castiglia e Mancia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Castile Mancha
-          sources:
-            - name: euvoc
-              languages: [en, mt]
-              value: Castile-La Mancha
-        - name: Castilia Mancha
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Castilia - La Mancha
-        - name: Castilië Mancha
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Castilië en La Mancha
-        - name: Castilla Mancha
-          sources:
-            - name: euvoc
-              languages: [da, es, et, sv]
-              value: Castilla-La Mancha
-            - name: euvoc
-              languages: [hr]
-              value: Castilla i La Mancha
-            - name: iso3166-2
-              languages: [es]
-              value: Castilla-La Mancha
-        - name: Castille Manche
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-              value: Castille-La Manche
-        - name: Kastil Manç
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Kastil-La Mança
-        - name: Kastilia Mancha
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Kastilia- La Mancha
-        - name: Kastilie Mancha
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Kastilie a La Mancha
-        - name: Kastilien Mancha
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Kastilien-La Mancha
-        - name: Kastilija in Manč
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Kastilija in Manča
-        - name: Kastilija ir Manč
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Kastilija ir La Manča
-        - name: Kastylia Mancha
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Kastylia i La Mancha
-        - name: Kastília Mancha
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Kastília-La Mancha
-        - name: Kastīlija-Lamanč
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Kastīlija-Lamanča
-        - name: Kasztília Mancha
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Kasztília-La Mancha
-        - name: Καστίλλη και Μάντσα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Кастилия - Ла Манча
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Кастилја-Ла Манча
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Кастиља-Ла Манча
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Castile-Leon
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3382
-        iso3166-2: ES-CL
-      names:
-        - name: Castela e ã
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Castela e Leão
-        - name: Castiglia e Leone
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Castile Léon
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Castile-y-Léon
-        - name: Castile-Leon
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Castilia - Leon
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Castilië Leon
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Castilië en Leon
-        - name: Castilla Leon
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Castilla y Leon
-        - name: Castilla ón
-          sources:
-            - name: euvoc
-              languages: [et, sv]
-              value: Castilla-León
-            - name: euvoc
-              languages: [es]
-              value: Castilla y León
-            - name: euvoc
-              languages: [hr]
-              value: Castilla i León
-            - name: iso3166-2
-              languages: [es]
-              value: Castilla y León
-        - name: Castille et ón
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-              value: Castille et León
-        - name: Kastil-Leon
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Kastilia ja ón
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Kastilia ja León
-        - name: Kastilie ón
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Kastilie a León
-        - name: Kastilien-Leon
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Kastilija in ón
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Kastilija in León
-        - name: Kastilija ir Leonas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Kastylia Leon
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Kastylia i Leon
-        - name: Kastília ón
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Kastília-León
-        - name: Kastīlija-Leona
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Kasztília és ón
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Kasztília és León
-        - name: Καστίλλη και Λεόνη
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Кастилия - Леон
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Кастилја и Леон
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Кастиља-Леон
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Castelló
-    - codes:
-        iso3166-2: ES-CS
-      names:
-        - name: Castelló
-          sources:
-            - name: iso3166-2
-              languages: [ca]
-              value: Castelló*
-        - name: Castellón
-          sources:
-            - name: iso3166-2
-              languages: [es]
-    
-
-    # Catalonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5273
-      names:
-        - name: Catalogna
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Catalogne
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Catalonia
-          sources:
-            - name: euvoc
-              languages: [en, mt, ro]
-        - name: Catalonien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Catalonië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Catalunha
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Cataluñ
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Cataluña
-        - name: Katalonia
-          sources:
-            - name: euvoc
-              languages: [fi, pl, sq]
-        - name: Katalonien
-          sources:
-            - name: euvoc
-              languages: [de, sv]
-        - name: Katalonija
-          sources:
-            - name: euvoc
-              languages: [hr, lt, lv, sl]
-        - name: Kataloonia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Katalánie
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Katalánsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Katalónia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Καταλωνία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Каталония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Каталонија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Catalunya
-    - codes:
-        iso3166-2: ES-CT
-      names:
-        - name: Catalunya
-          sources:
-            - name: iso3166-2
-              languages: [ca]
-              value: Catalunya [Cataluña]
-    
-
-    # Ceuta
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6282
-        iso3166-2: ES-CE
-      names:
-        - name: Ceuta
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
-            - name: iso3166-2
-              languages: [es]
-        - name: Seuta
-          sources:
-            - name: euvoc
-              languages: [lt, sq]
-        - name: Seū
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Seūta
-        - name: Θέουτα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Сеута
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
     # Coruñ
     - codes:
         iso3166-2: ES-C
@@ -1387,6 +1347,12 @@ regions:
         euvoc: http://eurovoc.europa.eu/869
         iso3166-2: ES-EX
       names:
+        - name: Autonomous Community Extremadura
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Extremadura
+              type: alternative
         - name: Ekstremadura
           sources:
             - name: euvoc
@@ -1432,6 +1398,12 @@ regions:
         euvoc: http://eurovoc.europa.eu/1127
         iso3166-2: ES-GA
       names:
+        - name: Autonomous Community Galicia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Galicia
+              type: alternative
         - name: Galice
           sources:
             - name: euvoc
@@ -1580,39 +1552,6 @@ regions:
               languages: [es]
     
 
-    # Rioja
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3387
-        iso3166-2: ES-RI
-      names:
-        - name: Larjoha
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Rioha
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Rioja
-          sources:
-            - name: euvoc
-              languages: [de, es, et, hr, it, nl, pt, sk]
-              value: La Rioja
-            - name: euvoc
-              languages: [cs, da, en, fi, fr, hu, lt, mt, pl, ro, sl, sv]
-            - name: iso3166-2
-              languages: [es]
-              value: La Rioja
-        - name: Ριόχα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Ла Риоха
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
     # Las Palmas
     - codes:
         iso3166-2: ES-GC
@@ -1661,6 +1600,12 @@ regions:
         euvoc: http://eurovoc.europa.eu/6283
         iso3166-2: ES-ML
       names:
+        - name: Autonomous Melilla
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous City of Melilla
+              type: alternative
         - name: Melila
           sources:
             - name: euvoc
@@ -1703,13 +1648,16 @@ regions:
         euvoc: http://eurovoc.europa.eu/3392
         iso3166-2: ES-MU
       names:
+        - name: Autonomous Community Murcia
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Region of Murcia
+              type: alternative
         - name: Murcia
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione di Murcia
-            - name: euvoc
-              languages: [de, en, et, hr, mt, nl, sk, sl, sv]
+              languages: [de, en, et, hr, it, mt, nl, sk, sl, sv]
             - name: iso3166-2
               languages: [es]
         - name: Murcia-regionen
@@ -1806,11 +1754,39 @@ regions:
               languages: [es]
     
 
+    # Nafarroako Foru Komunitatea
+    - codes:
+        iso3166-2: ES-NC
+      names:
+        - name: Nafarroako Foru Komunitatea
+          sources:
+            - name: iso3166-2
+              languages: [eu]
+              value: Nafarroako Foru Komunitatea*
+        - name: Navarra, Comunidad Foral
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Navarra, Comunidad Foral de
+    
+
     # Navarre
     - codes:
         euvoc: http://eurovoc.europa.eu/2038
         iso3166-2: ES-NA
       names:
+        - name: Autonomous Community Navarre
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Navarre
+              type: alternative
+        - name: Foral Community Navarre
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Foral Community of Navarre
+              type: alternative
         - name: Nafarroa
           sources:
             - name: iso3166-2
@@ -1842,22 +1818,6 @@ regions:
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
-    
-
-    # Nafarroako Foru Komunitatea
-    - codes:
-        iso3166-2: ES-NC
-      names:
-        - name: Nafarroako Foru Komunitatea
-          sources:
-            - name: iso3166-2
-              languages: [eu]
-              value: Nafarroako Foru Komunitatea*
-        - name: Navarra, Comunidad Foral
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Navarra, Comunidad Foral de
     
 
     # Ourense
@@ -1892,6 +1852,126 @@ regions:
               value: Pontevedra [Pontevedra]
     
 
+    # Principality Asturias
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3822
+        iso3166-2: ES-O
+      names:
+        - name: Asturia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Asturian ruhtinaskunta
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Asturias
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+            - name: iso3166-2
+              languages: [es]
+        - name: Asturie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Asturien
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Astuuria vürstiriik
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Astúria
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Astūrijas firstiste
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Astūrijos Kunigaikštystė
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Asztúriai Hercegség
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Autonomous Community Principality Asturias
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Principality of Asturias
+              type: alternative
+        - name: Fürstentum Asturien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Kneževina Asturija
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+        - name: Principado Asturias
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Principado de Asturias
+        - name: Principado Astúrias
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Principado das Astúrias
+        - name: Principality Asturias
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Principality of Asturias
+        - name: Principata e Asturias
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Principato delle Asturie
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Principatul Asturias
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Principauté des Asturies
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Prinsdom Asturië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Prinċipat tal-Asturji
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: il-Prinċipat tal-Asturji
+        - name: Πριγκιπάτο Αστουριών
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Кнежевина Астурија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Кнежевство Астурија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Княжество Астурия
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Real
     - codes:
         iso3166-2: ES-CR
@@ -1901,6 +1981,45 @@ regions:
             - name: iso3166-2
               languages: [es]
               value: Ciudad Real
+    
+
+    # Rioja
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3387
+        iso3166-2: ES-RI
+      names:
+        - name: Autonomous Community Rioja
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of la Rioja
+              type: alternative
+        - name: Larjoha
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Rioha
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Rioja
+          sources:
+            - name: euvoc
+              languages: [de, es, et, hr, it, nl, pt, sk]
+              value: La Rioja
+            - name: euvoc
+              languages: [cs, da, en, fi, fr, hu, lt, mt, pl, ro, sl, sv]
+            - name: iso3166-2
+              languages: [es]
+              value: La Rioja
+        - name: Ριόχα
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Ла Риоха
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Salamanca

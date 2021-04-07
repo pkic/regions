@@ -69,6 +69,16 @@ regions:
               languages: [bg, mk, sr]
     
 
+    # Aveiro
+    - codes:
+        iso3166-2: PT-01
+      names:
+        - name: Aveiro
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+    
+
     # Azores
     - codes:
         euvoc: http://eurovoc.europa.eu/5076
@@ -155,16 +165,6 @@ regions:
           sources:
             - name: euvoc
               languages: [bg, mk]
-    
-
-    # Aveiro
-    - codes:
-        iso3166-2: PT-01
-      names:
-        - name: Aveiro
-          sources:
-            - name: iso3166-2
-              languages: [pt]
     
 
     # Beja
@@ -359,6 +359,16 @@ regions:
               languages: [pt]
     
 
+    # Lisboa
+    - codes:
+        iso3166-2: PT-11
+      names:
+        - name: Lisboa
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+    
+
     # Lisbon and Tagus Valley
     - codes:
         euvoc: http://eurovoc.europa.eu/3395
@@ -482,20 +492,16 @@ regions:
               languages: [bg]
     
 
-    # Lisboa
-    - codes:
-        iso3166-2: PT-11
-      names:
-        - name: Lisboa
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-    
-
     # Madeira
     - codes:
         euvoc: http://eurovoc.europa.eu/1730
       names:
+        - name: Autonomous Madeira
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous region of Madeira
+              type: alternative
         - name: Madeira
           sources:
             - name: euvoc

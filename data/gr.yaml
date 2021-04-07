@@ -178,119 +178,6 @@ regions:
               languages: [el]
     
 
-    # Eastern Macedonia and Thrace
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7892
-      names:
-        - name: Austrummaķedonija un Trasa
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Eastern Macedonia and Thrace
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Ida-Makedoonia ja Traakia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Istoč Makedonija Trakija
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Istočna Makedonija i Trakija
-        - name: Itä-Makedonia ja Traakia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kelet-Macedónia és Trákia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Macedonia Oriental-Tracia
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Macedonia Orientală ș Tracia
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Macedonia Orientală și Tracia
-        - name: Macedonia Wschodnia Tracja
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Macedonia Wschodnia i Tracja
-        - name: Macedonia orientale e Tracia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Macedónia Oriental e Trácia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Macédoine orientale et Thrace
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Maqedonia Lindore and Traka
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Maċedonja tal-lvant Traċe
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Maċedonja tal-lvant u Traċe
-        - name: Oost-Macedonië Thracië
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Oost-Macedonië en Thracië
-        - name: Ostmakedonien und Thrakien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Rytų Makedonija ir Trakija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Vzhodna Makedonija in Trakija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Východné Macedónsko Trácia
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Východné Macedónsko a Trácia
-        - name: Východní Makedonie Thrákie
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Východní Makedonie a Thrákie
-        - name: Østmakedonien og Thrakien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: östra Makedonien och Thrakien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Ανατολική Μακεδονία και Θράκη
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Източна Македония и Тракия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Источна Македонија и Тракија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
     # Central Greece
     - codes:
         euvoc: http://eurovoc.europa.eu/1183
@@ -560,122 +447,6 @@ regions:
               languages: [bg, mk, sr]
     
 
-    # Southern Aegean
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7896
-      names:
-        - name: Dienvidegeja
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Egeea Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Egeea de Sud
-        - name: Egeo Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Egeo meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Egeu Sul
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Egeu do Sul
-        - name: Egjeu Jugor
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Etelä-Egean saaret
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Juž Egejsko morje
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Južno Egejsko morje
-        - name: Južni Egej
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: L-Eġ tan-Nofsinhar
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: L-Eġew tan-Nofsinhar
-        - name: Lõuna-Egeus
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Pietų Egėjo salos
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Południowe Wyspy Egejskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Southern Aegean
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Sydegeiska öarna
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Sydægæiske Områ
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Det Sydægæiske Område
-        - name: Südägais
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zuid-Egeïsche Zee
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: dél-égei régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: južné Egejské more
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Égée méridionale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: žní Egejské moře
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: jižní Egejské moře
-        - name: Νότιο Αιγαίο
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужен Егеј
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Јужно егејско море
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: южно Егейско море
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Dytikí Ellá
     - codes:
         iso3166-2: GR-G
@@ -698,198 +469,119 @@ regions:
               value: Dytikí Makedonía
     
 
-    # Northern Aegean
+    # Eastern Macedonia and Thrace
     - codes:
-        euvoc: http://eurovoc.europa.eu/7895
+        euvoc: http://eurovoc.europa.eu/7892
       names:
-        - name: Egeea Nord
+        - name: Austrummaķedonija un Trasa
           sources:
             - name: euvoc
-              languages: [ro]
-              value: Egeea de Nord
-        - name: Egeo septentrional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Egeo settentrionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Egeu Norte
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Egeu do Norte
-        - name: Egjeu Verior
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: L-Eġ tat-tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: L-Eġew tat-tramuntana
-        - name: Noord-Egeïsche Zee
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Nordegeiska öarna
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Nordägäis
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Nordægæiske Områ
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Det Nordægæiske Område
-        - name: Northern Aegean
+              languages: [lv]
+        - name: Eastern Macedonia and Thrace
           sources:
             - name: euvoc
               languages: [en]
-        - name: Pohjois-Egean saaret
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Północne Wyspy Egejskie
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Põhja-Egeus
+        - name: Ida-Makedoonia ja Traakia
           sources:
             - name: euvoc
               languages: [et]
-        - name: Severno Egejsko morje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Sjeverni Egej
+        - name: Istoč Makedonija Trakija
           sources:
             - name: euvoc
               languages: [hr]
-        - name: Ziemeļegeja
+              value: Istočna Makedonija i Trakija
+        - name: Itä-Makedonia ja Traakia
           sources:
             - name: euvoc
-              languages: [lv]
-        - name: severné Egejské more
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: severní Egejské moře
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Égée septentrionale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: észak-égei régió
+              languages: [fi]
+        - name: Kelet-Macedónia és Trákia
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Šiaurės Egėjo salos
+        - name: Macedonia Oriental-Tracia
           sources:
             - name: euvoc
-              languages: [lt]
-        - name: Βόρειο Αιγαίο
+              languages: [es]
+        - name: Macedonia Orientală ș Tracia
           sources:
             - name: euvoc
-              languages: [el]
-        - name: Северен Егеј
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Северно егејско море
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: северно Егейско море
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Macedonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/1717
-      names:
-        - name: Egejska Makedonija
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Macedonia
-          sources:
-            - name: euvoc
-              languages: [en, es, it, ro]
-        - name: Macedonia Grecka
+              languages: [ro]
+              value: Macedonia Orientală și Tracia
+        - name: Macedonia Wschodnia Tracja
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Macedonië
+              value: Macedonia Wschodnia i Tracja
+        - name: Macedonia orientale e Tracia
           sources:
             - name: euvoc
-              languages: [nl]
-        - name: Macedónia
+              languages: [it]
+        - name: Macedónia Oriental e Trácia
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Macedónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Macedónsko (grécke regióny)
-        - name: Macédoine
+        - name: Macédoine orientale et Thrace
           sources:
             - name: euvoc
               languages: [fr]
-        - name: Makedonia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Makedonie
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Makedonien
-          sources:
-            - name: euvoc
-              languages: [da, de, sv]
-        - name: Makedonija
-          sources:
-            - name: euvoc
-              languages: [lt, sl]
-        - name: Makedoonia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Makedónia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Maqedonia
+        - name: Maqedonia Lindore and Traka
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Maċedonja
+        - name: Maċedonja tal-lvant Traċe
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Maķedonija
+              value: Il-Maċedonja tal-lvant u Traċe
+        - name: Oost-Macedonië Thracië
           sources:
             - name: euvoc
-              languages: [lv]
-        - name: Μακεδονία
+              languages: [nl]
+              value: Oost-Macedonië en Thracië
+        - name: Ostmakedonien und Thrakien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Rytų Makedonija ir Trakija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vzhodna Makedonija in Trakija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Východné Macedónsko Trácia
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Východné Macedónsko a Trácia
+        - name: Východní Makedonie Thrákie
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Východní Makedonie a Thrákie
+        - name: Western Thrace
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Østmakedonien og Thrakien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: östra Makedonien och Thrakien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Ανατολική Μακεδονία και Θράκη
           sources:
             - name: euvoc
               languages: [el]
-        - name: Македония
+        - name: Източна Македония и Тракия
           sources:
             - name: euvoc
               languages: [bg]
-        - name: Македонија
+        - name: Источна Македонија и Тракија
           sources:
             - name: euvoc
               languages: [mk, sr]
@@ -956,124 +648,15 @@ regions:
               languages: [bg, mk, sr]
     
 
-    # Western Greece
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7890
-      names:
-        - name: Grecia Occidental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Grecia Occidentală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Grecia occidentale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Grecja Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Greqia Perëndimore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Greċja tal-Punent
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Greċja tal-Punent
-        - name: Grèce occidentale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Grécia Ocidental
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Länsi-Kreikka
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lääne-Kreeka
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Nyugat-Görögország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Rietumgrieķija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vakarų Graikija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Vestgrækenland
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Västra Grekland
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: West-Griekenland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Western Greece
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Westgriechenland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zahodna Grčija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Zapadna Grč
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Zapadna Grčka
-        - name: ápadné Grécko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západné Grécko
-        - name: ápadní Řecko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západní Řecko
-        - name: Δυτική Ελλάδα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Западна Грција
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Западна Грчка
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Западна Гърция
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Ionian Islands
     - codes:
         euvoc: http://eurovoc.europa.eu/1295
       names:
+        - name: Corfu
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Gżejjer Jonji
           sources:
             - name: euvoc
@@ -1217,6 +800,662 @@ regions:
               value: Kríti
     
 
+    # Macedonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1717
+      names:
+        - name: Egejska Makedonija
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Macedonia
+          sources:
+            - name: euvoc
+              languages: [en, es, it, ro]
+        - name: Macedonia Grecka
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Macedonië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Macedónia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Macedónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Macedónsko (grécke regióny)
+        - name: Macédoine
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Makedonia
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Makedonie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Makedonien
+          sources:
+            - name: euvoc
+              languages: [da, de, sv]
+        - name: Makedonija
+          sources:
+            - name: euvoc
+              languages: [lt, sl]
+        - name: Makedoonia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Makedónia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Maqedonia
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Maċedonja
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Maķedonija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Μακεδονία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Македония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Македонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Northern Aegean
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7895
+      names:
+        - name: Egeea Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Egeea de Nord
+        - name: Egeo septentrional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Egeo settentrionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Egeu Norte
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Egeu do Norte
+        - name: Egjeu Verior
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: L-Eġ tat-tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: L-Eġew tat-tramuntana
+        - name: Noord-Egeïsche Zee
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Nordegeiska öarna
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Nordägäis
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Nordægæiske Områ
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: Det Nordægæiske Område
+        - name: North Aegean
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Northern Aegean
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Pohjois-Egean saaret
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Północne Wyspy Egejskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Põhja-Egeus
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Severno Egejsko morje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Sjeverni Egej
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Ziemeļegeja
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: severné Egejské more
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: severní Egejské moře
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Égée septentrionale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: észak-égei régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Egėjo salos
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βόρειο Αιγαίο
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северен Егеј
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Северно егејско море
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: северно Егейско море
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Nótio Aigaí
+    - codes:
+        iso3166-2: GR-L
+      names:
+        - name: Nótio Aigaí
+          sources:
+            - name: iso3166-2
+              languages: [el]
+              value: Nótio Aigaío
+    
+
+    # Peloponnese
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2315
+      names:
+        - name: Peloponesas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Peloponeso
+          sources:
+            - name: euvoc
+              languages: [es, pt]
+        - name: Peloponez
+          sources:
+            - name: euvoc
+              languages: [hr, pl, ro, sl]
+        - name: Peloponezi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Peloponnes
+          sources:
+            - name: euvoc
+              languages: [da, de]
+        - name: Peloponnese
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Peloponneso
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Peloponnesos
+          sources:
+            - name: euvoc
+              languages: [et, fi, nl, sv]
+        - name: Peloponneże
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: il-Peloponneże
+        - name: Peloponnészosz
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Peloponé
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Peloponéz
+        - name: Peloponés
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Peloponēsa
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Péloponnèse
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Πελοπόννησος
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Пелопонез
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Пелопонес
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Pelopónnisos
+    - codes:
+        iso3166-2: GR-J
+      names:
+        - name: Pelopónnisos
+          sources:
+            - name: iso3166-2
+              languages: [el]
+    
+
+    # Southern Aegean
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7896
+      names:
+        - name: Cyclades
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Dienvidegeja
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Dodecanese
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Egeea Sud
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Egeea de Sud
+        - name: Egeo Meridional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Egeo meridionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Egeu Sul
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Egeu do Sul
+        - name: Egjeu Jugor
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Etelä-Egean saaret
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Juž Egejsko morje
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Južno Egejsko morje
+        - name: Južni Egej
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: L-Eġ tan-Nofsinhar
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: L-Eġew tan-Nofsinhar
+        - name: Lõuna-Egeus
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Pietų Egėjo salos
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Południowe Wyspy Egejskie
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: South Aegean island
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Southern Aegean
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Sydegeiska öarna
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Sydægæiske Områ
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: Det Sydægæiske Område
+        - name: Südägais
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zuid-Egeïsche Zee
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: dél-égei régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: južné Egejské more
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Égée méridionale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: žní Egejské moře
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: jižní Egejské moře
+        - name: Νότιο Αιγαίο
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јужен Егеј
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Јужно егејско море
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: южно Егейско море
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Stereá Ellá
+    - codes:
+        iso3166-2: GR-H
+      names:
+        - name: Stereá Ellá
+          sources:
+            - name: iso3166-2
+              languages: [el]
+              value: Stereá Elláda
+    
+
+    # Thessaly
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4458
+      names:
+        - name: Sporades
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Tesalia
+          sources:
+            - name: euvoc
+              languages: [es, pl, ro, sq]
+        - name: Tesalija
+          sources:
+            - name: euvoc
+              languages: [hr, lt, sl]
+        - name: Tessaalia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Tessaglia
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Tessalija
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Tessália
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Tesália
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Tesālija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Thessalia
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Thessalie
+          sources:
+            - name: euvoc
+              languages: [cs, fr]
+        - name: Thessalien
+          sources:
+            - name: euvoc
+              languages: [da, de, sv]
+        - name: Thessalië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Thessaly
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Thesszália
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Θεσσαλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Тесалия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Тесалија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Thessalí
+    - codes:
+        iso3166-2: GR-E
+      names:
+        - name: Thessalí
+          sources:
+            - name: iso3166-2
+              languages: [el]
+              value: Thessalía
+    
+
+    # Vóreio Aigaí
+    - codes:
+        iso3166-2: GR-K
+      names:
+        - name: Vóreio Aigaí
+          sources:
+            - name: iso3166-2
+              languages: [el]
+              value: Vóreio Aigaío
+    
+
+    # Western Greece
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7890
+      names:
+        - name: Grecia Occidental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Grecia Occidentală
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Grecia occidentale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Grecja Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Greqia Perëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Greċja tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-Greċja tal-Punent
+        - name: Grèce occidentale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Grécia Ocidental
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Länsi-Kreikka
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lääne-Kreeka
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Nyugat-Görögország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Rietumgrieķija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vakarų Graikija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vestgrækenland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Västra Grekland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: West-Griekenland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Western Greece
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Westgriechenland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zahodna Grčija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Zapadna Grč
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Zapadna Grčka
+        - name: ápadné Grécko
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Západné Grécko
+        - name: ápadní Řecko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Západní Řecko
+        - name: Δυτική Ελλάδα
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Западна Грција
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Западна Грчка
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Западна Гърция
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Western Macedonia
     - codes:
         euvoc: http://eurovoc.europa.eu/7893
@@ -1324,210 +1563,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk, sr]
-    
-
-    # Nótio Aigaí
-    - codes:
-        iso3166-2: GR-L
-      names:
-        - name: Nótio Aigaí
-          sources:
-            - name: iso3166-2
-              languages: [el]
-              value: Nótio Aigaío
-    
-
-    # Peloponnese
-    - codes:
-        euvoc: http://eurovoc.europa.eu/2315
-      names:
-        - name: Peloponesas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Peloponeso
-          sources:
-            - name: euvoc
-              languages: [es, pt]
-        - name: Peloponez
-          sources:
-            - name: euvoc
-              languages: [hr, pl, ro, sl]
-        - name: Peloponezi
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Peloponnes
-          sources:
-            - name: euvoc
-              languages: [da, de]
-        - name: Peloponnese
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Peloponneso
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Peloponnesos
-          sources:
-            - name: euvoc
-              languages: [et, fi, nl, sv]
-        - name: Peloponneże
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: il-Peloponneże
-        - name: Peloponnészosz
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Peloponé
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Peloponéz
-        - name: Peloponés
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Peloponēsa
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Péloponnèse
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Πελοπόννησος
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Пелопонез
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Пелопонес
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Pelopónnisos
-    - codes:
-        iso3166-2: GR-J
-      names:
-        - name: Pelopónnisos
-          sources:
-            - name: iso3166-2
-              languages: [el]
-    
-
-    # Stereá Ellá
-    - codes:
-        iso3166-2: GR-H
-      names:
-        - name: Stereá Ellá
-          sources:
-            - name: iso3166-2
-              languages: [el]
-              value: Stereá Elláda
-    
-
-    # Thessaly
-    - codes:
-        euvoc: http://eurovoc.europa.eu/4458
-      names:
-        - name: Tesalia
-          sources:
-            - name: euvoc
-              languages: [es, pl, ro, sq]
-        - name: Tesalija
-          sources:
-            - name: euvoc
-              languages: [hr, lt, sl]
-        - name: Tessaalia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Tessaglia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Tessalija
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Tessália
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Tesália
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Tesālija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Thessalia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Thessalie
-          sources:
-            - name: euvoc
-              languages: [cs, fr]
-        - name: Thessalien
-          sources:
-            - name: euvoc
-              languages: [da, de, sv]
-        - name: Thessalië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Thessaly
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Thesszália
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Θεσσαλία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Тесалия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Тесалија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Thessalí
-    - codes:
-        iso3166-2: GR-E
-      names:
-        - name: Thessalí
-          sources:
-            - name: iso3166-2
-              languages: [el]
-              value: Thessalía
-    
-
-    # Vóreio Aigaí
-    - codes:
-        iso3166-2: GR-K
-      names:
-        - name: Vóreio Aigaí
-          sources:
-            - name: iso3166-2
-              languages: [el]
-              value: Vóreio Aigaío
     
 
     # Ágion Óros

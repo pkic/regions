@@ -350,116 +350,6 @@ regions:
               languages: [sl]
     
 
-    # South-east Slovenia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7820
-      names:
-        - name: Dienvidaustrumslovēnija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Délkelet-Szlovénia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Eslovenia Sudoriental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Eslovénia Sudeste
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Ix-Xlokk tas-Slovenja
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Jihovýchodní Slovinsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Jugoistoč Slovenija
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Jugoistočna Slovenija
-        - name: Jugovzhodna Slovenija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Kaakkois-Slovenia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kagu-Sloveenia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Pietryč ų Slovėnija
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Pietryčių Slovėnija
-        - name: Sllovenia Juglindore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Slovenia Sud-Est
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Slovenia de Sud-Est
-        - name: Slovenia sudorientale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Slovénie Sud-Est
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Slovénie du Sud-Est
-        - name: South-east Slovenia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Sydöstra Slovenien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Sydøstslovenien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Südostslowenien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Słowenia Południowo-Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Zuidoost-Slovenië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: juhovýchodné Slovinsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Νοτιοανατολική Σλοβενία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Југоисточна Словенија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Югоизточна Словения
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Divač
     - codes:
         iso3166-2: SI-019
@@ -553,36 +443,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sl]
-    
-
-    # Spodnjeposavska
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7827
-      names:
-        - name: Donjoposavska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Spodneposavska
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Spodnjeposavska
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
-        - name: Долносавска
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Доњопосавска
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Споднепозавска
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Dornava
@@ -912,38 +772,6 @@ regions:
               languages: [sl]
     
 
-    # Koroš
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7821
-      names:
-        - name: Karyntia
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Karyntia (Słowenia)
-        - name: Koroshka
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Koroska
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Koroš
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pt, ro, sk, sl, sv]
-              value: Koroška
-        - name: Короска
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Корушка
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
     # Kidričevo
     - codes:
         iso3166-2: SI-045
@@ -1006,6 +834,38 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sl]
+    
+
+    # Koroš
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7821
+      names:
+        - name: Karyntia
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Karyntia (Słowenia)
+        - name: Koroshka
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Koroska
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Koroš
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pt, ro, sk, sl, sv]
+              value: Koroška
+        - name: Короска
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Корушка
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Kosanjevica Krki
@@ -1285,47 +1145,6 @@ regions:
               languages: [sl]
     
 
-    # Obalno-kraš
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7823
-      names:
-        - name: Marítima Karst
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Marítima y Karst
-        - name: Obalna-Kraš
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Obalna-Kraška
-        - name: Obalno-krashka
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Obalno-kraska
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Obalno-kraš
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sk, sl, sv]
-              value: Obalno-kraška
-        - name: Крајбрежно-крашка
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Обално - краска
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Приморско-крашка
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
     # Medvode
     - codes:
         iso3166-2: SI-071
@@ -1556,6 +1375,47 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sl]
+    
+
+    # Obalno-kraš
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7823
+      names:
+        - name: Marítima Karst
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Marítima y Karst
+        - name: Obalna-Kraš
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Obalna-Kraška
+        - name: Obalno-krashka
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Obalno-kraska
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Obalno-kraš
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sk, sl, sv]
+              value: Obalno-kraška
+        - name: Крајбрежно-крашка
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Обално - краска
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Приморско-крашка
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Odranci
@@ -2037,6 +1897,146 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sl]
+    
+
+    # South-east Slovenia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7820
+      names:
+        - name: Dienvidaustrumslovēnija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Délkelet-Szlovénia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Eslovenia Sudoriental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Eslovénia Sudeste
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Ix-Xlokk tas-Slovenja
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Jihovýchodní Slovinsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Jugoistoč Slovenija
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jugoistočna Slovenija
+        - name: Jugovzhodna Slovenija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Kaakkois-Slovenia
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kagu-Sloveenia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Pietryč ų Slovėnija
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Pietryčių Slovėnija
+        - name: Sllovenia Juglindore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Slovenia Sud-Est
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Slovenia de Sud-Est
+        - name: Slovenia sudorientale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Slovénie Sud-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Slovénie du Sud-Est
+        - name: South-east Slovenia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Sydöstra Slovenien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Sydøstslovenien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Südostslowenien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Słowenia Południowo-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Zuidoost-Slovenië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: juhovýchodné Slovinsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Νοτιοανατολική Σλοβενία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Југоисточна Словенија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Югоизточна Словения
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Spodnjeposavska
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7827
+      names:
+        - name: Donjoposavska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Spodneposavska
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Spodnjeposavska
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hu, it, lv, mt, nl, pl, pt, ro, sk, sl, sq, sv]
+        - name: Долносавска
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Доњопосавска
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Споднепозавска
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Središče ob Dravi

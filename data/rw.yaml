@@ -3,24 +3,6 @@ complete: false
 regions:
     
 
-    # Southern
-    - codes:
-        iso3166-2: RW-05
-      names:
-        - name: Amajyepfo
-          sources:
-            - name: iso3166-2
-              languages: [rw]
-        - name: Southern
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Sud
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-    
-
     # Eastern
     - codes:
         iso3166-2: RW-02
@@ -74,6 +56,24 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # Southern
+    - codes:
+        iso3166-2: RW-05
+      names:
+        - name: Amajyepfo
+          sources:
+            - name: iso3166-2
+              languages: [rw]
+        - name: Southern
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Sud
+          sources:
+            - name: iso3166-2
+              languages: [fr]
     
 
     # Western

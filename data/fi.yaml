@@ -4,73 +4,6 @@ complete: false
 regions:
     
 
-    # Åland
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6252
-      names:
-        - name: Ahvenamaa
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Ahvenanmaa
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Aland
-          sources:
-            - name: euvoc
-              languages: [hr, ro, sl]
-        - name: Alanda
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Alandai
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Alandi
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Alandy
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Islas Åland
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Wyspy Alandzkie
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Åland
-          sources:
-            - name: euvoc
-              languages: [cs, da, en, hu, it, mt, nl, sv]
-        - name: Ålandinseln
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Î Åland
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Îles Åland
-        - name: Ālandu salas
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Νήσοι Ώλαντ
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Аланд
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
     # Ahvenanmaan
     - codes:
         iso3166-2: FI-01
@@ -190,108 +123,6 @@ regions:
               languages: [mk, sr]
     
 
-    # Southern Finland
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6251
-      names:
-        - name: Dienvidsomija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Dél-Finnország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Etelä-Suomi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Finlanda Jugore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Finlanda Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Finlanda de Sud
-        - name: Finlande méridionale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Finlandia Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Finlandia Południowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Finlandia meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Finlândia Meridional
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Finslandja tat-Tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Finslandja tat-Tramuntana
-        - name: Juž Finska
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-              value: Južna Finska
-        - name: Južné Fínsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Lõuna-Soome
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Pietų Suomija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Southern Finland
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Södra Finland
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Südfinnland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: zuidelijk Finland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: žní Finsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Finsko
-        - name: Νότια Φινλανδία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужна Финска
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Южна Финландия
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Egentliga Finland
     - codes:
         iso3166-2: FI-19
@@ -346,111 +177,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sv]
-    
-
-    # Western Finland
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7881
-      names:
-        - name: Finlanda Occidentală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Finlanda Perëndimore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Finlande occidentale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Finlandia Occidental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Finlandia Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Finlandia occidentale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Finlandja tal-Punent
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Finlandja tal-Punent
-        - name: Finlândia Ocidental
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Länsi-Suomi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lääne-Soome
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Nyugat-Finnország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Rietumsomija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vakarų Suomija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Västra Finland
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: Western Finland
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Westfinnland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zahodna Finska
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Zapadna Finska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: westelijk Finland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: ápadné Fínsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západné Fínsko
-        - name: ápadní Finsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západní Finsko
-        - name: Δυτική Φινλανδία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Западна Финландия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Западна Финска
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
     
 
     # Kainuu
@@ -578,6 +304,11 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
+        - name: Northern Finland
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Ziemeļsomija
           sources:
             - name: euvoc
@@ -729,6 +460,290 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fi]
+    
+
+    # Southern Finland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6251
+      names:
+        - name: Dienvidsomija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Dél-Finnország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Etelä-Suomi
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Finlanda Jugore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Finlanda Sud
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Finlanda de Sud
+        - name: Finlande méridionale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Finlandia Meridional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Finlandia Południowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Finlandia meridionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Finlândia Meridional
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Finslandja tat-Tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-Finslandja tat-Tramuntana
+        - name: Juž Finska
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+              value: Južna Finska
+        - name: Južné Fínsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Lõuna-Soome
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Pietų Suomija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Southern Finland
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Södra Finland
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Südfinnland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: zuidelijk Finland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: žní Finsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Jižní Finsko
+        - name: Νότια Φινλανδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јужна Финска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Южна Финландия
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Western Finland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7881
+      names:
+        - name: Finlanda Occidentală
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Finlanda Perëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Finlande occidentale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Finlandia Occidental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Finlandia Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Finlandia occidentale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Finlandja tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-Finlandja tal-Punent
+        - name: Finlândia Ocidental
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Länsi-Suomi
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lääne-Soome
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Nyugat-Finnország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Rietumsomija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vakarų Suomija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Västra Finland
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: Western Finland
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Westfinnland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zahodna Finska
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Zapadna Finska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: westelijk Finland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: ápadné Fínsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Západné Fínsko
+        - name: ápadní Finsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Západní Finsko
+        - name: Δυτική Φινλανδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Западна Финландия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Западна Финска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Åland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6252
+      names:
+        - name: Ahvenamaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Ahvenanmaa
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Ahvenenmaa
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Aland
+          sources:
+            - name: euvoc
+              languages: [hr, ro, sl]
+        - name: Alanda
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Alandai
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Alandi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Alandy
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Islas Åland
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Wyspy Alandzkie
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Åland
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, hu, it, mt, nl, sv]
+        - name: Åland Islands
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Ålandinseln
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Î Åland
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Îles Åland
+        - name: Ālandu salas
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Νήσοι Ώλαντ
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Аланд
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Pohjanmaa

@@ -16,6 +16,23 @@ regions:
               languages: [en, fr]
     
 
+    # Anse Etoile
+    - codes:
+        iso3166-2: SC-03
+      names:
+        - name: Ans Etwal
+          sources:
+            - name: iso3166-2
+        - name: Anse Etoile
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Anse Étoile
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+    
+
     # Anse Royale
     - codes:
         iso3166-2: SC-05
@@ -41,23 +58,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en, fr]
-    
-
-    # Anse Etoile
-    - codes:
-        iso3166-2: SC-03
-      names:
-        - name: Ans Etwal
-          sources:
-            - name: iso3166-2
-        - name: Anse Etoile
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Anse Étoile
-          sources:
-            - name: iso3166-2
-              languages: [fr]
     
 
     # Au Cap
@@ -319,19 +319,6 @@ regions:
             - name: iso3166-2
     
 
-    # Port Glaud
-    - codes:
-        iso3166-2: SC-21
-      names:
-        - name: Porglo
-          sources:
-            - name: iso3166-2
-        - name: Port Glaud
-          sources:
-            - name: iso3166-2
-              languages: [en, fr]
-    
-
     # Pointe Larue
     - codes:
         iso3166-2: SC-20
@@ -348,6 +335,19 @@ regions:
         - name: Pwent Lari
           sources:
             - name: iso3166-2
+    
+
+    # Port Glaud
+    - codes:
+        iso3166-2: SC-21
+      names:
+        - name: Porglo
+          sources:
+            - name: iso3166-2
+        - name: Port Glaud
+          sources:
+            - name: iso3166-2
+              languages: [en, fr]
     
 
     # Roche Caiman

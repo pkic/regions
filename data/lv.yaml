@@ -723,6 +723,11 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
+        - name: West Latvia
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Курземе
           sources:
             - name: euvoc
@@ -748,6 +753,11 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/7862
       names:
+        - name: East Latvia
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
         - name: Latgala
           sources:
             - name: euvoc
@@ -807,32 +817,6 @@ regions:
             - name: iso3166-2
               languages: [lv]
               value: Limbaži
-    
-
-    # Vidzeme
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7865
-      names:
-        - name: Liwonia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Vidzeme
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
-        - name: Vidžemė
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Vixema
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Видземе
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
     
 
     # Lubā
@@ -1397,32 +1381,6 @@ regions:
               value: Saulkrastu novads
     
 
-    # Zemgale
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7867
-      names:
-        - name: Semgallen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Semigalia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Zemgale
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, pt, ro, sk, sl, sq, sv]
-        - name: Žiemgala
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Земгале
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
-    
-
     # Sigulda
     - codes:
         iso3166-2: LV-091
@@ -1669,6 +1627,37 @@ regions:
               languages: [lv]
     
 
+    # Vidzeme
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7865
+      names:
+        - name: Liwonia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: North Latvia
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Vidzeme
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, nl, pt, ro, sk, sl, sv]
+        - name: Vidžemė
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vixema
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Видземе
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
+    
+
     # Viesī
     - codes:
         iso3166-2: LV-107
@@ -1728,6 +1717,37 @@ regions:
             - name: iso3166-2
               languages: [lv]
               value: Vārkavas novads
+    
+
+    # Zemgale
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7867
+      names:
+        - name: Semgallen
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Semigalia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: South Latvia
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Zemgale
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lv, mt, pt, ro, sk, sl, sq, sv]
+        - name: Žiemgala
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Земгале
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Zilupe

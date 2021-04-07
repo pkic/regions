@@ -37,11 +37,53 @@ regions:
               languages: [ja]
     
 
+    # Chiba
+    - codes:
+        iso3166-2: JP-12
+      names:
+        - name: Chiba
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Tiba
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+    
+
     # Ehime
     - codes:
         iso3166-2: JP-38
       names:
         - name: Ehime
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+    
+
+    # Fukui
+    - codes:
+        iso3166-2: JP-18
+      names:
+        - name: Fukui
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Hukui
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+    
+
+    # Fukuoka
+    - codes:
+        iso3166-2: JP-40
+      names:
+        - name: Fukuoka
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Hukuoka
           sources:
             - name: iso3166-2
               languages: [ja]
@@ -108,34 +150,6 @@ regions:
             - name: iso3166-2
               languages: [en]
         - name: Hokkaidô
-          sources:
-            - name: iso3166-2
-              languages: [ja]
-    
-
-    # Fukui
-    - codes:
-        iso3166-2: JP-18
-      names:
-        - name: Fukui
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Hukui
-          sources:
-            - name: iso3166-2
-              languages: [ja]
-    
-
-    # Fukuoka
-    - codes:
-        iso3166-2: JP-40
-      names:
-        - name: Fukuoka
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Hukuoka
           sources:
             - name: iso3166-2
               languages: [ja]
@@ -401,6 +415,20 @@ regions:
               languages: [ja]
     
 
+    # Shiga
+    - codes:
+        iso3166-2: JP-25
+      names:
+        - name: Shiga
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Siga
+          sources:
+            - name: iso3166-2
+              languages: [ja]
+    
+
     # Shimane
     - codes:
         iso3166-2: JP-32
@@ -429,29 +457,15 @@ regions:
               languages: [ja]
     
 
-    # Shiga
+    # Tochigi
     - codes:
-        iso3166-2: JP-25
+        iso3166-2: JP-09
       names:
-        - name: Shiga
+        - name: Tochigi
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Siga
-          sources:
-            - name: iso3166-2
-              languages: [ja]
-    
-
-    # Chiba
-    - codes:
-        iso3166-2: JP-12
-      names:
-        - name: Chiba
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Tiba
+        - name: Totigi
           sources:
             - name: iso3166-2
               languages: [ja]
@@ -471,15 +485,15 @@ regions:
               languages: [ja]
     
 
-    # Tochigi
+    # Tokyo
     - codes:
-        iso3166-2: JP-09
+        iso3166-2: JP-13
       names:
-        - name: Tochigi
+        - name: Tokyo
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Totigi
+        - name: Tôkyô
           sources:
             - name: iso3166-2
               languages: [ja]
@@ -500,20 +514,6 @@ regions:
         iso3166-2: JP-16
       names:
         - name: Toyama
-          sources:
-            - name: iso3166-2
-              languages: [ja]
-    
-
-    # Tokyo
-    - codes:
-        iso3166-2: JP-13
-      names:
-        - name: Tokyo
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Tôkyô
           sources:
             - name: iso3166-2
               languages: [ja]

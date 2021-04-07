@@ -4,124 +4,6 @@ complete: false
 regions:
     
 
-    # Zagreb
-    - codes:
-        euvoc: http://eurovoc.europa.eu/c_d3db05e6
-        iso3166-2: HR-21
-      names:
-        - name: ''' Zagreb'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Belt ta' Zagreb
-        - name: Bashkia Zagreb
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Città Zagabria
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: Città di Zagabria
-        - name: Mesto Zagreb
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Ságrab
-          sources:
-            - name: euvoc
-              languages: [ga]
-        - name: Zagreb
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: City of Zagreb
-            - name: euvoc
-              languages: [es]
-              value: Ciudad de Zagreb
-            - name: euvoc
-              languages: [hr]
-              value: Grad Zagreb
-            - name: euvoc
-              languages: [nl]
-              value: Stad Zagreb
-            - name: euvoc
-              languages: [de]
-              value: Stadt Zagreb
-            - name: euvoc
-              languages: [fr]
-              value: Ville de Zagreb
-            - name: euvoc
-              languages: [da]
-              value: Zagreb by
-            - name: euvoc
-              languages: [sv]
-              value: Zagreb stad
-            - name: iso3166-2
-              languages: [hr]
-              value: Grad Zagreb
-        - name: Zagreba
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Zagrebe
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Cidade de Zagrebe
-        - name: Zagrebi
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Zagrebi linn
-        - name: Zagrebin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Zagrebin kaupunki
-        - name: Zagrebo
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Zagrebo miestas
-        - name: Zagrzeb
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: ul Zagreb
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Orașul Zagreb
-        - name: ágráb
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Zágráb város
-        - name: áhreb
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Záhreb
-        - name: áhřeb
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Záhřeb
-        - name: Δήμος του Ζάγκρεμπ
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Загреб
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: град Загреб
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-    
-
     # Adriatic Croatia
     - codes:
         euvoc: http://eurovoc.europa.eu/c_46e54685
@@ -177,7 +59,7 @@ regions:
         - name: Jadranska Hrvatska
           sources:
             - name: euvoc
-              languages: [da, ga, hr, mt, sq, sr]
+              languages: [da, en, ga, hr, mt, sq, sr]
         - name: Jadranska Hrvaš
           sources:
             - name: euvoc
@@ -218,204 +100,197 @@ regions:
               languages: [bg]
     
 
-    # Highland Croatia
+    # Central Croatia
     - codes:
-        euvoc: http://eurovoc.europa.eu/c_e6d358a0
+        euvoc: http://eurovoc.europa.eu/c_d3974887
       names:
-        - name: Alta Croacia
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Alta Croácia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Aukštutinė Kroatija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Croazia montana
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Gorska Hrvatska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Gorska Hrvaš
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Gorska Hrvaška
-        - name: Highland Croatia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Highlands Croatie
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Highlands de Croatie
-        - name: Horské Chorvatsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Horské Chorvátsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Horvaatia mägiala
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Horvát Felföld
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Ir tal-muntanji tal-Kroazja
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Ir-reġjun tal-muntanji tal-Kroazja
-        - name: Kalnu Horvātija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Kroatian vuoristoseutu
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kroatisch hoogland
+        - name: Centraal-Kroatië
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Kroatiska höglandet
+        - name: Central Croatia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Centrala Kroatien
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Obszar górski Chorwacji
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Zona muntoasă din Croația
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: kroatisches Hochland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: kroatiske højland
+        - name: Centralkroatien
           sources:
             - name: euvoc
               languages: [da]
-              value: det kroatiske højland
-        - name: Ορεινή Κροατία
+        - name: Centrul Croației
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Chorwacja Środkowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Croacia Central
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Croatie centrale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Croazia centrale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Croácia Central
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Kesk-Horvaatia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Keski-Kroatia
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kroazja Ċentrali
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-Kroazja Ċentrali
+        - name: Kö ép-Horvátország
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Közép-Horvátország
+        - name: Osrednja Hrvaš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Osrednja Hrvaška
+        - name: Središnja Hrvatska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Stredné Chorvátsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Střední Chorvatsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Vidurio Kroatija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vidushorvātija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Zentralkroatien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Κεντρική Κροατία
           sources:
             - name: euvoc
               languages: [el]
-        - name: Планинска Хърватия
+        - name: Централна Хърватия
           sources:
             - name: euvoc
               languages: [bg]
     
 
-    # Eastern Croatia
+    # Continental Croatia
     - codes:
-        euvoc: http://eurovoc.europa.eu/c_de77a2c0
+        euvoc: http://eurovoc.europa.eu/c_d4ca9a6c
       names:
-        - name: Austrumhorvātija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Chorwacja Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Croacia Oriental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Croatie orientale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Croazia orientale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Croácia Oriental
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Eastern Croatia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Estul Croației
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Ida-Horvaatia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Istoč Hrvatska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Istočna Hrvatska
-        - name: Itä-Kroatia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kelet-Horvátország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Kroazja tal-Lvant
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Kroazja tal-Lvant
-        - name: Oost-Kroatië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Ostkroatien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Rytų Kroatija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Vzhodna Hrvaš
+        - name: Celinska Hrvaš
           sources:
             - name: euvoc
               languages: [sl]
-              value: Vzhodna Hrvaška
-        - name: Východné Chorvátsko
+              value: Celinska Hrvaška
+        - name: Chorwacja kontynentalna
           sources:
             - name: euvoc
-              languages: [sk]
-        - name: Východní Chorvatsko
+              languages: [pl]
+        - name: Continentaal-Kroatië
           sources:
             - name: euvoc
-              languages: [cs]
-        - name: Östra Kroatien
+              languages: [nl]
+        - name: Continental Croatia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Croacia continental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Croatie continentale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Croazia continentale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Croația Continentală
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Croácia Continental
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Horvaatia sisemaa-osa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Kontinentala Kroatien
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Østkroatien
+        - name: Kontinentalkroatien
           sources:
             - name: euvoc
-              languages: [da]
-        - name: Ανατολική Κροατία
+              languages: [de]
+        - name: Kontinentalna Hrvatska
+          sources:
+            - name: euvoc
+              languages: [da, en, ga, hr, mt, sq]
+        - name: Kontinentálne Chorvátsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Kontinentální Chorvatsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Kontinentālā Horvātija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Szárazföldi Horvátország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: manner-Kroatia
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Žemyninė Kroatija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Ηπειρωτική Κροατία
           sources:
             - name: euvoc
               languages: [el]
-        - name: Източна Хърватия
+        - name: Континентална Хрватска
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Континентална Хърватия
           sources:
             - name: euvoc
               languages: [bg]
@@ -2724,197 +2599,306 @@ regions:
               languages: [bg]
     
 
-    # Continental Croatia
+    # Eastern Croatia
     - codes:
-        euvoc: http://eurovoc.europa.eu/c_d4ca9a6c
+        euvoc: http://eurovoc.europa.eu/c_de77a2c0
       names:
-        - name: Celinska Hrvaš
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Celinska Hrvaška
-        - name: Chorwacja kontynentalna
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Continentaal-Kroatië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Continental Croatia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Croacia continental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Croatie continentale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Croazia continentale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Croația Continentală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Croácia Continental
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Horvaatia sisemaa-osa
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Kontinentala Kroatien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Kontinentalkroatien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Kontinentalna Hrvatska
-          sources:
-            - name: euvoc
-              languages: [da, ga, hr, mt, sq]
-        - name: Kontinentálne Chorvátsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Kontinentální Chorvatsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Kontinentālā Horvātija
+        - name: Austrumhorvātija
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Szárazföldi Horvátország
+        - name: Chorwacja Wschodnia
           sources:
             - name: euvoc
-              languages: [hu]
-        - name: manner-Kroatia
+              languages: [pl]
+        - name: Croacia Oriental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Croatie orientale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Croazia orientale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Croácia Oriental
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Eastern Croatia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Estul Croației
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Ida-Horvaatia
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Istoč Hrvatska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Istočna Hrvatska
+        - name: Itä-Kroatia
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Žemyninė Kroatija
+        - name: Kelet-Horvátország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Kroazja tal-Lvant
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-Kroazja tal-Lvant
+        - name: Oost-Kroatië
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Ostkroatien
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Rytų Kroatija
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Ηπειρωτική Κροατία
+        - name: Vzhodna Hrvaš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Vzhodna Hrvaška
+        - name: Východné Chorvátsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Východní Chorvatsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Östra Kroatien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Østkroatien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Ανατολική Κροατία
           sources:
             - name: euvoc
               languages: [el]
-        - name: Континентална Хрватска
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Континентална Хърватия
+        - name: Източна Хърватия
           sources:
             - name: euvoc
               languages: [bg]
     
 
-    # Central Croatia
+    # Highland Croatia
     - codes:
-        euvoc: http://eurovoc.europa.eu/c_d3974887
+        euvoc: http://eurovoc.europa.eu/c_e6d358a0
       names:
-        - name: Centraal-Kroatië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Central Croatia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Centrala Kroatien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Centralkroatien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Centrul Croației
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Chorwacja Środkowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Croacia Central
+        - name: Alta Croacia
           sources:
             - name: euvoc
               languages: [es]
-        - name: Croatie centrale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Croazia centrale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Croácia Central
+        - name: Alta Croácia
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Kesk-Horvaatia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Keski-Kroatia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kroazja Ċentrali
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Kroazja Ċentrali
-        - name: Kö ép-Horvátország
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Közép-Horvátország
-        - name: Osrednja Hrvaš
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Osrednja Hrvaška
-        - name: Središnja Hrvatska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Stredné Chorvátsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Střední Chorvatsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Vidurio Kroatija
+        - name: Aukštutinė Kroatija
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Vidushorvātija
+        - name: Croazia montana
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Gorska Hrvatska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Gorska Hrvaš
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: Gorska Hrvaška
+        - name: Highland Croatia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Highlands Croatie
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Highlands de Croatie
+        - name: Horské Chorvatsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Horské Chorvátsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Horvaatia mägiala
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Horvát Felföld
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Ir tal-muntanji tal-Kroazja
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Ir-reġjun tal-muntanji tal-Kroazja
+        - name: Kalnu Horvātija
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Zentralkroatien
+        - name: Kroatian vuoristoseutu
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kroatisch hoogland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Kroatiska höglandet
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Obszar górski Chorwacji
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Zona muntoasă din Croația
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: kroatisches Hochland
           sources:
             - name: euvoc
               languages: [de]
-        - name: Κεντρική Κροατία
+        - name: kroatiske højland
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: det kroatiske højland
+        - name: Ορεινή Κροατία
           sources:
             - name: euvoc
               languages: [el]
-        - name: Централна Хърватия
+        - name: Планинска Хърватия
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Northern Croatian Littoral
+    - codes:
+        euvoc: http://eurovoc.europa.eu/c_c5c9cfc7
+      names:
+        - name: Costa Septentrional Croata
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Croácia Litoral Norte
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Horvātijas Ziemeļpiejūra
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Litoralul croat Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Litoralul croat de Nord
+        - name: Littoral septentrional croate
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Noordelijke kust Kroatië
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Noordelijke kust van Kroatië
+        - name: Norra kroatiska kustlandet
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Northern Croatian Littoral
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Pohjois-Kroatian rannikkoseutu
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Północne wybrzeże Chorwacji
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Põhja-Horvaatia rannikuala
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Severno hrvaško primorje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Severné chorvátske prímorie
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Severní chorvatské přímoří
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Sjeverno hrvatsko primorje
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: litorale croato settentrionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: nordkroatiske kystområ
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: det nordkroatiske kystområde
+        - name: nördliches kroatisches Küstenland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Északhorvát tengerpart
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurinis Kroatijos Pajūris
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: ż-żona kostali tat-Tramuntana tal-Kroazja
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Iż-żona kostali tat-Tramuntana tal-Kroazja
+        - name: Βόρεια παράκτια Κροατία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северно хърватско приморие
           sources:
             - name: euvoc
               languages: [bg]
@@ -3025,103 +3009,119 @@ regions:
               languages: [bg]
     
 
-    # Northern Croatian Littoral
+    # Zagreb
     - codes:
-        euvoc: http://eurovoc.europa.eu/c_c5c9cfc7
+        euvoc: http://eurovoc.europa.eu/c_d3db05e6
+        iso3166-2: HR-21
       names:
-        - name: Costa Septentrional Croata
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Croácia Litoral Norte
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Horvātijas Ziemeļpiejūra
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Litoralul croat Nord
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Litoralul croat de Nord
-        - name: Littoral septentrional croate
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Noordelijke kust Kroatië
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Noordelijke kust van Kroatië
-        - name: Norra kroatiska kustlandet
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Northern Croatian Littoral
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Pohjois-Kroatian rannikkoseutu
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Północne wybrzeże Chorwacji
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Põhja-Horvaatia rannikuala
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Severno hrvaško primorje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Severné chorvátske prímorie
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Severní chorvatské přímoří
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Sjeverno hrvatsko primorje
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: litorale croato settentrionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: nordkroatiske kystområ
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: det nordkroatiske kystområde
-        - name: nördliches kroatisches Küstenland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Északhorvát tengerpart
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Šiaurinis Kroatijos Pajūris
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: ż-żona kostali tat-Tramuntana tal-Kroazja
+        - name: ''' Zagreb'
           sources:
             - name: euvoc
               languages: [mt]
-              value: Iż-żona kostali tat-Tramuntana tal-Kroazja
-        - name: Βόρεια παράκτια Κροατία
+              value: Belt ta' Zagreb
+        - name: Bashkia Zagreb
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Città Zagabria
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Città di Zagabria
+        - name: Mesto Zagreb
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Ságrab
+          sources:
+            - name: euvoc
+              languages: [ga]
+        - name: Zagreb
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: City of Zagreb
+            - name: euvoc
+              languages: [es]
+              value: Ciudad de Zagreb
+            - name: euvoc
+              languages: [hr]
+              value: Grad Zagreb
+            - name: euvoc
+              languages: [nl]
+              value: Stad Zagreb
+            - name: euvoc
+              languages: [de]
+              value: Stadt Zagreb
+            - name: euvoc
+              languages: [fr]
+              value: Ville de Zagreb
+            - name: euvoc
+              languages: [da]
+              value: Zagreb by
+            - name: euvoc
+              languages: [sv]
+              value: Zagreb stad
+            - name: iso3166-2
+              languages: [hr]
+              value: Grad Zagreb
+        - name: Zagreba
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Zagrebe
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Cidade de Zagrebe
+        - name: Zagrebi
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Zagrebi linn
+        - name: Zagrebin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Zagrebin kaupunki
+        - name: Zagrebo
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Zagrebo miestas
+        - name: Zagrzeb
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: ul Zagreb
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Orașul Zagreb
+        - name: ágráb
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Zágráb város
+        - name: áhreb
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Záhreb
+        - name: áhřeb
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Záhřeb
+        - name: Δήμος του Ζάγκρεμπ
           sources:
             - name: euvoc
               languages: [el]
-        - name: Северно хърватско приморие
+        - name: Загреб
           sources:
             - name: euvoc
-              languages: [bg]
+              languages: [sr]
+        - name: град Загреб
+          sources:
+            - name: euvoc
+              languages: [bg, mk]

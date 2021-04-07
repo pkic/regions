@@ -481,6 +481,20 @@ regions:
               languages: [en, mt]
     
 
+    # Saint John
+    - codes:
+        iso3166-2: MT-49
+      names:
+        - name: Saint John
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: San Ġwann
+          sources:
+            - name: iso3166-2
+              languages: [mt]
+    
+
     # Saint Julian's
     - codes:
         iso3166-2: MT-48
@@ -509,6 +523,20 @@ regions:
               languages: [mt]
     
 
+    # Saint Lucia's
+    - codes:
+        iso3166-2: MT-53
+      names:
+        - name: Saint Lucia's
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Santa Luċija
+          sources:
+            - name: iso3166-2
+              languages: [mt]
+    
+
     # Saint Paul's Bay
     - codes:
         iso3166-2: MT-51
@@ -524,20 +552,6 @@ regions:
               value: San Pawl il-Baħar
     
 
-    # Saint John
-    - codes:
-        iso3166-2: MT-49
-      names:
-        - name: Saint John
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: San Ġwann
-          sources:
-            - name: iso3166-2
-              languages: [mt]
-    
-
     # Sannat
     - codes:
         iso3166-2: MT-52
@@ -546,20 +560,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en, mt]
-    
-
-    # Saint Lucia's
-    - codes:
-        iso3166-2: MT-53
-      names:
-        - name: Saint Lucia's
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Santa Luċija
-          sources:
-            - name: iso3166-2
-              languages: [mt]
     
 
     # Santa Venera

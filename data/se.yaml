@@ -4,176 +4,6 @@ complete: false
 regions:
     
 
-    # Upper Norrland
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6242
-      names:
-        - name: Alta Norrland
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Augšnorlande
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Aukštutinis Norlandas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Gornji Norrland
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Noord-Norrland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Norlanda e Sipërme
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Norlanda e Sipërme (Suedi)
-        - name: Norrland septentrional
-          sources:
-            - name: euvoc
-              languages: [es, fr]
-        - name: Norrland superiore
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Norrland ’ Fuq
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Norrland ta’ Fuq
-        - name: Norrland-ul Superior
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Põhja-Norrland
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Upper Norrland
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Upper Norrland (Sweden)
-        - name: Ylä-Norlanti
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: oberes Norrland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Övre Norrland
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: Άνω Norrland
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Горен Норланд
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-        - name: Горњи Норланд
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # East Middle Sweden
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6238
-      names:
-        - name: Austrumu Viduszviedrija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Centro-Este Suécia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Centro-Este da Suécia
-        - name: East Middle Sweden
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Istoč središnja Švedska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Istočna središnja Švedska
-        - name: Itäinen Keski-Ruotsi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kesk-Rootsi idaosa
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Rytų Vidurio Švedija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Suecia Centro-Oriental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Suedia Centro-Orientală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Suedia Lindore e Mesme
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Suè Centre-Est
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Suède du Centre-Est
-        - name: Svezia centro-orientale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: oostelijk Midden-Zweden
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Östra Mellansverige
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: östliches Mittelschweden
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Żvezja Ċentrali tal-Lvant
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Κεντροανατολική Σουηδία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Източна средна Швеция
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Источна Средна Шведска
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Источна средишња Шведска
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
     # Blekinge county
     - codes:
         euvoc: http://eurovoc.europa.eu/7998
@@ -228,95 +58,6 @@ regions:
             - name: euvoc
               languages: [mk]
         - name: провинция Блекинге
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # North Middle Sweden
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6240
-      names:
-        - name: Centro-Norte Suécia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Centro-Norte da Suécia
-        - name: Kesk-Rootsi põhjaosa
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Nord-Mittelschweden
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Norra Mellansverige
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: North Middle Sweden
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Pohjoinen Keski-Ruotsi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Sjeverna središnja Švedska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Suecia Centro-Septentrional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Suedia Centro-Septentrională
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Suedia Veriore e Mesme
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Suè Centre-Nord
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Suède du Centre-Nord
-        - name: Svezia centro-settentrionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Ziemeļ Viduszviedrija
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Ziemeļu Viduszviedrija
-        - name: noordelijk Midden-Zweden
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Šiaurės Vidurio Švedija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Żvezja Ċentrali tat-Tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Βορειοκεντρική Σουηδία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Северна Средна Шведска
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Северна средишња Шведска
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Северна средна Швеция
           sources:
             - name: euvoc
               languages: [bg]
@@ -381,350 +122,93 @@ regions:
               languages: [bg]
     
 
-    # South Sweden
+    # East Middle Sweden
     - codes:
-        euvoc: http://eurovoc.europa.eu/6239
+        euvoc: http://eurovoc.europa.eu/6238
       names:
-        - name: Dienvidzviedrija
+        - name: Austrumu Viduszviedrija
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Etelä-Ruotsi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Juž Švedska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Južna Švedska
-        - name: Lõuna-Rootsi
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Nofsinhar tal żvezja
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Nofsinhar tal-Iżvezja
-        - name: Pietų Švedija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: South Sweden
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Suecia Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Suedia Jugore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Suedia Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Suedia de Sud
-        - name: Sul Suécia
+        - name: Centro-Este Suécia
           sources:
             - name: euvoc
               languages: [pt]
-              value: Sul da Suécia
-        - name: Suè méridionale
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Suède méridionale
-        - name: Svezia meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Sydsverige
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: Südschweden
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zuid-Zweden
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Νότια Σουηδία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужна Шведска
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Южна Швеция
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Örebro county
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8005
-        iso3166-2: SE-T
-      names:
-        - name: Erebru
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Erebrū
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: qarku Orebrosë
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: qarku i Orebrosë
-        - name: Örebreško okrožje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Örebro
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
-        - name: Örebro county
+              value: Centro-Este da Suécia
+        - name: East Middle Sweden
           sources:
             - name: euvoc
               languages: [en]
-        - name: Örebro län
-          sources:
-            - name: euvoc
-              languages: [sv]
-            - name: iso3166-2
-              languages: [sv]
-              value: Örebro län [SE-18]
-        - name: Örebro lään
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Örebron lääni
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Еребру
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Округ Еребру
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: провинция Йоребру
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Skåne county
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7999
-        iso3166-2: SE-M
-      names:
-        - name: Escania
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Scania
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Scanie
-          sources:
-            - name: euvoc
-              languages: [fr, ro]
-        - name: Schonen
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Skane
+        - name: Istoč središnja Švedska
           sources:
             - name: euvoc
               languages: [hr]
-        - name: Skania
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Skone
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Skonė
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Skåne
-          sources:
-            - name: euvoc
-              languages: [cs, da, el, hu, mt, nl, pt, sk]
-        - name: Skåne county
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Skåne län
-          sources:
-            - name: euvoc
-              languages: [sv]
-            - name: iso3166-2
-              languages: [sv]
-              value: Skåne län [SE-12]
-        - name: Skåne lään
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Skånen lääni
+              value: Istočna središnja Švedska
+        - name: Itäinen Keski-Ruotsi
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Skånsko okrožje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: qarku Skanesë
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: qarku i Skanesë
-        - name: Округ Сконе
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Сконе
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: провинция Сконе
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Östergötland county
-    - codes:
-        euvoc: http://eurovoc.europa.eu/8004
-        iso3166-2: SE-E
-      names:
-        - name: Esterjotlandas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Esterjētlande
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: qarku Ostergotlandit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: qarku i Ostergotlandit
-        - name: Östergötland
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
-        - name: Östergötland county
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Östergötlandi lään
+        - name: Kesk-Rootsi idaosa
           sources:
             - name: euvoc
               languages: [et]
-        - name: Östergötlandin lääni
+        - name: Rytų Vidurio Švedija
           sources:
             - name: euvoc
-              languages: [fi]
-        - name: Östergötlands län
+              languages: [lt]
+        - name: Suecia Centro-Oriental
           sources:
             - name: euvoc
-              languages: [sv]
-            - name: iso3166-2
-              languages: [sv]
-              value: Östergötlands län [SE-05]
-        - name: Östergötlandsko okrožje
+              languages: [es]
+        - name: Suedia Centro-Orientală
           sources:
             - name: euvoc
-              languages: [sl]
-        - name: Естерјетланд
+              languages: [ro]
+        - name: Suedia Lindore e Mesme
           sources:
             - name: euvoc
-              languages: [sr]
-        - name: Округ Естерјетланд
+              languages: [sq]
+        - name: Suè Centre-Est
           sources:
             - name: euvoc
-              languages: [mk]
-        - name: провинция Йостерйотланд
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Stockholm
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6237
-      names:
-        - name: Estocolmo
-          sources:
-            - name: euvoc
-              languages: [es, pt]
-        - name: Stoccolma
+              languages: [fr]
+              value: Suède du Centre-Est
+        - name: Svezia centro-orientale
           sources:
             - name: euvoc
               languages: [it]
-        - name: Stockholm
+        - name: oostelijk Midden-Zweden
           sources:
             - name: euvoc
-              languages: [cs, da, de, en, et, fr, hr, hu, nl, ro, sl, sv]
-        - name: Stokholma
+              languages: [nl]
+        - name: Östra Mellansverige
           sources:
             - name: euvoc
-              languages: [lv]
-        - name: Stokholmas
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+        - name: östliches Mittelschweden
           sources:
             - name: euvoc
-              languages: [lt]
-        - name: Stokholmi
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Stokkolma
+              languages: [de]
+        - name: Żvezja Ċentrali tal-Lvant
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Stócólm
-          sources:
-            - name: euvoc
-              languages: [ga]
-        - name: Sztokholm
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Tukholma
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Štokholm
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Στοκχόλμη
+        - name: Κεντροανατολική Σουηδία
           sources:
             - name: euvoc
               languages: [el]
-        - name: Стокхолм
+        - name: Източна средна Швеция
           sources:
             - name: euvoc
-              languages: [bg, mk, sr]
+              languages: [bg]
+        - name: Источна Средна Шведска
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Источна средишња Шведска
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Gotland county
@@ -1089,82 +573,6 @@ regions:
               languages: [bg]
     
 
-    # Middle Norrland
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6241
-      names:
-        - name: Kesk-Norrland
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Keski-Norlanti
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Mellersta Norrland
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: Midden-Norrland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Middle Norrland
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Middle Norrland (Sweden)
-        - name: Mittel-Norrland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Norlanda e Mesme
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Norlanda e Mesme (Suedi)
-        - name: Norrland Central
-          sources:
-            - name: euvoc
-              languages: [es, fr, pt]
-        - name: Norrland centrale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Norrland Ċentrali
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Norrland-ul Central
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Središnji Norrland
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Vidurio Norlandas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Vidusnorlande
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Κεντρική Norrland
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Среден Норланд
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
-        - name: Средишњи Норланд
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
     # Kronoberg county
     - codes:
         euvoc: http://eurovoc.europa.eu/7994
@@ -1224,148 +632,80 @@ regions:
               languages: [bg]
     
 
-    # Västra Götaland county
+    # Mellersta Norrland
     - codes:
-        euvoc: http://eurovoc.europa.eu/8001
-        iso3166-2: SE-O
+        euvoc: http://eurovoc.europa.eu/6241
       names:
-        - name: Länsi-Götanmaan lääni
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Vesterjētlande
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vestra Jotalandas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Västra Götaland
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
-        - name: Västra Götaland county
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Västra Götalandi lään
+        - name: Kesk-Norrland
           sources:
             - name: euvoc
               languages: [et]
-        - name: Västra Götalands län
-          sources:
-            - name: euvoc
-              languages: [sv]
-            - name: iso3166-2
-              languages: [sv]
-              value: Västra Götalands län [SE-14]
-        - name: Västra Götalandsko okrožje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: qarku Vastra Gotalandit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: qarku i Vastra Gotalandit
-        - name: Вестра Јеталанд
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Округ Вестра Јеталанд
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: провинция Вастре Гьоталанд
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # West Sweden
-    - codes:
-        euvoc: http://eurovoc.europa.eu/6246
-      names:
-        - name: Länsi-Ruotsi
+        - name: Keski-Norlanti
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Lääne-Rootsi
+        - name: Mellersta Norrland
           sources:
             - name: euvoc
-              languages: [et]
-        - name: Oeste Suécia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Oeste da Suécia
-        - name: Rietumzviedrija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Suecia Occidental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Suedia Perëndimore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Suedia Vest
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Suedia de Vest
-        - name: Suè occidentale
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Suède occidentale
-        - name: Svezia occidentale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Vakarų Švedija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Västsverige
-          sources:
-            - name: euvoc
-              languages: [cs, da, hu, pl, sk, sl, sv]
-        - name: West Sweden
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: West-Zweden
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+        - name: Midden-Norrland
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Westschweden
+        - name: Middle Norrland
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Middle Norrland (Sweden)
+        - name: Mittel-Norrland
           sources:
             - name: euvoc
               languages: [de]
-        - name: Zapadna Švedska
+        - name: Norlanda e Mesme
           sources:
             - name: euvoc
-              languages: [hr]
-        - name: Żvezja tal-Punent
+              languages: [sq]
+              value: Norlanda e Mesme (Suedi)
+        - name: Norrland Central
+          sources:
+            - name: euvoc
+              languages: [es, fr, pt]
+        - name: Norrland centrale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Norrland Ċentrali
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Δυτική Σουηδία
+        - name: Norrland-ul Central
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Središnji Norrland
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Vidurio Norlandas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vidusnorlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Κεντρική Norrland
           sources:
             - name: euvoc
               languages: [el]
-        - name: Западна Шведска
+        - name: Среден Норланд
           sources:
             - name: euvoc
-              languages: [mk, sr]
-        - name: Западна Швеция
+              languages: [bg, mk]
+        - name: Средишњи Норланд
           sources:
             - name: euvoc
-              languages: [bg]
+              languages: [sr]
     
 
     # Norrbotten county
@@ -1431,60 +771,174 @@ regions:
               languages: [bg]
     
 
-    # Södermanland county
+    # North Middle Sweden
     - codes:
-        euvoc: http://eurovoc.europa.eu/8003
-        iso3166-2: SE-D
+        euvoc: http://eurovoc.europa.eu/6240
       names:
-        - name: Siodermanlandas
+        - name: Centro-Norte Suécia
           sources:
             - name: euvoc
-              languages: [lt]
-        - name: Södermanland
+              languages: [pt]
+              value: Centro-Norte da Suécia
+        - name: Kesk-Rootsi põhjaosa
           sources:
             - name: euvoc
-              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
-        - name: Södermanland county
+              languages: [et]
+        - name: Nord-Mittelschweden
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Norra Mellansverige
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+              type: alternative
+        - name: North Middle Sweden
           sources:
             - name: euvoc
               languages: [en]
-        - name: Södermanlandin lääni
+        - name: Pohjoinen Keski-Ruotsi
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Södermanlands län
+        - name: Sjeverna središnja Švedska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Suecia Centro-Septentrional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Suedia Centro-Septentrională
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Suedia Veriore e Mesme
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Suè Centre-Nord
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Suède du Centre-Nord
+        - name: Svezia centro-settentrionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Ziemeļ Viduszviedrija
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Ziemeļu Viduszviedrija
+        - name: noordelijk Midden-Zweden
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Šiaurės Vidurio Švedija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Żvezja Ċentrali tat-Tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Βορειοκεντρική Σουηδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северна Средна Шведска
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Северна средишња Шведска
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Северна средна Швеция
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Skåne county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7999
+        iso3166-2: SE-M
+      names:
+        - name: Escania
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Scania
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Scanie
+          sources:
+            - name: euvoc
+              languages: [fr, ro]
+        - name: Schonen
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Skane
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Skania
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Skone
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Skonė
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Skåne
+          sources:
+            - name: euvoc
+              languages: [cs, da, el, hu, mt, nl, pt, sk]
+        - name: Skåne county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Skåne län
           sources:
             - name: euvoc
               languages: [sv]
             - name: iso3166-2
               languages: [sv]
-              value: Södermanlands län [SE-04]
-        - name: Södermanlandsko okrožje
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Sörmlandi lään
+              value: Skåne län [SE-12]
+        - name: Skåne lään
           sources:
             - name: euvoc
               languages: [et]
-        - name: Sēdermanlande
+        - name: Skånen lääni
           sources:
             - name: euvoc
-              languages: [lv]
-        - name: qarku Sodermanlandit
+              languages: [fi]
+        - name: Skånsko okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: qarku Skanesë
           sources:
             - name: euvoc
               languages: [sq]
-              value: qarku i Sodermanlandit
-        - name: Округ Седерманланд
+              value: qarku i Skanesë
+        - name: Округ Сконе
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Седерманланд
+        - name: Сконе
           sources:
             - name: euvoc
               languages: [sr]
-        - name: провинция Сьодерманланд
+        - name: провинция Сконе
           sources:
             - name: euvoc
               languages: [bg]
@@ -1564,7 +1018,7 @@ regions:
         - name: Småland med öarna
           sources:
             - name: euvoc
-              languages: [hu, sk, sl, sv]
+              languages: [en, hu, sk, sl, sv]
         - name: Småland med øerne
           sources:
             - name: euvoc
@@ -1581,10 +1035,160 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Смоланд и островите
+        - name: Смоланд и Островите
           sources:
             - name: euvoc
               languages: [bg, mk]
+    
+
+    # South Sweden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6239
+      names:
+        - name: Dienvidzviedrija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Etelä-Ruotsi
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Juž Švedska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Južna Švedska
+        - name: Lõuna-Rootsi
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Nofsinhar tal żvezja
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Nofsinhar tal-Iżvezja
+        - name: Pietų Švedija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: South Sweden
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Southern Sweden
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Suecia Meridional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Suedia Jugore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Suedia Sud
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Suedia de Sud
+        - name: Sul Suécia
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Sul da Suécia
+        - name: Suè méridionale
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Suède méridionale
+        - name: Svezia meridionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Sydsverige
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+        - name: Südschweden
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zuid-Zweden
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Νότια Σουηδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јужна Шведска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Южна Швеция
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Stockholm
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6237
+      names:
+        - name: Estocolmo
+          sources:
+            - name: euvoc
+              languages: [es, pt]
+        - name: Stoccolma
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Stockholm
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, et, fr, hr, hu, nl, ro, sl, sv]
+        - name: Stokholma
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Stokholmas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Stokholmi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Stokkolma
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Stócólm
+          sources:
+            - name: euvoc
+              languages: [ga]
+        - name: Sztokholm
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Tukholma
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Štokholm
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Στοκχόλμη
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Стокхолм
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Stockholms län
@@ -1596,6 +1200,152 @@ regions:
             - name: iso3166-2
               languages: [sv]
               value: Stockholms län [SE-01]
+    
+
+    # Södermanland county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8003
+        iso3166-2: SE-D
+      names:
+        - name: Siodermanlandas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Södermanland
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
+        - name: Södermanland county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Södermanlandin lääni
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Södermanlands län
+          sources:
+            - name: euvoc
+              languages: [sv]
+            - name: iso3166-2
+              languages: [sv]
+              value: Södermanlands län [SE-04]
+        - name: Södermanlandsko okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Sörmlandi lään
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Sēdermanlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: qarku Sodermanlandit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: qarku i Sodermanlandit
+        - name: Округ Седерманланд
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Седерманланд
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: провинция Сьодерманланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Upper Norrland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6242
+      names:
+        - name: Alta Norrland
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Augšnorlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Aukštutinis Norlandas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Gornji Norrland
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Noord-Norrland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Norlanda e Sipërme
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Norlanda e Sipërme (Suedi)
+        - name: Norrland Septentrional
+          sources:
+            - name: euvoc
+              languages: [es, fr]
+        - name: Norrland superiore
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Norrland ’ Fuq
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Norrland ta’ Fuq
+        - name: Norrland-ul Superior
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Northern Norrland
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Põhja-Norrland
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Upper Norrland
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Upper Norrland (Sweden)
+        - name: Ylä-Norlanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: oberes Norrland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Övre Norrland
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+              type: alternative
+        - name: Άνω Norrland
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Горен Норланд
+          sources:
+            - name: euvoc
+              languages: [bg, mk]
+        - name: Горњи Норланд
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Uppsala county
@@ -1885,6 +1635,269 @@ regions:
             - name: euvoc
               languages: [mk]
         - name: провинция Вестманланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Västra Götaland county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8001
+        iso3166-2: SE-O
+      names:
+        - name: Länsi-Götanmaan lääni
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Vesterjētlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vestra Jotalandas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Västra Götaland
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
+        - name: Västra Götaland county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Västra Götalandi lään
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Västra Götalands län
+          sources:
+            - name: euvoc
+              languages: [sv]
+            - name: iso3166-2
+              languages: [sv]
+              value: Västra Götalands län [SE-14]
+        - name: Västra Götalandsko okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: qarku Vastra Gotalandit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: qarku i Vastra Gotalandit
+        - name: Вестра Јеталанд
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Округ Вестра Јеталанд
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: провинция Вастре Гьоталанд
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # West Sweden
+    - codes:
+        euvoc: http://eurovoc.europa.eu/6246
+      names:
+        - name: Länsi-Ruotsi
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lääne-Rootsi
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Oeste Suécia
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Oeste da Suécia
+        - name: Rietumzviedrija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Suecia Occidental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Suedia Perëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Suedia Vest
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Suedia de Vest
+        - name: Suè occidentale
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Suède occidentale
+        - name: Svezia occidentale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Vakarų Švedija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Västsverige
+          sources:
+            - name: euvoc
+              languages: [cs, da, en, hu, pl, sk, sl, sv]
+              type: alternative
+        - name: West Sweden
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: West-Zweden
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Westschweden
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zapadna Švedska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Żvezja tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Δυτική Σουηδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Западна Шведска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Западна Швеция
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Örebro county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8005
+        iso3166-2: SE-T
+      names:
+        - name: Erebru
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Erebrū
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: qarku Orebrosë
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: qarku i Orebrosë
+        - name: Örebreško okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Örebro
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
+        - name: Örebro county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Örebro län
+          sources:
+            - name: euvoc
+              languages: [sv]
+            - name: iso3166-2
+              languages: [sv]
+              value: Örebro län [SE-18]
+        - name: Örebro lään
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Örebron lääni
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Еребру
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Округ Еребру
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: провинция Йоребру
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
+    # Östergötland county
+    - codes:
+        euvoc: http://eurovoc.europa.eu/8004
+        iso3166-2: SE-E
+      names:
+        - name: Esterjotlandas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Esterjētlande
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: qarku Ostergotlandit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: qarku i Ostergotlandit
+        - name: Östergötland
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, el, es, fr, hr, hu, it, mt, nl, pl, pt, ro, sk]
+        - name: Östergötland county
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Östergötlandi lään
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Östergötlandin lääni
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Östergötlands län
+          sources:
+            - name: euvoc
+              languages: [sv]
+            - name: iso3166-2
+              languages: [sv]
+              value: Östergötlands län [SE-05]
+        - name: Östergötlandsko okrožje
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Естерјетланд
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Округ Естерјетланд
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: провинция Йостерйотланд
           sources:
             - name: euvoc
               languages: [bg]

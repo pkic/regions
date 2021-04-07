@@ -34,246 +34,6 @@ regions:
               languages: [cs]
     
 
-    # Central Bohemian
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7853
-        iso3166-2: CZ-20
-      names:
-        - name: Boemia Centrală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Boemia centrale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Bohemia Central
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Bohemia Qendrore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Bohemia ċentrali
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Bohemia ċentrali
-        - name: Bohemia Środkowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Bohême centrale
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Boémia Central
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Centraal-Bohemen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Central Bohemian
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Central Bohemian Region
-        - name: Centrala Böhmen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Centrale Bøhmen
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Det Centrale Bøhmen
-        - name: Centrālbohēmija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Kesk-Böömi
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Keski-Böömi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Kö ép-Bohémia
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Közép-Bohémia
-        - name: Mittelböhmen
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Osrednječeški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Središnja Češ
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Središnja Češka
-        - name: Stredočeský
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Středočeský
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Středočeský kraj
-        - name: Vidurio Čekija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Κεντρική Βοημία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Средња Чешка
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Централна Бохемия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Централна Бохемија
-          sources:
-            - name: euvoc
-              languages: [mk]
-    
-
-    # South Bohemian
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7840
-        iso3166-2: CZ-31
-      names:
-        - name: Boemia Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Boemia de Sud
-        - name: Boemia meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Bohemia Jugore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Bohemia Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Bohemia Południowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Bohême Sud
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-              value: Bohême du Sud
-        - name: Boémia Sul
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Boémia do Sul
-        - name: Dienvidbohēmija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Dél-Bohémia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Etelä-Böömi
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: In-Nofsinhar tal-Bohemia
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Jihočeský
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Jihočeský kraj
-        - name: Juhočeský
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Juž Češ
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Južna Češka
-        - name: Juž češki okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: Južnočeški okraj
-        - name: Lõuna-Böömi
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Pietų Čekija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: South Bohemian
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: South Bohemian Region
-        - name: Sydlige Bøhmen
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Det Sydlige Bøhmen
-        - name: Södra Böhmen
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Südböhmen
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zuid-Bohemen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Νότια Βοημία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужна Бохемија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Јужна Чешка
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Южна Бохемия
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Brno
     - codes:
         iso3166-2: CZ-642
@@ -345,126 +105,6 @@ regions:
               languages: [cs]
     
 
-    # South Moravian
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7844
-        iso3166-2: CZ-64
-      names:
-        - name: Dienvidmorāvija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Dél-Morávia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Etelä-Määri
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: In-Nofsinhar tal-Moravia
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Jihomoravský
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Jihomoravský kraj
-        - name: Juhomoravský
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Juž Moravska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Južna Moravska
-        - name: Južnomoravski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Lõuna-Morava
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Moravia Jugore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Moravia Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Moravia Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Moravia de Sud
-        - name: Moravia meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Moravie Sud
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Moravie du Sud
-        - name: Morawy Południowe
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Morávia Sul
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Morávia do Sul
-        - name: Pietų Moravija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: South Moravian
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: South Moravian Region
-        - name: Sydlige Mæhren
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Det Sydlige Mæhren
-        - name: Södra Mähren
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Südmähren
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zuid-Moravië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Νότια Μοραβία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужна Моравија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Јужна Моравска
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: регион Южноморавски
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Domažlice
     - codes:
         iso3166-2: CZ-321
@@ -517,59 +157,12 @@ regions:
 
     # Hradec Králové
     - codes:
-        euvoc: http://eurovoc.europa.eu/7841
         iso3166-2: CZ-521
       names:
-        - name: Hradec Kralova
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Hradec Kralove
-          sources:
-            - name: euvoc
-              languages: [lv, mt]
-        - name: Hradec Kralovės
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Hradec Kralovės regionas
         - name: Hradec Králové
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
-        - name: Hradec Królowej
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Kralovehraški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Královohradecký
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Královéhradecký
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Královéhradecký kraj
-        - name: Краловохрадечка област
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Храдец Кралове
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: регион Краловохрадецки
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Jablonec nad Nisou
@@ -602,6 +195,28 @@ regions:
               languages: [cs]
     
 
+    # Jihomoravský
+    - codes:
+        iso3166-2: CZ-64
+      names:
+        - name: Jihomoravský
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Jihomoravský kraj
+    
+
+    # Jihočeský
+    - codes:
+        iso3166-2: CZ-31
+      names:
+        - name: Jihočeský
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Jihočeský kraj
+    
+
     # Jindřichův Hradec
     - codes:
         iso3166-2: CZ-313
@@ -612,53 +227,25 @@ regions:
               languages: [cs]
     
 
-    # Karlovy Vary
+    # Karlovarský
     - codes:
-        euvoc: http://eurovoc.europa.eu/7842
-        iso3166-2: CZ-412
+        iso3166-2: CZ-41
       names:
-        - name: Karlovarski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
         - name: Karlovarský
           sources:
-            - name: euvoc
-              languages: [cs, sk]
             - name: iso3166-2
               languages: [cs]
               value: Karlovarský kraj
-        - name: Karlovi Vari
-          sources:
-            - name: euvoc
-              languages: [lv, mt, sq]
+    
+
+    # Karlovy Vary
+    - codes:
+        iso3166-2: CZ-412
+      names:
         - name: Karlovy Vary
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
-        - name: Karlovy Varų
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Karlovy Varų regionas
-        - name: Karlowe Wary
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Карлове Вари
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Карлови Вари
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: регион Карловарски
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Karviná
@@ -711,6 +298,17 @@ regions:
               languages: [cs]
     
 
+    # Královéhradecký
+    - codes:
+        iso3166-2: CZ-52
+      names:
+        - name: Královéhradecký
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Královéhradecký kraj
+    
+
     # Kutná Hora
     - codes:
         iso3166-2: CZ-205
@@ -723,51 +321,23 @@ regions:
 
     # Liberec
     - codes:
-        euvoc: http://eurovoc.europa.eu/7843
         iso3166-2: CZ-513
       names:
         - name: Liberec
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
+    
+
+    # Liberecký
+    - codes:
+        iso3166-2: CZ-51
+      names:
         - name: Liberecký
           sources:
-            - name: euvoc
-              languages: [cs, sk]
             - name: iso3166-2
               languages: [cs]
               value: Liberecký kraj
-        - name: Libereco
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Libereco regionas
-        - name: Liberek
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Libereċ
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Libereški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Libreca
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Либерец
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: регион Либерецки
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Litoměřice
@@ -800,116 +370,15 @@ regions:
               languages: [cs]
     
 
-    # Moravian-Silesian
+    # Moravskoslezský
     - codes:
-        euvoc: http://eurovoc.europa.eu/7845
         iso3166-2: CZ-80
       names:
-        - name: Morava-Sileesia
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: Moravi-Silezia
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Moravia-Silesia
-          sources:
-            - name: euvoc
-              languages: [es, mt]
-        - name: Moravia-Silezia
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Moravia-Slesia
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Moravian-Silesian
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Moravian-Silesian Region
-        - name: Moravie-Silésie
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Moravija-Silezija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Moravië-Silezië
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Moravsko-Šleska
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Moravsko-šlezijski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
         - name: Moravskoslezský
           sources:
-            - name: euvoc
-              languages: [cs]
             - name: iso3166-2
               languages: [cs]
               value: Moravskoslezský kraj
-        - name: Moravskosliezsky
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Morawy Śląsk Czeski
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Morawy i Śląsk Czeski
-        - name: Morávia-Silésia
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Morávia-Szilézia
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Morāvija-Silēzija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Mähren-Schlesien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Mährisch Schlesien
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Määri-Sleesia
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Mæhren-Schlesien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Μοραβία-Σιλεσία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Моравија-Шлезија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Моравско-шлеска
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: регион Моравскосилезийски
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Most
@@ -965,56 +434,23 @@ regions:
 
     # Olomouc
     - codes:
-        euvoc: http://eurovoc.europa.eu/7846
         iso3166-2: CZ-712
       names:
         - name: Olomouc
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
-        - name: Olomouca
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Olomouci
-          sources:
-            - name: euvoc
-              languages: [sq]
+    
+
+    # Olomoucký
+    - codes:
+        iso3166-2: CZ-71
+      names:
         - name: Olomoucký
           sources:
-            - name: euvoc
-              languages: [cs, sk]
             - name: iso3166-2
               languages: [cs]
               value: Olomoucký kraj
-        - name: Olomouco
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Olomouco regionas
-        - name: Olomouċ
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Olomouški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: łomuniec
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Ołomuniec
-        - name: Оломоуц
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: регион Оломоуцки
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Opava
@@ -1040,47 +476,23 @@ regions:
 
     # Pardubice
     - codes:
-        euvoc: http://eurovoc.europa.eu/7847
         iso3166-2: CZ-532
       names:
-        - name: Pardubica
-          sources:
-            - name: euvoc
-              languages: [sq]
         - name: Pardubice
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
+    
+
+    # Pardubický
+    - codes:
+        iso3166-2: CZ-53
+      names:
         - name: Pardubický
           sources:
-            - name: euvoc
-              languages: [cs, sk]
             - name: iso3166-2
               languages: [cs]
               value: Pardubický kraj
-        - name: Pardubicės
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Pardubicės regionas
-        - name: Pardubiċe
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Pardubiški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Пардубице
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: регион Пардубицки
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Pelhřimov
@@ -1095,69 +507,13 @@ regions:
 
     # Plzeň
     - codes:
-        euvoc: http://eurovoc.europa.eu/7848
         iso3166-2: CZ-323
       names:
-        - name: Pilsen
-          sources:
-            - name: euvoc
-              languages: [da, de, el, es, et, fi, fr, hu, it, mt, nl, pt, ro, sv]
-        - name: Pilseni
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Pilzene
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Pilzeno
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Pilzeno regionas
-        - name: Pilzno
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Plsen
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Plzenski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Plzenský
-          sources:
-            - name: euvoc
-              languages: [sk]
         - name: Plzeň
           sources:
-            - name: euvoc
-              languages: [en]
-              value: Plzeň Region
             - name: iso3166-2
               languages: [cs]
               value: Plzeň-město
-        - name: Plzeňský
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Plzeňský kraj
-        - name: Пилзен
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Плзен
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Плзењ
-          sources:
-            - name: euvoc
-              languages: [mk]
     
 
     # Plzeň-jih
@@ -1180,63 +536,15 @@ regions:
               languages: [cs]
     
 
-    # Prague
+    # Plzeňský
     - codes:
-        euvoc: http://eurovoc.europa.eu/7849
-        iso3166-2: CZ-10
+        iso3166-2: CZ-32
       names:
-        - name: Praag
+        - name: Plzeňský
           sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Prag
-          sources:
-            - name: euvoc
-              languages: [da, de, hr, sv]
-        - name: Praga
-          sources:
-            - name: euvoc
-              languages: [es, it, mt, pl, pt, ro, sl, sq]
-        - name: Prague
-          sources:
-            - name: euvoc
-              languages: [en, fr]
-        - name: Praha
-          sources:
-            - name: euvoc
-              languages: [cs, et, fi, sk]
             - name: iso3166-2
               languages: [cs]
-              value: Praha, Hlavní město
-        - name: Prahos
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Prahos regionas
-        - name: Prág
-          sources:
-            - name: euvoc
-              languages: [ga]
-        - name: Prága
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Prāga
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Πράγα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Праг
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Прага
-          sources:
-            - name: euvoc
-              languages: [bg, mk]
+              value: Plzeňský kraj
     
 
     # Prachatice
@@ -1247,6 +555,17 @@ regions:
           sources:
             - name: iso3166-2
               languages: [cs]
+    
+
+    # Praha
+    - codes:
+        iso3166-2: CZ-10
+      names:
+        - name: Praha
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Praha, Hlavní město
     
 
     # Praha ápad
@@ -1370,6 +689,17 @@ regions:
               languages: [cs]
     
 
+    # Středočeský
+    - codes:
+        iso3166-2: CZ-20
+      names:
+        - name: Středočeský
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Středočeský kraj
+    
+
     # Svitavy
     - codes:
         iso3166-2: CZ-533
@@ -1440,111 +770,6 @@ regions:
               languages: [cs]
     
 
-    # Ústí nad Labem
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7850
-        iso3166-2: CZ-427
-      names:
-        - name: Ustecký
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Usteški okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Usti
-          sources:
-            - name: euvoc
-              languages: [hr, lv, mt, pl, ro]
-        - name: Ustí
-          sources:
-            - name: euvoc
-              languages: [da, de, el, fi, fr, hu, it, pt, sq, sv]
-        - name: Ústecký
-          sources:
-            - name: euvoc
-              languages: [cs]
-            - name: iso3166-2
-              languages: [cs]
-              value: Ústecký kraj
-        - name: Ústí
-          sources:
-            - name: euvoc
-              languages: [es, et, nl]
-        - name: Ústí nad Labem
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Ústí nad Labem region
-            - name: iso3166-2
-              languages: [cs]
-        - name: Ūsčio
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Ūsčio regionas
-        - name: Усти
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: регион Устецки
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
-    # Vysočina
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7851
-        iso3166-2: CZ-63
-      names:
-        - name: Visoçina
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Visoċina
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Visočina
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Visočinski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Vysočina
-          sources:
-            - name: euvoc
-              languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, nl, pt, ro, sk, sv]
-            - name: iso3166-2
-              languages: [cs]
-              value: Kraj Vysočina
-        - name: Vysočinos
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Vysočinos regionas
-        - name: Wysoczyna
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Височина
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Височинна област
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Височински Крај
-          sources:
-            - name: euvoc
-              languages: [mk]
-    
-
     # Vsetín
     - codes:
         iso3166-2: CZ-723
@@ -1553,6 +778,17 @@ regions:
           sources:
             - name: iso3166-2
               languages: [cs]
+    
+
+    # Vysočina
+    - codes:
+        iso3166-2: CZ-63
+      names:
+        - name: Vysočina
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Kraj Vysočina
     
 
     # Vyškov
@@ -1567,55 +803,23 @@ regions:
 
     # Zlín
     - codes:
-        euvoc: http://eurovoc.europa.eu/7852
         iso3166-2: CZ-724
       names:
-        - name: Zlin
-          sources:
-            - name: euvoc
-              languages: [hr, mt]
-        - name: Zlina
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Zlini
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Zlinski okraj
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Zlyno
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Zlyno regionas
         - name: Zlín
           sources:
-            - name: euvoc
-              languages: [da, de, el, en, es, et, fi, fr, hu, it, nl, pt, ro, sv]
             - name: iso3166-2
               languages: [cs]
-        - name: Zlínsky
-          sources:
-            - name: euvoc
-              languages: [sk]
+    
+
+    # Zlínský
+    - codes:
+        iso3166-2: CZ-72
+      names:
         - name: Zlínský
           sources:
-            - name: euvoc
-              languages: [cs]
             - name: iso3166-2
               languages: [cs]
               value: Zlínský kraj
-        - name: Żlin
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Злин
-          sources:
-            - name: euvoc
-              languages: [bg, mk, sr]
     
 
     # Znojmo
@@ -1623,6 +827,27 @@ regions:
         iso3166-2: CZ-647
       names:
         - name: Znojmo
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+    
+
+    # Ústecký
+    - codes:
+        iso3166-2: CZ-42
+      names:
+        - name: Ústecký
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+              value: Ústecký kraj
+    
+
+    # Ústí nad Labem
+    - codes:
+        iso3166-2: CZ-427
+      names:
+        - name: Ústí nad Labem
           sources:
             - name: iso3166-2
               languages: [cs]

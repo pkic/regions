@@ -625,6 +625,122 @@ regions:
               languages: [en]
     
 
+    # East England
+    - codes:
+        euvoc: http://eurovoc.europa.eu/596
+      names:
+        - name: Angleterre Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Angleterre de l'Est
+        - name: Anglia Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Anglijas austrumi
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: East England
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: East of England
+        - name: Este Inglaterra
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Este de Inglaterra
+        - name: Estul Angliei
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Ida-Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Inghilterra dell'Est
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Istoč Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Istočna Engleska
+        - name: Itä-Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kelet-Anglia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Leste Inglaterra
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Leste de Inglaterra
+        - name: Lindja e Anglisë
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Oost-Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Ostengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Rytų Anglija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Vzhodna Anglija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: lvant tal-Ingilterra
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Il-lvant tal-Ingilterra
+        - name: východné Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: východní Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Östra England
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Østenglande
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Ανατολική Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Източна Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Источна Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Источна Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
     # East Lothian
     - codes:
         iso3166-2: GB-ELN
@@ -633,6 +749,92 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # East Midlands
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1905
+      names:
+        - name: Austrummidlenda
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: East Midlands
+          sources:
+            - name: euvoc
+              languages: [da, en, it, nl, pt, sl, sv]
+        - name: Ida-Midlands
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Istočni Midlands
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Itä-Midlands
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kelet-Midlands
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Midlandet Lindore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Midlands Est
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Midlands de Est
+            - name: euvoc
+              languages: [fr]
+              value: Midlands de l'Est
+        - name: Midlands Orientales
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Midlands Wschodni
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Midlands tal-Lvant
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Rytų Midlandsas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: východné Midlands
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: východní Midlands
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: östliches Mittelengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Ανατολικά Μίντλαντς
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Източен Мидландс
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Источен Мидлендс
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Источни Мидланд
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # East Renfrewshire
@@ -695,6 +897,80 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # England
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5438
+      names:
+        - name: Angleterre
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+        - name: Anglia
+          sources:
+            - name: euvoc
+              languages: [hu, pl, ro, sq]
+        - name: Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Anglija
+          sources:
+            - name: euvoc
+              languages: [lt, lv, sl]
+        - name: Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: England
+          sources:
+            - name: euvoc
+              languages: [da, de, en, sv]
+        - name: Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Inghilterra
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Ingilterra
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Inglaterra
+          sources:
+            - name: euvoc
+              languages: [es, pt]
+        - name: Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # Essex
@@ -1134,13 +1410,79 @@ regions:
 
     # London
     - codes:
+        euvoc: http://eurovoc.europa.eu/8498
         iso3166-2: GB-LND
       names:
+        - name: Greater London
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Inner London
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Londain
+          sources:
+            - name: euvoc
+              languages: [ga]
+        - name: Londen
+          sources:
+            - name: euvoc
+              languages: [nl]
         - name: London
           sources:
+            - name: euvoc
+              languages: [da, de, en, et, hr, hu, sv]
             - name: iso3166-2
               languages: [en]
               value: London, City of
+        - name: Londona
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Londonas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Londra
+          sources:
+            - name: euvoc
+              languages: [it, mt, ro, sq]
+        - name: Londres
+          sources:
+            - name: euvoc
+              languages: [es, fr, pt]
+        - name: Londyn
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Londýn
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+        - name: Lontoo
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lóndon
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Outer London
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Λονδίνο
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Лондон
+          sources:
+            - name: euvoc
+              languages: [bg, mk, sr]
     
 
     # Luton
@@ -1337,6 +1679,127 @@ regions:
               languages: [en]
     
 
+    # North East
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3396
+      names:
+        - name: Angleterre Nord
+          sources:
+            - name: euvoc
+              languages: [ga]
+              value: Angleterre du Nord
+        - name: Angleterre Nord-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Angleterre du Nord-Est
+        - name: Anglia Północna
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Anglijas ziemeļaustrumi
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Grigal
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Grigal (l-Ingilterra)
+        - name: Inghilterra del Nord-Est
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Inglaterra del Noreste
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Kirde-Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Koillis-Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: NoordOost Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Nord estul Angliei
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Nordeste Inglaterra
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Nordeste da Inglaterra
+        - name: Nordostengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Nordöstra England
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Nordøstengland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: North East
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: North East (England)
+        - name: Severna Anglija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Sjeveroistoč Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Sjeveroistočna Engleska
+        - name: Verilindje
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Verilindje (Anglia)
+        - name: severovýchod Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: severovýchodné Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Északkelet-Anglia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Rytų Anglija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βορειοανατολική Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северисточна Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Северна Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Североисточна Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+    
+
     # North East Lincolnshire
     - codes:
         iso3166-2: GB-NEL
@@ -1387,6 +1850,122 @@ regions:
               languages: [en]
     
 
+    # North West
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3397
+      names:
+        - name: Angleterre Nord-Ouest
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Angleterre du Nord-Ouest
+        - name: Anglia Nord-Vest
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Anglia de Nord-Vest
+        - name: Anglia Północno-Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Inghilterra del Nord-Ovest
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Inglaterra Noroeste
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Inglaterra do Noroeste
+        - name: Inglaterra del Noroeste
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Loode-Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Luoteis-Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Majjistral
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Majjistral (l-Ingilterra)
+        - name: Noordwest-Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Nordvestengland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Nordvästengland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Nordwestengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: North West
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: North West (England)
+        - name: Severozahodna Anglija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Sjeverozapadna Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Veriperëndim
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Veriperëndim (Anglia)
+        - name: Ziemeļrietumu Anglija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: severozápadné Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: severozápadní Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Északnyugat-Anglia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Vakarų Anglija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βορειοδυτική Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северозападна Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Северозападна Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Северозападна Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
     # North Yorkshire
     - codes:
         iso3166-2: GB-NYK
@@ -1405,6 +1984,112 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # Northern Ireland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1505
+      names:
+        - name: Irlanda Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Irlanda de Nord
+        - name: Irlanda Norte
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Irlanda do Norte
+        - name: Irlanda Veriore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Irlanda del Nord
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Irlanda del Norte
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Irlanda ’ Fuq
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Irlanda ta’ Fuq
+        - name: Irlande Nord
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Irlande du Nord
+        - name: Irlandia Północna
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Noord-Ierland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Nordirland
+          sources:
+            - name: euvoc
+              languages: [da, de, sv]
+        - name: Northern Ireland
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Pohjois-Irlanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Põhja-Iirimaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Severna Irska
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Severné Írsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Severní Irsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Sjeverna Irska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Tuaisceart Éireann
+          sources:
+            - name: euvoc
+              languages: [ga]
+        - name: Ziemeļīrija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Észak-Írország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Airija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βόρεια Ιρλανδία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северна Ирландия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Северна Ирска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
     
 
     # Northumberland
@@ -1639,6 +2324,113 @@ regions:
               languages: [en]
     
 
+    # Scotland
+    - codes:
+        euvoc: http://eurovoc.europa.eu/663
+      names:
+        - name: Escocia
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Escócia
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Hebrides
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Schotland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Schottland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Scotland
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Scozia
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Scoția
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Skocia
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Skotija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Skotland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Skotlanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Skotsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Skottland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Skozja
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Skócia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Szkocja
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Écosse
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Škotija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Škotska
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+        - name: Škótsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Šotimaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Σκωτία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Шкотска
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Шотландия
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Scottish Borders
     - codes:
         iso3166-2: GB-SCB
@@ -1729,6 +2521,124 @@ regions:
               languages: [en]
     
 
+    # South East
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3398
+      names:
+        - name: Angleterre Sud-Est
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Angleterre du Sud-Est
+        - name: Anglia Południowo-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Anglia Sud-Est
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Anglia de Sud-Est
+        - name: Dienvidaustrumu Anglija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Délkelet-Anglia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Inghilterra del Sud-Est
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Inglaterra Sudeste
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Inglaterra do Sudeste
+        - name: Inglaterra del Sureste
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Juglindje
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Juglindje (Anglia)
+        - name: Jugoistoč Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Jugoistočna Engleska
+        - name: Jugovzhodna Anglija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Kaakkois-Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Kagu-Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Pietryč ų Anglija
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Pietryčių Anglija
+        - name: South East
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: South East (England)
+        - name: Sydostengland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Sydøstengland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Südostengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Xlokk
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Xlokk (l-Ingilterra)
+        - name: Zuidoost-Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: jihovýchodní Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: juhovýchodné Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Νοτιοανατολική Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Југоисточна Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Југоисточна Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Югоизточна Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # South Gloucestershire
     - codes:
         iso3166-2: GB-SGC
@@ -1757,6 +2667,122 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # South West
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3399
+      names:
+        - name: Angleterre Sud-Ouest
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Angleterre du Sud-Ouest
+        - name: Anglia Południowo-Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Anglia Sud-Vest
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Anglia de Sud-Vest
+        - name: Dienvidrietumu Anglija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Délnyugat-Anglia
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Edela-Inglismaa
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Inghilterra del Sud-Ovest
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Inglaterra Sudoeste
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Inglaterra do Sudoeste
+        - name: Inglaterra del Suroeste
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Jugozahodna Anglija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Jugozapadna Engleska
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Jugperëndim
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Jugperëndim (Angli)
+        - name: Lbiċ
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Lbiċ (l-Ingilterra)
+        - name: Lounais-Englanti
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Pietvakarių Anglija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: South West
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: South West (England)
+        - name: Sydvestengland
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Sydvästengland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Südwestengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zuidwest-Engeland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: jihozápadní Anglie
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: juhozápadné Anglicko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Νοτιοδυτική Αγγλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Југозападна Англија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Југозападна Енглеска
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Югозападна Англия
+          sources:
+            - name: euvoc
+              languages: [bg]
     
 
     # Southampton
@@ -2002,6 +3028,62 @@ regions:
               languages: [en]
     
 
+    # Wales
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2290
+      names:
+        - name: Galles
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: País Gales
+          sources:
+            - name: euvoc
+              languages: [es, pt]
+              value: País de Gales
+        - name: Uellsi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Velsa
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Velsas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Wales
+          sources:
+            - name: euvoc
+              languages: [cs, da, de, en, et, fi, hr, hu, mt, nl, sk, sl, sv]
+        - name: Walia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: pays Galles
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: pays de Galles
+        - name: Țara Galilor
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Ουαλλία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Велс
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Уелс
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Walsall
     - codes:
         iso3166-2: GB-WLL
@@ -2080,6 +3162,91 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # West Midlands
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1906
+      names:
+        - name: Länsi-Midlands
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lääne-Midlands
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Midlandet Perëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Midlands Occidentales
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Midlands Ouest
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Midlands de l'Ouest
+        - name: Midlands Zachodni
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Midlands tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Nyugat-Midlands
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Rietummidlenda
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vakarų Midlandsas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: West Midlands
+          sources:
+            - name: euvoc
+              languages: [da, en, it, nl, pt, ro, sl, sv]
+        - name: Zapadni Midlands
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: westliches Mittelengland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: ápadné Midlands
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: západné Midlands
+        - name: ápadní Midlands
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: západní Midlands
+        - name: Δυτικά Μίντλαντς
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Западен Мидландс
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Западен Мидлендс
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Западни Мидланд
+          sources:
+            - name: euvoc
+              languages: [sr]
     
 
     # West Sussex
@@ -2191,3 +3358,84 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+    
+
+    # Yorkshire and Humber
+    - codes:
+        euvoc: http://eurovoc.europa.eu/4777
+      names:
+        - name: Jorkshiri dhe Hamberi
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Jorkšyras ir Hambersaidas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Jorkšīra un Hambersaida
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Yorkshire Humber
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Yorkshire i Humber
+        - name: Yorkshire Humberside
+          sources:
+            - name: euvoc
+              languages: [cs, sk]
+              value: Yorkshire a Humberside
+            - name: euvoc
+              languages: [es]
+              value: Yorkshire y Humberside
+            - name: euvoc
+              languages: [nl]
+        - name: Yorkshire and Humber
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Yorkshire and The Humber
+        - name: Yorkshire and Humberside
+          sources:
+            - name: euvoc
+              languages: [da, en, fr, it, pl, pt, sv]
+              type: alternative
+        - name: Yorkshire in Humberside
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Yorkshire ja Humberside
+          sources:
+            - name: euvoc
+              languages: [et, fi]
+        - name: Yorkshire l-Humber
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Yorkshire u l-Humber
+        - name: Yorkshire und Humberside
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Yorkshire és Humberside
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Yorkshire ș Humberside
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Yorkshire și Humberside
+        - name: Γιόρκσαϊρ Χάμπερσαϊντ
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јоркшир и Хамберсајд
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Йоркшир и Хъмбърсайд
+          sources:
+            - name: euvoc
+              languages: [bg]

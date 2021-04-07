@@ -3,35 +3,6 @@ complete: false
 regions:
     
 
-    # Red Sea
-    - codes:
-        iso3166-2: SD-RS
-      names:
-        - name: Al Baḩr al ḩmar
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Al Baḩr al Aḩmar
-        - name: Red Sea
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
-    # Khartoum
-    - codes:
-        iso3166-2: SD-KH
-      names:
-        - name: Al Kharţūm
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-        - name: Khartoum
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Blue Nile
     - codes:
         iso3166-2: SD-NB
@@ -45,6 +16,29 @@ regions:
             - name: iso3166-2
               languages: [ar]
               value: An Nīl al Azraq
+    
+
+    # Central Darfur
+    - codes:
+        iso3166-2: SD-DC
+      names:
+        - name: Central Darfur
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Wasaţ Dārfūr
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: Zalingei
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: ālinjay
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Zālinjay
     
 
     # East Darfur
@@ -89,20 +83,6 @@ regions:
               languages: [en]
     
 
-    # South Kordofan
-    - codes:
-        iso3166-2: SD-KS
-      names:
-        - name: Janūb Kurdufān
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-        - name: South Kordofan
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Kassala
     - codes:
         iso3166-2: SD-KA
@@ -117,16 +97,15 @@ regions:
               languages: [ar]
     
 
-    # River Nile
+    # Khartoum
     - codes:
-        iso3166-2: SD-NR
+        iso3166-2: SD-KH
       names:
-        - name: Nahr Nīl
+        - name: Al Kharţūm
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Nahr an Nīl
-        - name: River Nile
+        - name: Khartoum
           sources:
             - name: iso3166-2
               languages: [en]
@@ -174,16 +153,31 @@ regions:
               languages: [en]
     
 
-    # White Nile
+    # Red Sea
     - codes:
-        iso3166-2: SD-NW
+        iso3166-2: SD-RS
       names:
-        - name: Nīl al Abyaḑ
+        - name: Al Baḩr al ḩmar
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: An Nīl al Abyaḑ
-        - name: White Nile
+              value: Al Baḩr al Aḩmar
+        - name: Red Sea
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # River Nile
+    - codes:
+        iso3166-2: SD-NR
+      names:
+        - name: Nahr Nīl
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Nahr an Nīl
+        - name: River Nile
           sources:
             - name: iso3166-2
               languages: [en]
@@ -217,27 +211,18 @@ regions:
               languages: [en]
     
 
-    # Central Darfur
+    # South Kordofan
     - codes:
-        iso3166-2: SD-DC
+        iso3166-2: SD-KS
       names:
-        - name: Central Darfur
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Wasaţ Dārfūr
+        - name: Janūb Kurdufān
           sources:
             - name: iso3166-2
               languages: [ar]
-        - name: Zalingei
+        - name: South Kordofan
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: ālinjay
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Zālinjay
     
 
     # West Darfur
@@ -263,6 +248,21 @@ regions:
             - name: iso3166-2
               languages: [ar]
         - name: West Kordofan
+          sources:
+            - name: iso3166-2
+              languages: [en]
+    
+
+    # White Nile
+    - codes:
+        iso3166-2: SD-NW
+      names:
+        - name: Nīl al Abyaḑ
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: An Nīl al Abyaḑ
+        - name: White Nile
           sources:
             - name: iso3166-2
               languages: [en]

@@ -17,6 +17,36 @@ regions:
               languages: [mi]
     
 
+    # Bay Plenty
+    - codes:
+        iso3166-2: NZ-BOP
+      names:
+        - name: Bay Plenty
+          sources:
+            - name: iso3166-2
+              languages: [en]
+              value: Bay of Plenty
+        - name: Moana Toi Huatahi
+          sources:
+            - name: iso3166-2
+              languages: [mi]
+              value: Te Moana a Toi Te Huatahi
+    
+
+    # Canterbury
+    - codes:
+        iso3166-2: NZ-CAN
+      names:
+        - name: Canterbury
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Waitaha
+          sources:
+            - name: iso3166-2
+              languages: [mi]
+    
+
     # Chatham Islands
     - codes:
         iso3166-2: NZ-CIT
@@ -86,36 +116,6 @@ regions:
               languages: [en]
     
 
-    # Bay Plenty
-    - codes:
-        iso3166-2: NZ-BOP
-      names:
-        - name: Bay Plenty
-          sources:
-            - name: iso3166-2
-              languages: [en]
-              value: Bay of Plenty
-        - name: Moana Toi Huatahi
-          sources:
-            - name: iso3166-2
-              languages: [mi]
-              value: Te Moana a Toi Te Huatahi
-    
-
-    # Southland
-    - codes:
-        iso3166-2: NZ-STL
-      names:
-        - name: Murihiku
-          sources:
-            - name: iso3166-2
-              languages: [mi]
-        - name: Southland
-          sources:
-            - name: iso3166-2
-              languages: [en]
-    
-
     # Nelson
     - codes:
         iso3166-2: NZ-NSN
@@ -159,16 +159,15 @@ regions:
               languages: [mi]
     
 
-    # West Coast
+    # Southland
     - codes:
-        iso3166-2: NZ-WTC
+        iso3166-2: NZ-STL
       names:
-        - name: Taihau ā uru
+        - name: Murihiku
           sources:
             - name: iso3166-2
               languages: [mi]
-              value: Te Taihau ā uru
-        - name: West Coast
+        - name: Southland
           sources:
             - name: iso3166-2
               languages: [en]
@@ -204,20 +203,6 @@ regions:
               languages: [mi]
     
 
-    # Canterbury
-    - codes:
-        iso3166-2: NZ-CAN
-      names:
-        - name: Canterbury
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Waitaha
-          sources:
-            - name: iso3166-2
-              languages: [mi]
-    
-
     # Wellington
     - codes:
         iso3166-2: NZ-WGN
@@ -231,3 +216,18 @@ regions:
             - name: iso3166-2
               languages: [mi]
               value: Te Whanga-nui-a-Tara
+    
+
+    # West Coast
+    - codes:
+        iso3166-2: NZ-WTC
+      names:
+        - name: Taihau ā uru
+          sources:
+            - name: iso3166-2
+              languages: [mi]
+              value: Te Taihau ā uru
+        - name: West Coast
+          sources:
+            - name: iso3166-2
+              languages: [en]

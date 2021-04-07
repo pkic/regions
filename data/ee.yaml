@@ -141,109 +141,6 @@ regions:
               languages: [mk]
     
 
-    # Southern Estonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7860
-      names:
-        - name: Dienvidigaunija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Dél-Észtország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Estonia Jugore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Estonia Meridional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Estonia Południowa
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Estonia Sud
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Estonia de Sud
-        - name: Estonia meridionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Estonie Sud
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Estonie du Sud
-        - name: Estónia Sul
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Estónia do Sul
-        - name: Etelä-Viro
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Juž Estonija
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-              value: Južna Estonija
-        - name: Južné Estónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: L-Estonja tan-Nofsinhar
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Lõuna-Eesti
-          sources:
-            - name: euvoc
-              languages: [da, et]
-        - name: Pietų Estija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Southern Estonia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Södra Estland
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Südestland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zuid-Estland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: žní Estonsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Estonsko
-        - name: Νότια Εσθονία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Јужна Естонија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-        - name: Южна Естония
-          sources:
-            - name: euvoc
-              languages: [bg]
-    
-
     # Elva
     - codes:
         iso3166-2: EE-171
@@ -252,320 +149,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [et]
-    
-
-    # Northern Estonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7856
-      names:
-        - name: Estonia Nord
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Estonia de Nord
-        - name: Estonia Północna
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Estonia Septentrional
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Estonia Veriore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Estonia settentrionale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Estonie Nord
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Estonie du Nord
-        - name: Estónia Norte
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Estónia do Norte
-        - name: L-Estonja tat-tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Noord-Estland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Nordestland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Norra Estland
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Northern Estonia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Pohjois-Viro
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Põhja-Eesti
-          sources:
-            - name: euvoc
-              languages: [da, et]
-        - name: Severna Estonija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Severné Estónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Severní Estonsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Sjeverna Estonija
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Ziemeļigaunija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Észak-Észtország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Šiaurės Estija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Βόρεια Εσθονία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Северна Естония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Северна Естонија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # North-eastern Estonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7859
-      names:
-        - name: Estonia Nord-Est
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Estonia de Nord-Est
-        - name: Estonia Nororiental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Estonia Północno-Wschodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Estonia Verilindore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Estonia nordorientale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Estonie Nord-Est
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Estonie du Nord-Est
-        - name: Estónia Nordeste
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: Kirde-Eesti
-          sources:
-            - name: euvoc
-              languages: [da, et]
-        - name: Koillis-Viro
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: L-Estonja tal-Grigal
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Nordostestland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Nordöstra Estland
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: North-eastern Estonia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Oost-Estland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Severovzhodna Estonija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Severovýchodné Estónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Severovýchodní Estonsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Sjeveroistoč Estonija
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Sjeveroistočna Estonija
-        - name: Ziemeļaustrumigaunija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Északkelet-Észtország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Šiaurės Rytų Estija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Βόρειοανατολική Εσθονία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Североизточна Естония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Североисточна Естонија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
-    
-
-    # Western Estonia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/7857
-      names:
-        - name: Estonia Occidental
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Estonia Occidentală
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Estonia Perëndimore
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Estonia Zachodnia
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Estonia occidentale
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Estonie occidentale
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Estónia Ocidental
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: L-Estonja tal-punent
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Länsi-Viro
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Lääne-Eesti
-          sources:
-            - name: euvoc
-              languages: [da, et]
-        - name: Nyugat-Észtország
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Rietumigaunija
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Vakarų Estija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Västra Estland
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: West-Estland
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Western Estonia
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Westestland
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: Zahodna Estonija
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Zapadna Estonija
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: ápadné Estónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západné Estónsko
-        - name: ápadní Estonsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západní Estonsko
-        - name: Δυτική Εσθονία
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Западна Естония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Западна Естонија
-          sources:
-            - name: euvoc
-              languages: [mk, sr]
     
 
     # Haapsalu
@@ -969,6 +552,216 @@ regions:
               languages: [et]
     
 
+    # North-eastern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7859
+      names:
+        - name: Estonia Nord-Est
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Estonia de Nord-Est
+        - name: Estonia Nororiental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Estonia Północno-Wschodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Estonia Verilindore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Estonia nordorientale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Estonie Nord-Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Estonie du Nord-Est
+        - name: Estónia Nordeste
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: Kirde-Eesti
+          sources:
+            - name: euvoc
+              languages: [da, et]
+        - name: Koillis-Viro
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: L-Estonja tal-Grigal
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Nordostestland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Nordöstra Estland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: North-eastern Estonia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Oost-Estland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Severovzhodna Estonija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Severovýchodné Estónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Severovýchodní Estonsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Sjeveroistoč Estonija
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Sjeveroistočna Estonija
+        - name: Ziemeļaustrumigaunija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Északkelet-Észtország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Rytų Estija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βόρειοανατολική Εσθονία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Североизточна Естония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Североисточна Естонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
+    # Northern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7856
+      names:
+        - name: Estonia Nord
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Estonia de Nord
+        - name: Estonia Północna
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Estonia Septentrional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Estonia Veriore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Estonia settentrionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Estonie Nord
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Estonie du Nord
+        - name: Estónia Norte
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Estónia do Norte
+        - name: L-Estonja tat-tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Noord-Estland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Nordestland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Norra Estland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Northern Estonia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Pohjois-Viro
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Põhja-Eesti
+          sources:
+            - name: euvoc
+              languages: [da, et]
+        - name: Severna Estonija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Severné Estónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Severní Estonsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Sjeverna Estonija
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: Ziemeļigaunija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Észak-Észtország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Šiaurės Estija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Βόρεια Εσθονία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Северна Естония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Северна Естонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+    
+
     # Nõ
     - codes:
         iso3166-2: EE-528
@@ -1220,6 +1013,109 @@ regions:
               languages: [et]
     
 
+    # Southern Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7860
+      names:
+        - name: Dienvidigaunija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Dél-Észtország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Estonia Jugore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Estonia Meridional
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Estonia Południowa
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Estonia Sud
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Estonia de Sud
+        - name: Estonia meridionale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Estonie Sud
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Estonie du Sud
+        - name: Estónia Sul
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Estónia do Sul
+        - name: Etelä-Viro
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Juž Estonija
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+              value: Južna Estonija
+        - name: Južné Estónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: L-Estonja tan-Nofsinhar
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Lõuna-Eesti
+          sources:
+            - name: euvoc
+              languages: [da, et]
+        - name: Pietų Estija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Southern Estonia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Södra Estland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Südestland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zuid-Estland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: žní Estonsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Jižní Estonsko
+        - name: Νότια Εσθονία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Јужна Естонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]
+        - name: Южна Естония
+          sources:
+            - name: euvoc
+              languages: [bg]
+    
+
     # Tallinn
     - codes:
         iso3166-2: EE-784
@@ -1408,3 +1304,107 @@ regions:
           sources:
             - name: iso3166-2
               languages: [et]
+    
+
+    # Western Estonia
+    - codes:
+        euvoc: http://eurovoc.europa.eu/7857
+      names:
+        - name: Estonia Occidental
+          sources:
+            - name: euvoc
+              languages: [es]
+        - name: Estonia Occidentală
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Estonia Perëndimore
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Estonia Zachodnia
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Estonia occidentale
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: Estonie occidentale
+          sources:
+            - name: euvoc
+              languages: [fr]
+        - name: Estónia Ocidental
+          sources:
+            - name: euvoc
+              languages: [pt]
+        - name: L-Estonja tal-punent
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Länsi-Viro
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Lääne-Eesti
+          sources:
+            - name: euvoc
+              languages: [da, et]
+        - name: Nyugat-Észtország
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Rietumigaunija
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Vakarų Estija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Västra Estland
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: West-Estland
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Western Estonia
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Westestland
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: Zahodna Estonija
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Zapadna Estonija
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: ápadné Estónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Západné Estónsko
+        - name: ápadní Estonsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Západní Estonsko
+        - name: Δυτική Εσθονία
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Западна Естония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Западна Естонија
+          sources:
+            - name: euvoc
+              languages: [mk, sr]

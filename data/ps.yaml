@@ -118,20 +118,6 @@ regions:
               value: Khān Yūnis
     
 
-    # North Gaza
-    - codes:
-        iso3166-2: PS-NGZ
-      names:
-        - name: North Gaza
-          sources:
-            - name: iso3166-2
-              languages: [en]
-        - name: Shamāl Ghazzah
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-    
-
     # Nablus
     - codes:
         iso3166-2: PS-NBS
@@ -141,6 +127,20 @@ regions:
             - name: iso3166-2
               languages: [en]
         - name: Nāblus
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # North Gaza
+    - codes:
+        iso3166-2: PS-NGZ
+      names:
+        - name: North Gaza
+          sources:
+            - name: iso3166-2
+              languages: [en]
+        - name: Shamāl Ghazzah
           sources:
             - name: iso3166-2
               languages: [ar]

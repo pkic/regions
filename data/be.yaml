@@ -109,6 +109,260 @@ regions:
               value: Provinċja ta’ Antwerp
     
 
+    # Belgian communities
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5517
+      names:
+        - name: Belgia kogukonnad
+          sources:
+            - name: euvoc
+              languages: [et]
+        - name: Belgian communities
+          sources:
+            - name: euvoc
+              languages: [en]
+        - name: Belgian yhteisöt
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Belgiens sprogsamfund
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Belgiens språkområden
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Belgijos bendruomenės
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Belgium kö össégei
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Belgium közösségei
+        - name: Beļģijas kopienas
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Gemeinschaften Belgiens
+          sources:
+            - name: euvoc
+              languages: [de]
+        - name: belgické oblasti
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: belgijske zajednice
+          sources:
+            - name: euvoc
+              languages: [hr]
+        - name: communautés Belgique
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: communautés de Belgique
+        - name: communities Belgium
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: communities of Belgium
+              type: alternative
+        - name: comunidades Bélgica
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: comunidades de Bélgica
+            - name: euvoc
+              languages: [pt]
+              value: comunidades da Bélgica
+        - name: comunità del Belgio
+          sources:
+            - name: euvoc
+              languages: [it]
+        - name: comunitățile Belgiei
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: gemeenschappen België
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: gemeenschappen van België
+        - name: komunitajiet Belġjani
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: komunitetet Belge
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: skupnosti Belgije
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: spoločenstvá Belgicka
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: wspólnoty Belgii
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: κοινότητες του Βελγίου
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: белгийски общности
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: белгиски заедници
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: белгијске заједнице
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Brussels
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3039
+        iso3166-2: BE-BRU
+      names:
+        - name: Briseles apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+        - name: Briselska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Briselska regija
+        - name: Briuselio
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Briuselio regionas
+        - name: Brukseli
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Brukseli
+        - name: Bruselský n
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: Bruselský región
+        - name: Brussels
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Brussels-capital region
+              type: alternative
+            - name: euvoc
+              languages: [nl]
+              value: Hoofdstedelijk Gewest Brussels
+            - name: euvoc
+              languages: [en]
+              value: Brussels region
+            - name: iso3166-2
+              languages: [nl]
+              value: Brussels Hoofdstedelijk Gewest
+        - name: Bruxelles
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Regione di Bruxelles capitale
+            - name: euvoc
+              languages: [fr]
+              value: Région de Bruxelles-Capitale
+            - name: iso3166-2
+              languages: [fr]
+              value: Bruxelles-Capitale, Région de
+        - name: Bryssel
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Brysselin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Brysselin alue
+        - name: Brüssel
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Region Brüssel-Hauptstadt
+        - name: Brüsseli
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Brüsseli piirkond
+        - name: Regiunea Bruxelles
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: bruselský
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: bruselský region
+        - name: brüsszeli régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: glavnega mesta Bruselj
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: regija glavnega mesta Bruselj
+        - name: n Bruselas
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Bruselas-Capital
+        - name: rajoni Brukselit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Brukselit
+        - name: regionen Bruxelles-Hovedstadsområ
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: regionen Bruxelles-Hovedstadsområdet
+        - name: regiã Bruxelas
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região de Bruxelas-Capital
+        - name: περιφέρεια Βρυξελλών
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Регион Брисел
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: област Брисела
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: регион Брюксел
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: ’ Brussell
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta’ Brussell
+    
+
     # East Flanders
     - codes:
         euvoc: http://eurovoc.europa.eu/1028
@@ -240,226 +494,107 @@ regions:
               languages: [sr]
     
 
-    # Limbourg
+    # Flanders
     - codes:
-        euvoc: http://eurovoc.europa.eu/1661
-        iso3166-2: BE-VLI
+        euvoc: http://eurovoc.europa.eu/3061
+        iso3166-2: BE-VLG
       names:
-        - name: Belga-Limburg
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Belga-Limburg tartomány
-        - name: Krahina e Limburgut
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Limbourg
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: provincie Limbourg
-            - name: euvoc
-              languages: [en]
-              value: Province of Limbourg
-            - name: euvoc
-              languages: [sk]
-              value: provincia Limbourg
-            - name: euvoc
-              languages: [sl]
-              value: provinca Limbourg
-            - name: euvoc
-              languages: [hr]
-              value: Pokrajina Limbourg
-            - name: euvoc
-              languages: [fr]
-              value: province du Limbourg
-        - name: Limburg
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Provincia Limburg
-            - name: euvoc
-              languages: [de]
-              value: Provinz Limburg
-            - name: euvoc
-              languages: [nl]
-              value: provincie Limburg
-            - name: iso3166-2
-              languages: [nl]
-        - name: Limburgas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Limburgas province
-        - name: Limburgi
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Limburgi provints
-        - name: Limburgia
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: prowincja Limburgia
-        - name: Limburgin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Limburgin maakunta
-        - name: Limburgo
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Limburgo provincija
-            - name: euvoc
-              languages: [pt]
-              value: província do Limburgo
-        - name: Limburgo Belga
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia de Limburgo Belga
-        - name: del Limburgo
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia del Limburgo
-        - name: provinsen Limburg
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: βελγική επαρχία Λιμβούργου
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Покраина Лимбург
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Провинция на Лимбург
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: покрајина Лимбург
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: ’ Limburg
+        - name: Fjandri
           sources:
             - name: euvoc
               languages: [mt]
-              value: Provinċja ta’ Limburg
-    
-
-    # Belgian communities
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5517
-      names:
-        - name: Belgia kogukonnad
+              value: Fjandri (Belgju)
+        - name: Flaami
           sources:
             - name: euvoc
               languages: [et]
-        - name: Belgian communities
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Belgian yhteisöt
+              value: Flaami piirkond
+        - name: Flanderin
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Belgiens sprogsamfund
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Belgiens språkområden
+              value: Flanderin alue
+        - name: Flandern
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Belgijos bendruomenės
+        - name: Flanders
           sources:
             - name: euvoc
-              languages: [lt]
-        - name: Belgium kö össégei
+              languages: [en]
+              value: Flanders (Belgium)
+        - name: Flandra
           sources:
             - name: euvoc
-              languages: [hu]
-              value: Belgium közösségei
-        - name: Beļģijas kopienas
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Gemeinschaften Belgiens
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: belgické oblasti
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: belgijske zajednice
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: communautés Belgique
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: communautés de Belgique
-        - name: comunidades Bélgica
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: comunidades de Bélgica
-            - name: euvoc
-              languages: [pt]
-              value: comunidades da Bélgica
-        - name: comunità del Belgio
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: comunitățile Belgiei
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: gemeenschappen België
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: gemeenschappen van België
-        - name: komunitajiet Belġjani
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: komunitetet Belge
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: skupnosti Belgije
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: spoločenstvá Belgicka
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: wspólnoty Belgii
+              languages: [ro, sq]
+        - name: Flandria
           sources:
             - name: euvoc
               languages: [pl]
-        - name: κοινότητες του Βελγίου
+        - name: Flandrija
+          sources:
+            - name: euvoc
+              languages: [hr, lt, lv, sl]
+        - name: Flandry
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Flámsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Vlaams Gewest
+          sources:
+            - name: euvoc
+              languages: [nl]
+            - name: iso3166-2
+              languages: [nl]
+        - name: fiamminga
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione fiamminga
+        - name: flamand régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: flamande
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Région flamande
+        - name: flämische
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: flämische Region
+        - name: n Flamenca
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región Flamenca
+        - name: regionen Flandern
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: regiã flamenga
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região flamenga
+        - name: περιφέρεια Φλάνδρας
           sources:
             - name: euvoc
               languages: [el]
-        - name: белгийски общности
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: белгиски заедници
+        - name: Регион Фландрија
           sources:
             - name: euvoc
               languages: [mk]
-        - name: белгијске заједнице
+        - name: Фландрия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Фландрија
           sources:
             - name: euvoc
               languages: [sr]
@@ -594,266 +729,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-    
-
-    # Walloon Brabant
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5038
-        iso3166-2: BE-WBR
-      names:
-        - name: Brabancja Walońska
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Brabant wallon
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: province de Brabant wallon
-            - name: iso3166-2
-              languages: [fr]
-        - name: Brabante Valón
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia de Brabante Valón
-        - name: Brabante valã
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: província do Brabante valão
-        - name: Brabantsko-valonská
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Brabantsko-valonská provincie
-        - name: Brabantul Valon
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Provincia Brabantul Valon
-        - name: Krahina e Valon Brabantit
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Vallon-Brabant
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Vallon-Brabant tartomány
-        - name: Vallooni Brabanti
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Vallooni Brabanti provints
-        - name: Valonski Brabant
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: provinca Valonski Brabant
-            - name: euvoc
-              languages: [hr]
-              value: Pokrajina Valonski Brabant
-        - name: Valonų Brabanto
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Valonų Brabanto provincija
-        - name: Valoņ Brabantes
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Valoņu Brabantes province
-        - name: Valónsky Brabant
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: provincia Valónsky Brabant
-        - name: Waals-Brabant
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: provincie Waals-Brabant
-        - name: Wallonisch-Brabant
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Provinz Wallonisch-Brabant
-        - name: Walloon Brabant
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Province of Walloon Brabant
-        - name: del Brabante vallone
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia del Brabante vallone
-        - name: provinsen Brabant-Wallon
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: provinsen Vallonska Brabant
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: tal-Brabant tal-Vallonja
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Provinċja tal-Brabant tal-Vallonja
-        - name: vallonilainen Brabantin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: vallonilainen Brabantin maakunta
-        - name: επαρχία Βαλλωνικής Βραβάνδης
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Покраина Валонски Брабант
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Провинция на Валонски Брабант
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: покрајина Валонски Брабант
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Brussels
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3039
-        iso3166-2: BE-BRU
-      names:
-        - name: Briseles apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Briselska
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Briselska regija
-        - name: Briuselio
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Briuselio regionas
-        - name: Brukseli
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Region Brukseli
-        - name: Bruselský n
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Bruselský región
-        - name: Brussels
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Brussels region
-            - name: euvoc
-              languages: [nl]
-              value: Hoofdstedelijk Gewest Brussels
-            - name: iso3166-2
-              languages: [nl]
-              value: Brussels Hoofdstedelijk Gewest
-        - name: Bruxelles
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Région de Bruxelles-Capitale
-            - name: euvoc
-              languages: [it]
-              value: Regione di Bruxelles capitale
-            - name: iso3166-2
-              languages: [fr]
-              value: Bruxelles-Capitale, Région de
-        - name: Bryssel
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Brysselin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Brysselin alue
-        - name: Brüssel
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Region Brüssel-Hauptstadt
-        - name: Brüsseli
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Brüsseli piirkond
-        - name: Regiunea Bruxelles
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: bruselský
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: bruselský region
-        - name: brüsszeli régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: glavnega mesta Bruselj
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: regija glavnega mesta Bruselj
-        - name: n Bruselas
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Bruselas-Capital
-        - name: rajoni Brukselit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Brukselit
-        - name: regionen Bruxelles-Hovedstadsområ
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: regionen Bruxelles-Hovedstadsområdet
-        - name: regiã Bruxelas
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Bruxelas-Capital
-        - name: περιφέρεια Βρυξελλών
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Регион Брисел
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: област Брисела
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: регион Брюксел
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: ’ Brussell
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta’ Brussell
     
 
     # Flemish Community
@@ -1223,21 +1098,21 @@ regions:
         - name: Hainault
           sources:
             - name: euvoc
-              languages: [en]
-              value: Province of Hainault
+              languages: [sl]
+              value: provinca Hainault
             - name: euvoc
               languages: [hr]
               value: Pokrajina Hainault
             - name: euvoc
-              languages: [sl]
-              value: provinca Hainault
+              languages: [sk]
+              value: provincia Hainault
             - name: euvoc
-              languages: [pl, sk]
+              languages: [en, pl]
         - name: Hainaut
           sources:
             - name: euvoc
-              languages: [fr]
-              value: province du Hainaut
+              languages: [hu]
+              value: Hainaut tartomány
             - name: euvoc
               languages: [cs]
               value: provincie Hainaut
@@ -1245,8 +1120,8 @@ regions:
               languages: [pt]
               value: província do Hainaut
             - name: euvoc
-              languages: [hu]
-              value: Hainaut tartomány
+              languages: [fr]
+              value: province du Hainaut
             - name: iso3166-2
               languages: [fr]
         - name: Hainauti
@@ -1315,110 +1190,696 @@ regions:
               value: Provinċja ta’ Hainaut
     
 
-    # Flanders
+    # Limbourg
     - codes:
-        euvoc: http://eurovoc.europa.eu/3061
-        iso3166-2: BE-VLG
+        euvoc: http://eurovoc.europa.eu/1661
+        iso3166-2: BE-VLI
       names:
-        - name: Fjandri
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Fjandri (Belgju)
-        - name: Flaami
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Flaami piirkond
-        - name: Flanderin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Flanderin alue
-        - name: Flandern
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Flanders
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Flanders (Belgium)
-        - name: Flandra
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Flandra (Belgjikë)
-            - name: euvoc
-              languages: [ro]
-        - name: Flandria
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Flandrija
-          sources:
-            - name: euvoc
-              languages: [hr, lt, lv, sl]
-        - name: Flandry
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: Flámsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Vlaams Gewest
-          sources:
-            - name: euvoc
-              languages: [nl]
-            - name: iso3166-2
-              languages: [nl]
-        - name: fiamminga
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: regione fiamminga
-        - name: flamand régió
+        - name: Belga-Limburg
           sources:
             - name: euvoc
               languages: [hu]
-        - name: flamande
+              value: Belga-Limburg tartomány
+        - name: Krahina e Limburgut
           sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Limbourg
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: provinca Limbourg
+            - name: euvoc
+              languages: [cs]
+              value: provincie Limbourg
+            - name: euvoc
+              languages: [hr]
+              value: Pokrajina Limbourg
+            - name: euvoc
+              languages: [sk]
+              value: provincia Limbourg
+            - name: euvoc
+              languages: [en]
+              value: Province of Limbourg
             - name: euvoc
               languages: [fr]
-              value: Région flamande
-        - name: flämische
+              value: province du Limbourg
+        - name: Limburg
           sources:
+            - name: euvoc
+              languages: [ro]
+              value: Provincia Limburg
             - name: euvoc
               languages: [de]
-              value: flämische Region
-        - name: n Flamenca
+              value: Provinz Limburg
+            - name: euvoc
+              languages: [nl]
+              value: provincie Limburg
+            - name: iso3166-2
+              languages: [nl]
+        - name: Limburgas
           sources:
             - name: euvoc
-              languages: [es]
-              value: región Flamenca
-        - name: regionen Flandern
+              languages: [lv]
+              value: Limburgas province
+        - name: Limburgi
           sources:
             - name: euvoc
-              languages: [da]
-        - name: regiã flamenga
+              languages: [et]
+              value: Limburgi provints
+        - name: Limburgia
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: prowincja Limburgia
+        - name: Limburgin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Limburgin maakunta
+        - name: Limburgo
           sources:
             - name: euvoc
               languages: [pt]
-              value: região flamenga
-        - name: περιφέρεια Φλάνδρας
+              value: província do Limburgo
+            - name: euvoc
+              languages: [lt]
+              value: Limburgo provincija
+        - name: Limburgo Belga
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia de Limburgo Belga
+        - name: del Limburgo
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia del Limburgo
+        - name: provinsen Limburg
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: βελγική επαρχία Λιμβούργου
           sources:
             - name: euvoc
               languages: [el]
-        - name: Регион Фландрија
+        - name: Покраина Лимбург
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Фландрия
+        - name: Провинция на Лимбург
           sources:
             - name: euvoc
               languages: [bg]
-        - name: Фландрија
+        - name: покрајина Лимбург
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: ’ Limburg
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Provinċja ta’ Limburg
+    
+
+    # Liège
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1651
+        iso3166-2: BE-WLG
+      names:
+        - name: Krahina e Liezhit
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Liege
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: provinca Liege
+            - name: euvoc
+              languages: [hr]
+              value: Pokrajina Liege
+            - name: euvoc
+              languages: [pl]
+              value: prowincja Liege
+        - name: Liegen
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Liegen maakunta
+        - name: Liegi
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia di Liegi
+        - name: Lieja
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia de Lieja
+        - name: Liège
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Liège tartomány
+            - name: euvoc
+              languages: [ro]
+              value: Provincia Liège
+            - name: euvoc
+              languages: [pt]
+              value: província de Liège
+            - name: euvoc
+              languages: [en]
+              value: Province of Liège
+            - name: euvoc
+              languages: [fr]
+              value: province de Liège
+            - name: iso3166-2
+              languages: [fr]
+        - name: Liège'
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Liège'i provints
+        - name: Ljež
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Lježo provincija
+        - name: Lježas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Lježas province
+        - name: Luik
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Lutych
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: provincie Lutych
+            - name: euvoc
+              languages: [sk]
+              value: provincia Lutych
+        - name: Lüttich
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Provinz Lüttich
+        - name: provinsen Liège
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: επαρχία Λιέγης
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Покраина Лиеж
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Провинция на Лиеж
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: покрајина Лијеж
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: ’ Liège
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Provinċja ta’ Liège
+    
+
+    # Luxembourg
+    - codes:
+        euvoc: http://eurovoc.europa.eu/1713
+        iso3166-2: BE-WLX
+      names:
+        - name: Krahina e Luksemburgut
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Liuksemburgo
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Liuksemburgo provincija
+        - name: Lucemburk
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: provincie Lucemburk
+        - name: Luksemburg
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Pokrajina Luksemburg
+            - name: euvoc
+              languages: [pl]
+              value: prowincja Luksemburg
+        - name: Luksemburgas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Luksemburgas province
+        - name: Luxembourg
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: provinca Luxembourg
+            - name: euvoc
+              languages: [hu]
+              value: Luxembourg tartomány
+            - name: euvoc
+              languages: [en]
+              value: Province of Luxembourg
+            - name: euvoc
+              languages: [fr]
+              value: province de Luxembourg
+            - name: iso3166-2
+              languages: [fr]
+        - name: Luxembourgi
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Luxembourgi provints
+        - name: Luxemburg
+          sources:
+            - name: euvoc
+              languages: [ro, sk]
+              value: provincia Luxemburg
+            - name: euvoc
+              languages: [de]
+              value: Provinz Luxemburg
+            - name: euvoc
+              languages: [nl]
+              value: provincie Luxemburg
+        - name: Luxemburgin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Luxemburgin maakunta
+        - name: Luxemburgo
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: província do Luxemburgo
+        - name: Luxemburgo Belga
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia de Luxemburgo Belga
+        - name: del Lussemburgo
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia del Lussemburgo
+        - name: provinsen Luxembourg
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: tal-Lussemburgu
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Provinċja tal-Lussemburgu
+        - name: βελγική επαρχία Λουξεμβούργου
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Провинция на Люксембург
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Провинција Луксембург
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: покрајина Луксембург
+          sources:
+            - name: euvoc
+              languages: [sr]
+    
+
+    # Namur
+    - codes:
+        euvoc: http://eurovoc.europa.eu/2028
+        iso3166-2: BE-WNA
+      names:
+        - name: Krahina e Namurit
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Namen
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Namiūro
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Namiūro provincija
+        - name: Namur
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Provinz Namur
+            - name: euvoc
+              languages: [sl]
+              value: provinca Namur
+            - name: euvoc
+              languages: [cs]
+              value: provincie Namur
+            - name: euvoc
+              languages: [hu]
+              value: Namur tartomány
+            - name: euvoc
+              languages: [hr]
+              value: Pokrajina Namur
+            - name: euvoc
+              languages: [ro, sk]
+              value: Provincia Namur
+            - name: euvoc
+              languages: [es]
+              value: provincia de Namur
+            - name: euvoc
+              languages: [it]
+              value: provincia di Namur
+            - name: euvoc
+              languages: [pt]
+              value: província de Namur
+            - name: euvoc
+              languages: [pl]
+              value: prowincja Namur
+            - name: euvoc
+              languages: [fr]
+              value: province de Namur
+            - name: euvoc
+              languages: [en]
+              value: Province of Namur
+            - name: iso3166-2
+              languages: [fr]
+        - name: Namuri
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Namuri provints
+        - name: Namurin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Namurin maakunta
+        - name: Namīras
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Namīras province
+        - name: provinsen Namur
+          sources:
+            - name: euvoc
+              languages: [da, sv]
+        - name: επαρχία Ναμύρ
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Провинция на Намюр
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Провинција Намур
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: покрајина Намур
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: ’ Namur
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Provinċja ta’ Namur
+    
+
+    # Walloon
+    - codes:
+        euvoc: http://eurovoc.europa.eu/3084
+        iso3166-2: BE-WAL
+      names:
+        - name: Regiunea Valonă
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Vallonian
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Vallonian alue
+        - name: Vallonien
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: Vallooni
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Vallooni piirkond
+        - name: Valonska
+          sources:
+            - name: euvoc
+              languages: [hr, sl]
+              value: Valonska regija
+        - name: Valonų
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Valonų regionas
+        - name: Valoņ apgabals
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Valoņu apgabals
+        - name: Valónsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Waals Gewest
+          sources:
+            - name: euvoc
+              languages: [nl]
+        - name: Wallonia
+          sources:
+            - name: euvoc
+              languages: [en]
+              type: alternative
+        - name: Walloon
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Walloon region (Belgium)
+        - name: Waloński
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: Region Waloński
+        - name: n Valona
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: región Valona
+        - name: rajoni Valonit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: rajoni i Valonit (Belgjikë)
+        - name: regionen Vallonien
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: regiã Valónia
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região da Valónia
+        - name: vallon régió
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: vallona
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione vallona
+        - name: valonský
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: valonský region
+        - name: wallonische
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: wallonische Region
+        - name: wallonne
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Région wallonne
+            - name: iso3166-2
+              languages: [fr]
+              value: wallonne, Région
+        - name: περιφέρεια Βαλλωνίας
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Валонска област
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Регион Валонија
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: регион Валония
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: ’ Walloon
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: reġjun ta’ Walloon (Belgju)
+    
+
+    # Walloon Brabant
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5038
+        iso3166-2: BE-WBR
+      names:
+        - name: Brabancja Walońska
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Brabant wallon
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: province de Brabant wallon
+            - name: iso3166-2
+              languages: [fr]
+        - name: Brabante Valón
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia de Brabante Valón
+        - name: Brabante valã
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: província do Brabante valão
+        - name: Brabantsko-valonská
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: Brabantsko-valonská provincie
+        - name: Brabantul Valon
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Provincia Brabantul Valon
+        - name: Krahina e Valon Brabantit
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Vallon-Brabant
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: Vallon-Brabant tartomány
+        - name: Vallooni Brabanti
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Vallooni Brabanti provints
+        - name: Valonski Brabant
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: provinca Valonski Brabant
+            - name: euvoc
+              languages: [hr]
+              value: Pokrajina Valonski Brabant
+        - name: Valonų Brabanto
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Valonų Brabanto provincija
+        - name: Valoņ Brabantes
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Valoņu Brabantes province
+        - name: Valónsky Brabant
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: provincia Valónsky Brabant
+        - name: Waals-Brabant
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: provincie Waals-Brabant
+        - name: Wallonisch-Brabant
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: Provinz Wallonisch-Brabant
+        - name: Walloon Brabant
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Province of Walloon Brabant
+        - name: del Brabante vallone
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia del Brabante vallone
+        - name: provinsen Brabant-Wallon
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: provinsen Vallonska Brabant
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: tal-Brabant tal-Vallonja
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Provinċja tal-Brabant tal-Vallonja
+        - name: vallonilainen Brabantin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: vallonilainen Brabantin maakunta
+        - name: επαρχία Βαλλωνικής Βραβάνδης
+          sources:
+            - name: euvoc
+              languages: [el]
+        - name: Покраина Валонски Брабант
+          sources:
+            - name: euvoc
+              languages: [mk]
+        - name: Провинция на Валонски Брабант
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: покрајина Валонски Брабант
           sources:
             - name: euvoc
               languages: [sr]
@@ -1553,452 +2014,3 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-    
-
-    # Liège
-    - codes:
-        euvoc: http://eurovoc.europa.eu/1651
-        iso3166-2: BE-WLG
-      names:
-        - name: Krahina e Liezhit
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Liege
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: prowincja Liege
-            - name: euvoc
-              languages: [sl]
-              value: provinca Liege
-            - name: euvoc
-              languages: [hr]
-              value: Pokrajina Liege
-        - name: Liegen
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Liegen maakunta
-        - name: Liegi
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia di Liegi
-        - name: Lieja
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia de Lieja
-        - name: Liège
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Province of Liège
-            - name: euvoc
-              languages: [ro]
-              value: Provincia Liège
-            - name: euvoc
-              languages: [fr]
-              value: province de Liège
-            - name: euvoc
-              languages: [pt]
-              value: província de Liège
-            - name: euvoc
-              languages: [hu]
-              value: Liège tartomány
-            - name: iso3166-2
-              languages: [fr]
-        - name: Liège'
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Liège'i provints
-        - name: Ljež
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Lježo provincija
-        - name: Lježas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Lježas province
-        - name: Luik
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Lutych
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: provincie Lutych
-            - name: euvoc
-              languages: [sk]
-              value: provincia Lutych
-        - name: Lüttich
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Provinz Lüttich
-        - name: provinsen Liège
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: επαρχία Λιέγης
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Покраина Лиеж
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Провинция на Лиеж
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: покрајина Лијеж
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: ’ Liège
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Provinċja ta’ Liège
-    
-
-    # Luxembourg
-    - codes:
-        euvoc: http://eurovoc.europa.eu/1713
-        iso3166-2: BE-WLX
-      names:
-        - name: Krahina e Luksemburgut
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Liuksemburgo
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Liuksemburgo provincija
-        - name: Lucemburk
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: provincie Lucemburk
-        - name: Luksemburg
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: prowincja Luksemburg
-            - name: euvoc
-              languages: [hr]
-              value: Pokrajina Luksemburg
-        - name: Luksemburgas
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Luksemburgas province
-        - name: Luxembourg
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Luxembourg tartomány
-            - name: euvoc
-              languages: [sl]
-              value: provinca Luxembourg
-            - name: euvoc
-              languages: [fr]
-              value: province de Luxembourg
-            - name: euvoc
-              languages: [en]
-              value: Province of Luxembourg
-            - name: iso3166-2
-              languages: [fr]
-        - name: Luxembourgi
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Luxembourgi provints
-        - name: Luxemburg
-          sources:
-            - name: euvoc
-              languages: [ro, sk]
-              value: provincia Luxemburg
-            - name: euvoc
-              languages: [de]
-              value: Provinz Luxemburg
-            - name: euvoc
-              languages: [nl]
-              value: provincie Luxemburg
-        - name: Luxemburgin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Luxemburgin maakunta
-        - name: Luxemburgo
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: província do Luxemburgo
-        - name: Luxemburgo Belga
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia de Luxemburgo Belga
-        - name: del Lussemburgo
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia del Lussemburgo
-        - name: provinsen Luxembourg
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: tal-Lussemburgu
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Provinċja tal-Lussemburgu
-        - name: βελγική επαρχία Λουξεμβούργου
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Провинция на Люксембург
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Провинција Луксембург
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: покрајина Луксембург
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Namur
-    - codes:
-        euvoc: http://eurovoc.europa.eu/2028
-        iso3166-2: BE-WNA
-      names:
-        - name: Krahina e Namurit
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Namen
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Namiūro
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Namiūro provincija
-        - name: Namur
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: Provinz Namur
-            - name: euvoc
-              languages: [hr]
-              value: Pokrajina Namur
-            - name: euvoc
-              languages: [hu]
-              value: Namur tartomány
-            - name: euvoc
-              languages: [cs]
-              value: provincie Namur
-            - name: euvoc
-              languages: [sl]
-              value: provinca Namur
-            - name: euvoc
-              languages: [pl]
-              value: prowincja Namur
-            - name: euvoc
-              languages: [it]
-              value: provincia di Namur
-            - name: euvoc
-              languages: [ro, sk]
-              value: provincia Namur
-            - name: euvoc
-              languages: [fr]
-              value: province de Namur
-            - name: euvoc
-              languages: [en]
-              value: Province of Namur
-            - name: euvoc
-              languages: [pt]
-              value: província de Namur
-            - name: euvoc
-              languages: [es]
-              value: provincia de Namur
-            - name: iso3166-2
-              languages: [fr]
-        - name: Namuri
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Namuri provints
-        - name: Namurin
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Namurin maakunta
-        - name: Namīras
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Namīras province
-        - name: provinsen Namur
-          sources:
-            - name: euvoc
-              languages: [da, sv]
-        - name: επαρχία Ναμύρ
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Провинция на Намюр
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Провинција Намур
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: покрајина Намур
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: ’ Namur
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Provinċja ta’ Namur
-    
-
-    # Walloon
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3084
-        iso3166-2: BE-WAL
-      names:
-        - name: Regiunea Valonă
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Vallonian
-          sources:
-            - name: euvoc
-              languages: [fi]
-              value: Vallonian alue
-        - name: Vallonien
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: Vallooni
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Vallooni piirkond
-        - name: Valonska
-          sources:
-            - name: euvoc
-              languages: [hr, sl]
-              value: Valonska regija
-        - name: Valonų
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Valonų regionas
-        - name: Valoņ apgabals
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Valoņu apgabals
-        - name: Valónsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: Waals Gewest
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: Walloon
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Walloon region (Belgium)
-        - name: Waloński
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: Region Waloński
-        - name: n Valona
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región Valona
-        - name: rajoni Valonit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: rajoni i Valonit (Belgjikë)
-        - name: regionen Vallonien
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: regiã Valónia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região da Valónia
-        - name: vallon régió
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: vallona
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: regione vallona
-        - name: valonský
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: valonský region
-        - name: wallonische
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: wallonische Region
-        - name: wallonne
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Région wallonne
-            - name: iso3166-2
-              languages: [fr]
-              value: wallonne, Région
-        - name: περιφέρεια Βαλλωνίας
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Валонска област
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Регион Валонија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: регион Валония
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: ’ Walloon
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta’ Walloon (Belgju)
