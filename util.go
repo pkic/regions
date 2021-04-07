@@ -16,7 +16,7 @@ var (
 	// - Portuguese (pt) [Added 'do']
 	// - Romanian (ro) [Added 'a']
 	// - Slovenian (sl) [Changed Province to Provinca]
-	// - China (zh) [Added 'Sheng']
+	// - China (zh) [Added 'Sheng', 'Shi', and 'SAR']
 	// - Corsican (co) [Removed space in 'l ']
 	localPreOrSuffix = []*regexp.Regexp{
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(Province|Region|Capital city|Capital region|City|Territory|of|the)\b[\s\.\-\,\;]*)+`),                              // English (en)
@@ -35,9 +35,9 @@ var (
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(နယ်ပယ်|ဒေသ|မြို့တော်|မြို့တော်ဒေသ|မြို့|နယ်မြေတွေကို|၏|အဆိုပါ)\b[\s\.\-\,\;]*)+`),                                  // Burmese (my)
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(província|regió|Ciutat capital|regió de la capital|ciutat|territori|de|la)\b[\s\.\-\,\;]*)+`),                      // Catalan (ca)
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(Province|Region|likulu|Capital dera|City|gawo|wa|ndi)\b[\s\.\-\,\;]*)+`),                                           // Chichewa, Chewa, Nyanja (ny)
-		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地区|首都|首都地区|城市|领土|的|这|Sheng)\b[\s\.\-\,\;]*)+`),                                                                   // Chinese (zh)
-		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地区|首都|首都地区|城市|领土|的|这|Sheng)\b[\s\.\-\,\;]*)+`),                                                                   // Chinese (Simplified) (zh-Hans)
-		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地區|首都|首都地區|城市|領土|的|這|Sheng)\b[\s\.\-\,\;]*)+`),                                                                   // Chinese (Traditional) (zh-Hant)
+		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地区|首都|首都地区|城市|领土|的|这|Sheng|Shi|SAR)\b[\s\.\-\,\;]*)+`),                                                           // Chinese (zh)
+		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地区|首都|首都地区|城市|领土|的|这|Sheng|Shi|SAR)\b[\s\.\-\,\;]*)+`),                                                           // Chinese (Simplified) (zh-Hans)
+		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(省|地區|首都|首都地區|城市|領土|的|這|Sheng|Shi|SAR)\b[\s\.\-\,\;]*)+`),                                                           // Chinese (Traditional) (zh-Hant)
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(Pruvincia|Region|a cità capitale|righjoni Capital|cità|Territory|di|l')\b[\s\.\-\,\;]*)+`),                         // Corsican (co)
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(Pokrajina|Regija|Glavni grad|Capital regija|Grad|Teritorija|od)\b[\s\.\-\,\;]*)+`),                                 // Croatian (hr)
 		regexp.MustCompile(`(?i)([\s\.\-\,\;]*\b(Provincie|Kraj|Hlavní město|Capital region|Město|Území|z)\b[\s\.\-\,\;]*)+`),                                       // Czech (cs)
