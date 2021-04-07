@@ -56,36 +56,32 @@ func (e *Europe) getCountries() ([]regions.Country, error) {
 }
 
 // getRegions retrieves and updates the region data
+// TODO: Include information about euvoc:status, euvoc:endDate and dc:isReplacedBy
 func (e *Europe) getRegions(c *regions.Country) error {
 	res, err := e.client.Query(`
-	  PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	  PREFIX euvoc: <http://publications.europa.eu/ontology/euvoc#>
-	  PREFIX status: <http://publications.europa.eu/resource/authority/concept-status/>
-	  PREFIX ev: <http://eurovoc.europa.eu/>
-	  PREFIX country: <http://publications.europa.eu/resource/authority/country>
-	  SELECT DISTINCT ?subRegion, ?subRegionLabel
-	  WHERE {  
-		  ?subRegion skos:prefLabel ?subRegionLabel ; 
-					  euvoc:status ?subRegionStatus ;
-					  skos:inScheme ev:100278 ;
-					  skos:broader+ ?regionGroup . 
-					  FILTER(?subRegionStatus = status:CURRENT) .
- 
-		  OPTIONAL {
-			  ?subRegion skos:altLabel ?subAltRegionLabel FILTER(langMatches(lang(?subAltRegionLabel), "en")) .
-		  }
- 
-		  OPTIONAL {
-			  ?regionGroup skos:prefLabel ?regionGroupLabel ;
-					  skos:topConceptOf ev:100278 .
-					  FILTER(langMatches(lang(?regionGroupLabel), "en")) .  
-		  }
-	  
-		  ?country skos:prefLabel ?countryLabel ;  
-					  skos:related ?regionGroup ; 
-					  skos:inScheme  ev:100277 .
-					  FILTER(langMatches(lang(?countryLabel), "en") AND str(?countryLabel) = "` + c.Name + `") . 
-	  }`)
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+	PREFIX euvoc: <http://publications.europa.eu/ontology/euvoc#>
+	PREFIX status: <http://publications.europa.eu/resource/authority/concept-status/>
+	PREFIX ev: <http://eurovoc.europa.eu/>
+	PREFIX country: <http://publications.europa.eu/resource/authority/country>
+	SELECT DISTINCT ?region, ?regionLabel, ?altRegionLabel
+	WHERE {
+	  ?regionsOf skos:prefLabel ?regionsOfLabel;
+	      euvoc:status status:CURRENT ;
+		  skos:inScheme ev:100141 .
+		  FILTER(STRSTARTS(?regionsOfLabel, "regions ")) .  
+		  FILTER(STRENDS(?regionsOfLabel, " ` + c.Name + `")) .  
+
+	   ?region skos:prefLabel ?regionLabel ;
+	      euvoc:status status:CURRENT ;
+		  skos:broader+ ?regionsOf .
+
+	  OPTIONAL {
+		  ?region skos:altLabel ?altRegionLabel ;
+			euvoc:status status:CURRENT .
+			FILTER(langMatches(lang(?altRegionLabel), "en")) .
+	  }
+	}`)
 	if err != nil {
 		return err
 	}
@@ -96,10 +92,18 @@ func (e *Europe) getRegions(c *regions.Country) error {
 	}
 
 	for _, v := range res.Results.Bindings {
-		r := c.GetOrCreateRegion([]string{v["subRegionLabel"].Value}, sourceIdentifier, v["subRegion"].Value)
-		err = r.Add(v["subRegionLabel"].Value, strings.ToLower(v["subRegionLabel"].Lang), sourceIdentifier)
+		r := c.GetOrCreateRegion([]string{v["regionLabel"].Value, v["altRegionLabel"].Value}, sourceIdentifier, v["region"].Value)
+
+		err = r.Add(v["regionLabel"].Value, strings.ToLower(v["regionLabel"].Lang), sourceIdentifier, "")
 		if err != nil {
 			return err
+		}
+
+		if v["altRegionLabel"].Value != "" {
+			err = r.Add(v["altRegionLabel"].Value, strings.ToLower(v["altRegionLabel"].Lang), sourceIdentifier, "alternative")
+			if err != nil {
+				return err
+			}
 		}
 	}
 
