@@ -83,13 +83,13 @@ func (c *Country) sortRegions() {
 		if len(c.Regions[i].Names) == 0 || len(c.Regions[j].Names) == 0 {
 			return true
 		}
-		switch strings.Compare(c.Regions[i].Names[0].Name, c.Regions[j].Names[0].Name) {
+		switch strings.Compare(c.Regions[i].String(), c.Regions[j].String()) {
 		case -1:
 			return true
 		case 1:
 			return false
 		}
-		return c.Regions[i].Names[0].Name > c.Regions[j].Names[0].Name
+		return c.Regions[i].String() > c.Regions[j].String()
 	})
 }
 
