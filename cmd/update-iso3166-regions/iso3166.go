@@ -125,12 +125,12 @@ func (iso *ISO3166) getRegions(c *regions.Country) error {
 		}
 
 		r := c.GetOrCreateRegion([]string{regionName, regionNameLocal}, sourceIdentifier, regionCode)
-		err = r.Add(regionName, regionLang, sourceIdentifier)
+		err = r.Add(regionName, regionLang, sourceIdentifier, "")
 		if err != nil {
 			return err
 		}
 		if regionNameLocal != "" {
-			err = r.Add(regionNameLocal, regionLang, sourceIdentifier)
+			err = r.Add(regionNameLocal, regionLang, sourceIdentifier, "")
 			if err != nil {
 				return err
 			}

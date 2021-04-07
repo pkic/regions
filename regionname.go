@@ -29,7 +29,7 @@ func (r *RegionName) removeSource(source string) error {
 }
 
 // Add source attribution including value at source and language
-func (n *RegionName) addSource(normalizedName, regionName, language, source string) error {
+func (n *RegionName) addSource(normalizedName, regionName, language, source, nameType string) error {
 	for _, s := range n.Sources {
 		if strings.EqualFold(s.Name, source) &&
 			(s.Value == "" || strings.EqualFold(s.Value, regionName)) {
@@ -41,7 +41,7 @@ func (n *RegionName) addSource(normalizedName, regionName, language, source stri
 		}
 	}
 
-	s := &Source{Name: source}
+	s := &Source{Name: source, Type: nameType}
 	if regionName != normalizedName {
 		s.Value = regionName
 	}

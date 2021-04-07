@@ -11,6 +11,9 @@ type Source struct {
 	Name      string   `yaml:",omitempty"`
 	Languages []string `yaml:",omitempty,flow"`
 	Value     string   `yaml:",omitempty"` // Value as included in the source
+	Type      string   `yaml:",omitempty"` // To indicate alternative or other non primary names
+	//Status    string    `yaml:",omitempty"`
+	//EndDate   time.Time `yaml:",omitempty"`
 }
 
 // MarshalYAML is a custom mashaller to sort and restoring comments automatically

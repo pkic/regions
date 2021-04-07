@@ -43,7 +43,7 @@ func (r *Region) RemoveSource(source string) error {
 }
 
 // Add a new region
-func (r *Region) Add(regionName, language, source string) error {
+func (r *Region) Add(regionName, language, source, nameType string) error {
 	normalizedName := removeMetaData(regionName)
 	if normalizedName == "" {
 		normalizedName = regionName
@@ -52,13 +52,13 @@ func (r *Region) Add(regionName, language, source string) error {
 	for _, n := range r.Names {
 		// If exists, check if source is listed, else add for reference
 		if strings.EqualFold(n.Name, normalizedName) {
-			return n.addSource(normalizedName, regionName, language, source)
+			return n.addSource(normalizedName, regionName, language, source, nameType)
 		}
 	}
 
 	// Add name if not present
 	rn := &RegionName{Name: normalizedName}
-	err := rn.addSource(normalizedName, regionName, language, source)
+	err := rn.addSource(normalizedName, regionName, language, source, nameType)
 	if err != nil {
 		return err
 	}
@@ -86,6 +86,9 @@ func (r *Region) sort() {
 func (r *Region) String() string {
 	for _, n := range r.Names {
 		for _, s := range n.Sources {
+			if s.Type != "" && s.Type != "primary" {
+				continue
+			}
 			for _, l := range s.Languages {
 				if l == "en" {
 					return n.Name
