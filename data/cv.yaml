@@ -167,70 +167,65 @@ regions:
               languages: [pt]
     
 
-    # Sã Domingos
+    # São Domingos
     - codes:
         iso3166-2: CV-SD
       names:
-        - name: Sã Domingos
+        - name: São Domingos
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Domingos
     
 
-    # Sã Filipe
+    # São Filipe
     - codes:
         iso3166-2: CV-SF
       names:
-        - name: Sã Filipe
+        - name: São Filipe
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Filipe
     
 
-    # Sã Lourenç dos Órgãos
+    # São Lourenço dos Órgãos
     - codes:
         iso3166-2: CV-SO
       names:
-        - name: Sã Lourenç dos Órgãos
+        - name: São Lourenço dos Órgãos
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Lourenço dos Órgãos
     
 
-    # Sã Miguel
+    # São Miguel
     - codes:
         iso3166-2: CV-SM
       names:
-        - name: Sã Miguel
+        - name: São Miguel
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Miguel
     
 
-    # Sã Salvador Mundo
+    # São Salvador Mundo
     - codes:
         iso3166-2: CV-SS
       names:
-        - name: Sã Salvador Mundo
+        - name: São Salvador Mundo
           sources:
             - name: iso3166-2
               languages: [pt]
               value: São Salvador do Mundo
     
 
-    # Sã Vicente
+    # São Vicente
     - codes:
         iso3166-2: CV-SV
       names:
-        - name: Sã Vicente
+        - name: São Vicente
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Vicente
     
 
     # Tarrafal
@@ -243,11 +238,11 @@ regions:
               languages: [pt]
     
 
-    # Tarrafal Sã Nicolau
+    # Tarrafal São Nicolau
     - codes:
         iso3166-2: CV-TS
       names:
-        - name: Tarrafal Sã Nicolau
+        - name: Tarrafal São Nicolau
           sources:
             - name: iso3166-2
               languages: [pt]

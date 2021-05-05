@@ -65,15 +65,14 @@ regions:
               languages: [en]
     
 
-    # Armagh Banbridge and Craigavon
+    # Armagh City, Banbridge and Craigavon
     - codes:
         iso3166-2: GB-ABC
       names:
-        - name: Armagh Banbridge and Craigavon
+        - name: Armagh City, Banbridge and Craigavon
           sources:
             - name: iso3166-2
               languages: [en]
-              value: Armagh City, Banbridge and Craigavon
     
 
     # Barking and Dagenham
@@ -629,7 +628,7 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/596
       names:
-        - name: Angleterre Est
+        - name: Angleterre l'Est
           sources:
             - name: euvoc
               languages: [fr]
@@ -660,15 +659,18 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
+        - name: Il-lvant tal-Ingilterra
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Inghilterra dell'Est
           sources:
             - name: euvoc
               languages: [it]
-        - name: Istoč Engleska
+        - name: Istočna Engleska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Istočna Engleska
         - name: Itä-Englanti
           sources:
             - name: euvoc
@@ -702,11 +704,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: lvant tal-Ingilterra
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-lvant tal-Ingilterra
         - name: východné Anglicko
           sources:
             - name: euvoc
@@ -788,9 +785,6 @@ regions:
             - name: euvoc
               languages: [ro]
               value: Midlands de Est
-            - name: euvoc
-              languages: [fr]
-              value: Midlands de l'Est
         - name: Midlands Orientales
           sources:
             - name: euvoc
@@ -799,6 +793,11 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
+        - name: Midlands l'Est
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Midlands de l'Est
         - name: Midlands tal-Lvant
           sources:
             - name: euvoc
@@ -1756,11 +1755,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Sjeveroistoč Engleska
+        - name: Sjeveroistočna Engleska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Sjeveroistočna Engleska
         - name: Verilindje
           sources:
             - name: euvoc
@@ -2012,11 +2010,10 @@ regions:
           sources:
             - name: euvoc
               languages: [es]
-        - name: Irlanda ’ Fuq
+        - name: Irlanda ta’ Fuq
           sources:
             - name: euvoc
               languages: [mt]
-              value: Irlanda ta’ Fuq
         - name: Irlande Nord
           sources:
             - name: euvoc
@@ -2565,11 +2562,10 @@ regions:
             - name: euvoc
               languages: [sq]
               value: Juglindje (Anglia)
-        - name: Jugoistoč Engleska
+        - name: Jugoistočna Engleska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Jugoistočna Engleska
         - name: Jugovzhodna Anglija
           sources:
             - name: euvoc
@@ -2582,11 +2578,10 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
-        - name: Pietryč ų Anglija
+        - name: Pietryčių Anglija
           sources:
             - name: euvoc
               languages: [lt]
-              value: Pietryčių Anglija
         - name: South East
           sources:
             - name: euvoc
@@ -3184,15 +3179,15 @@ regions:
           sources:
             - name: euvoc
               languages: [es]
-        - name: Midlands Ouest
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: Midlands de l'Ouest
         - name: Midlands Zachodni
           sources:
             - name: euvoc
               languages: [pl]
+        - name: Midlands l'Ouest
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Midlands de l'Ouest
         - name: Midlands tal-Punent
           sources:
             - name: euvoc
@@ -3221,16 +3216,14 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: ápadné Midlands
+        - name: západné Midlands
           sources:
             - name: euvoc
               languages: [sk]
-              value: západné Midlands
-        - name: ápadní Midlands
+        - name: západní Midlands
           sources:
             - name: euvoc
               languages: [cs]
-              value: západní Midlands
         - name: Δυτικά Μίντλαντς
           sources:
             - name: euvoc
@@ -3422,11 +3415,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Yorkshire ș Humberside
+        - name: Yorkshire și Humberside
           sources:
             - name: euvoc
               languages: [ro]
-              value: Yorkshire și Humberside
         - name: Γιόρκσαϊρ Χάμπερσαϊντ
           sources:
             - name: euvoc

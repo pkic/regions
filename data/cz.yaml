@@ -34,15 +34,14 @@ regions:
               languages: [cs]
     
 
-    # Brno
+    # Brno-město
     - codes:
         iso3166-2: CZ-642
       names:
-        - name: Brno
+        - name: Brno-město
           sources:
             - name: iso3166-2
               languages: [cs]
-              value: Brno-město
     
 
     # Brno-venkov
@@ -227,6 +226,16 @@ regions:
               languages: [cs]
     
 
+    # Jičín
+    - codes:
+        iso3166-2: CZ-522
+      names:
+        - name: Jičín
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+    
+
     # Karlovarský
     - codes:
         iso3166-2: CZ-41
@@ -401,15 +410,14 @@ regions:
               languages: [cs]
     
 
-    # Nový čín
+    # Nový Jičín
     - codes:
         iso3166-2: CZ-804
       names:
-        - name: Nový čín
+        - name: Nový Jičín
           sources:
             - name: iso3166-2
               languages: [cs]
-              value: Nový Jičín
     
 
     # Nymburk
@@ -463,15 +471,14 @@ regions:
               languages: [cs]
     
 
-    # Ostrava
+    # Ostrava-město
     - codes:
         iso3166-2: CZ-806
       names:
-        - name: Ostrava
+        - name: Ostrava-město
           sources:
             - name: iso3166-2
               languages: [cs]
-              value: Ostrava-město
     
 
     # Pardubice
@@ -505,22 +512,21 @@ regions:
               languages: [cs]
     
 
-    # Plzeň
-    - codes:
-        iso3166-2: CZ-323
-      names:
-        - name: Plzeň
-          sources:
-            - name: iso3166-2
-              languages: [cs]
-              value: Plzeň-město
-    
-
     # Plzeň-jih
     - codes:
         iso3166-2: CZ-324
       names:
         - name: Plzeň-jih
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+    
+
+    # Plzeň-město
+    - codes:
+        iso3166-2: CZ-323
+      names:
+        - name: Plzeň-město
           sources:
             - name: iso3166-2
               languages: [cs]
@@ -568,22 +574,21 @@ regions:
               value: Praha, Hlavní město
     
 
-    # Praha ápad
-    - codes:
-        iso3166-2: CZ-20A
-      names:
-        - name: Praha ápad
-          sources:
-            - name: iso3166-2
-              languages: [cs]
-              value: Praha-západ
-    
-
     # Praha-východ
     - codes:
         iso3166-2: CZ-209
       names:
         - name: Praha-východ
+          sources:
+            - name: iso3166-2
+              languages: [cs]
+    
+
+    # Praha-západ
+    - codes:
+        iso3166-2: CZ-20A
+      names:
+        - name: Praha-západ
           sources:
             - name: iso3166-2
               languages: [cs]
@@ -891,17 +896,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [cs]
-    
-
-    # čín
-    - codes:
-        iso3166-2: CZ-522
-      names:
-        - name: čín
-          sources:
-            - name: iso3166-2
-              languages: [cs]
-              value: Jičín
     
 
     # Šumperk

@@ -144,7 +144,7 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-        - name: Dar Beï
+        - name: Dar Beïda
           sources:
             - name: iso3166-2
               languages: [ar]
@@ -212,15 +212,14 @@ regions:
               languages: [ar]
     
 
-    # Drâ Tafilalet
+    # Drâa-Tafilalet
     - codes:
         iso3166-2: MA-08
       names:
-        - name: Drâ Tafilalet
+        - name: Drâa-Tafilalet
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Drâa-Tafilalet
     
 
     # Errachidia
@@ -387,11 +386,11 @@ regions:
               languages: [ar]
     
 
-    # Kelâ des Sraghna
+    # Kelâa des Sraghna
     - codes:
         iso3166-2: MA-KES
       names:
-        - name: Kelâ des Sraghna
+        - name: Kelâa des Sraghna
           sources:
             - name: iso3166-2
               languages: [ar]
@@ -438,6 +437,16 @@ regions:
               languages: [ar]
     
 
+    # L'Oriental
+    - codes:
+        iso3166-2: MA-02
+      names:
+        - name: L'Oriental
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Larache
     - codes:
         iso3166-2: MA-LAR
@@ -446,6 +455,28 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
+    
+
+    # Laâyoune
+    - codes:
+        iso3166-2: MA-LAA
+      names:
+        - name: Laâyoune
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Laâyoune (EH)
+    
+
+    # Laâyoune-Sakia Hamra
+    - codes:
+        iso3166-2: MA-11
+      names:
+        - name: Laâyoune-Sakia Hamra
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+              value: Laâyoune-Sakia El Hamra (EH-partial)
     
 
     # Marrakech
@@ -546,17 +577,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # Oriental
-    - codes:
-        iso3166-2: MA-02
-      names:
-        - name: Oriental
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: L'Oriental
     
 
     # Ouarzazate
@@ -870,25 +890,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # âyoune
-    - codes:
-        iso3166-2: MA-LAA
-      names:
-        - name: âyoune
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Laâyoune (EH)
-    
-
-    # âyoune-Sakia Hamra
-    - codes:
-        iso3166-2: MA-11
-      names:
-        - name: âyoune-Sakia Hamra
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Laâyoune-Sakia El Hamra (EH-partial)

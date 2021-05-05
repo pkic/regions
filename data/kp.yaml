@@ -3,30 +3,28 @@ complete: false
 regions:
     
 
-    # Hamgyǒ namdo
+    # Hamgyǒng-namdo
     - codes:
         iso3166-2: KP-08
       names:
-        - name: Hamgyǒ namdo
+        - name: Hamgyǒng-namdo
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Hamgyǒng-namdo
         - name: Hamkyeongnamto
           sources:
             - name: iso3166-2
               languages: [ko]
     
 
-    # Hamgyǒ bukto
+    # Hamgyǒng-bukto
     - codes:
         iso3166-2: KP-09
       names:
-        - name: Hamgyǒ bukto
+        - name: Hamgyǒng-bukto
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Hamgyǒng-bukto
         - name: Hamkyeongpukto
           sources:
             - name: iso3166-2
@@ -61,15 +59,14 @@ regions:
               languages: [ko]
     
 
-    # Chagang
+    # Chagang-do
     - codes:
         iso3166-2: KP-04
       names:
-        - name: Chagang
+        - name: Chagang-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Chagang-do
         - name: Jakangto
           sources:
             - name: iso3166-2
@@ -84,11 +81,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-        - name: Kangwǒn
+        - name: Kangwǒn-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Kangwǒn-do
     
 
     # Nampho
@@ -99,52 +95,48 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-        - name: Namp’
+        - name: Namp’o
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Namp’o
     
 
-    # P' ǒngyang
+    # P'yǒngyang
     - codes:
         iso3166-2: KP-01
       names:
-        - name: P' ǒngyang
+        - name: P'yǒngyang
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: P'yǒngyang
         - name: Phyeongyang
           sources:
             - name: iso3166-2
               languages: [ko]
     
 
-    # P' ǒngan-namdo
+    # P'yǒngan-namdo
     - codes:
         iso3166-2: KP-02
       names:
-        - name: P' ǒngan-namdo
+        - name: P'yǒngan-namdo
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: P'yǒngan-namdo
         - name: Phyeongannamto
           sources:
             - name: iso3166-2
               languages: [ko]
     
 
-    # P' ǒngan-bukto
+    # P'yǒngan-bukto
     - codes:
         iso3166-2: KP-03
       names:
-        - name: P' ǒngan-bukto
+        - name: P'yǒngan-bukto
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: P'yǒngan-bukto
         - name: Phyeonganpukto
           sources:
             - name: iso3166-2
@@ -169,15 +161,14 @@ regions:
               languages: [ko]
     
 
-    # Ryanggang
+    # Ryanggang-do
     - codes:
         iso3166-2: KP-10
       names:
-        - name: Ryanggang
+        - name: Ryanggang-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Ryanggang-do
         - name: Ryangkangto
           sources:
             - name: iso3166-2

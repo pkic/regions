@@ -3,6 +3,16 @@ complete: false
 regions:
     
 
+    # Al Aḩmadī
+    - codes:
+        iso3166-2: KW-AH
+      names:
+        - name: Al Aḩmadī
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Al Farwānīyah
     - codes:
         iso3166-2: KW-FA
@@ -21,17 +31,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # Al ḩmadī
-    - codes:
-        iso3166-2: KW-AH
-      names:
-        - name: Al ḩmadī
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Al Aḩmadī
     
 
     # Al Kuwayt

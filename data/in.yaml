@@ -113,15 +113,14 @@ regions:
               languages: [en]
     
 
-    # Haryā
+    # Haryāna
     - codes:
         iso3166-2: IN-HR
       names:
-        - name: Haryā
+        - name: Haryāna
           sources:
             - name: iso3166-2
               languages: [en]
-              value: Haryāna
     
 
     # Himāchal Pradesh
@@ -308,26 +307,24 @@ regions:
               languages: [en]
     
 
-    # Tamil Nā
+    # Tamil Nādu
     - codes:
         iso3166-2: IN-TN
       names:
-        - name: Tamil Nā
+        - name: Tamil Nādu
           sources:
             - name: iso3166-2
               languages: [en]
-              value: Tamil Nādu
     
 
-    # Telangā
+    # Telangāna
     - codes:
         iso3166-2: IN-TG
       names:
-        - name: Telangā
+        - name: Telangāna
           sources:
             - name: iso3166-2
               languages: [en]
-              value: Telangāna
     
 
     # Tripura

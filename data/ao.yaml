@@ -105,15 +105,14 @@ regions:
               languages: [pt]
     
 
-    # Huí
+    # Huíla
     - codes:
         iso3166-2: AO-HUI
       names:
-        - name: Huí
+        - name: Huíla
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Huíla
     
 
     # Luanda
@@ -176,6 +175,16 @@ regions:
               languages: [pt]
     
 
+    # Uíge
+    - codes:
+        iso3166-2: AO-UIG
+      names:
+        - name: Uíge
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+    
+
     # Zaire
     - codes:
         iso3166-2: AO-ZAI
@@ -184,14 +193,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [pt]
-    
-
-    # íge
-    - codes:
-        iso3166-2: AO-UIG
-      names:
-        - name: íge
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-              value: Uíge

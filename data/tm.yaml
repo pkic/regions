@@ -13,11 +13,31 @@ regions:
               languages: [tk]
     
 
+    # Aşgabat
+    - codes:
+        iso3166-2: TM-S
+      names:
+        - name: Aşgabat
+          sources:
+            - name: iso3166-2
+              languages: [tk]
+    
+
     # Balkan
     - codes:
         iso3166-2: TM-B
       names:
         - name: Balkan
+          sources:
+            - name: iso3166-2
+              languages: [tk]
+    
+
+    # Daşoguz
+    - codes:
+        iso3166-2: TM-D
+      names:
+        - name: Daşoguz
           sources:
             - name: iso3166-2
               languages: [tk]
@@ -41,25 +61,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [tk]
-    
-
-    # şgabat
-    - codes:
-        iso3166-2: TM-S
-      names:
-        - name: şgabat
-          sources:
-            - name: iso3166-2
-              languages: [tk]
-              value: Aşgabat
-    
-
-    # şoguz
-    - codes:
-        iso3166-2: TM-D
-      names:
-        - name: şoguz
-          sources:
-            - name: iso3166-2
-              languages: [tk]
-              value: Daşoguz

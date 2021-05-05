@@ -222,11 +222,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kö ép-Szlovénia
+        - name: Közép-Szlovénia
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Szlovénia
         - name: Osrednjeslovenska
           sources:
             - name: euvoc
@@ -350,15 +349,14 @@ regions:
               languages: [sl]
     
 
-    # Divač
+    # Divača
     - codes:
         iso3166-2: SI-019
       names:
-        - name: Divač
+        - name: Divača
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Divača
     
 
     # Dobje
@@ -511,7 +509,7 @@ regions:
               languages: [mk, sr]
     
 
-    # Goriš
+    # Goriška
     - codes:
         euvoc: http://eurovoc.europa.eu/7819
       names:
@@ -523,11 +521,10 @@ regions:
           sources:
             - name: euvoc
               languages: [mt, ro]
-        - name: Goriš
+        - name: Goriška
           sources:
             - name: euvoc
               languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pl, pt, sk, sl, sv]
-              value: Goriška
         - name: Гориска
           sources:
             - name: euvoc
@@ -647,6 +644,16 @@ regions:
               languages: [sl]
     
 
+    # Hoče-Slivnica
+    - codes:
+        iso3166-2: SI-160
+      names:
+        - name: Hoče-Slivnica
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
     # Hrastnik
     - codes:
         iso3166-2: SI-034
@@ -697,15 +704,14 @@ regions:
               languages: [sl]
     
 
-    # Ivanč Gorica
+    # Ivančna Gorica
     - codes:
         iso3166-2: SI-039
       names:
-        - name: Ivanč Gorica
+        - name: Ivančna Gorica
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Ivančna Gorica
     
 
     # Isola
@@ -836,7 +842,7 @@ regions:
               languages: [sl]
     
 
-    # Koroš
+    # Koroška
     - codes:
         euvoc: http://eurovoc.europa.eu/7821
       names:
@@ -853,11 +859,10 @@ regions:
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Koroš
+        - name: Koroška
           sources:
             - name: euvoc
               languages: [cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, pt, ro, sk, sl, sv]
-              value: Koroška
         - name: Короска
           sources:
             - name: euvoc
@@ -969,6 +974,16 @@ regions:
               languages: [sl]
     
 
+    # Laško
+    - codes:
+        iso3166-2: SI-057
+      names:
+        - name: Laško
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
     # Lenart
     - codes:
         iso3166-2: SI-058
@@ -1064,15 +1079,14 @@ regions:
               value: Lovrenc na Pohorju
     
 
-    # Loš dolina
+    # Loška dolina
     - codes:
         iso3166-2: SI-065
       names:
-        - name: Loš dolina
+        - name: Loška dolina
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Loška dolina
     
 
     # Loški Potok
@@ -1316,7 +1330,7 @@ regions:
               languages: [sl]
     
 
-    # Notranjsko-kraš
+    # Notranjsko-kraška
     - codes:
         euvoc: http://eurovoc.europa.eu/7822
       names:
@@ -1333,16 +1347,14 @@ regions:
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Notranjsko-kraš
+        - name: Notranjsko-kraška
           sources:
             - name: euvoc
               languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pt, ro, sk, sl, sv]
-              value: Notranjsko-kraška
-        - name: Notranska-Kraš
+        - name: Notranska-Kraška
           sources:
             - name: euvoc
               languages: [lt]
-              value: Notranska-Kraška
         - name: Wewnętrzna Kraina
           sources:
             - name: euvoc
@@ -1377,7 +1389,7 @@ regions:
               languages: [sl]
     
 
-    # Obalno-kraš
+    # Obalno-kraška
     - codes:
         euvoc: http://eurovoc.europa.eu/7823
       names:
@@ -1386,11 +1398,10 @@ regions:
             - name: euvoc
               languages: [es]
               value: Marítima y Karst
-        - name: Obalna-Kraš
+        - name: Obalna-Kraška
           sources:
             - name: euvoc
               languages: [lt]
-              value: Obalna-Kraška
         - name: Obalno-krashka
           sources:
             - name: euvoc
@@ -1399,11 +1410,10 @@ regions:
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Obalno-kraš
+        - name: Obalno-kraška
           sources:
             - name: euvoc
               languages: [cs, da, de, el, en, et, fi, fr, hr, hu, it, lv, nl, pl, pt, ro, sk, sl, sv]
-              value: Obalno-kraška
         - name: Крајбрежно-крашка
           sources:
             - name: euvoc
@@ -1756,15 +1766,14 @@ regions:
               languages: [sl]
     
 
-    # Rogaš Slatina
+    # Rogaška Slatina
     - codes:
         iso3166-2: SI-106
       names:
-        - name: Rogaš Slatina
+        - name: Rogaška Slatina
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Rogaška Slatina
     
 
     # Rogašovci
@@ -1927,11 +1936,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: Jugoistoč Slovenija
+        - name: Jugoistočna Slovenija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Jugoistočna Slovenija
         - name: Jugovzhodna Slovenija
           sources:
             - name: euvoc
@@ -1944,11 +1952,10 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
-        - name: Pietryč ų Slovėnija
+        - name: Pietryčių Slovėnija
           sources:
             - name: euvoc
               languages: [lt]
-              value: Pietryčių Slovėnija
         - name: Sllovenia Juglindore
           sources:
             - name: euvoc
@@ -2059,15 +2066,14 @@ regions:
               languages: [sl]
     
 
-    # Straž
+    # Straža
     - codes:
         iso3166-2: SI-203
       names:
-        - name: Straž
+        - name: Straža
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Straža
     
 
     # Sveta Ana
@@ -2140,6 +2146,16 @@ regions:
               languages: [sl]
     
 
+    # Tišina
+    - codes:
+        iso3166-2: SI-010
+      names:
+        - name: Tišina
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
     # Tolmin
     - codes:
         iso3166-2: SI-128
@@ -2190,15 +2206,14 @@ regions:
               languages: [sl]
     
 
-    # Trž č
+    # Tržič
     - codes:
         iso3166-2: SI-131
       names:
-        - name: Trž č
+        - name: Tržič
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Tržič
     
 
     # Turnišče
@@ -2231,15 +2246,14 @@ regions:
               languages: [sl]
     
 
-    # Velike šče
+    # Velike Lašče
     - codes:
         iso3166-2: SI-134
       names:
-        - name: Velike šče
+        - name: Velike Lašče
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Velike Lašče
     
 
     # Veržej
@@ -2411,39 +2425,6 @@ regions:
               languages: [sl]
     
 
-    # če-Slivnica
-    - codes:
-        iso3166-2: SI-160
-      names:
-        - name: če-Slivnica
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Hoče-Slivnica
-    
-
-    # Š čur
-    - codes:
-        iso3166-2: SI-117
-      names:
-        - name: Š čur
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Šenčur
-    
-
-    # Š štanj
-    - codes:
-        iso3166-2: SI-126
-      names:
-        - name: Š štanj
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Šoštanj
-    
-
     # Šalovci
     - codes:
         iso3166-2: SI-033
@@ -2504,6 +2485,16 @@ regions:
               languages: [sl]
     
 
+    # Šenčur
+    - codes:
+        iso3166-2: SI-117
+      names:
+        - name: Šenčur
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
     # Škocjan
     - codes:
         iso3166-2: SI-121
@@ -2534,15 +2525,14 @@ regions:
               languages: [sl]
     
 
-    # Šmarje pri Jelš
+    # Šmarje pri Jelšah
     - codes:
         iso3166-2: SI-124
       names:
-        - name: Šmarje pri Jelš
+        - name: Šmarje pri Jelšah
           sources:
             - name: iso3166-2
               languages: [sl]
-              value: Šmarje pri Jelšah
     
 
     # Šmarješke Toplice
@@ -2575,6 +2565,16 @@ regions:
               languages: [sl]
     
 
+    # Šoštanj
+    - codes:
+        iso3166-2: SI-126
+      names:
+        - name: Šoštanj
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
     # Štore
     - codes:
         iso3166-2: SI-127
@@ -2583,39 +2583,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [sl]
-    
-
-    # šina
-    - codes:
-        iso3166-2: SI-010
-      names:
-        - name: šina
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Tišina
-    
-
-    # ško
-    - codes:
-        iso3166-2: SI-057
-      names:
-        - name: ško
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Laško
-    
-
-    # Ž žemberk
-    - codes:
-        iso3166-2: SI-193
-      names:
-        - name: Ž žemberk
-          sources:
-            - name: iso3166-2
-              languages: [sl]
-              value: Žužemberk
     
 
     # Žalec
@@ -2663,6 +2630,16 @@ regions:
         iso3166-2: SI-192
       names:
         - name: Žirovnica
+          sources:
+            - name: iso3166-2
+              languages: [sl]
+    
+
+    # Žužemberk
+    - codes:
+        iso3166-2: SI-193
+      names:
+        - name: Žužemberk
           sources:
             - name: iso3166-2
               languages: [sl]

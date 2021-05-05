@@ -133,15 +133,14 @@ regions:
               languages: [fa]
     
 
-    # Khorāsān-e Raẕ ī
+    # Khorāsān-e Raẕavī
     - codes:
         iso3166-2: IR-09
       names:
-        - name: Khorāsān-e Raẕ ī
+        - name: Khorāsān-e Raẕavī
           sources:
             - name: iso3166-2
               languages: [fa]
-              value: Khorāsān-e Raẕavī
     
 
     # Khorāsān-e Shomālī
@@ -164,15 +163,14 @@ regions:
               languages: [fa]
     
 
-    # Kohgīlūyeh va Bowyer ḩmad
+    # Kohgīlūyeh va Bowyer Aḩmad
     - codes:
         iso3166-2: IR-17
       names:
-        - name: Kohgīlūyeh va Bowyer ḩmad
+        - name: Kohgīlūyeh va Bowyer Aḩmad
           sources:
             - name: iso3166-2
               languages: [fa]
-              value: Kohgīlūyeh va Bowyer Aḩmad
     
 
     # Kordestān
@@ -285,26 +283,24 @@ regions:
               languages: [fa]
     
 
-    # Ā ̄ārbāyjān-e Ghārbī
+    # Āz̄ārbāyjān-e Ghārbī
     - codes:
         iso3166-2: IR-04
       names:
-        - name: Ā ̄ārbāyjān-e Ghārbī
+        - name: Āz̄ārbāyjān-e Ghārbī
           sources:
             - name: iso3166-2
               languages: [fa]
-              value: Āz̄ārbāyjān-e Ghārbī
     
 
-    # Ā ̄ārbāyjān-e Shārqī
+    # Āz̄ārbāyjān-e Shārqī
     - codes:
         iso3166-2: IR-03
       names:
-        - name: Ā ̄ārbāyjān-e Shārqī
+        - name: Āz̄ārbāyjān-e Shārqī
           sources:
             - name: iso3166-2
               languages: [fa]
-              value: Āz̄ārbāyjān-e Shārqī
     
 
     # Īlām

@@ -39,11 +39,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Arṇ
+        - name: Arṇo
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Arṇo
     
 
     # Aur
@@ -64,11 +63,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Pikinni & Kō
+        - name: Pikinni & Kōle
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Pikinni & Kōle
     
 
     # Ebon
@@ -197,11 +195,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Ṃ ḷoeḷap
+        - name: Ṃaḷoeḷap
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Ṃaḷoeḷap
     
 
     # Mejit
@@ -240,11 +237,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: ṃdik
+        - name: Naṃdik
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Naṃdik
     
 
     # Namu
@@ -255,11 +251,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: ṃ
+        - name: Naṃo
           sources:
             - name: iso3166-2
               languages: [mh]
-              value: Naṃo
     
 
     # Ralik chain

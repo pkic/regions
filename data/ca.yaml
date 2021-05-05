@@ -122,11 +122,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Î Prince-Édouard
+        - name: Île-du-Prince-Édouard
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Île-du-Prince-Édouard
     
 
     # Quebec

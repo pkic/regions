@@ -16,15 +16,14 @@ regions:
           sources:
             - name: euvoc
               languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, pt, ro, sk, sl, sv]
-        - name: Alentež
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Alentežu
         - name: Alentežas
           sources:
             - name: euvoc
               languages: [lt]
+        - name: Alentežu
+          sources:
+            - name: euvoc
+              languages: [lv]
         - name: Αλεντέζου
           sources:
             - name: euvoc
@@ -67,6 +66,28 @@ regions:
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+    
+
+    # Autónoma Madeira
+    - codes:
+        iso3166-2: PT-30
+      names:
+        - name: Autónoma Madeira
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Região Autónoma da Madeira
+    
+
+    # Autónoma dos Açores
+    - codes:
+        iso3166-2: PT-20
+      names:
+        - name: Autónoma dos Açores
+          sources:
+            - name: iso3166-2
+              languages: [pt]
+              value: Região Autónoma dos Açores
     
 
     # Aveiro
@@ -139,20 +160,18 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: Ir Awtonomu ’ l-Azores
+        - name: Açores
+          sources:
+            - name: euvoc
+              languages: [fr, ga, pt]
+        - name: Ir-Reġjun Awtonomu ta’ l-Azores
           sources:
             - name: euvoc
               languages: [mt]
-              value: Ir-Reġjun Awtonomu ta’ l-Azores
         - name: Ishujt Azore
           sources:
             - name: euvoc
               languages: [sq]
-        - name: çores
-          sources:
-            - name: euvoc
-              languages: [fr, ga, pt]
-              value: Açores
         - name: Αζόρες
           sources:
             - name: euvoc
@@ -187,15 +206,14 @@ regions:
               languages: [pt]
     
 
-    # Braganç
+    # Bragança
     - codes:
         iso3166-2: PT-04
       names:
-        - name: Braganç
+        - name: Bragança
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Bragança
     
 
     # Castelo Branco
@@ -216,11 +234,10 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
-        - name: Centrālā Portugā
+        - name: Centrālā Portugāle
           sources:
             - name: euvoc
               languages: [lv]
-              value: Centrālā Portugāle
         - name: Kesk-Portugal
           sources:
             - name: euvoc
@@ -229,11 +246,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kö ép-Portugália
+        - name: Közép-Portugália
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Portugália
         - name: Midden-Portugal
           sources:
             - name: euvoc
@@ -295,16 +311,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
-        - name: regiã Centro
+        - name: do Centro
           sources:
             - name: euvoc
               languages: [pt]
               value: região do Centro (Portugal)
-        - name: ċ-Ċentru tal-Portugall
+        - name: iċ-Ċentru tal-Portugall
           sources:
             - name: euvoc
               languages: [mt]
-              value: iċ-Ċentru tal-Portugall
         - name: Κεντρική Πορτογαλία
           sources:
             - name: euvoc
@@ -388,16 +403,15 @@ regions:
             - name: euvoc
               languages: [cs]
               value: Lisabon a údolí Teja
-        - name: Lisabona ir ž slėnis
+        - name: Lisabona ir Težo slėnis
           sources:
             - name: euvoc
               languages: [lt]
-              value: Lisabona ir Težo slėnis
         - name: Lisabona un Taho ieleja
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Lisabona ș Vale Tejo
+        - name: Lisabona și Vale Tejo
           sources:
             - name: euvoc
               languages: [ro]
@@ -474,10 +488,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Λισαβόνα και Κοιλάδα του Τάγου
+        - name: Λισαβόνα και Κοιλάδα Τάγου
           sources:
             - name: euvoc
               languages: [el]
+              value: Λισαβόνα και Κοιλάδα του Τάγου
         - name: Лисабон и Долината Тежо
           sources:
             - name: euvoc
@@ -486,10 +501,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Лисабон и долината на Тежу
+        - name: Лисабон и долината Тежу
           sources:
             - name: euvoc
               languages: [bg]
+              value: Лисабон и долината на Тежу
     
 
     # Madeira
@@ -602,20 +618,19 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
-        - name: Ziemeļportugā
+        - name: Ziemeļportugāle
           sources:
             - name: euvoc
               languages: [lv]
-              value: Ziemeļportugāle
-        - name: it-Tramuntana tal-Portugall
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: regiã Norte
+        - name: do Norte
           sources:
             - name: euvoc
               languages: [pt]
               value: região do Norte
+        - name: it-Tramuntana tal-Portugall
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Észak-Portugália
           sources:
             - name: euvoc
@@ -656,28 +671,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [pt]
-    
-
-    # Regiã Autónoma Madeira
-    - codes:
-        iso3166-2: PT-30
-      names:
-        - name: Regiã Autónoma Madeira
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-              value: Região Autónoma da Madeira
-    
-
-    # Regiã Autónoma dos çores
-    - codes:
-        iso3166-2: PT-20
-      names:
-        - name: Regiã Autónoma dos çores
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-              value: Região Autónoma dos Açores
     
 
     # Santarém

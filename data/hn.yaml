@@ -94,11 +94,11 @@ regions:
               languages: [es]
     
 
-    # Islas Bahí
+    # Islas Bahía
     - codes:
         iso3166-2: HN-IB
       names:
-        - name: Islas Bahí
+        - name: Islas Bahía
           sources:
             - name: iso3166-2
               languages: [es]

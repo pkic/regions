@@ -33,6 +33,26 @@ regions:
               languages: [ar]
     
 
+    # Aïn Defla
+    - codes:
+        iso3166-2: DZ-44
+      names:
+        - name: Aïn Defla
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Aïn Témouchent
+    - codes:
+        iso3166-2: DZ-46
+      names:
+        - name: Aïn Témouchent
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Batna
     - codes:
         iso3166-2: DZ-05
@@ -114,15 +134,14 @@ regions:
               languages: [ar]
     
 
-    # Béjaï
+    # Béjaïa
     - codes:
         iso3166-2: DZ-06
       names:
-        - name: Béjaï
+        - name: Béjaïa
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Béjaïa
     
 
     # Chlef
@@ -155,15 +174,14 @@ regions:
               languages: [ar]
     
 
-    # Ghardaï
+    # Ghardaïa
     - codes:
         iso3166-2: DZ-47
       names:
-        - name: Ghardaï
+        - name: Ghardaïa
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Ghardaïa
     
 
     # Guelma
@@ -256,15 +274,14 @@ regions:
               languages: [ar]
     
 
-    # Médé
+    # Médéa
     - codes:
         iso3166-2: DZ-26
       names:
-        - name: Médé
+        - name: Médéa
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Médéa
     
 
     # Naama
@@ -329,15 +346,14 @@ regions:
               languages: [ar]
     
 
-    # Saï
+    # Saïda
     - codes:
         iso3166-2: DZ-20
       names:
-        - name: Saï
+        - name: Saïda
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Saïda
     
 
     # Sidi Bel Abbès
@@ -469,25 +485,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # ïn Defla
-    - codes:
-        iso3166-2: DZ-44
-      names:
-        - name: ïn Defla
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Aïn Defla
-    
-
-    # ïn Témouchent
-    - codes:
-        iso3166-2: DZ-46
-      names:
-        - name: ïn Témouchent
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Aïn Témouchent

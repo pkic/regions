@@ -34,22 +34,21 @@ regions:
               languages: [de]
     
 
-    # Basel
-    - codes:
-        iso3166-2: CH-BS
-      names:
-        - name: Basel
-          sources:
-            - name: iso3166-2
-              languages: [de]
-              value: Basel-Stadt
-    
-
     # Basel-Landschaft
     - codes:
         iso3166-2: CH-BL
       names:
         - name: Basel-Landschaft
+          sources:
+            - name: iso3166-2
+              languages: [de]
+    
+
+    # Basel-Stadt
+    - codes:
+        iso3166-2: CH-BS
+      names:
+        - name: Basel-Stadt
           sources:
             - name: iso3166-2
               languages: [de]
@@ -275,12 +274,11 @@ regions:
               languages: [de]
     
 
-    # ürich
+    # Zürich
     - codes:
         iso3166-2: CH-ZH
       names:
-        - name: ürich
+        - name: Zürich
           sources:
             - name: iso3166-2
               languages: [de]
-              value: Zürich

@@ -3,26 +3,14 @@ complete: false
 regions:
     
 
-    # Bas élé
+    # Bas-Uélé
     - codes:
         iso3166-2: CD-BU
       names:
-        - name: Bas élé
+        - name: Bas-Uélé
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Bas-Uélé
-    
-
-    # Haut élé
-    - codes:
-        iso3166-2: CD-HU
-      names:
-        - name: Haut élé
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-              value: Haut-Uélé
     
 
     # Haut-Katanga
@@ -40,6 +28,16 @@ regions:
         iso3166-2: CD-HL
       names:
         - name: Haut-Lomami
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+    
+
+    # Haut-Uélé
+    - codes:
+        iso3166-2: CD-HU
+      names:
+        - name: Haut-Uélé
           sources:
             - name: iso3166-2
               languages: [fr]

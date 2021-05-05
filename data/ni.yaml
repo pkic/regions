@@ -93,6 +93,16 @@ regions:
               languages: [es]
     
 
+    # León
+    - codes:
+        iso3166-2: NI-LE
+      names:
+        - name: León
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
     # Madriz
     - codes:
         iso3166-2: NI-MD
@@ -153,23 +163,11 @@ regions:
               languages: [es]
     
 
-    # Rí San Juan
+    # Río San Juan
     - codes:
         iso3166-2: NI-SJ
       names:
-        - name: Rí San Juan
+        - name: Río San Juan
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Río San Juan
-    
-
-    # ón
-    - codes:
-        iso3166-2: NI-LE
-      names:
-        - name: ón
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: León

@@ -77,15 +77,14 @@ regions:
               languages: [fr]
     
 
-    # Monaco
+    # Monaco-Ville
     - codes:
         iso3166-2: MC-MO
       names:
-        - name: Monaco
+        - name: Monaco-Ville
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Monaco-Ville
     
 
     # Moneghetti

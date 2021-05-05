@@ -3,17 +3,6 @@ complete: false
 regions:
     
 
-    # Ariana
-    - codes:
-        iso3166-2: TN-12
-      names:
-        - name: Ariana
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: L'Ariana
-    
-
     # Ben Arous
     - codes:
         iso3166-2: TN-13
@@ -110,6 +99,16 @@ regions:
         iso3166-2: TN-73
       names:
         - name: Kébili
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # L'Ariana
+    - codes:
+        iso3166-2: TN-12
+      names:
+        - name: L'Ariana
           sources:
             - name: iso3166-2
               languages: [ar]

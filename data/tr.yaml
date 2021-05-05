@@ -104,6 +104,16 @@ regions:
               languages: [tr]
     
 
+    # Ağrı
+    - codes:
+        iso3166-2: TR-04
+      names:
+        - name: Ağrı
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+    
+
     # Balıkesir
     - codes:
         iso3166-2: TR-10
@@ -344,6 +354,16 @@ regions:
               languages: [tr]
     
 
+    # Iğdır
+    - codes:
+        iso3166-2: TR-76
+      names:
+        - name: Iğdır
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+    
+
     # Kahramanmaraş
     - codes:
         iso3166-2: TR-46
@@ -514,6 +534,26 @@ regions:
               languages: [tr]
     
 
+    # Muğla
+    - codes:
+        iso3166-2: TR-48
+      names:
+        - name: Muğla
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+    
+
+    # Muş
+    - codes:
+        iso3166-2: TR-49
+      names:
+        - name: Muş
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+    
+
     # Nevşehir
     - codes:
         iso3166-2: TR-50
@@ -524,15 +564,14 @@ regions:
               languages: [tr]
     
 
-    # Niğ
+    # Niğde
     - codes:
         iso3166-2: TR-51
       names:
-        - name: Niğ
+        - name: Niğde
           sources:
             - name: iso3166-2
               languages: [tr]
-              value: Niğde
     
 
     # Ordu
@@ -655,6 +694,16 @@ regions:
               languages: [tr]
     
 
+    # Uşak
+    - codes:
+        iso3166-2: TR-64
+      names:
+        - name: Uşak
+          sources:
+            - name: iso3166-2
+              languages: [tr]
+    
+
     # Van
     - codes:
         iso3166-2: TR-65
@@ -725,39 +774,6 @@ regions:
               languages: [tr]
     
 
-    # ğ
-    - codes:
-        iso3166-2: TR-48
-      names:
-        - name: ğ
-          sources:
-            - name: iso3166-2
-              languages: [tr]
-              value: Muğla
-    
-
-    # ğdır
-    - codes:
-        iso3166-2: TR-76
-      names:
-        - name: ğdır
-          sources:
-            - name: iso3166-2
-              languages: [tr]
-              value: Iğdır
-    
-
-    # ğrı
-    - codes:
-        iso3166-2: TR-04
-      names:
-        - name: ğrı
-          sources:
-            - name: iso3166-2
-              languages: [tr]
-              value: Ağrı
-    
-
     # İstanbul
     - codes:
         iso3166-2: TR-34
@@ -796,25 +812,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [tr]
-    
-
-    # ş
-    - codes:
-        iso3166-2: TR-49
-      names:
-        - name: ş
-          sources:
-            - name: iso3166-2
-              languages: [tr]
-              value: Muş
-    
-
-    # şak
-    - codes:
-        iso3166-2: TR-64
-      names:
-        - name: şak
-          sources:
-            - name: iso3166-2
-              languages: [tr]
-              value: Uşak

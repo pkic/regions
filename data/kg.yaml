@@ -29,11 +29,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Chü
+        - name: Chüy
           sources:
             - name: iso3166-2
               languages: [ky]
-              value: Chüy
         - name: Čujskaja oblast'
           sources:
             - name: iso3166-2
@@ -84,11 +83,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Gorod š
+        - name: Gorod Oš
           sources:
             - name: iso3166-2
               languages: [ru]
-              value: Gorod Oš
         - name: Osh Shaary
           sources:
             - name: iso3166-2
@@ -143,11 +141,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: šskaja oblast'
+        - name: Ošskaja oblast'
           sources:
             - name: iso3166-2
               languages: [ru]
-              value: Ošskaja oblast'
     
 
     # Talas

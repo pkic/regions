@@ -34,21 +34,6 @@ regions:
               languages: [it]
     
 
-    # Città San Marino
-    - codes:
-        iso3166-2: SM-07
-      names:
-        - name: Città San Marino
-          sources:
-            - name: iso3166-2
-              languages: [it]
-              value: Città di San Marino
-        - name: San Marino
-          sources:
-            - name: iso3166-2
-              languages: [it]
-    
-
     # Domagnano
     - codes:
         iso3166-2: SM-03
@@ -85,6 +70,19 @@ regions:
       names:
         - name: Montegiardino
           sources:
+            - name: iso3166-2
+              languages: [it]
+    
+
+    # San Marino
+    - codes:
+        iso3166-2: SM-07
+      names:
+        - name: San Marino
+          sources:
+            - name: iso3166-2
+              languages: [it]
+              value: Città di San Marino
             - name: iso3166-2
               languages: [it]
     

@@ -186,15 +186,14 @@ regions:
               languages: [es]
     
 
-    # Nuevo ón
+    # Nuevo León
     - codes:
         iso3166-2: MX-NLE
       names:
-        - name: Nuevo ón
+        - name: Nuevo León
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Nuevo León
     
 
     # Oaxaca

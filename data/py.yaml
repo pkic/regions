@@ -123,15 +123,14 @@ regions:
               languages: [es]
     
 
-    # Itapú
+    # Itapúa
     - codes:
         iso3166-2: PY-7
       names:
-        - name: Itapú
+        - name: Itapúa
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Itapúa
     
 
     # Misiones

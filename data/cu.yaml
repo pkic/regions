@@ -126,15 +126,14 @@ regions:
               languages: [es]
     
 
-    # Pinar del Rí
+    # Pinar del Río
     - codes:
         iso3166-2: CU-01
       names:
-        - name: Pinar del Rí
+        - name: Pinar del Río
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Pinar del Río
     
 
     # Sancti Spíritus

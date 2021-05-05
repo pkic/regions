@@ -105,11 +105,10 @@ regions:
         - name: Likisá
           sources:
             - name: iso3166-2
-        - name: Liquiç
+        - name: Liquiça
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Liquiça
     
 
     # Manatuto
@@ -146,11 +145,10 @@ regions:
         - name: Oekusi-Ambenu
           sources:
             - name: iso3166-2
-        - name: é-Cusse Ambeno
+        - name: Oé-Cusse Ambeno
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Oé-Cusse Ambeno
     
 
     # Vikeke

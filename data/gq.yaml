@@ -71,6 +71,25 @@ regions:
               languages: [es]
     
 
+    # Continental
+    - codes:
+        iso3166-2: GQ-C
+      names:
+        - name: Continental
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Región Continental
+            - name: iso3166-2
+              languages: [pt]
+              value: Região Continental
+        - name: Continentale
+          sources:
+            - name: iso3166-2
+              languages: [fr]
+              value: Région Continentale
+    
+
     # Djibloho
     - codes:
         iso3166-2: GQ-DJ
@@ -90,13 +109,11 @@ regions:
             - name: iso3166-2
               languages: [fr]
               value: Région Insulaire
-        - name: Regiã Insular
+        - name: Insular
           sources:
             - name: iso3166-2
               languages: [pt]
               value: Região Insular
-        - name: n Insular
-          sources:
             - name: iso3166-2
               languages: [es]
               value: Región Insular
@@ -134,24 +151,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [es, fr, pt]
-    
-
-    # Continentale
-    - codes:
-        iso3166-2: GQ-C
-      names:
-        - name: Continentale
-          sources:
-            - name: iso3166-2
-              languages: [fr]
-              value: Région Continentale
-        - name: Regiã Continental
-          sources:
-            - name: iso3166-2
-              languages: [pt]
-              value: Região Continental
-        - name: n Continental
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Región Continental

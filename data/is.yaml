@@ -294,15 +294,14 @@ regions:
               languages: [is]
     
 
-    # Höfuðborgarsvæð
+    # Höfuðborgarsvæði
     - codes:
         iso3166-2: IS-1
       names:
-        - name: Höfuðborgarsvæð
+        - name: Höfuðborgarsvæði
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Höfuðborgarsvæði
     
 
     # Hörgársveit
@@ -315,22 +314,21 @@ regions:
               languages: [is]
     
 
-    # Hú þ vestra
-    - codes:
-        iso3166-2: IS-HUV
-      names:
-        - name: Hú þ vestra
-          sources:
-            - name: iso3166-2
-              languages: [is]
-              value: Húnaþing vestra
-    
-
     # Húnavatnshreppur
     - codes:
         iso3166-2: IS-HUT
       names:
         - name: Húnavatnshreppur
+          sources:
+            - name: iso3166-2
+              languages: [is]
+    
+
+    # Húnaþing vestra
+    - codes:
+        iso3166-2: IS-HUV
+      names:
+        - name: Húnaþing vestra
           sources:
             - name: iso3166-2
               languages: [is]
@@ -416,37 +414,34 @@ regions:
               languages: [is]
     
 
-    # Norðurþ
+    # Norðurþing
     - codes:
         iso3166-2: IS-NOR
       names:
-        - name: Norðurþ
+        - name: Norðurþing
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Norðurþing
     
 
-    # Rangárþ eystra
+    # Rangárþing eystra
     - codes:
         iso3166-2: IS-RGE
       names:
-        - name: Rangárþ eystra
+        - name: Rangárþing eystra
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Rangárþing eystra
     
 
-    # Rangárþ ytra
+    # Rangárþing ytra
     - codes:
         iso3166-2: IS-RGY
       names:
-        - name: Rangárþ ytra
+        - name: Rangárþing ytra
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Rangárþing ytra
     
 
     # Reykhólahreppur
@@ -519,15 +514,14 @@ regions:
               languages: [is]
     
 
-    # Skeið og Gnúpverjahreppur
+    # Skeiða- og Gnúpverjahreppur
     - codes:
         iso3166-2: IS-SOG
       names:
-        - name: Skeið og Gnúpverjahreppur
+        - name: Skeiða- og Gnúpverjahreppur
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Skeiða- og Gnúpverjahreppur
     
 
     # Skorradalshreppur
@@ -690,15 +684,14 @@ regions:
               languages: [is]
     
 
-    # Súð íkurhreppur
+    # Súðavíkurhreppur
     - codes:
         iso3166-2: IS-SDV
       names:
-        - name: Súð íkurhreppur
+        - name: Súðavíkurhreppur
           sources:
             - name: iso3166-2
               languages: [is]
-              value: Súðavíkurhreppur
     
 
     # Tjörneshreppur

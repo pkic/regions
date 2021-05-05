@@ -33,21 +33,6 @@ regions:
               languages: [ar]
     
 
-    # Al ‘ ̅şimah
-    - codes:
-        iso3166-2: JO-AM
-      names:
-        - name: Al ‘ ̅şimah
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Al ‘A̅şimah
-        - name: ‘Ammān
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-    
-
     # Al ‘Aqabah
     - codes:
         iso3166-2: JO-AQ
@@ -57,6 +42,30 @@ regions:
             - name: iso3166-2
               languages: [ar]
         - name: Aqaba
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Al ‘A̅şimah
+    - codes:
+        iso3166-2: JO-AM
+      names:
+        - name: Al ‘A̅şimah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+        - name: ‘Ammān
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Aţ Ţafīlah
+    - codes:
+        iso3166-2: JO-AT
+      names:
+        - name: Aţ Ţafīlah
           sources:
             - name: iso3166-2
               languages: [ar]
@@ -111,17 +120,6 @@ regions:
             - name: iso3166-2
               languages: [ar]
               value: Az Zarqā’
-    
-
-    # ţ Ţ īlah
-    - codes:
-        iso3166-2: JO-AT
-      names:
-        - name: ţ Ţ īlah
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Aţ Ţafīlah
     
 
     # ‘Ajlūn

@@ -27,11 +27,11 @@ regions:
               languages: [es]
     
 
-    # Araucaní
+    # Araucanía
     - codes:
         iso3166-2: CL-AR
       names:
-        - name: Araucaní
+        - name: Araucanía
           sources:
             - name: iso3166-2
               languages: [es]
@@ -59,15 +59,14 @@ regions:
               languages: [es]
     
 
-    # Biobí
+    # Biobío
     - codes:
         iso3166-2: CL-BI
       names:
-        - name: Biobí
+        - name: Biobío
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Biobío
     
 
     # Coquimbo
@@ -80,20 +79,18 @@ regions:
               languages: [es]
     
 
-    # 'Higgins
+    # Libertador General Bernardo O'Higgins
     - codes:
         iso3166-2: CL-LI
       names:
-        - name: '''Higgins'
+        - name: Libertador General Bernardo O'Higgins
           sources:
             - name: iso3166-2
               languages: [es]
-              value: O'Higgins
-        - name: Libertador General Bernardo 'Higgins
+        - name: O'Higgins
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Libertador General Bernardo O'Higgins
     
 
     # Los Lagos
@@ -136,6 +133,17 @@ regions:
               languages: [es]
     
 
+    # Metropolitana Santiago
+    - codes:
+        iso3166-2: CL-RM
+      names:
+        - name: Metropolitana Santiago
+          sources:
+            - name: iso3166-2
+              languages: [es]
+              value: Región Metropolitana de Santiago
+    
+
     # Tarapacá
     - codes:
         iso3166-2: CL-TA
@@ -154,17 +162,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [es]
-    
-
-    # n Metropolitana Santiago
-    - codes:
-        iso3166-2: CL-RM
-      names:
-        - name: n Metropolitana Santiago
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Región Metropolitana de Santiago
     
 
     # Ñuble

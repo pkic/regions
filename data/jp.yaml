@@ -245,11 +245,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Kô
+        - name: Kôti
           sources:
             - name: iso3166-2
               languages: [ja]
-              value: Kôti
     
 
     # Kumamoto
@@ -388,11 +387,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Ô
+        - name: Ôsaka
           sources:
             - name: iso3166-2
               languages: [ja]
-              value: Ôsaka
     
 
     # Saga

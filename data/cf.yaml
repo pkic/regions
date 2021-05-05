@@ -19,11 +19,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Bamï ï-Bangoran
+        - name: Bamïngï-Bangoran
           sources:
             - name: iso3166-2
               languages: [sg]
-              value: Bamïngï-Bangoran
     
 
     # Bangui
@@ -48,11 +47,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Kötö
+        - name: Do-Kötö
           sources:
             - name: iso3166-2
               languages: [sg]
-              value: Do-Kötö
     
 
     # Gribingui
@@ -63,11 +61,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Gïrïbï ï
+        - name: Gïrïbïngï
           sources:
             - name: iso3166-2
               languages: [sg]
-              value: Gïrïbïngï
     
 
     # Haut-Mbomou
@@ -84,15 +81,14 @@ regions:
               languages: [sg]
     
 
-    # Kemö-Gïrïbï ï
+    # Kemö-Gïrïbïngï
     - codes:
         iso3166-2: CF-KG
       names:
-        - name: Kemö-Gïrïbï ï
+        - name: Kemö-Gïrïbïngï
           sources:
             - name: iso3166-2
               languages: [sg]
-              value: Kemö-Gïrïbïngï
         - name: Kémo-Gribingui
           sources:
             - name: iso3166-2
@@ -135,11 +131,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: ä-Mbaere
+        - name: Nanä-Mbaere
           sources:
             - name: iso3166-2
               languages: [sg]
-              value: Nanä-Mbaere
     
 
     # Ouham

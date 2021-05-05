@@ -63,15 +63,14 @@ regions:
               languages: [hy]
     
 
-    # Loṙ
+    # Loṙi
     - codes:
         iso3166-2: AM-LO
       names:
-        - name: Loṙ
+        - name: Loṙi
           sources:
             - name: iso3166-2
               languages: [hy]
-              value: Loṙi
     
 
     # Syunik'

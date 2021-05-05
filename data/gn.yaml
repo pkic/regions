@@ -83,15 +83,14 @@ regions:
               languages: [fr]
     
 
-    # Dubré
+    # Dubréka
     - codes:
         iso3166-2: GN-DU
       names:
-        - name: Dubré
+        - name: Dubréka
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Dubréka
     
 
     # Faranah

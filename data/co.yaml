@@ -159,15 +159,14 @@ regions:
               value: Distrito Capital de Bogotá
     
 
-    # Guainí
+    # Guainía
     - codes:
         iso3166-2: CO-GUA
       names:
-        - name: Guainí
+        - name: Guainía
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Guainía
     
 
     # Guajira
@@ -221,15 +220,14 @@ regions:
               languages: [es]
     
 
-    # Nariñ
+    # Nariño
     - codes:
         iso3166-2: CO-NAR
       names:
-        - name: Nariñ
+        - name: Nariño
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Nariño
     
 
     # Norte Santander
@@ -253,15 +251,14 @@ regions:
               languages: [es]
     
 
-    # Quindí
+    # Quindío
     - codes:
         iso3166-2: CO-QUI
       names:
-        - name: Quindí
+        - name: Quindío
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Quindío
     
 
     # Risaralda

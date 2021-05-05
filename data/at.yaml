@@ -46,11 +46,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/6197
         iso3166-2: AT-2
       names:
-        - name: Avstrijska Koroš
+        - name: Avstrijska Koroška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Avstrijska Koroška
         - name: Carinthia
           sources:
             - name: euvoc
@@ -96,11 +95,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sk]
-        - name: Koruš
+        - name: Koruška
           sources:
             - name: euvoc
               languages: [hr]
-              value: Koruška
         - name: Kärnten
           sources:
             - name: euvoc
@@ -175,11 +173,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
-        - name: L-Awstrija ' Isfel
+        - name: L-Awstrija ta' Isfel
           sources:
             - name: euvoc
               languages: [mt]
-              value: L-Awstrija ta' Isfel
         - name: Lejasaustrija
           sources:
             - name: euvoc
@@ -251,11 +248,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sk]
-        - name: Salzburš
+        - name: Salzburška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Salzburška
         - name: Zalcburga
           sources:
             - name: euvoc
@@ -465,11 +461,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: L-Awstrija ' Fuq
+        - name: L-Awstrija ta' Fuq
           sources:
             - name: euvoc
               languages: [mt]
-              value: L-Awstrija ta' Fuq
         - name: Ober-Österreich
           sources:
             - name: euvoc
@@ -555,11 +550,10 @@ regions:
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Ví ň
+        - name: Vídeň
           sources:
             - name: euvoc
               languages: [cs]
-              value: Vídeň
         - name: Vín
           sources:
             - name: euvoc

@@ -101,11 +101,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Hungrí Central
+        - name: Hungría Central
           sources:
             - name: euvoc
               languages: [es]
-              value: Hungría Central
         - name: Kesk-Ungari
           sources:
             - name: euvoc
@@ -114,11 +113,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kö ép-Magyarország
+        - name: Közép-Magyarország
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Magyarország
         - name: L-Ungerija Ċentrali
           sources:
             - name: euvoc
@@ -214,11 +212,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kö ép-Dunántúl
+        - name: Közép-Dunántúl
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Dunántúl
         - name: Osrednja Madžarska zahodno Donave
           sources:
             - name: euvoc
@@ -477,6 +474,10 @@ regions:
             - name: euvoc
               languages: [ro]
               value: Alföld-ul de Nord
+        - name: Il-wita tat-tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Llanura Septentrional
           sources:
             - name: euvoc
@@ -534,11 +535,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: wita tat-tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-wita tat-tramuntana
         - name: Észac-Alföld
           sources:
             - name: euvoc
@@ -586,11 +582,10 @@ regions:
             - name: euvoc
               languages: [pt]
               value: Hungria do Norte
-        - name: Hungrí Septentrional
+        - name: Hungría Septentrional
           sources:
             - name: euvoc
               languages: [es]
-              value: Hungría Septentrional
         - name: L-Ungerija tat-Tramuntana
           sources:
             - name: euvoc
@@ -675,6 +670,16 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
+    
+
+    # Nyíregyháza
+    - codes:
+        iso3166-2: HU-NY
+      names:
+        - name: Nyíregyháza
+          sources:
+            - name: iso3166-2
+              languages: [hu]
     
 
     # Nógrád
@@ -779,6 +784,14 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
+        - name: Il-wita tan-nofsinhar
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Jižní Alföld
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: Južni Alföld
           sources:
             - name: euvoc
@@ -824,16 +837,6 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: wita tan-nofsinhar
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-wita tan-nofsinhar
-        - name: žní Alföld
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Alföld
         - name: Νότιο Alföld
           sources:
             - name: euvoc
@@ -872,11 +875,14 @@ regions:
           sources:
             - name: euvoc
               languages: [mt]
-        - name: Juž Podunavlje
+        - name: Jižní Zadunají
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Južno Podunavlje
           sources:
             - name: euvoc
               languages: [hr]
-              value: Južno Podunavlje
         - name: Južné Zadunajsko
           sources:
             - name: euvoc
@@ -936,7 +942,7 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: morda Juž prekodonavska
+        - name: morda Južna prekodonavska
           sources:
             - name: euvoc
               languages: [sl]
@@ -945,11 +951,6 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: žní Zadunají
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Zadunají
         - name: Νότια Υπερδουναβία
           sources:
             - name: euvoc
@@ -1151,20 +1152,18 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
+        - name: Západné Zadunajsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Západní Zadunají
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: westliches Transdanubien
           sources:
             - name: euvoc
               languages: [de]
-        - name: ápadné Zadunajsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západné Zadunajsko
-        - name: ápadní Zadunají
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západní Zadunají
         - name: Δυτική Υπερδουναβία
           sources:
             - name: euvoc
@@ -1211,14 +1210,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [hu]
-    
-
-    # íregyhá
-    - codes:
-        iso3166-2: HU-NY
-      names:
-        - name: íregyhá
-          sources:
-            - name: iso3166-2
-              languages: [hu]
-              value: Nyíregyháza

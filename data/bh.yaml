@@ -13,15 +13,14 @@ regions:
               languages: [ar]
     
 
-    # Al ḩarraq
+    # Al Muḩarraq
     - codes:
         iso3166-2: BH-15
       names:
-        - name: Al ḩarraq
+        - name: Al Muḩarraq
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Al Muḩarraq
     
 
     # Al Manāmah

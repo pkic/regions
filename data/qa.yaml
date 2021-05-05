@@ -3,15 +3,14 @@ complete: false
 regions:
     
 
-    # Ad Dawḩ
+    # Ad Dawḩah
     - codes:
         iso3166-2: QA-DA
       names:
-        - name: Ad Dawḩ
+        - name: Ad Dawḩah
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Ad Dawḩah
     
 
     # Al Khawr adh Dhakhīrah
@@ -65,6 +64,16 @@ regions:
               languages: [ar]
     
 
+    # Az̧ Z̧a‘āyin
+    - codes:
+        iso3166-2: QA-ZA
+      names:
+        - name: Az̧ Z̧a‘āyin
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Umm Şalāl
     - codes:
         iso3166-2: QA-US
@@ -73,14 +82,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # ̧ ̧ ‘āyin
-    - codes:
-        iso3166-2: QA-ZA
-      names:
-        - name: ̧ ̧ ‘āyin
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Az̧ Z̧a‘āyin

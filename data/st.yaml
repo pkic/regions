@@ -43,15 +43,14 @@ regions:
               languages: [pt]
     
 
-    # Mé óchi
+    # Mé-Zóchi
     - codes:
         iso3166-2: ST-06
       names:
-        - name: Mé óchi
+        - name: Mé-Zóchi
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Mé-Zóchi
     
 
     # Príncipe

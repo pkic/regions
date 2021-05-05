@@ -549,11 +549,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Mariy Respublika
+        - name: Mariy El, Respublika
           sources:
             - name: iso3166-2
               languages: [ru]
-              value: Mariy El, Respublika
     
 
     # Mordovija, Respublika

@@ -289,15 +289,14 @@ regions:
               languages: [en]
     
 
-    # Murang'
+    # Murang'a
     - codes:
         iso3166-2: KE-29
       names:
-        - name: Murang'
+        - name: Murang'a
           sources:
             - name: iso3166-2
               languages: [en]
-              value: Murang'a
     
 
     # Nairobi

@@ -3,26 +3,24 @@ complete: false
 regions:
     
 
-    # Bà Rị Vũ Tà
+    # Bà Rịa - Vũng Tàu
     - codes:
         iso3166-2: VN-43
       names:
-        - name: Bà Rị Vũ Tà
+        - name: Bà Rịa - Vũng Tàu
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Bà Rịa - Vũng Tàu
     
 
-    # Bình Dươ
+    # Bình Dương
     - codes:
         iso3166-2: VN-57
       names:
-        - name: Bình Dươ
+        - name: Bình Dương
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Bình Dương
     
 
     # Bình Phước
@@ -55,15 +53,14 @@ regions:
               languages: [vi]
     
 
-    # Bạc Liê
+    # Bạc Liêu
     - codes:
         iso3166-2: VN-55
       names:
-        - name: Bạc Liê
+        - name: Bạc Liêu
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Bạc Liêu
     
 
     # Bắc Giang
@@ -106,15 +103,14 @@ regions:
               languages: [vi]
     
 
-    # Cao Bằ
+    # Cao Bằng
     - codes:
         iso3166-2: VN-04
       names:
-        - name: Cao Bằ
+        - name: Cao Bằng
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Cao Bằng
     
 
     # Cà Mau
@@ -178,15 +174,14 @@ regions:
               languages: [vi]
     
 
-    # Hà Nộ
+    # Hà Nội
     - codes:
         iso3166-2: VN-HN
       names:
-        - name: Hà Nộ
+        - name: Hà Nội
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hà Nội
     
 
     # Hà Tĩnh
@@ -199,59 +194,54 @@ regions:
               languages: [vi]
     
 
-    # Hò Bình
+    # Hòa Bình
     - codes:
         iso3166-2: VN-14
       names:
-        - name: Hò Bình
+        - name: Hòa Bình
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hòa Bình
     
 
-    # Hư ên
+    # Hưng Yên
     - codes:
         iso3166-2: VN-66
       names:
-        - name: Hư ên
+        - name: Hưng Yên
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hưng Yên
     
 
-    # Hả Dươ
+    # Hải Dương
     - codes:
         iso3166-2: VN-61
       names:
-        - name: Hả Dươ
+        - name: Hải Dương
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hải Dương
     
 
-    # Hả Phò
+    # Hải Phòng
     - codes:
         iso3166-2: VN-HP
       names:
-        - name: Hả Phò
+        - name: Hải Phòng
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hải Phòng
     
 
-    # Hậ Giang
+    # Hậu Giang
     - codes:
         iso3166-2: VN-73
       names:
-        - name: Hậ Giang
+        - name: Hậu Giang
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Hậu Giang
     
 
     # Hồ Chí Minh
@@ -268,15 +258,14 @@ regions:
               languages: [vi]
     
 
-    # Khánh Hò
+    # Khánh Hòa
     - codes:
         iso3166-2: VN-34
       names:
-        - name: Khánh Hò
+        - name: Khánh Hòa
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Khánh Hòa
     
 
     # Kiến Giang
@@ -299,15 +288,14 @@ regions:
               languages: [vi]
     
 
-    # Lai Châ
+    # Lai Châu
     - codes:
         iso3166-2: VN-01
       names:
-        - name: Lai Châ
+        - name: Lai Châu
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Lai Châu
     
 
     # Long
@@ -321,37 +309,34 @@ regions:
               value: Long An
     
 
-    # Là Cai
+    # Lào Cai
     - codes:
         iso3166-2: VN-02
       names:
-        - name: Là Cai
+        - name: Lào Cai
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Lào Cai
     
 
-    # Lâm Đồ
+    # Lâm Đồng
     - codes:
         iso3166-2: VN-35
       names:
-        - name: Lâm Đồ
+        - name: Lâm Đồng
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Lâm Đồng
     
 
-    # Lạ Sơn
+    # Lạng Sơn
     - codes:
         iso3166-2: VN-09
       names:
-        - name: Lạ Sơn
+        - name: Lạng Sơn
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Lạng Sơn
     
 
     # Nam Định
@@ -405,81 +390,74 @@ regions:
               languages: [vi]
     
 
-    # Phú ên
+    # Phú Yên
     - codes:
         iso3166-2: VN-32
       names:
-        - name: Phú ên
+        - name: Phú Yên
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Phú Yên
     
 
-    # Quả Bình
+    # Quảng Bình
     - codes:
         iso3166-2: VN-24
       names:
-        - name: Quả Bình
+        - name: Quảng Bình
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Quảng Bình
     
 
-    # Quả Nam
+    # Quảng Nam
     - codes:
         iso3166-2: VN-27
       names:
-        - name: Quả Nam
+        - name: Quảng Nam
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Quảng Nam
     
 
-    # Quả Ninh
-    - codes:
-        iso3166-2: VN-13
-      names:
-        - name: Quả Ninh
-          sources:
-            - name: iso3166-2
-              languages: [vi]
-              value: Quảng Ninh
-    
-
-    # Quả Trị
-    - codes:
-        iso3166-2: VN-25
-      names:
-        - name: Quả Trị
-          sources:
-            - name: iso3166-2
-              languages: [vi]
-              value: Quảng Trị
-    
-
-    # Quả ã
+    # Quảng Ngãi
     - codes:
         iso3166-2: VN-29
       names:
-        - name: Quả ã
+        - name: Quảng Ngãi
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Quảng Ngãi
     
 
-    # Sóc Tră
+    # Quảng Ninh
+    - codes:
+        iso3166-2: VN-13
+      names:
+        - name: Quảng Ninh
+          sources:
+            - name: iso3166-2
+              languages: [vi]
+    
+
+    # Quảng Trị
+    - codes:
+        iso3166-2: VN-25
+      names:
+        - name: Quảng Trị
+          sources:
+            - name: iso3166-2
+              languages: [vi]
+    
+
+    # Sóc Trăng
     - codes:
         iso3166-2: VN-52
       names:
-        - name: Sóc Tră
+        - name: Sóc Trăng
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Sóc Trăng
     
 
     # Sơn
@@ -493,48 +471,54 @@ regions:
               value: Sơn La
     
 
-    # Thanh Hó
+    # Thanh Hóa
     - codes:
         iso3166-2: VN-21
       names:
-        - name: Thanh Hó
+        - name: Thanh Hóa
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Thanh Hóa
     
 
-    # Thá Bình
+    # Thái Bình
     - codes:
         iso3166-2: VN-20
       names:
-        - name: Thá Bình
+        - name: Thái Bình
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Thái Bình
     
 
-    # Thá Nguyên
+    # Thái Nguyên
     - codes:
         iso3166-2: VN-69
       names:
-        - name: Thá Nguyên
+        - name: Thái Nguyên
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Thái Nguyên
     
 
-    # Thừ Thiên-Huế
+    # Thừa Thiên-Huế
     - codes:
         iso3166-2: VN-26
       names:
-        - name: Thừ Thiên-Huế
+        - name: Thừa Thiên-Huế
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Thừa Thiên-Huế
+    
+
+    # Tiền Giang
+    - codes:
+        iso3166-2: VN-46
+      names:
+        - name: Tiền Giang
+          sources:
+            - name: iso3166-2
+              languages: [vi]
     
 
     # Trà Vinh
@@ -557,15 +541,14 @@ regions:
               languages: [vi]
     
 
-    # Tâ Ninh
+    # Tây Ninh
     - codes:
         iso3166-2: VN-37
       names:
-        - name: Tâ Ninh
+        - name: Tây Ninh
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Tây Ninh
     
 
     # Vĩnh Long
@@ -588,37 +571,34 @@ regions:
               languages: [vi]
     
 
-    # ên Bá
+    # Yên Bái
     - codes:
         iso3166-2: VN-06
       names:
-        - name: ên Bá
+        - name: Yên Bái
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Yên Bái
     
 
-    # Đ ện Biên
+    # Điện Biên
     - codes:
         iso3166-2: VN-71
       names:
-        - name: Đ ện Biên
+        - name: Điện Biên
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Điện Biên
     
 
-    # Đà Nẵ
+    # Đà Nẵng
     - codes:
         iso3166-2: VN-DN
       names:
-        - name: Đà Nẵ
+        - name: Đà Nẵng
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Đà Nẵng
     
 
     # Đắk Lắk
@@ -631,45 +611,31 @@ regions:
               languages: [vi]
     
 
-    # Đắk Nô
+    # Đắk Nông
     - codes:
         iso3166-2: VN-72
       names:
-        - name: Đắk Nô
+        - name: Đắk Nông
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Đắk Nông
     
 
-    # Đồ Nai
+    # Đồng Nai
     - codes:
         iso3166-2: VN-39
       names:
-        - name: Đồ Nai
+        - name: Đồng Nai
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Đồng Nai
     
 
-    # Đồ Tháp
+    # Đồng Tháp
     - codes:
         iso3166-2: VN-45
       names:
-        - name: Đồ Tháp
+        - name: Đồng Tháp
           sources:
             - name: iso3166-2
               languages: [vi]
-              value: Đồng Tháp
-    
-
-    # ền Giang
-    - codes:
-        iso3166-2: VN-46
-      names:
-        - name: ền Giang
-          sources:
-            - name: iso3166-2
-              languages: [vi]
-              value: Tiền Giang

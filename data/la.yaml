@@ -17,15 +17,14 @@ regions:
               languages: [lo]
     
 
-    # Bokè
+    # Bokèo
     - codes:
         iso3166-2: LA-BK
       names:
-        - name: Bokè
+        - name: Bokèo
           sources:
             - name: iso3166-2
               languages: [lo]
-              value: Bokèo
     
 
     # Bolikhamxai

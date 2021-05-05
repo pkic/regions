@@ -51,11 +51,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Alī
+        - name: Alīta
           sources:
             - name: euvoc
               languages: [lv]
-              value: Alīta
         - name: Olita
           sources:
             - name: euvoc
@@ -215,11 +214,10 @@ regions:
               type: alternative
             - name: iso3166-2
               languages: [lt]
-        - name: Kauņ
+        - name: Kauņa
           sources:
             - name: euvoc
               languages: [lv]
-              value: Kauņa
         - name: Kowno
           sources:
             - name: euvoc
@@ -297,19 +295,16 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Klaipē
+        - name: Klaipēda
           sources:
             - name: euvoc
               languages: [lv]
-              value: Klaipēda
-        - name: Klaipė
+        - name: Klaipėda
           sources:
             - name: euvoc
               languages: [cs, da, de, el, et, fi, hu, it, nl, pt, sv]
-              value: Klaipėda
             - name: iso3166-2
               languages: [lt]
-              value: Klaipėda
         - name: Klaipėdos apskritis
           sources:
             - name: euvoc
@@ -544,11 +539,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
-        - name: Panevēž
+        - name: Panevēža
           sources:
             - name: euvoc
               languages: [lv]
-              value: Panevēža
         - name: Panevėzis
           sources:
             - name: euvoc
@@ -772,19 +766,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Telš
+        - name: Telši
           sources:
             - name: euvoc
               languages: [lv]
-              value: Telši
-        - name: Telš ų apskritis
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Telšių apskritis
-            - name: iso3166-2
-              languages: [lt]
-              value: Telšių apskritis
         - name: Telšiai
           sources:
             - name: euvoc
@@ -795,6 +780,12 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
+        - name: Telšių apskritis
+          sources:
+            - name: euvoc
+              languages: [lt]
+            - name: iso3166-2
+              languages: [lt]
         - name: district Telsiai
           sources:
             - name: euvoc
@@ -888,15 +879,14 @@ regions:
               languages: [mk]
     
 
-    # Varė
+    # Varėna
     - codes:
         iso3166-2: LT-55
       names:
-        - name: Varė
+        - name: Varėna
           sources:
             - name: iso3166-2
               languages: [lt]
-              value: Varėna
     
 
     # Vilkaviškis
@@ -950,11 +940,10 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
-        - name: Viļņ
+        - name: Viļņa
           sources:
             - name: euvoc
               languages: [lv]
-              value: Viļņa
         - name: Wilno
           sources:
             - name: euvoc
@@ -1055,11 +1044,10 @@ regions:
             - name: euvoc
               languages: [sq]
               value: qarku i Shiauliait
-        - name: Šauļ
+        - name: Šauļi
           sources:
             - name: euvoc
               languages: [lv]
-              value: Šauļi
         - name: Šiauliai
           sources:
             - name: euvoc

@@ -530,11 +530,10 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Spodnja Saš
+        - name: Spodnja Saška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Spodnja Saška
         - name: Žemutinė Saksonija
           sources:
             - name: euvoc
@@ -608,11 +607,10 @@ regions:
               type: alternative
             - name: euvoc
               languages: [en, mt]
-        - name: Mecklenburg– ő-Pomeránia
+        - name: Mecklenburg–Elő-Pomeránia
           sources:
             - name: euvoc
               languages: [hu]
-              value: Mecklenburg–Elő-Pomeránia
         - name: Meclemburgo-Pomerânia Ocidental
           sources:
             - name: euvoc
@@ -721,11 +719,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: Sjeverno Porajnje-Zapadna Falač
+        - name: Sjeverno Porajnje-Zapadna Falačka
           sources:
             - name: euvoc
               languages: [hr]
-              value: Sjeverno Porajnje-Zapadna Falačka
         - name: Ziemeļreina-Vestfālene
           sources:
             - name: euvoc
@@ -773,11 +770,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: Rajna Pfalz
+        - name: Rajna-vidék-Pfalz
           sources:
             - name: euvoc
               languages: [hu]
-              value: Rajna-vidék-Pfalz
         - name: Reino kraštas-Pfalcas
           sources:
             - name: euvoc
@@ -851,11 +847,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Saar
+        - name: Saar-vidék
           sources:
             - name: euvoc
               languages: [hu]
-              value: Saar-vidék
         - name: Saara
           sources:
             - name: euvoc
@@ -886,11 +881,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs, sk]
-        - name: āra
+        - name: Zāra
           sources:
             - name: euvoc
               languages: [lv]
-              value: Zāra
         - name: Σάαρ
           sources:
             - name: euvoc
@@ -972,11 +966,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Saš
+        - name: Saška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Saška
         - name: Szászország
           sources:
             - name: euvoc
@@ -1062,11 +1055,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Saš Anhalt
+        - name: Saška-Anhalt
           sources:
             - name: euvoc
               languages: [sl]
-              value: Saška-Anhalt
         - name: Szászország-Anhalt
           sources:
             - name: euvoc
@@ -1181,6 +1173,10 @@ regions:
               languages: [da, de, fi, hr, nl, sv]
             - name: iso3166-2
               languages: [de]
+        - name: Tiūringija
+          sources:
+            - name: euvoc
+              languages: [lt]
         - name: Turingia
           sources:
             - name: euvoc
@@ -1209,11 +1205,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: ūringija
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Tiūringija
         - name: Θουριγγία
           sources:
             - name: euvoc

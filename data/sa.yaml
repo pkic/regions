@@ -13,15 +13,14 @@ regions:
               languages: [ar]
     
 
-    # Al Bāḩ
+    # Al Bāḩah
     - codes:
         iso3166-2: SA-11
       names:
-        - name: Al Bāḩ
+        - name: Al Bāḩah
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Al Bāḩah
     
 
     # Al Jawf
@@ -84,15 +83,14 @@ regions:
               languages: [ar]
     
 
-    # Jā ān
+    # Jāzān
     - codes:
         iso3166-2: SA-09
       names:
-        - name: Jā ān
+        - name: Jāzān
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Jāzān
     
 
     # Makkah al Mukarramah
@@ -125,12 +123,11 @@ regions:
               languages: [ar]
     
 
-    # Ḩā'
+    # Ḩā'il
     - codes:
         iso3166-2: SA-06
       names:
-        - name: Ḩā'
+        - name: Ḩā'il
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Ḩā'il

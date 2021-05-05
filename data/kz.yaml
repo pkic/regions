@@ -234,11 +234,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Vostoč Kazahstanskaja oblast'
+        - name: Vostočno-Kazahstanskaja oblast'
           sources:
             - name: iso3166-2
               languages: [ru]
-              value: Vostočno-Kazahstanskaja oblast'
     
 
     # Shymkent

@@ -211,7 +211,7 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Whanga-nui Tara
+        - name: Whanga-nui-a-Tara
           sources:
             - name: iso3166-2
               languages: [mi]

@@ -34,11 +34,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: ālinjay
+        - name: Zālinjay
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Zālinjay
     
 
     # East Darfur
@@ -157,11 +156,10 @@ regions:
     - codes:
         iso3166-2: SD-RS
       names:
-        - name: Al Baḩr al ḩmar
+        - name: Al Baḩr al Aḩmar
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Al Baḩr al Aḩmar
         - name: Red Sea
           sources:
             - name: iso3166-2

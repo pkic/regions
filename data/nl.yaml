@@ -563,11 +563,14 @@ regions:
           sources:
             - name: euvoc
               languages: [fr]
-        - name: Juž Holandija
+        - name: Jižní Holandsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Južna Holandija
           sources:
             - name: euvoc
               languages: [sl]
-              value: Južna Holandija
         - name: Južni Holland
           sources:
             - name: euvoc
@@ -615,11 +618,6 @@ regions:
               languages: [nl]
             - name: iso3166-2
               languages: [nl]
-        - name: žní Holandsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Holandsko
         - name: Νότια Ολλανδία
           sources:
             - name: euvoc
@@ -707,16 +705,14 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: élande
+        - name: Zélande
           sources:
             - name: euvoc
               languages: [fr]
-              value: Zélande
-        - name: ēlande
+        - name: Zēlande
           sources:
             - name: euvoc
               languages: [lv]
-              value: Zēlande
         - name: Ζηλανδία
           sources:
             - name: euvoc

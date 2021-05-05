@@ -164,17 +164,6 @@ regions:
               languages: [bg]
     
 
-    # Aquila
-    - codes:
-        iso3166-2: IT-AQ
-      names:
-        - name: Aquila
-          sources:
-            - name: iso3166-2
-              languages: [it]
-              value: L'Aquila
-    
-
     # Arezzo
     - codes:
         iso3166-2: IT-AR
@@ -232,7 +221,7 @@ regions:
             - name: euvoc
               languages: [ro]
               value: Provincia Autonomă Bolzano
-        - name: Bolcā autonomā
+        - name: Bolcāno autonomā
           sources:
             - name: euvoc
               languages: [lv]
@@ -280,7 +269,7 @@ regions:
             - name: euvoc
               languages: [pl]
               value: autonomiczna prowincja Bolzano
-        - name: autonomní Bolzá
+        - name: autonomní Bolzáno
           sources:
             - name: euvoc
               languages: [cs]
@@ -303,27 +292,28 @@ regions:
             - name: euvoc
               languages: [sl]
               value: avtonomna pokrajina Bolzano
-        - name: awtonoma ’ Bolzano
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: il-Provinċja awtonoma ta’ Bolzano
         - name: den självstyrande provinsen Bolzano
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Αυτόνομη Επαρχία του Μπολτζάνο
+        - name: il-Provinċja awtonoma ta’ Bolzano
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Αυτόνομη του Μπολτζάνο
           sources:
             - name: euvoc
               languages: [el]
+              value: Αυτόνομη Επαρχία του Μπολτζάνο
+        - name: Автономна Болцано
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Автономна провинция на Болцано
         - name: Автономна Покраина Болцано
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Автономна провинция на Болцано
-          sources:
-            - name: euvoc
-              languages: [bg]
         - name: Аутономна покрајина Болцано
           sources:
             - name: euvoc
@@ -430,27 +420,28 @@ regions:
             - name: euvoc
               languages: [sl]
               value: avtonomna pokrajina Trento
-        - name: awtonoma ’ Trento
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: il-Provinċja awtonoma ta’ Trento
         - name: den självstyrande provinsen Trento
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Αυτόνομη Επαρχία του Τρέντο
+        - name: il-Provinċja awtonoma ta’ Trento
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Αυτόνομη του Τρέντο
           sources:
             - name: euvoc
               languages: [el]
+              value: Αυτόνομη Επαρχία του Τρέντο
         - name: Автономна Покраина Тренто
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Автономна провинция на Тренто
+        - name: Автономна Тренто
           sources:
             - name: euvoc
               languages: [bg]
+              value: Автономна провинция на Тренто
         - name: Аутономна покрајина Тренто
           sources:
             - name: euvoc
@@ -869,11 +860,10 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Emilia-Romañ
+        - name: Emilia-Romaña
           sources:
             - name: euvoc
               languages: [es]
-              value: Emilia-Romaña
         - name: Emilija-Romanija
           sources:
             - name: euvoc
@@ -1116,6 +1106,16 @@ regions:
               languages: [it]
     
 
+    # L'Aquila
+    - codes:
+        iso3166-2: IT-AQ
+      names:
+        - name: L'Aquila
+          sources:
+            - name: iso3166-2
+              languages: [it]
+    
+
     # Latina
     - codes:
         iso3166-2: IT-LT
@@ -1315,11 +1315,10 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
-        - name: Lombardí
+        - name: Lombardía
           sources:
             - name: euvoc
               languages: [es]
-              value: Lombardía
         - name: Λομβαρδία
           sources:
             - name: euvoc
@@ -1824,11 +1823,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/3891
         iso3166-2: IT-88
       names:
-        - name: Cerdeñ
+        - name: Cerdeña
           sources:
             - name: euvoc
               languages: [es]
-              value: Cerdeña
         - name: Sardaigne
           sources:
             - name: euvoc
@@ -2156,16 +2154,14 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: Trentī Alto Adidže
+        - name: Trentīno-Alto Adidže
           sources:
             - name: euvoc
               languages: [lv]
-              value: Trentīno-Alto Adidže
-        - name: Tridentsko-Horná Adiž
+        - name: Tridentsko-Horná Adiža
           sources:
             - name: euvoc
               languages: [sk]
-              value: Tridentsko-Horná Adiža
         - name: Tridentsko-Horní Adiže
           sources:
             - name: euvoc
@@ -2253,11 +2249,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs, sk]
-        - name: Toskā
+        - name: Toskāna
           sources:
             - name: euvoc
               languages: [lv]
-              value: Toskāna
         - name: Tuscany
           sources:
             - name: euvoc
@@ -2313,11 +2308,10 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Umbrí
+        - name: Umbría
           sources:
             - name: euvoc
               languages: [es]
-              value: Umbría
         - name: Úmbria
           sources:
             - name: euvoc

@@ -13,15 +13,14 @@ regions:
               languages: [ar]
     
 
-    # Al Baḩr al ḩmar
+    # Al Baḩr al Aḩmar
     - codes:
         iso3166-2: EG-BA
       names:
-        - name: Al Baḩr al ḩmar
+        - name: Al Baḩr al Aḩmar
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Al Baḩr al Aḩmar
         - name: Red Sea
           sources:
             - name: iso3166-2

@@ -223,15 +223,14 @@ regions:
               languages: [fa, ps]
     
 
-    # Nīmrō
+    # Nīmrōz
     - codes:
         iso3166-2: AF-NIM
       names:
-        - name: Nīmrō
+        - name: Nīmrōz
           sources:
             - name: iso3166-2
               languages: [fa, ps]
-              value: Nīmrōz
     
 
     # Nūristān
@@ -294,6 +293,16 @@ regions:
               languages: [fa, ps]
     
 
+    # Sar-e Pul
+    - codes:
+        iso3166-2: AF-SAR
+      names:
+        - name: Sar-e Pul
+          sources:
+            - name: iso3166-2
+              languages: [fa, ps]
+    
+
     # Takhār
     - codes:
         iso3166-2: AF-TAK
@@ -324,23 +333,11 @@ regions:
               languages: [fa, ps]
     
 
-    # e Pul
-    - codes:
-        iso3166-2: AF-SAR
-      names:
-        - name: e Pul
-          sources:
-            - name: iso3166-2
-              languages: [fa, ps]
-              value: Sar-e Pul
-    
-
-    # ābul
+    # Zābul
     - codes:
         iso3166-2: AF-ZAB
       names:
-        - name: ābul
+        - name: Zābul
           sources:
             - name: iso3166-2
               languages: [fa, ps]
-              value: Zābul

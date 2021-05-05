@@ -60,11 +60,10 @@ regions:
           sources:
             - name: euvoc
               languages: [da, en, ga, hr, mt, sq, sr]
-        - name: Jadranska Hrvaš
+        - name: Jadranska Hrvaška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Jadranska Hrvaška
         - name: Jadranské Chorvátsko
           sources:
             - name: euvoc
@@ -144,6 +143,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
+        - name: Il-Kroazja Ċentrali
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Kesk-Horvaatia
           sources:
             - name: euvoc
@@ -152,21 +155,14 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kroazja Ċentrali
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Kroazja Ċentrali
-        - name: Kö ép-Horvátország
+        - name: Közép-Horvátország
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Horvátország
-        - name: Osrednja Hrvaš
+        - name: Osrednja Hrvaška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Osrednja Hrvaška
         - name: Središnja Hrvatska
           sources:
             - name: euvoc
@@ -205,11 +201,10 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/c_d4ca9a6c
       names:
-        - name: Celinska Hrvaš
+        - name: Celinska Hrvaška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Celinska Hrvaška
         - name: Chorwacja kontynentalna
           sources:
             - name: euvoc
@@ -378,11 +373,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Bjelovar-Bilogora
+        - name: Kontea ta' Bjelovar-Bilogora
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Bjelovar-Bilogora
         - name: Qarku Bjelovar-Bilogora
           sources:
             - name: euvoc
@@ -395,18 +389,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Bjelovar-Bilogora
+        - name: Διαμέρισμα Bjelovar-Bilogora
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Bjelovar-Bilogora
+        - name: Беловар-Билорога
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Беловар-Билорога
         - name: Бјеловарско-билогорска жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Беловар-Билорога
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Brod-Posavina
@@ -491,11 +487,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Brod-Posavina
+        - name: Kontea ta' Brod-Posavina
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Brod-Posavina
         - name: Qarku Brod-Posavina
           sources:
             - name: euvoc
@@ -508,18 +503,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Brod-Posavina
+        - name: Διαμέρισμα Brod-Posavina
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Brod-Posavina
         - name: Бродско-посавска жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област брод-Посавина
+        - name: брод-Посавина
           sources:
             - name: euvoc
               languages: [bg]
+              value: област брод-Посавина
     
 
     # County Dubrovnik-Neretva
@@ -604,11 +601,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Dubrovnik-Neretva
+        - name: Kontea ta' Dubrovnik-Neretva
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Dubrovnik-Neretva
         - name: Qarku Dubrovnik-Neretva
           sources:
             - name: euvoc
@@ -621,22 +617,24 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Dubrovnik-Neretva
+        - name: Διαμέρισμα Dubrovnik-Neretva
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Dubrovnik-Neretva
         - name: Дубровачко-неретванска жупанија
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Дубровник-Неретва
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Дубровник-Неретва
         - name: Дубровничко-неретванска Жупанија
           sources:
             - name: euvoc
               languages: [mk]
-        - name: област Дубровник-Неретва
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Istra
@@ -719,11 +717,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Kontea ' Istra
+        - name: Kontea ta' Istra
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Istra
         - name: Qarku Istra
           sources:
             - name: euvoc
@@ -744,10 +741,11 @@ regions:
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Истрия
+        - name: Истрия
           sources:
             - name: euvoc
               languages: [bg]
+              value: област Истрия
     
 
     # County Karlovac
@@ -818,24 +816,20 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Karlovač županija
+        - name: Karlovačka županija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Karlovačka županija
             - name: iso3166-2
               languages: [hr]
-              value: Karlovačka županija
-        - name: Karlovš županija
+        - name: Karlovška županija
           sources:
             - name: euvoc
               languages: [sl]
-              value: Karlovška županija
-        - name: Kontea ' Karlovac
+        - name: Kontea ta' Karlovac
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Karlovac
         - name: Károlyváros megye
           sources:
             - name: euvoc
@@ -852,18 +846,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Karlovac
+        - name: Διαμέρισμα Karlovac
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Karlovac
+        - name: Карловац
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Карловац
         - name: Карловачка жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Карловац
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Koprivnica-Križevci
@@ -908,11 +904,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Kontea ' Koprivnica-Križevci
+        - name: Kontea ta' Koprivnica-Križevci
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Koprivnica-Križevci
         - name: Koprivnica-Križevci
           sources:
             - name: euvoc
@@ -943,14 +938,12 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Koprivničko-križevač županija
+        - name: Koprivničko-križevačka županija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Koprivničko-križevačka županija
             - name: iso3166-2
               languages: [hr]
-              value: Koprivničko-križevačka županija
         - name: Koprivniško-križevska županija
           sources:
             - name: euvoc
@@ -971,6 +964,11 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
+        - name: Копривница-Крижевци
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Копривница-Крижевци
         - name: Копривничко-крижевачка жупанија
           sources:
             - name: euvoc
@@ -979,10 +977,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: област Копривница-Крижевци
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Krapina-Zagorje
@@ -1023,11 +1017,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Krapina-Zagorje
+        - name: Kontea ta' Krapina-Zagorje
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Krapina-Zagorje
         - name: Krapina-Zagorje
           sources:
             - name: euvoc
@@ -1084,14 +1077,15 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
+        - name: Крапина-Загоре
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Крапина-Загоре
         - name: Крапинско-загорска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Крапина-Загоре
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Lika-Senj
@@ -1132,11 +1126,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Lika-Senj
+        - name: Kontea ta' Lika-Senj
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Lika-Senj
         - name: Licko-senjská župa
           sources:
             - name: euvoc
@@ -1193,18 +1186,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Lika-Senj
+        - name: Διαμέρισμα Lika-Senj
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Lika-Senj
+        - name: Лика-Сен
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Лика-Сен
         - name: Личко-сењска жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Лика-Сен
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Međimurje
@@ -1245,11 +1240,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Međimurje
+        - name: Kontea ta' Međimurje
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Međimurje
         - name: Medimurská župa
           sources:
             - name: euvoc
@@ -1294,11 +1288,10 @@ regions:
               languages: [hr]
             - name: iso3166-2
               languages: [hr]
-        - name: Murakö megye
+        - name: Muraköz megye
           sources:
             - name: euvoc
               languages: [hu]
-              value: Muraköz megye
         - name: Qarku Megjimurje
           sources:
             - name: euvoc
@@ -1311,10 +1304,16 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Međimurje
+        - name: Διαμέρισμα Međimurje
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Međimurje
+        - name: Меджимурие
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Меджимурие
         - name: Међимурска жупанија
           sources:
             - name: euvoc
@@ -1323,10 +1322,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: област Меджимурие
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Osijek-Baranja
@@ -1371,11 +1366,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Osijek-Baranja
+        - name: Kontea ta' Osijek-Baranja
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Osijek-Baranja
         - name: Osijecko-baranjská župa
           sources:
             - name: euvoc
@@ -1428,10 +1422,16 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Osijek-Baranja
+        - name: Διαμέρισμα Osijek-Baranja
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Osijek-Baranja
+        - name: Осиек-Бараня
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Осиек-Бараня
         - name: Осиечко-барањска Жупанија
           sources:
             - name: euvoc
@@ -1440,10 +1440,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: област Осиек-Бараня
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Požega-Slavonia
@@ -1484,11 +1480,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Požega-Slavonia
+        - name: Kontea ta' Požega-Slavonia
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Požega-Slavonia
         - name: Pozsega-Szlavónia megye
           sources:
             - name: euvoc
@@ -1549,14 +1544,15 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
+        - name: Пожега-Славония
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Пожега-Славония
         - name: Пожешко-славонска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Пожега-Славония
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Primorje-Gorski Kotar
@@ -1597,11 +1593,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Primorje-Gorski Kotar
+        - name: Kontea ta' Primorje-Gorski Kotar
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Primorje-Gorski Kotar
         - name: Piejūras-Kalnu županija
           sources:
             - name: euvoc
@@ -1658,18 +1653,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Primorje-Gorski Kotar
+        - name: Διαμέρισμα Primorje-Gorski Kotar
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Primorje-Gorski Kotar
+        - name: Приморие-Горски котар
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Приморие-Горски котар
         - name: Приморско-горанска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Приморие-Горски котар
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Sisak-Moslavina
@@ -1710,11 +1707,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Sisak-Moslavina
+        - name: Kontea ta' Sisak-Moslavina
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Sisak-Moslavina
         - name: Qarku Sisak-Moslavina
           sources:
             - name: euvoc
@@ -1749,19 +1745,16 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Sisačko-moslavač županija
+        - name: Sisačko-moslavačka županija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Sisačko-moslavačka županija
             - name: iso3166-2
               languages: [hr]
-              value: Sisačko-moslavačka županija
-        - name: Sisaško-moslavaš županija
+        - name: Sisaško-moslavaška županija
           sources:
             - name: euvoc
               languages: [sl]
-              value: Sisaško-moslavaška županija
         - name: Sziszek-Moslavina megye
           sources:
             - name: euvoc
@@ -1774,10 +1767,16 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Sisak-Moslavina
+        - name: Διαμέρισμα Sisak-Moslavina
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Sisak-Moslavina
+        - name: Сисак-Мославина
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Сисак-Мославина
         - name: Сисачко-мославачка жупанија
           sources:
             - name: euvoc
@@ -1786,10 +1785,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: област Сисак-Мославина
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Split-Dalmatia
@@ -1830,11 +1825,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Split-Dalmazja
+        - name: Kontea ta' Split-Dalmazja
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Split-Dalmazja
         - name: Qarku Split-Dalmaci
           sources:
             - name: euvoc
@@ -1891,18 +1885,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Split-Dalmatia
+        - name: Διαμέρισμα Split-Dalmatia
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Split-Dalmatia
+        - name: Сплит-Далмация
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Сплит-Далмация
         - name: Сплитско-далматинска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Сплит-Далмация
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Varaždin
@@ -1943,11 +1939,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Varaždin
+        - name: Kontea ta' Varaždin
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Varaždin
         - name: Qarku Varazhdin
           sources:
             - name: euvoc
@@ -1996,23 +1991,24 @@ regions:
           sources:
             - name: euvoc
               languages: [da]
-        - name: żupania varaż ńska
+        - name: żupania varażdińska
           sources:
             - name: euvoc
               languages: [pl]
-              value: żupania varażdińska
-        - name: Διαμέρισμα του Varaždin
+        - name: Διαμέρισμα Varaždin
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Varaždin
+        - name: Вараждин
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Вараждин
         - name: Вараждинска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Вараждин
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Virovitica-Podravina
@@ -2053,11 +2049,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Virovitica-Podravina
+        - name: Kontea ta' Virovitica-Podravina
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Virovitica-Podravina
         - name: Qarku Virovitica-Podravina
           sources:
             - name: euvoc
@@ -2122,14 +2117,15 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
+        - name: Вировитица-Подравина
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Вировитица-Подравина
         - name: Вировитичко-подравска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Вировитица-Подравина
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Vukovar-Srije
@@ -2170,11 +2166,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Vukovar-Srije
+        - name: Kontea ta' Vukovar-Srije
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Vukovar-Srije
         - name: Qarku Vukovar-Srije
           sources:
             - name: euvoc
@@ -2235,18 +2230,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Vukovar-Srije
+        - name: Διαμέρισμα Vukovar-Srije
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Vukovar-Srije
+        - name: Вуковар-Срием
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Вуковар-Срием
         - name: Вуковарско-сремска жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Вуковар-Срием
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Zadar
@@ -2287,11 +2284,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Zadar
+        - name: Kontea ta' Zadar
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Zadar
         - name: Qarku Zar
           sources:
             - name: euvoc
@@ -2332,31 +2328,32 @@ regions:
           sources:
             - name: euvoc
               languages: [cs, sk]
+        - name: Zára megye
+          sources:
+            - name: euvoc
+              languages: [hu]
         - name: regionen Zadar
           sources:
             - name: euvoc
               languages: [da]
-        - name: ára megye
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Zára megye
         - name: żupania zadarska
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Zadar
+        - name: Διαμέρισμα Zadar
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Zadar
+        - name: Задар
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Задар
         - name: Задарска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Задар
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Zagreb
@@ -2397,11 +2394,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Zagreb
+        - name: Kontea ta' Zagreb
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Zagreb
         - name: Qarku Zagreb
           sources:
             - name: euvoc
@@ -2415,14 +2411,12 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Zagrebač županija
+        - name: Zagrebačka županija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Zagrebačka županija
             - name: iso3166-2
               languages: [hr]
-              value: Zagrebačka županija
         - name: Zagrebi maakond
           sources:
             - name: euvoc
@@ -2440,38 +2434,40 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
-        - name: Zagrebš županija
+        - name: Zagrebška županija
           sources:
             - name: euvoc
               languages: [sl]
-              value: Zagrebška županija
+        - name: Zágráb megye
+          sources:
+            - name: euvoc
+              languages: [hu]
+        - name: Záhrebská župa
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Záhřebská župa
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: regionen Zagreb
           sources:
             - name: euvoc
               languages: [da]
-        - name: ágráb megye
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Zágráb megye
-        - name: áhrebská župa
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Záhrebská župa
-        - name: áhřebská župa
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Záhřebská župa
         - name: żupania zagrzebska
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Zagreb
+        - name: Διαμέρισμα Zagreb
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Zagreb
+        - name: Загреб
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Загреб
         - name: Загребачка жупанија
           sources:
             - name: euvoc
@@ -2480,10 +2476,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: област Загреб
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # County Šibenik-Knin
@@ -2524,11 +2516,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Kontea ' Šibenik-Knin
+        - name: Kontea ta' Šibenik-Knin
           sources:
             - name: euvoc
               languages: [mt]
-              value: Kontea ta' Šibenik-Knin
         - name: Qarku Shibenik-Knin
           sources:
             - name: euvoc
@@ -2585,18 +2576,20 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Διαμέρισμα του Šibenik-Knin
+        - name: Διαμέρισμα Šibenik-Knin
           sources:
             - name: euvoc
               languages: [el]
+              value: Διαμέρισμα του Šibenik-Knin
+        - name: Шибеник-Книн
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: област Шибеник-Книн
         - name: Шибенско-книнска Жупанија
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: област Шибеник-Книн
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Eastern Croatia
@@ -2639,11 +2632,14 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
-        - name: Istoč Hrvatska
+        - name: Il-Kroazja tal-Lvant
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Istočna Hrvatska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Istočna Hrvatska
         - name: Itä-Kroatia
           sources:
             - name: euvoc
@@ -2652,11 +2648,6 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Kroazja tal-Lvant
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Kroazja tal-Lvant
         - name: Oost-Kroatië
           sources:
             - name: euvoc
@@ -2669,11 +2660,10 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
-        - name: Vzhodna Hrvaš
+        - name: Vzhodna Hrvaška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Vzhodna Hrvaška
         - name: Východné Chorvátsko
           sources:
             - name: euvoc
@@ -2724,11 +2714,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
-        - name: Gorska Hrvaš
+        - name: Gorska Hrvaška
           sources:
             - name: euvoc
               languages: [sl]
-              value: Gorska Hrvaška
         - name: Highland Croatia
           sources:
             - name: euvoc
@@ -2754,11 +2743,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Ir tal-muntanji tal-Kroazja
+        - name: Ir-reġjun tal-muntanji tal-Kroazja
           sources:
             - name: euvoc
               languages: [mt]
-              value: Ir-reġjun tal-muntanji tal-Kroazja
         - name: Kalnu Horvātija
           sources:
             - name: euvoc
@@ -2818,6 +2806,10 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
+        - name: Iż-żona kostali tat-Tramuntana tal-Kroazja
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Litoralul croat Nord
           sources:
             - name: euvoc
@@ -2872,7 +2864,7 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: nordkroatiske kystområ
+        - name: nordkroatiske kystområde
           sources:
             - name: euvoc
               languages: [da]
@@ -2889,11 +2881,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lt]
-        - name: ż-żona kostali tat-Tramuntana tal-Kroazja
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Iż-żona kostali tat-Tramuntana tal-Kroazja
         - name: Βόρεια παράκτια Κροατία
           sources:
             - name: euvoc
@@ -2928,16 +2915,22 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Juž hrvatsko primorje
+        - name: Iż-żona kostali tan-Nofsinhar tal-Kroazja
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Jižní chorvatské přímoří
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Južno hrvatsko primorje
           sources:
             - name: euvoc
               languages: [hr]
-              value: Južno hrvatsko primorje
-        - name: Juž hrvaško primorje
+        - name: Južno hrvaško primorje
           sources:
             - name: euvoc
               languages: [sl]
-              value: Južno hrvaško primorje
         - name: Južné chorvátske prímorie
           sources:
             - name: euvoc
@@ -2980,7 +2973,7 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: sydkroatiske kystområ
+        - name: sydkroatiske kystområde
           sources:
             - name: euvoc
               languages: [da]
@@ -2989,16 +2982,6 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: ż-żona kostali tan-Nofsinhar tal-Kroazja
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Iż-żona kostali tan-Nofsinhar tal-Kroazja
-        - name: žní chorvatské přímoří
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní chorvatské přímoří
         - name: Νότια παράκτια Κροατία
           sources:
             - name: euvoc
@@ -3014,28 +2997,27 @@ regions:
         euvoc: http://eurovoc.europa.eu/c_d3db05e6
         iso3166-2: HR-21
       names:
-        - name: ''' Zagreb'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Belt ta' Zagreb
         - name: Bashkia Zagreb
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Città Zagabria
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: Città di Zagabria
         - name: Mesto Zagreb
           sources:
             - name: euvoc
               languages: [sl]
+        - name: Orașul Zagreb
+          sources:
+            - name: euvoc
+              languages: [ro]
         - name: Ságrab
           sources:
             - name: euvoc
               languages: [ga]
+        - name: Zagabria
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Città di Zagabria
         - name: Zagreb
           sources:
             - name: euvoc
@@ -3093,35 +3075,33 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: ul Zagreb
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Orașul Zagreb
-        - name: ágráb
+        - name: Zágráb
           sources:
             - name: euvoc
               languages: [hu]
               value: Zágráb város
-        - name: áhreb
+        - name: Záhreb
           sources:
             - name: euvoc
               languages: [sk]
-              value: Záhreb
-        - name: áhřeb
+        - name: Záhřeb
           sources:
             - name: euvoc
               languages: [cs]
-              value: Záhřeb
-        - name: Δήμος του Ζάγκρεμπ
+        - name: ta' Zagreb
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Belt ta' Zagreb
+        - name: Δήμος Ζάγκρεμπ
           sources:
             - name: euvoc
               languages: [el]
+              value: Δήμος του Ζάγκρεμπ
         - name: Загреб
           sources:
             - name: euvoc
-              languages: [sr]
-        - name: град Загреб
-          sources:
-            - name: euvoc
               languages: [bg, mk]
+              value: град Загреб
+            - name: euvoc
+              languages: [sr]

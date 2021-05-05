@@ -26,11 +26,10 @@ regions:
             - name: iso3166-2
               languages: [fr]
               value: Bahr el Ghazal
-        - name: Barh Ghazal
+        - name: Barh-el-Ghazal
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Barh-el-Ghazal
         - name: Baḩr al Ghazāl
           sources:
             - name: iso3166-2
@@ -157,11 +156,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Mā ū Kībbī ash Sharqī
+        - name: Māyū Kībbī ash Sharqī
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Māyū Kībbī ash Sharqī
     
 
     # Mayo-Kebbi-Ouest
@@ -172,11 +170,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Mā ū Kībbī al Gharbī
+        - name: Māyū Kībbī al Gharbī
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Māyū Kībbī al Gharbī
     
 
     # Moyen-Chari
@@ -216,11 +213,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [fr]
-        - name: Waddā
+        - name: Waddāy
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Waddāy
     
 
     # Guéra

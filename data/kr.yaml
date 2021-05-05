@@ -25,22 +25,20 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-        - name: Chungcheongbuk
+        - name: Chungcheongbuk-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Chungcheongbuk-do
     
 
-    # Chungcheongnam
+    # Chungcheongnam-do
     - codes:
         iso3166-2: KR-44
       names:
-        - name: Chungcheongnam
+        - name: Chungcheongnam-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Chungcheongnam-do
         - name: Chungnam
           sources:
             - name: iso3166-2
@@ -83,7 +81,8 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Gangwon-do
+        - name: Gangwon-do
+          sources:
             - name: iso3166-2
               languages: [ko]
     
@@ -110,7 +109,8 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Gyeonggi-do
+        - name: Gyeonggi-do
+          sources:
             - name: iso3166-2
               languages: [ko]
     
@@ -123,11 +123,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-        - name: Gyeongsangbuk
+        - name: Gyeongsangbuk-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Gyeongsangbuk-do
     
 
     # Gyeongnam
@@ -138,11 +137,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ko]
-        - name: Gyeongsangnam
+        - name: Gyeongsangnam-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Gyeongsangnam-do
     
 
     # Incheon
@@ -173,30 +171,28 @@ regions:
               languages: [ko]
     
 
-    # Jeollabuk
+    # Jeollabuk-do
     - codes:
         iso3166-2: KR-45
       names:
-        - name: Jeollabuk
+        - name: Jeollabuk-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Jeollabuk-do
         - name: Jeonbuk
           sources:
             - name: iso3166-2
               languages: [ko]
     
 
-    # Jeollanam
+    # Jeollanam-do
     - codes:
         iso3166-2: KR-46
       names:
-        - name: Jeollanam
+        - name: Jeollanam-do
           sources:
             - name: iso3166-2
               languages: [ko]
-              value: Jeollanam-do
         - name: Jeonnam
           sources:
             - name: iso3166-2

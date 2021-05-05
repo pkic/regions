@@ -52,15 +52,11 @@ regions:
         - name: Блекинге
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Блекинге
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Блекинге
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Dalarna county
@@ -111,15 +107,11 @@ regions:
         - name: Даларна
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Даларна
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Даларна
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # East Middle Sweden
@@ -139,11 +131,10 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
-        - name: Istoč središnja Švedska
+        - name: Istočna središnja Švedska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Istočna središnja Švedska
         - name: Itäinen Keski-Ruotsi
           sources:
             - name: euvoc
@@ -168,7 +159,7 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Suè Centre-Est
+        - name: Suède Centre-Est
           sources:
             - name: euvoc
               languages: [fr]
@@ -263,15 +254,11 @@ regions:
         - name: Готланд
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Готланд
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Готланд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Gävleborg county
@@ -323,14 +310,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Йевлеборг
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Йевлеборг
         - name: Округ Гевлеборг
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Йевлеборг
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Halland county
@@ -385,11 +373,7 @@ regions:
         - name: Халанд
           sources:
             - name: euvoc
-              languages: [sr]
-        - name: провинция Халанд
-          sources:
-            - name: euvoc
-              languages: [bg]
+              languages: [bg, sr]
     
 
     # Jämtland county
@@ -445,14 +429,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Йемтланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Йемтланд
         - name: Округ Јемтланд
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Йемтланд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Jönköping county
@@ -504,14 +489,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Йончопинг
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Йончопинг
         - name: Округ Јенчепинг
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Йончопинг
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Kalmar county
@@ -562,15 +548,11 @@ regions:
         - name: Калмар
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Калмар
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Калмар
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Kronoberg county
@@ -618,6 +600,11 @@ regions:
             - name: euvoc
               languages: [sq]
               value: qarku i Kronobergut
+        - name: Крунубер
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Крунубер
         - name: Крунуберј
           sources:
             - name: euvoc
@@ -626,10 +613,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Крунубер
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Mellersta Norrland
@@ -757,6 +740,11 @@ regions:
             - name: euvoc
               languages: [sq]
               value: qarku i Norbotenit
+        - name: Норботен
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Норботен
         - name: Нурботен
           sources:
             - name: euvoc
@@ -765,10 +753,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Норботен
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # North Middle Sweden
@@ -817,7 +801,7 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Suè Centre-Nord
+        - name: Suède Centre-Nord
           sources:
             - name: euvoc
               languages: [fr]
@@ -826,11 +810,10 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: Ziemeļ Viduszviedrija
+        - name: Ziemeļu Viduszviedrija
           sources:
             - name: euvoc
               languages: [lv]
-              value: Ziemeļu Viduszviedrija
         - name: noordelijk Midden-Zweden
           sources:
             - name: euvoc
@@ -937,11 +920,7 @@ regions:
         - name: Сконе
           sources:
             - name: euvoc
-              languages: [sr]
-        - name: провинция Сконе
-          sources:
-            - name: euvoc
-              languages: [bg]
+              languages: [bg, sr]
     
 
     # Småland and islands
@@ -962,11 +941,10 @@ regions:
             - name: euvoc
               languages: [hr]
               value: Smaland i otoci
-        - name: Smaland ș insulele
+        - name: Smaland și insulele
           sources:
             - name: euvoc
               languages: [ro]
-              value: Smaland și insulele
         - name: Smolandas ir salos
           sources:
             - name: euvoc
@@ -997,11 +975,10 @@ regions:
             - name: euvoc
               languages: [nl]
               value: Småland en de eilanden
-        - name: Småland et î
+        - name: Småland et îles
           sources:
             - name: euvoc
               languages: [fr]
-              value: Småland et îles
         - name: Småland ja saared
           sources:
             - name: euvoc
@@ -1053,20 +1030,18 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Juž Švedska
+        - name: Južna Švedska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Južna Švedska
         - name: Lõuna-Rootsi
           sources:
             - name: euvoc
               languages: [et]
-        - name: Nofsinhar tal żvezja
+        - name: Nofsinhar tal-Iżvezja
           sources:
             - name: euvoc
               languages: [mt]
-              value: Nofsinhar tal-Iżvezja
         - name: Pietų Švedija
           sources:
             - name: euvoc
@@ -1098,11 +1073,10 @@ regions:
             - name: euvoc
               languages: [pt]
               value: Sul da Suécia
-        - name: Suè méridionale
+        - name: Suède méridionale
           sources:
             - name: euvoc
               languages: [fr]
-              value: Suède méridionale
         - name: Svezia meridionale
           sources:
             - name: euvoc
@@ -1255,10 +1229,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: провинция Сьодерманланд
+        - name: Сьодерманланд
           sources:
             - name: euvoc
               languages: [bg]
+              value: провинция Сьодерманланд
     
 
     # Upper Norrland
@@ -1298,11 +1273,10 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: Norrland ’ Fuq
+        - name: Norrland ta’ Fuq
           sources:
             - name: euvoc
               languages: [mt]
-              value: Norrland ta’ Fuq
         - name: Norrland-ul Superior
           sources:
             - name: euvoc
@@ -1401,11 +1375,7 @@ regions:
         - name: Упсала
           sources:
             - name: euvoc
-              languages: [sr]
-        - name: провинция Упсала
-          sources:
-            - name: euvoc
-              languages: [bg]
+              languages: [bg, sr]
     
 
     # Värmland county
@@ -1452,15 +1422,11 @@ regions:
         - name: Вермланд
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Вермланд
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Вермланд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Västerbotten county
@@ -1511,15 +1477,11 @@ regions:
         - name: Вестерботен
           sources:
             - name: euvoc
-              languages: [sr]
+              languages: [bg, sr]
         - name: Округ Вестерботен
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Вестерботен
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Västernorrland county
@@ -1567,6 +1529,11 @@ regions:
             - name: euvoc
               languages: [sq]
               value: qarku i Vasternorlandit
+        - name: Вестернорланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Вестернорланд
         - name: Вестернурланд
           sources:
             - name: euvoc
@@ -1575,10 +1542,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Вестернорланд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Västmanland county
@@ -1630,14 +1593,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Вестманланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Вестманланд
         - name: Округ Вестманланд
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Вестманланд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Västra Götaland county
@@ -1685,6 +1649,11 @@ regions:
             - name: euvoc
               languages: [sq]
               value: qarku i Vastra Gotalandit
+        - name: Вастре Гьоталанд
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Вастре Гьоталанд
         - name: Вестра Јеталанд
           sources:
             - name: euvoc
@@ -1693,10 +1662,6 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Вастре Гьоталанд
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # West Sweden
@@ -1733,11 +1698,10 @@ regions:
             - name: euvoc
               languages: [ro]
               value: Suedia de Vest
-        - name: Suè occidentale
+        - name: Suède occidentale
           sources:
             - name: euvoc
               languages: [fr]
-              value: Suède occidentale
         - name: Svezia occidentale
           sources:
             - name: euvoc
@@ -1834,14 +1798,15 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Йоребру
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Йоребру
         - name: Округ Еребру
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Йоребру
-          sources:
-            - name: euvoc
-              languages: [bg]
     
 
     # Östergötland county
@@ -1893,11 +1858,12 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
+        - name: Йостерйотланд
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: провинция Йостерйотланд
         - name: Округ Естерјетланд
           sources:
             - name: euvoc
               languages: [mk]
-        - name: провинция Йостерйотланд
-          sources:
-            - name: euvoc
-              languages: [bg]

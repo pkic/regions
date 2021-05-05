@@ -80,11 +80,10 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Central Province
-        - name: Madhyama paḷā
+        - name: Madhyama paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Madhyama paḷāta
         - name: Mattiya mākāṇam
           sources:
             - name: iso3166-2
@@ -122,11 +121,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ta]
-        - name: Næ̆gĕnahira paḷā
+        - name: Næ̆gĕnahira paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Næ̆gĕnahira paḷāta
     
 
     # Galle
@@ -173,11 +171,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Hambantŏṭ
+        - name: Hambantŏṭa
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Hambantŏṭa
     
 
     # Jaffna
@@ -188,16 +185,14 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: āl̮ppāṇam
+        - name: Yāl̮ppāṇam
           sources:
             - name: iso3166-2
               languages: [ta]
-              value: Yāl̮ppāṇam
-        - name: āpanaya
+        - name: Yāpanaya
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Yāpanaya
     
 
     # Kalutara
@@ -208,16 +203,14 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: ḷutara
+        - name: Kaḷutara
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Kaḷutara
-        - name: ḷuttuṟai
+        - name: Kaḷuttuṟai
           sources:
             - name: iso3166-2
               languages: [ta]
-              value: Kaḷuttuṟai
     
 
     # Kandy
@@ -228,15 +221,14 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
+        - name: Kaṇṭi
+          sources:
+            - name: iso3166-2
+              languages: [ta]
         - name: Mahanuvara
           sources:
             - name: iso3166-2
               languages: [si]
-        - name: ṇṭ
-          sources:
-            - name: iso3166-2
-              languages: [ta]
-              value: Kaṇṭi
     
 
     # Kegalla
@@ -392,11 +384,10 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: North Central Province
-        - name: Uturumæ̆ paḷā
+        - name: Uturumæ̆da paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Uturumæ̆da paḷāta
         - name: Vaṭamattiya mākāṇam
           sources:
             - name: iso3166-2
@@ -412,11 +403,10 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: North Western Province
-        - name: Vayamba paḷā
+        - name: Vayamba paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Vayamba paḷāta
         - name: Vaṭamel mākāṇam
           sources:
             - name: iso3166-2
@@ -432,11 +422,10 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Northern Province
-        - name: Uturu paḷā
+        - name: Uturu paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Uturu paḷāta
         - name: Vaṭakku mākāṇam
           sources:
             - name: iso3166-2
@@ -469,11 +458,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Pŏ ṉṉ ṛuvai
+        - name: Pŏlaṉṉaṛuvai
           sources:
             - name: iso3166-2
               languages: [ta]
-              value: Pŏlaṉṉaṛuvai
         - name: Pŏḷŏnnaruva
           sources:
             - name: iso3166-2
@@ -520,11 +508,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ta]
-        - name: Sabaragamuva paḷā
+        - name: Sabaragamuva paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Sabaragamuva paḷāta
         - name: Sabaragamuwa
           sources:
             - name: iso3166-2
@@ -536,11 +523,10 @@ regions:
     - codes:
         iso3166-2: LK-3
       names:
-        - name: Dakuṇ paḷā
+        - name: Dakuṇu paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Dakuṇu paḷāta
         - name: Southern
           sources:
             - name: iso3166-2
@@ -579,11 +565,10 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Uva Province
-        - name: Ūva paḷā
+        - name: Ūva paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Ūva paḷāta
         - name: Ūvā mākāṇam
           sources:
             - name: iso3166-2
@@ -612,11 +597,10 @@ regions:
     - codes:
         iso3166-2: LK-1
       names:
-        - name: Basnāhira paḷā
+        - name: Basnāhira paḷāta
           sources:
             - name: iso3166-2
               languages: [si]
-              value: Basnāhira paḷāta
         - name: Mel mākāṇam
           sources:
             - name: iso3166-2

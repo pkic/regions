@@ -7,11 +7,10 @@ regions:
     - codes:
         iso3166-2: PS-BTH
       names:
-        - name: Bayt ḩm
+        - name: Bayt Laḩm
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Bayt Laḩm
         - name: Bethlehem
           sources:
             - name: iso3166-2
@@ -111,11 +110,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Khān ūnis
+        - name: Khān Yūnis
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Khān Yūnis
     
 
     # Nablus

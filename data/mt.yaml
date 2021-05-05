@@ -4,17 +4,6 @@ complete: false
 regions:
     
 
-    # ' Xbiex
-    - codes:
-        iso3166-2: MT-58
-      names:
-        - name: ''' Xbiex'
-          sources:
-            - name: iso3166-2
-              languages: [en, mt]
-              value: Ta' Xbiex
-    
-
     # Attard
     - codes:
         iso3166-2: MT-01
@@ -55,15 +44,14 @@ regions:
               languages: [en, mt]
     
 
-    # Birżebbuġ
+    # Birżebbuġa
     - codes:
         iso3166-2: MT-05
       names:
-        - name: Birżebbuġ
+        - name: Birżebbuġa
           sources:
             - name: iso3166-2
               languages: [en, mt]
-              value: Birżebbuġa
     
 
     # Bormla
@@ -296,15 +284,14 @@ regions:
               languages: [en, mt]
     
 
-    # Mellieħ
+    # Mellieħa
     - codes:
         iso3166-2: MT-30
       names:
-        - name: Mellieħ
+        - name: Mellieħa
           sources:
             - name: iso3166-2
               languages: [en, mt]
-              value: Mellieħa
     
 
     # Mosta
@@ -545,11 +532,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: San Pawl Baħar
+        - name: San Pawl il-Baħar
           sources:
             - name: iso3166-2
               languages: [mt]
-              value: San Pawl il-Baħar
     
 
     # Sannat
@@ -597,6 +583,16 @@ regions:
         iso3166-2: MT-57
       names:
         - name: Swieqi
+          sources:
+            - name: iso3166-2
+              languages: [en, mt]
+    
+
+    # Ta' Xbiex
+    - codes:
+        iso3166-2: MT-58
+      names:
+        - name: Ta' Xbiex
           sources:
             - name: iso3166-2
               languages: [en, mt]

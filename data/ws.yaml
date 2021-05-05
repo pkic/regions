@@ -3,26 +3,24 @@ complete: false
 regions:
     
 
-    # 'ana
+    # A'ana
     - codes:
         iso3166-2: WS-AA
       names:
-        - name: '''ana'
+        - name: A'ana
           sources:
             - name: iso3166-2
               languages: [en, sm]
-              value: A'ana
     
 
-    # Aiga Tai
+    # Aiga-i-le-Tai
     - codes:
         iso3166-2: WS-AL
       names:
-        - name: Aiga Tai
+        - name: Aiga-i-le-Tai
           sources:
             - name: iso3166-2
               languages: [en, sm]
-              value: Aiga-i-le-Tai
     
 
     # Atua
@@ -95,15 +93,14 @@ regions:
               languages: [en, sm]
     
 
-    # Va' Fonoti
+    # Va'a-o-Fonoti
     - codes:
         iso3166-2: WS-VF
       names:
-        - name: Va' Fonoti
+        - name: Va'a-o-Fonoti
           sources:
             - name: iso3166-2
               languages: [en, sm]
-              value: Va'a-o-Fonoti
     
 
     # Vaisigano

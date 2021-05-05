@@ -9,11 +9,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8333
         iso3166-2: BG-01
       names:
-        - name: ''' Blagoevgrad'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Blagoevgrad
         - name: Blagoevgrad
           sources:
             - name: euvoc
@@ -23,11 +18,20 @@ regions:
               languages: [de]
               value: Region Blagoevgrad
             - name: euvoc
+              languages: [sk]
+              value: región Blagoevgrad
+            - name: euvoc
               languages: [nl]
               value: regio Blagoevgrad
             - name: euvoc
+              languages: [pt]
+              value: região de Blagoevgrad
+            - name: euvoc
               languages: [en]
               value: Blagoevgrad region
+            - name: euvoc
+              languages: [es]
+              value: región de Blagoevgrad
             - name: euvoc
               languages: [lt]
               value: Blagoevgrad regionas
@@ -78,14 +82,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Błagojewgrad
-        - name: n Blagoevgrad
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Blagoevgrad
-            - name: euvoc
-              languages: [es]
-              value: región de Blagoevgrad
         - name: rajoni Blagoevgradit
           sources:
             - name: euvoc
@@ -95,19 +91,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Blagoevgrad
+        - name: ta' Blagoevgrad
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Blagoevgrad
+              languages: [mt]
+              value: reġjun ta' Blagoevgrad
         - name: περιοχή Blagoevgrad
           sources:
             - name: euvoc
               languages: [el]
-        - name: Благоевградска област
+        - name: Благоевградска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Благоевградска област
     
 
     # Burgas
@@ -115,11 +112,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8329
         iso3166-2: BG-02
       names:
-        - name: ''' Burgas'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Burgas
         - name: Bourgas
           sources:
             - name: euvoc
@@ -128,8 +120,8 @@ regions:
         - name: Burgas
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Burgas
+              languages: [en]
+              value: Burgas region
             - name: euvoc
               languages: [sl]
               value: regija Burgas
@@ -137,14 +129,23 @@ regions:
               languages: [de, pl]
               value: Region Burgas
             - name: euvoc
+              languages: [sk]
+              value: región Burgas
+            - name: euvoc
               languages: [nl]
               value: regio Burgas
             - name: euvoc
-              languages: [en]
-              value: Burgas region
+              languages: [pt]
+              value: região de Burgas
+            - name: euvoc
+              languages: [es]
+              value: región de Burgas
             - name: euvoc
               languages: [lt]
               value: Burgas regionas
+            - name: euvoc
+              languages: [it]
+              value: regione Burgas
             - name: euvoc
               languages: [ga]
               value: réigiún Burgas
@@ -181,14 +182,6 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: n Burgas
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Burgas
-            - name: euvoc
-              languages: [es]
-              value: región de Burgas
         - name: rajoni Burgasit
           sources:
             - name: euvoc
@@ -198,19 +191,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Burgas
+        - name: ta' Burgas
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Burgas
+              languages: [mt]
+              value: reġjun ta' Burgas
         - name: περιοχή Μπουργάς
           sources:
             - name: euvoc
               languages: [el]
-        - name: Бургаска област
+        - name: Бургаска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Бургаска област
     
 
     # Dobrich
@@ -218,16 +212,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/8318
         iso3166-2: BG-08
       names:
-        - name: ''' Dobrich'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Dobrich
         - name: Dobrich
           sources:
             - name: euvoc
               languages: [de]
               value: Region Dobrich
+            - name: euvoc
+              languages: [pt]
+              value: região de Dobrich
             - name: euvoc
               languages: [en]
               value: Dobrich region
@@ -237,6 +229,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Dobrich
+            - name: euvoc
+              languages: [es]
+              value: región de Dobrich
             - name: euvoc
               languages: [lt]
               value: Dobrich regionas
@@ -285,22 +280,17 @@ regions:
               languages: [sl]
               value: regija Dobrič
             - name: euvoc
+              languages: [sk]
+              value: región Dobrič
+        - name: Dobrička
+          sources:
+            - name: euvoc
               languages: [hr]
               value: Dobrička regija
         - name: Dobričská oblast
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Dobrich
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Dobrich
-        - name: n Dobrič
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Dobrič
         - name: rajoni Dobriçit
           sources:
             - name: euvoc
@@ -310,19 +300,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Dobrich
+        - name: ta' Dobrich
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Dobrich
+              languages: [mt]
+              value: reġjun ta' Dobrich
         - name: περιοχή Dobrich
           sources:
             - name: euvoc
               languages: [el]
-        - name: Добричка област
+        - name: Добричка
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Добричка област
     
 
     # Gabrovo
@@ -330,11 +321,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8312
         iso3166-2: BG-07
       names:
-        - name: ''' Gabrovo'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Gabrovo
         - name: Gabrovo
           sources:
             - name: euvoc
@@ -347,6 +333,12 @@ regions:
               languages: [et]
               value: Gabrovo piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Gabrovo
+            - name: euvoc
+              languages: [pt]
+              value: região de Gabrovo
+            - name: euvoc
               languages: [en]
               value: Gabrovo region
             - name: euvoc
@@ -355,6 +347,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Gabrovo
+            - name: euvoc
+              languages: [es]
+              value: región de Gabrovo
             - name: euvoc
               languages: [lt]
               value: Gabrovo regionas
@@ -397,14 +392,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Gabrowo
-        - name: n Gabrovo
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Gabrovo
-            - name: euvoc
-              languages: [es]
-              value: región de Gabrovo
         - name: rajoni Gabrovës
           sources:
             - name: euvoc
@@ -414,19 +401,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Gabrovo
+        - name: ta' Gabrovo
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Gabrovo
+              languages: [mt]
+              value: reġjun ta' Gabrovo
         - name: περιοχή Gabrovo
           sources:
             - name: euvoc
               languages: [el]
-        - name: Габровска област
+        - name: Габровска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Габровска област
     
 
     # Haskovo
@@ -434,11 +422,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8305
         iso3166-2: BG-26
       names:
-        - name: ''' Haskovo'
+        - name: Chaskovo
           sources:
             - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Haskovo
+              languages: [sk]
+              value: región Chaskovo
         - name: Chaskovoregionen
           sources:
             - name: euvoc
@@ -468,6 +456,9 @@ regions:
               languages: [et]
               value: Haskovo piirkond
             - name: euvoc
+              languages: [pt]
+              value: região de Haskovo
+            - name: euvoc
               languages: [en]
               value: Haskovo region
             - name: euvoc
@@ -476,6 +467,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Haskovo
+            - name: euvoc
+              languages: [es]
+              value: región de Haskovo
             - name: euvoc
               languages: [lt]
               value: Haskovo regionas
@@ -505,16 +499,6 @@ regions:
             - name: euvoc
               languages: [hr]
               value: Haskovska regija
-        - name: n Chaskovo
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Chaskovo
-        - name: n Haskovo
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Haskovo
         - name: rajoni Haskovës
           sources:
             - name: euvoc
@@ -524,19 +508,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Haskovo
+        - name: ta' Haskovo
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Haskovo
+              languages: [mt]
+              value: reġjun ta' Haskovo
         - name: περιοχή Haskovo
           sources:
             - name: euvoc
               languages: [el]
-        - name: Хасковска област
+        - name: Хасковска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Хасковска област
     
 
     # Kardzhali
@@ -544,13 +529,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8306
         iso3166-2: BG-09
       names:
-        - name: ''' Kardzhali'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Kardzhali
         - name: Kardjali
           sources:
+            - name: euvoc
+              languages: [es]
+              value: región de Kardjali
             - name: euvoc
               languages: [fr]
               value: région de Kardjali
@@ -565,6 +548,9 @@ regions:
             - name: euvoc
               languages: [et]
               value: Kardzhali piirkond
+            - name: euvoc
+              languages: [pt]
+              value: região de Kardzhali
             - name: euvoc
               languages: [en]
               value: Kardzhali region
@@ -615,12 +601,7 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Kyrdżali
-        - name: n Kardjali
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Kardjali
-        - name: n Kărdžali
+        - name: Kărdžali
           sources:
             - name: euvoc
               languages: [sk]
@@ -634,27 +615,30 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Kardzhali
+        - name: ta' Kardzhali
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Kardzhali
+              languages: [mt]
+              value: reġjun ta' Kardzhali
         - name: περιοχή Kardzhali
           sources:
             - name: euvoc
               languages: [el]
-        - name: Карџалијска област
+        - name: Карџалијска
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Крџалиска Област
+              value: Карџалијска област
+        - name: Крџалиска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Кърджалийска област
+              value: Крџалиска Област
+        - name: Кърджалийска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Кърджалийска област
     
 
     # Kyustendil
@@ -662,11 +646,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8334
         iso3166-2: BG-10
       names:
-        - name: ''' Kyustendil'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Kyustendil
         - name: Kiustendil
           sources:
             - name: euvoc
@@ -677,6 +656,11 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Kiustendił
+        - name: Kjustendil
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Kjustendil
         - name: Kjustendilregionen
           sources:
             - name: euvoc
@@ -702,8 +686,14 @@ regions:
               languages: [nl]
               value: regio Kyustendil
             - name: euvoc
+              languages: [pt]
+              value: região de Kyustendil
+            - name: euvoc
               languages: [en]
               value: Kyustendil region
+            - name: euvoc
+              languages: [es]
+              value: región de Kyustendil
             - name: euvoc
               languages: [lt]
               value: Kyustendil regionas
@@ -737,16 +727,6 @@ regions:
           sources:
             - name: euvoc
               languages: [da]
-        - name: n Kjustendil
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Kjustendil
-        - name: n Kyustendil
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Kyustendil
         - name: rajoni Kjustendilit
           sources:
             - name: euvoc
@@ -756,27 +736,30 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Kyustendil
+        - name: ta' Kyustendil
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Kyustendil
+              languages: [mt]
+              value: reġjun ta' Kyustendil
         - name: περιοχή Kyustendil
           sources:
             - name: euvoc
               languages: [el]
-        - name: Ћустендилска област
+        - name: Ћустендилска
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Ќустендилска Област
+              value: Ћустендилска област
+        - name: Ќустендилска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Кюстендилска област
+              value: Ќустендилска Област
+        - name: Кюстендилска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Кюстендилска област
     
 
     # Lovech
@@ -784,16 +767,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/8313
         iso3166-2: BG-11
       names:
-        - name: ''' Lovech'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Lovech
         - name: Lovech
           sources:
             - name: euvoc
               languages: [de]
               value: Region Lovech
+            - name: euvoc
+              languages: [pt]
+              value: região de Lovech
             - name: euvoc
               languages: [en]
               value: Lovech region
@@ -803,6 +784,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Lovech
+            - name: euvoc
+              languages: [es]
+              value: región de Lovech
             - name: euvoc
               languages: [lt]
               value: Lovech regionas
@@ -841,6 +825,9 @@ regions:
             - name: euvoc
               languages: [sl]
               value: regija Loveč
+            - name: euvoc
+              languages: [sk]
+              value: región Loveč
         - name: Lovečas apgabals
           sources:
             - name: euvoc
@@ -849,21 +836,11 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: Loveš
+        - name: Loveška
           sources:
             - name: euvoc
               languages: [hr]
               value: Loveška regija
-        - name: n Lovech
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Lovech
-        - name: n Loveč
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Loveč
         - name: rajoni Lovekut
           sources:
             - name: euvoc
@@ -873,11 +850,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Lovech
+        - name: ta' Lovech
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Lovech
+              languages: [mt]
+              value: reġjun ta' Lovech
         - name: Łowecz
           sources:
             - name: euvoc
@@ -887,14 +864,16 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Ловечка Област
+        - name: Ловечка
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Ловешка област
+              value: Ловечка Област
+        - name: Ловешка
           sources:
             - name: euvoc
               languages: [bg, sr]
+              value: Ловешка област
     
 
     # Montana
@@ -902,16 +881,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8325
         iso3166-2: BG-12
       names:
-        - name: ''' Montana'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Montana
         - name: Montana
           sources:
             - name: euvoc
-              languages: [lt]
-              value: Montana regionas
+              languages: [ga]
+              value: réigiún Montana
             - name: euvoc
               languages: [hr, sl]
               value: regija Montana
@@ -922,20 +896,29 @@ regions:
               languages: [et]
               value: Montana piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Montana
+            - name: euvoc
+              languages: [pt]
+              value: região de Montana
+            - name: euvoc
               languages: [en]
               value: Montana region
             - name: euvoc
               languages: [nl]
               value: regio Montana
             - name: euvoc
+              languages: [es]
+              value: región de Montana
+            - name: euvoc
+              languages: [lt]
+              value: Montana regionas
+            - name: euvoc
               languages: [it]
               value: regione Montana (Bulgaria)
             - name: euvoc
               languages: [fr]
               value: région de Montana
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Montana
             - name: iso3166-2
               languages: [bg]
         - name: Montana apgabals
@@ -959,14 +942,6 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Montana
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Montana
-            - name: euvoc
-              languages: [es]
-              value: región de Montana
         - name: rajoni Montanës
           sources:
             - name: euvoc
@@ -976,23 +951,25 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Montana
+        - name: ta' Montana
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Montana
+              languages: [mt]
+              value: reġjun ta' Montana
         - name: περιοχή Montana
           sources:
             - name: euvoc
               languages: [el]
-        - name: Монтанска Област
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Област Монтана
+        - name: Монтана
           sources:
             - name: euvoc
               languages: [bg, sr]
+              value: Област Монтана
+        - name: Монтанска
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Монтанска Област
     
 
     # Pazardzhik
@@ -1000,17 +977,15 @@ regions:
         euvoc: http://eurovoc.europa.eu/8307
         iso3166-2: BG-13
       names:
-        - name: ''' Pazardzhik'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Pazardzhik
         - name: Pazardjik
           sources:
             - name: euvoc
               languages: [en]
               value: Pazardjik region
               type: alternative
+            - name: euvoc
+              languages: [es]
+              value: región de Pazardjik
             - name: euvoc
               languages: [fr]
               value: région de Pazardjik
@@ -1019,6 +994,9 @@ regions:
             - name: euvoc
               languages: [de]
               value: Region Pazardzhik
+            - name: euvoc
+              languages: [pt]
+              value: região de Pazardzhik
             - name: euvoc
               languages: [en]
               value: Pazardzhik region
@@ -1061,11 +1039,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Pazardżik
-        - name: Pazardž š
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Pazardžiška regija
         - name: Pazardžická oblast
           sources:
             - name: euvoc
@@ -1075,20 +1048,18 @@ regions:
             - name: euvoc
               languages: [sl]
               value: regija Pazardžik
+            - name: euvoc
+              languages: [sk]
+              value: región Pazardžik
         - name: Pazardžikas apgabals
           sources:
             - name: euvoc
               languages: [lv]
-        - name: n Pazardjik
+        - name: Pazardžiška
           sources:
             - name: euvoc
-              languages: [es]
-              value: región de Pazardjik
-        - name: n Pazardžik
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Pazardžik
+              languages: [hr]
+              value: Pazardžiška regija
         - name: rajoni Pazarxhikut
           sources:
             - name: euvoc
@@ -1098,27 +1069,30 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Pazardzhik
+        - name: ta' Pazardzhik
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Pazardzhik
+              languages: [mt]
+              value: reġjun ta' Pazardzhik
         - name: περιοχή Pazardzhik
           sources:
             - name: euvoc
               languages: [el]
-        - name: Пазарджишка област
+        - name: Пазарджишка
           sources:
             - name: euvoc
               languages: [bg]
-        - name: Пазарџичка Област
+              value: Пазарджишка област
+        - name: Пазарџичка
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Пазарџишка област
+              value: Пазарџичка Област
+        - name: Пазарџишка
           sources:
             - name: euvoc
               languages: [sr]
+              value: Пазарџишка област
     
 
     # Pernik
@@ -1126,16 +1100,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8335
         iso3166-2: BG-14
       names:
-        - name: ''' Pernik'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Pernik
         - name: Pernik
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Pernik
+              languages: [en]
+              value: Pernik region
             - name: euvoc
               languages: [sl]
               value: regija Pernik
@@ -1143,14 +1112,23 @@ regions:
               languages: [de, pl]
               value: Region Pernik
             - name: euvoc
+              languages: [sk]
+              value: región Pernik
+            - name: euvoc
               languages: [nl]
               value: regio Pernik
             - name: euvoc
-              languages: [en]
-              value: Pernik region
+              languages: [pt]
+              value: região de Pernik
+            - name: euvoc
+              languages: [es]
+              value: región de Pernik
             - name: euvoc
               languages: [lt]
               value: Pernik regionas
+            - name: euvoc
+              languages: [it]
+              value: regione Pernik
             - name: euvoc
               languages: [fr]
               value: région de Pernik
@@ -1181,7 +1159,7 @@ regions:
           sources:
             - name: euvoc
               languages: [da, sv]
-        - name: Perniš
+        - name: Perniška
           sources:
             - name: euvoc
               languages: [hr]
@@ -1190,14 +1168,6 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Pernik
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Pernik
-            - name: euvoc
-              languages: [es]
-              value: región de Pernik
         - name: rajoni Pernikut
           sources:
             - name: euvoc
@@ -1207,23 +1177,25 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Pernik
+        - name: ta' Pernik
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Pernik
+              languages: [mt]
+              value: reġjun ta' Pernik
         - name: περιοχή Pernik
           sources:
             - name: euvoc
               languages: [el]
-        - name: Перничка Област
+        - name: Перничка
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Пернишка област
+              value: Перничка Област
+        - name: Пернишка
           sources:
             - name: euvoc
               languages: [bg, sr]
+              value: Пернишка област
     
 
     # Pleven
@@ -1231,11 +1203,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8314
         iso3166-2: BG-15
       names:
-        - name: ''' Pleven'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Pleven
         - name: Pleven
           sources:
             - name: euvoc
@@ -1245,6 +1212,12 @@ regions:
               languages: [de]
               value: Region Pleven
             - name: euvoc
+              languages: [sk]
+              value: región Pleven
+            - name: euvoc
+              languages: [pt]
+              value: região de Pleven
+            - name: euvoc
               languages: [en]
               value: Pleven region
             - name: euvoc
@@ -1253,6 +1226,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Pleven
+            - name: euvoc
+              languages: [es]
+              value: región de Pleven
             - name: euvoc
               languages: [lt]
               value: Pleven regionas
@@ -1304,31 +1280,24 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: n Pleven
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Pleven
-            - name: euvoc
-              languages: [es]
-              value: región de Pleven
         - name: regiunea Plevna
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Pleven
+        - name: ta' Pleven
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Pleven
+              languages: [mt]
+              value: reġjun ta' Pleven
         - name: περιοχή Pleven
           sources:
             - name: euvoc
               languages: [el]
-        - name: Плевенска област
+        - name: Плевенска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Плевенска област
     
 
     # Plovdiv
@@ -1336,11 +1305,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8308
         iso3166-2: BG-16
       names:
-        - name: ''' Plovdiv'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Plovdiv
         - name: Plodviv
           sources:
             - name: euvoc
@@ -1355,6 +1319,12 @@ regions:
               languages: [de]
               value: Region Plovdiv
             - name: euvoc
+              languages: [sk]
+              value: región Plovdiv
+            - name: euvoc
+              languages: [pt]
+              value: região de Plovdiv
+            - name: euvoc
               languages: [en]
               value: Plovdiv region
             - name: euvoc
@@ -1363,6 +1333,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Plovdiv
+            - name: euvoc
+              languages: [es]
+              value: región de Plovdiv
             - name: euvoc
               languages: [fr]
               value: région de Plovdiv
@@ -1411,31 +1384,24 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: n Plovdiv
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Plovdiv
-            - name: euvoc
-              languages: [es]
-              value: región de Plovdiv
         - name: regiunea Plovdiv
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Plovdiv
+        - name: ta' Plovdiv
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Plovdiv
+              languages: [mt]
+              value: reġjun ta' Plovdiv
         - name: περιοχή Plovdiv
           sources:
             - name: euvoc
               languages: [el]
-        - name: Пловдивска област
+        - name: Пловдивска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Пловдивска област
     
 
     # Razgrad
@@ -1443,16 +1409,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8319
         iso3166-2: BG-17
       names:
-        - name: ''' Razgrad'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Razgrad
         - name: Razgrad
           sources:
             - name: euvoc
-              languages: [lt]
-              value: Razgrad regionas
+              languages: [nl]
+              value: regio Razgrad
             - name: euvoc
               languages: [sl]
               value: regija Razgrad
@@ -1460,14 +1421,23 @@ regions:
               languages: [de, pl]
               value: Region Razgrad
             - name: euvoc
+              languages: [sk]
+              value: región Razgrad
+            - name: euvoc
+              languages: [pt]
+              value: região de Razgrad
+            - name: euvoc
               languages: [en]
               value: Razgrad region
             - name: euvoc
-              languages: [nl]
-              value: regio Razgrad
-            - name: euvoc
               languages: [it]
               value: regione Razgrad
+            - name: euvoc
+              languages: [es]
+              value: región de Razgrad
+            - name: euvoc
+              languages: [lt]
+              value: Razgrad regionas
             - name: euvoc
               languages: [fr]
               value: région de Razgrad
@@ -1507,14 +1477,6 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Razgrad
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Razgrad
-            - name: euvoc
-              languages: [es]
-              value: región de Razgrad
         - name: rajoni Razgradit
           sources:
             - name: euvoc
@@ -1524,19 +1486,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Razgrad
+        - name: ta' Razgrad
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Razgrad
+              languages: [mt]
+              value: reġjun ta' Razgrad
         - name: περιοχή Razgrad
           sources:
             - name: euvoc
               languages: [el]
-        - name: Разградска област
+        - name: Разградска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Разградска област
     
 
     # Ruse
@@ -1544,11 +1507,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8315
         iso3166-2: BG-18
       names:
-        - name: ''' Ruse'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Ruse
         - name: Ruse
           sources:
             - name: euvoc
@@ -1561,6 +1519,12 @@ regions:
               languages: [et]
               value: Ruse piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Ruse
+            - name: euvoc
+              languages: [pt]
+              value: região de Ruse
+            - name: euvoc
               languages: [en]
               value: Ruse region
             - name: euvoc
@@ -1569,6 +1533,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Ruse
+            - name: euvoc
+              languages: [es]
+              value: región de Ruse
             - name: euvoc
               languages: [lt]
               value: Ruse regionas
@@ -1606,14 +1573,6 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Ruse
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Ruse
-            - name: euvoc
-              languages: [es]
-              value: región de Ruse
         - name: rajoni Rusesë
           sources:
             - name: euvoc
@@ -1623,19 +1582,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Ruse
+        - name: ta' Ruse
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Ruse
+              languages: [mt]
+              value: reġjun ta' Ruse
         - name: περιοχή Ruse
           sources:
             - name: euvoc
               languages: [el]
-        - name: Русенска област
+        - name: Русенска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Русенска област
     
 
     # Severen tsentralen
@@ -1751,11 +1711,10 @@ regions:
             - name: euvoc
               languages: [sq]
               value: Severoiztoçeni (Bullgari)
-        - name: Severoiztoč
+        - name: Severoiztočen
           sources:
             - name: euvoc
               languages: [hr]
-              value: Severoiztočen
         - name: Североизточен
           sources:
             - name: euvoc
@@ -1821,16 +1780,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8320
         iso3166-2: BG-27
       names:
-        - name: ''' Shumen'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Shumen
         - name: Shumen
           sources:
             - name: euvoc
-              languages: [lt]
-              value: Shumen regionas
+              languages: [it]
+              value: regione Shumen
             - name: euvoc
               languages: [sl]
               value: regija Shumen
@@ -1838,14 +1792,20 @@ regions:
               languages: [de]
               value: Region Shumen
             - name: euvoc
+              languages: [pt]
+              value: região de Shumen
+            - name: euvoc
               languages: [en]
               value: Shumen region
             - name: euvoc
               languages: [nl]
               value: regio Shumen
             - name: euvoc
-              languages: [it]
-              value: regione Shumen
+              languages: [es]
+              value: región de Shumen
+            - name: euvoc
+              languages: [lt]
+              value: Shumen regionas
             - name: euvoc
               languages: [fr]
               value: région de Shumen
@@ -1877,16 +1837,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Szumen
-        - name: n Shumen
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Shumen
-        - name: n Šumen
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Šumen
         - name: rajoni Shumenit
           sources:
             - name: euvoc
@@ -1896,11 +1846,16 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Shumen
+        - name: ta' Shumen
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Shumen
+              languages: [mt]
+              value: reġjun ta' Shumen
+        - name: Šumen
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Šumen
         - name: Šumenas apgabals
           sources:
             - name: euvoc
@@ -1918,10 +1873,11 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Шуменска област
+        - name: Шуменска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Шуменска област
     
 
     # Silistra
@@ -1929,11 +1885,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8321
         iso3166-2: BG-19
       names:
-        - name: ''' Silistra'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Silistra
         - name: Silisterská oblast
           sources:
             - name: euvoc
@@ -1941,8 +1892,8 @@ regions:
         - name: Silistra
           sources:
             - name: euvoc
-              languages: [lt]
-              value: Silistra regionas
+              languages: [ga]
+              value: réigiún Silistra
             - name: euvoc
               languages: [sl]
               value: regija Silistra
@@ -1953,20 +1904,29 @@ regions:
               languages: [et]
               value: Silistra piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Silistra
+            - name: euvoc
+              languages: [pt]
+              value: região de Silistra
+            - name: euvoc
               languages: [en]
               value: Silistra region
             - name: euvoc
               languages: [nl]
               value: regio Silistra
             - name: euvoc
+              languages: [es]
+              value: región de Silistra
+            - name: euvoc
+              languages: [lt]
+              value: Silistra regionas
+            - name: euvoc
               languages: [it]
               value: regione Silistra
             - name: euvoc
               languages: [fr]
               value: région de Silistra
-            - name: euvoc
-              languages: [ga]
-              value: réigiún Silistra
             - name: iso3166-2
               languages: [bg]
         - name: Silistra régió
@@ -1991,14 +1951,6 @@ regions:
             - name: euvoc
               languages: [hr]
               value: Silistrenska regija
-        - name: n Silistra
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Silistra
-            - name: euvoc
-              languages: [es]
-              value: región de Silistra
         - name: rajoni Silistrës
           sources:
             - name: euvoc
@@ -2008,23 +1960,25 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Silistra
+        - name: ta' Silistra
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Silistra
+              languages: [mt]
+              value: reġjun ta' Silistra
         - name: περιοχή Silistra
           sources:
             - name: euvoc
               languages: [el]
-        - name: Силистранска област
+        - name: Силистранска
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Силистренска област
+              value: Силистранска област
+        - name: Силистренска
           sources:
             - name: euvoc
               languages: [bg, mk]
+              value: Силистренска област
     
 
     # Sliven
@@ -2032,16 +1986,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8330
         iso3166-2: BG-20
       names:
-        - name: ''' Sliven'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Sliven
         - name: Sliven
           sources:
             - name: euvoc
-              languages: [fr]
-              value: région de Sliven
+              languages: [en]
+              value: Sliven region
             - name: euvoc
               languages: [sl]
               value: regija Sliven
@@ -2049,14 +1998,23 @@ regions:
               languages: [de]
               value: Region Sliven
             - name: euvoc
+              languages: [sk]
+              value: región Sliven
+            - name: euvoc
               languages: [nl]
               value: regio Sliven
             - name: euvoc
-              languages: [en]
-              value: Sliven region
+              languages: [pt]
+              value: região de Sliven
+            - name: euvoc
+              languages: [es]
+              value: región de Sliven
             - name: euvoc
               languages: [it]
               value: regione Sliven
+            - name: euvoc
+              languages: [fr]
+              value: région de Sliven
             - name: euvoc
               languages: [ga]
               value: réigiún Sliven
@@ -2103,14 +2061,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Sliwen
-        - name: n Sliven
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Sliven
-            - name: euvoc
-              languages: [es]
-              value: región de Sliven
         - name: rajoni Slivenit
           sources:
             - name: euvoc
@@ -2120,19 +2070,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Sliven
+        - name: ta' Sliven
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Sliven
+              languages: [mt]
+              value: reġjun ta' Sliven
         - name: περιοχή Sliven
           sources:
             - name: euvoc
               languages: [el]
-        - name: Сливенска област
+        - name: Сливенска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Сливенска област
     
 
     # Smolyan
@@ -2140,11 +2091,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8309
         iso3166-2: BG-21
       names:
-        - name: ''' Smolyan'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Smolyan
         - name: Smolian
           sources:
             - name: euvoc
@@ -2153,6 +2099,11 @@ regions:
             - name: euvoc
               languages: [fr]
               value: région de Smolian
+        - name: Smoljan
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Smoljan
         - name: Smoljanregionen
           sources:
             - name: euvoc
@@ -2175,6 +2126,9 @@ regions:
               languages: [de]
               value: Region Smolyan
             - name: euvoc
+              languages: [pt]
+              value: região de Smolyan
+            - name: euvoc
               languages: [en]
               value: Smolyan region
             - name: euvoc
@@ -2183,6 +2137,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Smolyan
+            - name: euvoc
+              languages: [es]
+              value: región de Smolyan
             - name: euvoc
               languages: [lt]
               value: Smolyan regionas
@@ -2213,16 +2170,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: n Smoljan
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Smoljan
-        - name: n Smolyan
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Smolyan
         - name: rajoni Smoljanit
           sources:
             - name: euvoc
@@ -2232,27 +2179,30 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Smolyan
+        - name: ta' Smolyan
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Smolyan
+              languages: [mt]
+              value: reġjun ta' Smolyan
         - name: περιοχή Smolyan
           sources:
             - name: euvoc
               languages: [el]
-        - name: Смолянска област
+        - name: Смолянска
           sources:
             - name: euvoc
               languages: [bg]
-        - name: Смолјанска Област
+              value: Смолянска област
+        - name: Смолјанска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Смољанска област
+              value: Смолјанска Област
+        - name: Смољанска
           sources:
             - name: euvoc
               languages: [sr]
+              value: Смољанска област
     
 
     # Sofia
@@ -2273,9 +2223,6 @@ regions:
         - name: Sofia
           sources:
             - name: euvoc
-              languages: [nl]
-              value: regio Sofia stad
-            - name: euvoc
               languages: [pl]
               value: region miasto Sofia
             - name: euvoc
@@ -2289,8 +2236,8 @@ regions:
               languages: [en]
               value: Sofia City region
             - name: euvoc
-              languages: [fr]
-              value: région de la Ville de Sofia
+              languages: [nl]
+              value: regio Sofia stad
             - name: iso3166-2
               languages: [bg]
               value: Sofia (stolitsa)
@@ -2334,17 +2281,27 @@ regions:
             - name: euvoc
               languages: [hu]
               value: Szófia város régiója
-        - name: della città Sofia
+        - name: Sófia
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione della città di Sofia
-        - name: n Sofí
+              languages: [pt]
+              value: região da cidade de Sófia
+        - name: Ville Sofia
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: région de la Ville de Sofia
+        - name: ciudad Sofía
           sources:
             - name: euvoc
               languages: [es]
               value: región de la ciudad de Sofía
-        - name: n mesta Sofie
+        - name: della Sofia
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: regione della città di Sofia
+        - name: mesta Sofie
           sources:
             - name: euvoc
               languages: [sk]
@@ -2354,7 +2311,7 @@ regions:
             - name: euvoc
               languages: [cs]
               value: oblast Sofija město
-        - name: rajoni qytetit të Sofies
+        - name: rajoni qytetit Sofies
           sources:
             - name: euvoc
               languages: [sq]
@@ -2363,12 +2320,7 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Sófia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região da cidade de Sófia
-        - name: tal ' Sofia
+        - name: tal-Belt ta' Sofia
           sources:
             - name: euvoc
               languages: [mt]
@@ -2377,18 +2329,21 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Област Град Софија
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: София-град област
+        - name: София-град
           sources:
             - name: euvoc
               languages: [bg]
-        - name: област Софија-град
+              value: София-град област
+        - name: Софија
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Област Град Софија
+        - name: Софија-град
           sources:
             - name: euvoc
               languages: [sr]
+              value: област Софија-град
     
 
     # Sofia District
@@ -2468,12 +2423,17 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione del distretto di Sofia
-        - name: n del distrito Sofí
+        - name: del distrito Sofía
           sources:
             - name: euvoc
               languages: [es]
               value: región del distrito de Sofía
-        - name: n okresu Sofie
+        - name: do Distrito Sófia
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região do Distrito de Sófia
+        - name: okresu Sofie
           sources:
             - name: euvoc
               languages: [sk]
@@ -2483,7 +2443,7 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region okręg Sofia
-        - name: rajoni qarkut të Sofies
+        - name: rajoni qarkut Sofies
           sources:
             - name: euvoc
               languages: [sq]
@@ -2492,12 +2452,7 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Distrito Sófia
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região do Distrito de Sófia
-        - name: tad-Distrett ' Sofia
+        - name: tad-Distrett ta' Sofia
           sources:
             - name: euvoc
               languages: [mt]
@@ -2506,18 +2461,21 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Софийска област
+        - name: Софийска
           sources:
             - name: euvoc
               languages: [bg]
-        - name: Софиска Област
+              value: Софийска област
+        - name: Софиска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Софијска област
+              value: Софиска Област
+        - name: Софијска
           sources:
             - name: euvoc
               languages: [sr]
+              value: Софијска област
     
 
     # Stara Zagora
@@ -2525,11 +2483,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8310
         iso3166-2: BG-24
       names:
-        - name: ''' Stara Zagora'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Stara Zagora
         - name: Stara Zagora
           sources:
             - name: euvoc
@@ -2542,6 +2495,12 @@ regions:
               languages: [et]
               value: Stara Zagora piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Stara Zagora
+            - name: euvoc
+              languages: [pt]
+              value: região de Stara Zagora
+            - name: euvoc
               languages: [en]
               value: Stara Zagora region
             - name: euvoc
@@ -2550,6 +2509,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Stara Zagora
+            - name: euvoc
+              languages: [es]
+              value: región de Stara Zagora
             - name: euvoc
               languages: [lt]
               value: Stara Zagora regionas
@@ -2591,14 +2553,6 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Stara Zagora
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Stara Zagora
-            - name: euvoc
-              languages: [es]
-              value: región de Stara Zagora
         - name: rajoni Stara Zagorës
           sources:
             - name: euvoc
@@ -2608,19 +2562,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Stara Zagora
+        - name: ta' Stara Zagora
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Stara Zagora
+              languages: [mt]
+              value: reġjun ta' Stara Zagora
         - name: περιοχή Stara Zagora
           sources:
             - name: euvoc
               languages: [el]
-        - name: Старозагорска област
+        - name: Старозагорска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Старозагорска област
     
 
     # Targovishte
@@ -2628,22 +2583,20 @@ regions:
         euvoc: http://eurovoc.europa.eu/8322
         iso3166-2: BG-25
       names:
-        - name: ''' Targovishte'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Targovishte
         - name: Targovishte
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Targovishte
+              languages: [es]
+              value: región de Targovishte
             - name: euvoc
               languages: [sl]
               value: regija Targovishte
             - name: euvoc
               languages: [de]
               value: Region Targovishte
+            - name: euvoc
+              languages: [pt]
+              value: região de Targovishte
             - name: euvoc
               languages: [en]
               value: Targovishte region
@@ -2653,6 +2606,9 @@ regions:
             - name: euvoc
               languages: [lt]
               value: Targovishte regionas
+            - name: euvoc
+              languages: [it]
+              value: regione Targovishte
             - name: euvoc
               languages: [fr]
               value: région de Targovishte
@@ -2682,7 +2638,12 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: Trgoviš
+        - name: Targovište
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: región Targovište
+        - name: Trgoviška
           sources:
             - name: euvoc
               languages: [hr]
@@ -2692,7 +2653,7 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Tyrgowiszte
-        - name: Târgoviş
+        - name: Târgovişte
           sources:
             - name: euvoc
               languages: [et]
@@ -2701,43 +2662,34 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: n Targovishte
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Targovishte
-        - name: n Targoviš
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Targovište
         - name: rajoni Targovishtës
           sources:
             - name: euvoc
               languages: [sq]
               value: rajoni i Targovishtës
-        - name: regiunea Târgoviș
+        - name: regiunea Târgoviște
           sources:
             - name: euvoc
               languages: [ro]
-              value: regiunea Târgoviște
-        - name: regiã Targovishte
+        - name: ta' Targovishte
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Targovishte
+              languages: [mt]
+              value: reġjun ta' Targovishte
         - name: περιοχή Targovishte
           sources:
             - name: euvoc
               languages: [el]
-        - name: Трговишка област
+        - name: Трговишка
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: Търговищка област
+              value: Трговишка област
+        - name: Търговищка
           sources:
             - name: euvoc
               languages: [bg]
+              value: Търговищка област
     
 
     # Varna
@@ -2745,11 +2697,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8323
         iso3166-2: BG-03
       names:
-        - name: ''' Varna'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Varna
         - name: Varna
           sources:
             - name: euvoc
@@ -2762,11 +2709,20 @@ regions:
               languages: [et]
               value: Varna piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Varna
+            - name: euvoc
+              languages: [pt]
+              value: região de Varna
+            - name: euvoc
               languages: [en]
               value: Varna region
             - name: euvoc
               languages: [nl]
               value: regio Varna
+            - name: euvoc
+              languages: [es]
+              value: región de Varna
             - name: euvoc
               languages: [it]
               value: regione Varna
@@ -2813,14 +2769,6 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: n Varna
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Varna
-            - name: euvoc
-              languages: [es]
-              value: región de Varna
         - name: rajoni Varnës
           sources:
             - name: euvoc
@@ -2830,19 +2778,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Varna
+        - name: ta' Varna
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Varna
+              languages: [mt]
+              value: reġjun ta' Varna
         - name: περιοχή Βάρνας
           sources:
             - name: euvoc
               languages: [el]
-        - name: Варненска област
+        - name: Варненска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Варненска област
     
 
     # Veliko Tarnovo
@@ -2850,11 +2799,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/8316
         iso3166-2: BG-04
       names:
-        - name: ''' Veliko Tarnovo'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Veliko Tarnovo
         - name: Veliko Tarnovo
           sources:
             - name: euvoc
@@ -2867,6 +2811,12 @@ regions:
               languages: [et]
               value: Veliko Tarnovo piirkond
             - name: euvoc
+              languages: [sk]
+              value: región Veliko Tarnovo
+            - name: euvoc
+              languages: [pt]
+              value: região de Veliko Tarnovo
+            - name: euvoc
               languages: [en]
               value: Veliko Tarnovo region
             - name: euvoc
@@ -2875,6 +2825,9 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione Veliko Tarnovo
+            - name: euvoc
+              languages: [es]
+              value: región de Veliko Tarnovo
             - name: euvoc
               languages: [lt]
               value: Veliko Tarnovo regionas
@@ -2921,14 +2874,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Wielkie Tyrnowo
-        - name: n Veliko Tarnovo
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Veliko Tarnovo
-            - name: euvoc
-              languages: [es]
-              value: región de Veliko Tarnovo
         - name: rajoni Veliko Tarnovos
           sources:
             - name: euvoc
@@ -2938,23 +2883,25 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Veliko Tarnovo
+        - name: ta' Veliko Tarnovo
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Veliko Tarnovo
+              languages: [mt]
+              value: reġjun ta' Veliko Tarnovo
         - name: περιοχή Veliko Tarnovo
           sources:
             - name: euvoc
               languages: [el]
-        - name: Великотърновска област
+        - name: Великотърновска
           sources:
             - name: euvoc
               languages: [bg]
-        - name: великотрновска област
+              value: Великотърновска област
+        - name: великотрновска
           sources:
             - name: euvoc
               languages: [mk, sr]
+              value: великотрновска област
     
 
     # Vidin
@@ -2962,16 +2909,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8326
         iso3166-2: BG-05
       names:
-        - name: ''' Vidin'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Vidin
         - name: Vidin
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Vidin
+              languages: [nl]
+              value: regio Vidin
             - name: euvoc
               languages: [sl]
               value: regija Vidin
@@ -2979,14 +2921,23 @@ regions:
               languages: [de]
               value: Region Vidin
             - name: euvoc
+              languages: [sk]
+              value: región Vidin
+            - name: euvoc
+              languages: [pt]
+              value: região de Vidin
+            - name: euvoc
               languages: [en]
               value: Vidin region
             - name: euvoc
-              languages: [nl]
-              value: regio Vidin
+              languages: [es]
+              value: región de Vidin
             - name: euvoc
               languages: [lt]
               value: Vidin regionas
+            - name: euvoc
+              languages: [it]
+              value: regione Vidin
             - name: euvoc
               languages: [fr]
               value: région de Vidin
@@ -3031,14 +2982,6 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Widin
-        - name: n Vidin
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Vidin
-            - name: euvoc
-              languages: [es]
-              value: región de Vidin
         - name: rajoni Vidinit
           sources:
             - name: euvoc
@@ -3048,19 +2991,20 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Vidin
+        - name: ta' Vidin
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Vidin
+              languages: [mt]
+              value: reġjun ta' Vidin
         - name: περιοχή Vidin
           sources:
             - name: euvoc
               languages: [el]
-        - name: Видинска област
+        - name: Видинска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Видинска област
     
 
     # Vratza
@@ -3068,11 +3012,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8327
         iso3166-2: BG-06
       names:
-        - name: ''' Vratsa'
+        - name: Vraca
           sources:
             - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Vratsa
+              languages: [sk]
+              value: región Vraca
         - name: Vracká oblast
           sources:
             - name: euvoc
@@ -3080,7 +3024,7 @@ regions:
         - name: Vratsa
           sources:
             - name: euvoc
-              languages: [de, en, et, fr, ga]
+              languages: [de, en, es, et, fr, ga, pt]
               type: alternative
             - name: iso3166-2
               languages: [bg]
@@ -3115,7 +3059,7 @@ regions:
           sources:
             - name: euvoc
               languages: [da, sv]
-        - name: Vrač
+        - name: Vrača
           sources:
             - name: euvoc
               languages: [sl]
@@ -3130,39 +3074,29 @@ regions:
             - name: euvoc
               languages: [pl]
               value: region Wraca
-        - name: n Vraca
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Vraca
-        - name: n Vratsa
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Vratsa
         - name: rajoni Vracas
           sources:
             - name: euvoc
               languages: [sq]
               value: rajoni i Vracas
-        - name: regiunea Vraț
+        - name: regiunea Vrața
           sources:
             - name: euvoc
               languages: [ro]
-              value: regiunea Vrața
-        - name: regiã Vratsa
+        - name: ta' Vratsa
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Vratsa
+              languages: [mt]
+              value: reġjun ta' Vratsa
         - name: περιοχή Vratza
           sources:
             - name: euvoc
               languages: [el]
-        - name: Врачанска област
+        - name: Врачанска
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
+              value: Врачанска област
     
 
     # Yambol
@@ -3170,11 +3104,11 @@ regions:
         euvoc: http://eurovoc.europa.eu/8331
         iso3166-2: BG-28
       names:
-        - name: ''' Yambol'
+        - name: Jambol
           sources:
             - name: euvoc
-              languages: [mt]
-              value: reġjun ta' Yambol
+              languages: [sk]
+              value: región Jambol
         - name: Jambolas apgabals
           sources:
             - name: euvoc
@@ -3200,8 +3134,8 @@ regions:
         - name: Yambol
           sources:
             - name: euvoc
-              languages: [it]
-              value: regione Yambol
+              languages: [es]
+              value: región de Yambol
             - name: euvoc
               languages: [sl]
               value: regija Yambol
@@ -3212,11 +3146,17 @@ regions:
               languages: [nl]
               value: regio Yambol
             - name: euvoc
+              languages: [pt]
+              value: região de Yambol
+            - name: euvoc
               languages: [en]
               value: Yambol region
             - name: euvoc
               languages: [lt]
               value: Yambol regionas
+            - name: euvoc
+              languages: [it]
+              value: regione Yambol
             - name: euvoc
               languages: [fr]
               value: région de Yambol
@@ -3243,16 +3183,6 @@ regions:
           sources:
             - name: euvoc
               languages: [da]
-        - name: n Jambol
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: región Jambol
-        - name: n Yambol
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: región de Yambol
         - name: rajoni Jambolit
           sources:
             - name: euvoc
@@ -3262,23 +3192,25 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: regiã Yambol
+        - name: ta' Yambol
           sources:
             - name: euvoc
-              languages: [pt]
-              value: região de Yambol
+              languages: [mt]
+              value: reġjun ta' Yambol
         - name: περιοχή Yambol
           sources:
             - name: euvoc
               languages: [el]
-        - name: Јамболска област
+        - name: Јамболска
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: Ямболска област
+              value: Јамболска област
+        - name: Ямболска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Ямболска област
     
 
     # Yugoiztochen
@@ -3289,11 +3221,10 @@ regions:
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Jugoistoč
+        - name: Jugoistočen
           sources:
             - name: euvoc
               languages: [hr]
-              value: Jugoistočen
         - name: Jugoiztoçeni
           sources:
             - name: euvoc
@@ -3431,11 +3362,10 @@ regions:
             - name: euvoc
               languages: [sq]
               value: Juzheni qendror (Bullgari)
-        - name: Juž centralen
+        - name: Južen centralen
           sources:
             - name: euvoc
               languages: [hr]
-              value: Južen centralen
         - name: Yuzhen tsentralen
           sources:
             - name: euvoc

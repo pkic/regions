@@ -3,15 +3,14 @@ complete: false
 regions:
     
 
-    # Banteay Mean Choă
+    # Banteay Mean Choăy
     - codes:
         iso3166-2: KH-1
       names:
-        - name: Banteay Mean Choă
+        - name: Banteay Mean Choăy
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Banteay Mean Choăy
         - name: Banteay Meanchey
           sources:
             - name: iso3166-2
@@ -34,11 +33,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Bătdâmbâ
+        - name: Bătdâmbâng
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Bătdâmbâng
     
 
     # Kampong Chaam
@@ -53,11 +51,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Kâmpó Cham
+        - name: Kâmpóng Cham
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Kâmpóng Cham
     
 
     # Kampong Chhnang
@@ -68,11 +65,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Kâmpó Chhnă
+        - name: Kâmpóng Chhnăng
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Kâmpóng Chhnăng
     
 
     # Kampong Thom
@@ -87,11 +83,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Kâmpó Thum
+        - name: Kâmpóng Thum
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Kâmpóng Thum
     
 
     # Kampot
@@ -121,6 +116,24 @@ regions:
             - name: iso3166-2
               languages: [km]
         - name: Kândal
+          sources:
+            - name: iso3166-2
+              languages: [km]
+    
+
+    # Kaoh Kong
+    - codes:
+        iso3166-2: KH-9
+      names:
+        - name: Kaoh Kong
+          sources:
+            - name: iso3166-2
+              languages: [km]
+        - name: Kaôh Kŏng
+          sources:
+            - name: iso3166-2
+              languages: [km]
+        - name: Koh Kong
           sources:
             - name: iso3166-2
               languages: [km]
@@ -156,11 +169,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Kâmpó Spœ
+        - name: Kâmpóng Spœ
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Kâmpóng Spœ
     
 
     # Kaeb
@@ -211,11 +223,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Ŏtdâr Mé Choă
+        - name: Ŏtdâr Méan Choăy
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Ŏtdâr Méan Choăy
     
 
     # Pailin
@@ -276,11 +287,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Prey Vê
+        - name: Prey Vêng
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Prey Vêng
     
 
     # Preah Sihanouk
@@ -351,15 +361,14 @@ regions:
               languages: [km]
     
 
-    # Stoĕ Trê
+    # Stoĕng Trêng
     - codes:
         iso3166-2: KH-19
       names:
-        - name: Stoĕ Trê
+        - name: Stoĕng Trêng
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Stoĕng Trêng
         - name: Stueng Traeng
           sources:
             - name: iso3166-2
@@ -382,11 +391,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-        - name: Svay Riĕ
+        - name: Svay Riĕng
           sources:
             - name: iso3166-2
               languages: [km]
-              value: Svay Riĕng
     
 
     # Taakaev
@@ -419,22 +427,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [km]
-    
-
-    # Kaoh Kong
-    - codes:
-        iso3166-2: KH-9
-      names:
-        - name: Kaoh Kong
-          sources:
-            - name: iso3166-2
-              languages: [km]
-        - name: Koh Kong
-          sources:
-            - name: iso3166-2
-              languages: [km]
-        - name: ôh Kŏ
-          sources:
-            - name: iso3166-2
-              languages: [km]
-              value: Kaôh Kŏng

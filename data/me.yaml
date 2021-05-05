@@ -112,14 +112,13 @@ regions:
             - name: iso3166-2
     
 
-    # Nikš ć
+    # Nikšić
     - codes:
         iso3166-2: ME-12
       names:
-        - name: Nikš ć
+        - name: Nikšić
           sources:
             - name: iso3166-2
-              value: Nikšić
     
 
     # Petnjica

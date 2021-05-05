@@ -22,6 +22,10 @@ regions:
             - name: euvoc
               languages: [en]
               value: Greater Poland province
+        - name: Il-provinċja Polonja Kbira
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Iso-Puolan voivodikunta
           sources:
             - name: euvoc
@@ -35,11 +39,6 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Polonja Kbira
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja Polonja Kbira
         - name: Storpolen
           sources:
             - name: euvoc
@@ -105,10 +104,11 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Великополска област
+        - name: Великополска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Великополска област
         - name: Великополско Војводство
           sources:
             - name: euvoc
@@ -129,6 +129,10 @@ regions:
             - name: euvoc
               languages: [en]
               value: Holy Cross province
+        - name: Il-provinċja tas-Salib Imqaddes
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Kielce
           sources:
             - name: euvoc
@@ -170,15 +174,11 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: krahina e Kryqit të Shenjtë
+        - name: krahina e Kryqit Shenjtë
           sources:
             - name: euvoc
               languages: [sq]
-        - name: tas-Salib Imqaddes
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja tas-Salib Imqaddes
+              value: krahina e Kryqit të Shenjtë
         - name: voievodatul Sfânta Cruce
           sources:
             - name: euvoc
@@ -206,11 +206,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Święty Krzyż vojevoodkond
+        - name: Święty Krzyżi vojevoodkond
           sources:
             - name: euvoc
               languages: [et]
-              value: Święty Krzyżi vojevoodkond
         - name: świętokrzyskie
           sources:
             - name: euvoc
@@ -226,10 +225,11 @@ regions:
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: Швентокшистка област
+        - name: Швентокшистка
           sources:
             - name: euvoc
               languages: [bg]
+              value: Швентокшистка област
     
 
     # Kuyavia-Pomerania
@@ -237,15 +237,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/7979
         iso3166-2: PL-04
       names:
-        - name: ''' Kujavia-Pomerania'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Kujavia-Pomerania
         - name: Cujávia-Pomerânia
           sources:
             - name: euvoc
               languages: [pt]
+        - name: Il-provinċja ta' Kujavia-Pomerania
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Kujavien-Pommern
           sources:
             - name: euvoc
@@ -334,10 +333,11 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Коявско-Поморска област
+        - name: Коявско-Поморска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Коявско-Поморска област
         - name: Кујавско-померанско војводство
           sources:
             - name: euvoc
@@ -353,6 +353,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7966
         iso3166-2: PL-12
       names:
+        - name: Il-provinċja Polonja żgħira
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Kis-Lengyelország
           sources:
             - name: euvoc
@@ -395,11 +399,6 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Polonja żgħira
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja Polonja żgħira
         - name: Vähä-Puolan voivodikunta
           sources:
             - name: euvoc
@@ -428,7 +427,7 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: voivodato Pequeñ Polonia
+        - name: voivodato Pequeña Polonia
           sources:
             - name: euvoc
               languages: [es]
@@ -469,15 +468,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/7972
         iso3166-2: PL-10
       names:
-        - name: ''' Lodz'
+        - name: Il-provinċja ta' Lodz
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Lodz
         - name: Lodz
           sources:
             - name: euvoc
-              languages: [en, sv]
+              languages: [en, pt, sv]
         - name: Lodzas
           sources:
             - name: euvoc
@@ -511,16 +509,14 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Lódź vajdaság
+        - name: Lódźi vajdaság
           sources:
             - name: euvoc
               languages: [hu]
-              value: Lódźi vajdaság
-        - name: Lódź vojevoodkond
+        - name: Lódźi vojevoodkond
           sources:
             - name: euvoc
               languages: [et]
-              value: Lódźi vojevoodkond
         - name: Vojvodstvo Lodz
           sources:
             - name: euvoc
@@ -534,11 +530,6 @@ regions:
             - name: euvoc
               languages: [sq]
               value: provinca e Loxit
-        - name: regiã Lodz
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Lodz
         - name: voievodatul Lodz
           sources:
             - name: euvoc
@@ -569,10 +560,11 @@ regions:
               value: województwo łódzkie
             - name: iso3166-2
               languages: [pl]
-        - name: Лодска област
+        - name: Лодска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Лодска област
         - name: Лоѓско Војводство
           sources:
             - name: euvoc
@@ -592,15 +584,14 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
+        - name: Il-provinċja Karpatja tat-Tramuntana
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Karpaattien voivodikunta
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Karpatja tat-Tramuntana
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja Karpatja tat-Tramuntana
         - name: Kárpátaljai vajdaság
           sources:
             - name: euvoc
@@ -651,7 +642,7 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: e Karpateve të Poshtme
+        - name: e Karpateve Poshtme
           sources:
             - name: euvoc
               languages: [sq]
@@ -740,6 +731,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
+        - name: Il-provinċja tal-bassa Silesia
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Lejassilēzijas
           sources:
             - name: euvoc
@@ -774,11 +769,6 @@ regions:
             - name: euvoc
               languages: [sq]
               value: provinca e Silezisë së Poshtme
-        - name: tal-bassa Silesia
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja tal-bassa Silesia
         - name: voievodatul Silezia Inferioară
           sources:
             - name: euvoc
@@ -810,10 +800,11 @@ regions:
           sources:
             - name: euvoc
               languages: [el]
-        - name: Долносилезийска област
+        - name: Долносилезийска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Долносилезийска област
         - name: Долношлезиско Војводство
           sources:
             - name: euvoc
@@ -829,11 +820,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7968
         iso3166-2: PL-06
       names:
-        - name: ''' Lublinu'
+        - name: Il-provinċja ta' Lublinu
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Lublinu
         - name: Liublino vaivadija
           sources:
             - name: euvoc
@@ -855,7 +845,7 @@ regions:
         - name: Lublin
           sources:
             - name: euvoc
-              languages: [en, sv]
+              languages: [en, pt, sv]
         - name: Lublini vajdaság
           sources:
             - name: euvoc
@@ -885,11 +875,6 @@ regions:
             - name: euvoc
               languages: [sq]
               value: provinca e Lublinit
-        - name: regiã Lublin
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região de Lublin
         - name: voievodatul Lublin
           sources:
             - name: euvoc
@@ -937,16 +922,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/7973
         iso3166-2: PL-08
       names:
-        - name: ''' Lubus'
+        - name: Il-provinċja ta' Lubus
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Lubus
-        - name: Liubuš vaivadija
+        - name: Liubušo vaivadija
           sources:
             - name: euvoc
               languages: [lt]
-              value: Liubušo vaivadija
         - name: Lubus
           sources:
             - name: euvoc
@@ -1041,10 +1024,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sr]
-        - name: Любюска област
+        - name: Любюска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Любюска област
     
 
     # Mazovia
@@ -1052,11 +1036,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7965
         iso3166-2: PL-14
       names:
-        - name: ''' Mazovia'
+        - name: Il-provinċja ta' Mazovia
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Mazovia
         - name: Masoovia vojevoodkond
           sources:
             - name: euvoc
@@ -1168,11 +1151,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7978
         iso3166-2: PL-16
       names:
-        - name: ''' Opole'
+        - name: Il-provinċja ta' Opole
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Opole
         - name: Opole
           sources:
             - name: euvoc
@@ -1252,10 +1234,11 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Ополска област
+        - name: Ополска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Ополска област
         - name: Ополско војводство
           sources:
             - name: euvoc
@@ -1267,11 +1250,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7975
         iso3166-2: PL-20
       names:
-        - name: ''' Podlachia'
+        - name: Il-provinċja ta' Podlachia
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Podlachia
         - name: Palenkės vaivadija
           sources:
             - name: euvoc
@@ -1368,10 +1350,11 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Подласка област
+        - name: Подласка
           sources:
             - name: euvoc
               languages: [bg]
+              value: Подласка област
         - name: Подласко Војводство
           sources:
             - name: euvoc
@@ -1475,10 +1458,11 @@ regions:
           sources:
             - name: euvoc
               languages: [mk, sr]
-        - name: Поморска област
+        - name: Поморска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Поморска област
     
 
     # Silesia
@@ -1486,11 +1470,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7967
         iso3166-2: PL-24
       names:
-        - name: ''' Silesia'
+        - name: Il-provinċja ta' Silesia
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-provinċja ta' Silesia
         - name: Schlesien
           sources:
             - name: euvoc
@@ -1605,15 +1588,14 @@ regions:
         euvoc: http://eurovoc.europa.eu/7980
         iso3166-2: PL-28
       names:
-        - name: ''' Varmia-Mazuria'
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja ta' Varmia-Mazuria
         - name: Ermland-Masurien
           sources:
             - name: euvoc
               languages: [sv]
+        - name: Il-provinċja ta' Varmia-Mazuria
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Krahina e Varmi-Mazurias
           sources:
             - name: euvoc
@@ -1702,10 +1684,11 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Варминско-Мазурска област
+        - name: Варминско-Мазурска
           sources:
             - name: euvoc
               languages: [bg]
+              value: Варминско-Мазурска област
         - name: Варминско-мазурско војводство
           sources:
             - name: euvoc
@@ -1717,6 +1700,10 @@ regions:
         euvoc: http://eurovoc.europa.eu/7970
         iso3166-2: PL-32
       names:
+        - name: Il-provinċja Pomerania tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Länsi-Pommerin voivodikunta
           sources:
             - name: euvoc
@@ -1729,11 +1716,6 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Pomerania tal-Punent
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-provinċja Pomerania tal-Punent
         - name: Pomerânia Ocidental
           sources:
             - name: euvoc
@@ -1772,6 +1754,14 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
+        - name: Západopomoranské vojvodstvo
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Západopomořanské vojvodství
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: e Pomeranisë Perëndimore
           sources:
             - name: euvoc
@@ -1806,16 +1796,6 @@ regions:
               value: województwo zachodniopomorskie
             - name: iso3166-2
               languages: [pl]
-        - name: ápadopomoranské vojvodstvo
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západopomoranské vojvodstvo
-        - name: ápadopomořanské vojvodství
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západopomořanské vojvodství
         - name: Δυτική Πομερανία
           sources:
             - name: euvoc

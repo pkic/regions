@@ -97,6 +97,16 @@ regions:
               languages: [es]
     
 
+    # Ngöbe-Buglé
+    - codes:
+        iso3166-2: PA-NB
+      names:
+        - name: Ngöbe-Buglé
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
     # Panamá
     - codes:
         iso3166-2: PA-8
@@ -125,14 +135,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [es]
-    
-
-    # öbe-Buglé
-    - codes:
-        iso3166-2: PA-NB
-      names:
-        - name: öbe-Buglé
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Ngöbe-Buglé

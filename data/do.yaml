@@ -115,6 +115,16 @@ regions:
               languages: [es]
     
 
+    # Elías Piña
+    - codes:
+        iso3166-2: DO-07
+      names:
+        - name: Elías Piña
+          sources:
+            - name: iso3166-2
+              languages: [es]
+    
+
     # Enriquillo
     - codes:
         iso3166-2: DO-38
@@ -175,15 +185,14 @@ regions:
               languages: [es]
     
 
-    # Marí Trinidad Sánchez
+    # María Trinidad Sánchez
     - codes:
         iso3166-2: DO-14
       names:
-        - name: Marí Trinidad Sánchez
+        - name: María Trinidad Sánchez
           sources:
             - name: iso3166-2
               languages: [es]
-              value: María Trinidad Sánchez
     
 
     # Monseñor Nouel
@@ -420,14 +429,3 @@ regions:
           sources:
             - name: iso3166-2
               languages: [es]
-    
-
-    # ías Piñ
-    - codes:
-        iso3166-2: DO-07
-      names:
-        - name: ías Piñ
-          sources:
-            - name: iso3166-2
-              languages: [es]
-              value: Elías Piña

@@ -108,7 +108,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Autonomous Region in Muslim Mindanao (ARMM)
-        - name: Nagsasariling Muslim sa Mindanaw
+        - name: Nagsasariling ng Muslim sa Mindanaw
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -178,7 +178,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Bicol (Region V)
-        - name: Bikol
+        - name: ng Bikol
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -252,7 +252,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Cagayan Valley (Region II)
-        - name: Lambak Kagayan
+        - name: ng Lambak Kagayan
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -266,11 +266,13 @@ regions:
         - name: Calabarzon
           sources:
             - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Calabarzon
-            - name: iso3166-2
               languages: [en]
               value: Calabarzon (Region IV-A)
+        - name: ng Calabarzon
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Calabarzon
     
 
     # Camarines Norte
@@ -338,7 +340,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Caraga (Region XIII)
-        - name: Karaga
+        - name: ng Karaga
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -396,7 +398,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Central Luzon (Region III)
-        - name: Gitnang Luson
+        - name: ng Gitnang Luson
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -412,7 +414,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Central Visayas (Region VII)
-        - name: Gitnang Bisaya
+        - name: ng Gitnang Bisaya
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -423,16 +425,16 @@ regions:
     - codes:
         iso3166-2: PH-15
       names:
-        - name: Administratibo Kordilyera
-          sources:
-            - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Administratibo ng Kordilyera
         - name: Cordillera Administrative
           sources:
             - name: iso3166-2
               languages: [en]
               value: Cordillera Administrative Region (CAR)
+        - name: ng Administratibo Kordilyera
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Administratibo ng Kordilyera
     
 
     # Cotabato
@@ -453,16 +455,16 @@ regions:
     - codes:
         iso3166-2: PH-11
       names:
-        - name: Dabaw
-          sources:
-            - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Dabaw
         - name: Davao
           sources:
             - name: iso3166-2
               languages: [en]
               value: Davao (Region XI)
+        - name: ng Dabaw
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Dabaw
     
 
     # Davao Occidental
@@ -570,7 +572,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Eastern Visayas (Region VIII)
-        - name: Silangang Bisaya
+        - name: ng Silangang Bisaya
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -614,7 +616,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Ilocos (Region I)
-        - name: Iloko
+        - name: ng Iloko
           sources:
             - name: iso3166-2
               languages: [tl]
@@ -772,11 +774,13 @@ regions:
         - name: Mimaropa
           sources:
             - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Mimaropa
-            - name: iso3166-2
               languages: [en]
               value: Mimaropa (Region IV-B)
+        - name: ng Mimaropa
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Mimaropa
     
 
     # Mindoro Occidental
@@ -898,16 +902,16 @@ regions:
     - codes:
         iso3166-2: PH-10
       names:
-        - name: Hilagang Mindanaw
-          sources:
-            - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Hilagang Mindanaw
         - name: Northern Mindanao
           sources:
             - name: iso3166-2
               languages: [en]
               value: Northern Mindanao (Region X)
+        - name: ng Hilagang Mindanaw
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Hilagang Mindanaw
     
 
     # Northern Samar
@@ -1079,11 +1083,13 @@ regions:
         - name: Soccsksargen
           sources:
             - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Soccsksargen
-            - name: iso3166-2
               languages: [en]
               value: Soccsksargen (Region XII)
+        - name: ng Soccsksargen
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Soccsksargen
     
 
     # Sorsogon
@@ -1216,16 +1222,16 @@ regions:
     - codes:
         iso3166-2: PH-06
       names:
-        - name: Kanlurang Bisaya
-          sources:
-            - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Kanlurang Bisaya
         - name: Western Visayas
           sources:
             - name: iso3166-2
               languages: [en]
               value: Western Visayas (Region VI)
+        - name: ng Kanlurang Bisaya
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Kanlurang Bisaya
     
 
     # Zambales
@@ -1246,16 +1252,16 @@ regions:
     - codes:
         iso3166-2: PH-09
       names:
-        - name: Tangway Sambuwangga
-          sources:
-            - name: iso3166-2
-              languages: [tl]
-              value: Rehiyon ng Tangway ng Sambuwangga
         - name: Zamboanga Peninsula
           sources:
             - name: iso3166-2
               languages: [en]
               value: Zamboanga Peninsula (Region IX)
+        - name: ng Tangway Sambuwangga
+          sources:
+            - name: iso3166-2
+              languages: [tl]
+              value: Rehiyon ng Tangway ng Sambuwangga
     
 
     # Zamboanga Sibugay

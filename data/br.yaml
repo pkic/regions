@@ -93,15 +93,14 @@ regions:
               languages: [pt]
     
 
-    # Maranhã
+    # Maranhão
     - codes:
         iso3166-2: BR-MA
       names:
-        - name: Maranhã
+        - name: Maranhão
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: Maranhão
     
 
     # Mato Grosso
@@ -258,15 +257,14 @@ regions:
               languages: [pt]
     
 
-    # Sã Paulo
+    # São Paulo
     - codes:
         iso3166-2: BR-SP
       names:
-        - name: Sã Paulo
+        - name: São Paulo
           sources:
             - name: iso3166-2
               languages: [pt]
-              value: São Paulo
     
 
     # Tocantins

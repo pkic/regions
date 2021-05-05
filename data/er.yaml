@@ -53,11 +53,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ti]
-        - name: Janūbī al Baḩrī al ḩmar
+        - name: Janūbī al Baḩrī al Aḩmar
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Janūbī al Baḩrī al Aḩmar
     
 
     # Al Awsaţ
@@ -82,8 +81,7 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ti]
-        - name: Shimālī al Baḩrī al ḩmar
+        - name: Shimālī al Baḩrī al Aḩmar
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Shimālī al Baḩrī al Aḩmar

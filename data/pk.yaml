@@ -15,7 +15,7 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Ā ād Jammūñ Kashmīr
+        - name: Āzād Jammūñ Kashmīr
           sources:
             - name: iso3166-2
               languages: [ur]

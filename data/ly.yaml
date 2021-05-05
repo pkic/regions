@@ -93,15 +93,14 @@ regions:
               languages: [ar]
     
 
-    # Banghā ī
+    # Banghāzī
     - codes:
         iso3166-2: LY-BA
       names:
-        - name: Banghā ī
+        - name: Banghāzī
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Banghāzī
     
 
     # Darnah
@@ -195,22 +194,21 @@ regions:
               languages: [ar]
     
 
-    # Wādī ash Shāţ ’
+    # Wādī ash Shāţi’
     - codes:
         iso3166-2: LY-WS
       names:
-        - name: Wādī ash Shāţ ’
+        - name: Wādī ash Shāţi’
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Wādī ash Shāţi’
     
 
-    # āwiyah
+    # Zāwiyah
     - codes:
         iso3166-2: LY-ZA
       names:
-        - name: āwiyah
+        - name: Zāwiyah
           sources:
             - name: iso3166-2
               languages: [ar]

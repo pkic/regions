@@ -55,11 +55,6 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: Finlandja tal-Lvant
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Finlandja tal-Lvant
         - name: Finlândia Oriental
           sources:
             - name: euvoc
@@ -68,11 +63,14 @@ regions:
           sources:
             - name: euvoc
               languages: [et]
-        - name: Istoč Finska
+        - name: Il-Finlandja tal-Lvant
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Istočna Finska
           sources:
             - name: euvoc
               languages: [hr]
-              value: Istočna Finska
         - name: Itä-Suomi
           sources:
             - name: euvoc
@@ -381,11 +379,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs, de, el, en, es, et, fi, fr, hr, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sq]
-        - name: Uleå
+        - name: Uleåborg
           sources:
             - name: euvoc
               languages: [da, sv]
-              value: Uleåborg
         - name: Оулу
           sources:
             - name: euvoc
@@ -507,16 +504,18 @@ regions:
           sources:
             - name: euvoc
               languages: [pt]
-        - name: Finslandja tat-Tramuntana
+        - name: Il-Finslandja tat-Tramuntana
           sources:
             - name: euvoc
               languages: [mt]
-              value: Il-Finslandja tat-Tramuntana
-        - name: Juž Finska
+        - name: Jižní Finsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Južna Finska
           sources:
             - name: euvoc
               languages: [hr, sl]
-              value: Južna Finska
         - name: Južné Fínsko
           sources:
             - name: euvoc
@@ -545,11 +544,6 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: žní Finsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Finsko
         - name: Νότια Φινλανδία
           sources:
             - name: euvoc
@@ -592,15 +586,14 @@ regions:
           sources:
             - name: euvoc
               languages: [it]
-        - name: Finlandja tal-Punent
-          sources:
-            - name: euvoc
-              languages: [mt]
-              value: Il-Finlandja tal-Punent
         - name: Finlândia Ocidental
           sources:
             - name: euvoc
               languages: [pt]
+        - name: Il-Finlandja tal-Punent
+          sources:
+            - name: euvoc
+              languages: [mt]
         - name: Länsi-Suomi
           sources:
             - name: euvoc
@@ -641,20 +634,18 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
+        - name: Západné Fínsko
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: Západní Finsko
+          sources:
+            - name: euvoc
+              languages: [cs]
         - name: westelijk Finland
           sources:
             - name: euvoc
               languages: [nl]
-        - name: ápadné Fínsko
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: Západné Fínsko
-        - name: ápadní Finsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Západní Finsko
         - name: Δυτική Φινλανδία
           sources:
             - name: euvoc
@@ -727,11 +718,10 @@ regions:
           sources:
             - name: euvoc
               languages: [de]
-        - name: Î Åland
+        - name: Îles Åland
           sources:
             - name: euvoc
               languages: [fr]
-              value: Îles Åland
         - name: Ālandu salas
           sources:
             - name: euvoc

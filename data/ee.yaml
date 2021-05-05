@@ -90,11 +90,10 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Kö ép-Észtország
+        - name: Közép-Észtország
           sources:
             - name: euvoc
               languages: [hu]
-              value: Közép-Észtország
         - name: L-Estonja Ċentrali
           sources:
             - name: euvoc
@@ -241,15 +240,14 @@ regions:
               languages: [et]
     
 
-    # Jõ ähtme
+    # Jõelähtme
     - codes:
         iso3166-2: EE-245
       names:
-        - name: Jõ ähtme
+        - name: Jõelähtme
           sources:
             - name: iso3166-2
               languages: [et]
-              value: Jõelähtme
     
 
     # Jõgeva
@@ -626,11 +624,10 @@ regions:
           sources:
             - name: euvoc
               languages: [cs]
-        - name: Sjeveroistoč Estonija
+        - name: Sjeveroistočna Estonija
           sources:
             - name: euvoc
               languages: [hr]
-              value: Sjeveroistočna Estonija
         - name: Ziemeļaustrumigaunija
           sources:
             - name: euvoc
@@ -762,15 +759,14 @@ regions:
               languages: [mk, sr]
     
 
-    # Nõ
+    # Nõo
     - codes:
         iso3166-2: EE-528
       names:
-        - name: Nõ
+        - name: Nõo
           sources:
             - name: iso3166-2
               languages: [et]
-              value: Nõo
     
 
     # Otepää
@@ -1060,11 +1056,14 @@ regions:
           sources:
             - name: euvoc
               languages: [fi]
-        - name: Juž Estonija
+        - name: Jižní Estonsko
+          sources:
+            - name: euvoc
+              languages: [cs]
+        - name: Južna Estonija
           sources:
             - name: euvoc
               languages: [hr, sl]
-              value: Južna Estonija
         - name: Južné Estónsko
           sources:
             - name: euvoc
@@ -1097,11 +1096,6 @@ regions:
           sources:
             - name: euvoc
               languages: [nl]
-        - name: žní Estonsko
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: Jižní Estonsko
         - name: Νότια Εσθονία
           sources:
             - name: euvoc
@@ -1386,16 +1380,14 @@ regions:
           sources:
             - name: euvoc
               languages: [hr]
-        - name: ápadné Estónsko
+        - name: Západné Estónsko
           sources:
             - name: euvoc
               languages: [sk]
-              value: Západné Estónsko
-        - name: ápadní Estonsko
+        - name: Západní Estonsko
           sources:
             - name: euvoc
               languages: [cs]
-              value: Západní Estonsko
         - name: Δυτική Εσθονία
           sources:
             - name: euvoc

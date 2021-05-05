@@ -36,11 +36,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [el]
-        - name: Lefkoş
+        - name: Lefkoşa
           sources:
             - name: iso3166-2
               languages: [tr]
-              value: Lefkoşa
     
 
     # Lemesos

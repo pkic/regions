@@ -87,15 +87,14 @@ regions:
               languages: [ar]
     
 
-    # Nabatî é
+    # Nabatîyé
     - codes:
         iso3166-2: LB-NA
       names:
-        - name: Nabatî é
+        - name: Nabatîyé
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Nabatîyé
         - name: Nabaţīyah
           sources:
             - name: iso3166-2

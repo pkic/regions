@@ -43,15 +43,14 @@ regions:
               languages: [en, fr]
     
 
-    # Tafé
+    # Taféa
     - codes:
         iso3166-2: VU-TAE
       names:
-        - name: Tafé
+        - name: Taféa
           sources:
             - name: iso3166-2
               languages: [en, fr]
-              value: Taféa
     
 
     # Torba

@@ -504,15 +504,14 @@ regions:
               languages: [fr]
     
 
-    # Sé
+    # Séno
     - codes:
         iso3166-2: BF-SEN
       names:
-        - name: Sé
+        - name: Séno
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Séno
     
 
     # Tapoa

@@ -82,15 +82,14 @@ regions:
               languages: [ka]
     
 
-    # Rach' Lechkhumi-Kvemo Svaneti
+    # Rach'a-Lechkhumi-Kvemo Svaneti
     - codes:
         iso3166-2: GE-RL
       names:
-        - name: Rach' Lechkhumi-Kvemo Svaneti
+        - name: Rach'a-Lechkhumi-Kvemo Svaneti
           sources:
             - name: iso3166-2
               languages: [ka]
-              value: Rach'a-Lechkhumi-Kvemo Svaneti
     
 
     # Samegrelo-Zemo Svaneti

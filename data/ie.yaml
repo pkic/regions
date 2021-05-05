@@ -399,11 +399,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: íbh Fhailí
+        - name: Uíbh Fhailí
           sources:
             - name: iso3166-2
               languages: [ga]
-              value: Uíbh Fhailí
     
 
     # Roscommon

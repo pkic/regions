@@ -33,6 +33,16 @@ regions:
               languages: [ar]
     
 
+    # Az̧ Z̧āhirah
+    - codes:
+        iso3166-2: OM-ZA
+      names:
+        - name: Az̧ Z̧āhirah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Janūb al Bāţinah
     - codes:
         iso3166-2: OM-BJ
@@ -97,17 +107,6 @@ regions:
               languages: [ar]
     
 
-    # ̧ ̧āhirah
-    - codes:
-        iso3166-2: OM-ZA
-      names:
-        - name: ̧ ̧āhirah
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Az̧ Z̧āhirah
-    
-
     # Dhofar
     - codes:
         iso3166-2: OM-ZU
@@ -116,8 +115,7 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-        - name: ̧ufār
+        - name: Z̧ufār
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Z̧ufār

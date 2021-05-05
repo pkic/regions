@@ -81,11 +81,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Gambē Hizboch
+        - name: Gambēla Hizboch
           sources:
             - name: iso3166-2
               languages: [am]
-              value: Gambēla Hizboch
     
 
     # Harari People
@@ -110,11 +109,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Oromī
+        - name: Oromīya
           sources:
             - name: iso3166-2
               languages: [am]
-              value: Oromīya
     
 
     # Somali

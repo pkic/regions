@@ -575,15 +575,14 @@ regions:
               languages: [mk]
     
 
-    # Sopiš
+    # Sopište
     - codes:
         iso3166-2: MK-812
       names:
-        - name: Sopiš
+        - name: Sopište
           sources:
             - name: iso3166-2
               languages: [mk]
-              value: Sopište
     
 
     # Staro Nagoričane
@@ -706,15 +705,14 @@ regions:
               languages: [mk]
     
 
-    # Vrapč š
+    # Vrapčište
     - codes:
         iso3166-2: MK-603
       names:
-        - name: Vrapč š
+        - name: Vrapčište
           sources:
             - name: iso3166-2
               languages: [mk]
-              value: Vrapčište
     
 
     # Zelenikovo
@@ -737,28 +735,6 @@ regions:
               languages: [mk]
     
 
-    # Č čer-Sandevo
-    - codes:
-        iso3166-2: MK-816
-      names:
-        - name: Č čer-Sandevo
-          sources:
-            - name: iso3166-2
-              languages: [mk]
-              value: Čučer-Sandevo
-    
-
-    # Č š
-    - codes:
-        iso3166-2: MK-109
-      names:
-        - name: Č š
-          sources:
-            - name: iso3166-2
-              languages: [mk]
-              value: Čaška
-    
-
     # Čair †
     - codes:
         iso3166-2: MK-815
@@ -769,11 +745,31 @@ regions:
               languages: [mk]
     
 
+    # Čaška
+    - codes:
+        iso3166-2: MK-109
+      names:
+        - name: Čaška
+          sources:
+            - name: iso3166-2
+              languages: [mk]
+    
+
     # Češinovo-Obleševo
     - codes:
         iso3166-2: MK-210
       names:
         - name: Češinovo-Obleševo
+          sources:
+            - name: iso3166-2
+              languages: [mk]
+    
+
+    # Čučer-Sandevo
+    - codes:
+        iso3166-2: MK-816
+      names:
+        - name: Čučer-Sandevo
           sources:
             - name: iso3166-2
               languages: [mk]

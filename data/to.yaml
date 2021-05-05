@@ -43,12 +43,11 @@ regions:
               languages: [en, to]
     
 
-    # Vava'
+    # Vava'u
     - codes:
         iso3166-2: TO-05
       names:
-        - name: Vava'
+        - name: Vava'u
           sources:
             - name: iso3166-2
               languages: [en, to]
-              value: Vava'u

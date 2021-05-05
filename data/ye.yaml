@@ -84,6 +84,16 @@ regions:
               languages: [ar]
     
 
+    # Aḑ Ḑāli‘
+    - codes:
+        iso3166-2: YE-DA
+      names:
+        - name: Aḑ Ḑāli‘
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Dhamār
     - codes:
         iso3166-2: YE-DH
@@ -99,6 +109,16 @@ regions:
         iso3166-2: YE-IB
       names:
         - name: Ibb
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
+    # Laḩij
+    - codes:
+        iso3166-2: YE-LA
+      names:
+        - name: Laḩij
           sources:
             - name: iso3166-2
               languages: [ar]
@@ -144,15 +164,14 @@ regions:
               languages: [ar]
     
 
-    # Ş ʻā’
+    # Şanʻā’
     - codes:
         iso3166-2: YE-SN
       names:
-        - name: Ş ʻā’
+        - name: Şanʻā’
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Şanʻā’
     
 
     # Şāʻdah
@@ -165,28 +184,6 @@ regions:
               languages: [ar]
     
 
-    # ḑ Ḑāli‘
-    - codes:
-        iso3166-2: YE-DA
-      names:
-        - name: ḑ Ḑāli‘
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Aḑ Ḑāli‘
-    
-
-    # Ḩ ḑramawt
-    - codes:
-        iso3166-2: YE-HD
-      names:
-        - name: Ḩ ḑramawt
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Ḩaḑramawt
-    
-
     # Ḩajjah
     - codes:
         iso3166-2: YE-HJ
@@ -197,15 +194,14 @@ regions:
               languages: [ar]
     
 
-    # ḩij
+    # Ḩaḑramawt
     - codes:
-        iso3166-2: YE-LA
+        iso3166-2: YE-HD
       names:
-        - name: ḩij
+        - name: Ḩaḑramawt
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Laḩij
     
 
     # ‘Adan

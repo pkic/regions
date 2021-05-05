@@ -244,7 +244,7 @@ regions:
             - name: iso3166-2
               languages: [en]
               value: Ile Perseverance I
-        - name: Î Persévérance
+        - name: Île Persévérance
           sources:
             - name: iso3166-2
               languages: [fr]
@@ -259,11 +259,10 @@ regions:
           sources:
             - name: iso3166-2
               languages: [en]
-        - name: Î Persévérance II
+        - name: Île Persévérance II
           sources:
             - name: iso3166-2
               languages: [fr]
-              value: Île Persévérance II
     
 
     # Mamelles

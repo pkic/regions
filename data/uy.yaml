@@ -133,15 +133,14 @@ regions:
               languages: [es]
     
 
-    # Rí Negro
+    # Río Negro
     - codes:
         iso3166-2: UY-RN
       names:
-        - name: Rí Negro
+        - name: Río Negro
           sources:
             - name: iso3166-2
               languages: [es]
-              value: Río Negro
     
 
     # Salto
