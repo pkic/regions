@@ -346,7 +346,7 @@ regions:
           sources:
             - name: euvoc
               languages: [mk]
-        - name: Букурещ  и Илфов
+        - name: Букурещ и Илфов
           sources:
             - name: euvoc
               languages: [bg]

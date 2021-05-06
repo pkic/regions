@@ -43,14 +43,15 @@ regions:
               languages: [ar]
     
 
-    # As Suwaydā'
+    # As Suwaydā
     - codes:
         iso3166-2: SY-SU
       names:
-        - name: As Suwaydā'
+        - name: As Suwaydā
           sources:
             - name: iso3166-2
               languages: [ar]
+              value: As Suwaydā'
     
 
     # Dar'ā
@@ -63,15 +64,14 @@ regions:
               languages: [ar]
     
 
-    # Dayr Zawr
+    # Dayr az Zawr
     - codes:
         iso3166-2: SY-DY
       names:
-        - name: Dayr Zawr
+        - name: Dayr az Zawr
           sources:
             - name: iso3166-2
               languages: [ar]
-              value: Dayr az Zawr
     
 
     # Dimashq

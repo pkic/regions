@@ -12,18 +12,21 @@ regions:
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Brestskaja oblast'
+        - name: Brestskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Brestskaya oblast'
+              value: Brestskaja oblast'
+        - name: Brestskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Brestskaya voblasts'
+              value: Brestskaya oblast'
+        - name: Brestskaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
+              value: Brestskaya voblasts'
     
 
     # Gorod Minsk
@@ -40,48 +43,54 @@ regions:
               languages: [be]
     
 
-    # Grodnenskaja oblast'
+    # Grodnenskaja
     - codes:
         iso3166-2: BY-HR
       names:
-        - name: Grodnenskaja oblast'
+        - name: Grodnenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Grodnenskaya oblast'
+              value: Grodnenskaja oblast'
+        - name: Grodnenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Grodnenskaya oblast'
         - name: Hrodzienskaja voblasć
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Hrodzyenskaya voblasts'
+        - name: Hrodzyenskaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
+              value: Hrodzyenskaya voblasts'
     
 
-    # Gomel'skaja oblast'
+    # Gomel'skaja
     - codes:
         iso3166-2: BY-HO
       names:
-        - name: Gomel'skaja oblast'
+        - name: Gomel'skaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Gomel'skaya oblast'
+              value: Gomel'skaja oblast'
+        - name: Gomel'skaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Gomel'skaya oblast'
         - name: Homieĺskaja voblasć
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Homyel'skaya voblasts'
+        - name: Homyel'skaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
+              value: Homyel'skaya voblasts'
     
 
     # Mahilioŭskaja voblasć
@@ -92,40 +101,46 @@ regions:
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Mahilyowskaya voblasts'
+        - name: Mahilyowskaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Mogilevskaja oblast'
+              value: Mahilyowskaya voblasts'
+        - name: Mogilevskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Mogilevskaya oblast'
+              value: Mogilevskaja oblast'
+        - name: Mogilevskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Mogilevskaya oblast'
     
 
-    # Minskaja oblast'
+    # Minskaja
     - codes:
         iso3166-2: BY-MI
       names:
-        - name: Minskaja oblast'
+        - name: Minskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Minskaja oblast'
         - name: Minskaja voblasć
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Minskaya oblast'
+        - name: Minskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Minskaya voblasts'
+              value: Minskaya oblast'
+        - name: Minskaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
+              value: Minskaya voblasts'
     
 
     # Viciebskaja voblasć
@@ -136,15 +151,18 @@ regions:
           sources:
             - name: iso3166-2
               languages: [be]
-        - name: Vitebskaja oblast'
+        - name: Vitebskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Vitebskaya oblast'
+              value: Vitebskaja oblast'
+        - name: Vitebskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Vitsyebskaya voblasts'
+              value: Vitebskaya oblast'
+        - name: Vitsyebskaya voblasts
           sources:
             - name: iso3166-2
               languages: [be]
+              value: Vitsyebskaya voblasts'

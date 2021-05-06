@@ -234,6 +234,11 @@ regions:
           sources:
             - name: euvoc
               languages: [en]
+        - name: Centro
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região do Centro (Portugal)
         - name: Centrālā Portugāle
           sources:
             - name: euvoc
@@ -311,11 +316,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
-        - name: do Centro
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região do Centro (Portugal)
         - name: iċ-Ċentru tal-Portugall
           sources:
             - name: euvoc
@@ -512,12 +512,6 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/1730
       names:
-        - name: Autonomous Madeira
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous region of Madeira
-              type: alternative
         - name: Madeira
           sources:
             - name: euvoc
@@ -564,6 +558,11 @@ regions:
           sources:
             - name: euvoc
               languages: [da, de, sv]
+        - name: Norte
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: região do Norte
         - name: Northern Portugal
           sources:
             - name: euvoc
@@ -622,11 +621,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lv]
-        - name: do Norte
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: região do Norte
         - name: it-Tramuntana tal-Portugall
           sources:
             - name: euvoc

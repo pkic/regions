@@ -135,6 +135,11 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
+        - name: Belgije
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: skupnosti Belgije
         - name: Belgijos bendruomenės
           sources:
             - name: euvoc
@@ -178,14 +183,15 @@ regions:
             - name: euvoc
               languages: [pt]
               value: comunidades da Bélgica
-        - name: comunità del Belgio
-          sources:
-            - name: euvoc
-              languages: [it]
         - name: comunitățile Belgiei
           sources:
             - name: euvoc
               languages: [ro]
+        - name: del Belgio
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: comunità del Belgio
         - name: gemeenschappen België
           sources:
             - name: euvoc
@@ -199,10 +205,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: skupnosti Belgije
-          sources:
-            - name: euvoc
-              languages: [sl]
         - name: spoločenstvá Belgicka
           sources:
             - name: euvoc
@@ -348,11 +350,10 @@ regions:
             - name: euvoc
               languages: [mt]
               value: reġjun ta’ Brussell
-        - name: Βρυξελλών
+        - name: περιφέρεια Βρυξελλών
           sources:
             - name: euvoc
               languages: [el]
-              value: περιφέρεια Βρυξελλών
         - name: Брисел
           sources:
             - name: euvoc
@@ -591,11 +592,10 @@ regions:
           sources:
             - name: euvoc
               languages: [da]
-        - name: Φλάνδρας
+        - name: περιφέρεια Φλάνδρας
           sources:
             - name: euvoc
               languages: [el]
-              value: περιφέρεια Φλάνδρας
         - name: Фландрия
           sources:
             - name: euvoc
@@ -607,6 +607,134 @@ regions:
               value: Регион Фландрија
             - name: euvoc
               languages: [sr]
+    
+
+    # Flemish
+    - codes:
+        euvoc: http://eurovoc.europa.eu/5514
+      names:
+        - name: Comunitatea Flamandă
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Fjamminga
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Komunità Fjamminga
+        - name: Flamska skupnost
+          sources:
+            - name: euvoc
+              languages: [sl]
+        - name: Flemish
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Flemish Community
+        - name: Flāmu
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Flāmu kopiena
+        - name: Komuniteti Flaman
+          sources:
+            - name: euvoc
+              languages: [sq]
+        - name: Vlaamse
+          sources:
+            - name: euvoc
+              languages: [nl]
+              value: Vlaamse Gemeenschap
+        - name: fiamminga
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Comunità fiamminga
+        - name: flaamikeelne
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: flaamikeelne kogukond
+        - name: flaaminkielinen
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: flaaminkielinen yhteisö
+        - name: flamand
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: flamand közösség
+        - name: flamande
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Communauté flamande
+        - name: flamandų
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: flamandų bendruomenė
+        - name: flamanska
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: flamanska zajednica
+        - name: flamenca Bélgica
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: Comunidad flamenca de Bélgica
+        - name: flamenga
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: comunidade flamenga
+        - name: flamländskt språkområde
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: flamske sprogsamfund
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: det flamske sprogsamfund
+        - name: flanderská
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: flanderská oblast
+        - name: flámska komunita
+          sources:
+            - name: euvoc
+              languages: [sk]
+        - name: flämische
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: flämische Gemeinschaft
+        - name: wspólnota flamandzka
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: Φλαμανδική
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Φλαμανδική Κοινότητα
+        - name: фламандска
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: фламандска общност
+        - name: фламанска
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: фламанска заедница
+            - name: euvoc
+              languages: [sr]
+              value: фламанска заједница
     
 
     # Flemish Brabant
@@ -742,180 +870,73 @@ regions:
               languages: [sr]
     
 
-    # Flemish Community
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5514
-      names:
-        - name: Communauté flamande
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Comunidad flamenca Bélgica
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Comunidad flamenca de Bélgica
-        - name: Comunitatea Flamandă
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Comunità fiamminga
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Flamska skupnost
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: Flemish Community
-          sources:
-            - name: euvoc
-              languages: [en]
-        - name: Flāmu kopiena
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Komuniteti Flaman
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Komunità Fjamminga
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Vlaamse Gemeenschap
-          sources:
-            - name: euvoc
-              languages: [nl]
-        - name: comunidade flamenga
-          sources:
-            - name: euvoc
-              languages: [pt]
-        - name: flaamikeelne kogukond
-          sources:
-            - name: euvoc
-              languages: [et]
-        - name: flaaminkielinen yhteisö
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: flamand közösség
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: flamandų bendruomenė
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: flamanska zajednica
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: flamländskt språkområde
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: flamske sprogsamfund
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: det flamske sprogsamfund
-        - name: flanderská oblast
-          sources:
-            - name: euvoc
-              languages: [cs]
-        - name: flámska komunita
-          sources:
-            - name: euvoc
-              languages: [sk]
-        - name: flämische Gemeinschaft
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: wspólnota flamandzka
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: Φλαμανδική Κοινότητα
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: фламандска общност
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: фламанска заедница
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: фламанска заједница
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # French-speaking Community
+    # French-speaking
     - codes:
         euvoc: http://eurovoc.europa.eu/5515
       names:
-        - name: Communauté française
-          sources:
-            - name: euvoc
-              languages: [fr, ga]
-        - name: Comunidad francesa Bélgica
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Comunidad francesa de Bélgica
         - name: Comunitatea vorbitorilor limbă franceză
           sources:
             - name: euvoc
               languages: [ro]
               value: Comunitatea vorbitorilor de limbă franceză
-        - name: Comunità francese
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Francia Közösség
+        - name: Francia
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Franse Gemeenschap
+              value: Francia Közösség
+        - name: Frankofona
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Komunità Frankofona
+        - name: Franse
           sources:
             - name: euvoc
               languages: [nl]
-        - name: Franču kopiena
+              value: Franse Gemeenschap
+        - name: Franču
           sources:
             - name: euvoc
               languages: [lv]
-        - name: French-speaking Community
+              value: Franču kopiena
+        - name: French-speaking
           sources:
             - name: euvoc
               languages: [en]
+              value: French-speaking Community
         - name: Komuniteti frëngjishtfolës
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Komunità Frankofona
+        - name: francesa Bélgica
           sources:
             - name: euvoc
-              languages: [mt]
-        - name: comunidade francófona
+              languages: [es]
+              value: Comunidad francesa de Bélgica
+        - name: francese
           sources:
             - name: euvoc
-              languages: [pt]
+              languages: [it]
+              value: Comunità francese
         - name: francosko govoreča skupnost
           sources:
             - name: euvoc
               languages: [sl]
-        - name: francouzská oblast
+        - name: francouzská
           sources:
             - name: euvoc
               languages: [cs]
-        - name: francuska zajednica
+              value: francouzská oblast
+        - name: francuska
           sources:
             - name: euvoc
               languages: [hr]
+              value: francuska zajednica
+        - name: francófona
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: comunidade francófona
         - name: francúzsky hovoriaca komunita
           sources:
             - name: euvoc
@@ -929,98 +950,115 @@ regions:
           sources:
             - name: euvoc
               languages: [sv]
-        - name: französische Gemeinschaft
+        - name: französische
           sources:
             - name: euvoc
               languages: [de]
-        - name: prancūzakalbė bendruomenė
+              value: französische Gemeinschaft
+        - name: française
+          sources:
+            - name: euvoc
+              languages: [fr, ga]
+              value: Communauté française
+        - name: prancūzakalbė
           sources:
             - name: euvoc
               languages: [lt]
-        - name: prantsuskeelne kogukond
+              value: prancūzakalbė bendruomenė
+        - name: prantsuskeelne
           sources:
             - name: euvoc
               languages: [et]
-        - name: ranskankielinen yhteisö
+              value: prantsuskeelne kogukond
+        - name: ranskankielinen
           sources:
             - name: euvoc
               languages: [fi]
+              value: ranskankielinen yhteisö
         - name: wspólnota francuskojęzyczna
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Γαλλόφωνη Κοινότητα
+        - name: Γαλλόφωνη
           sources:
             - name: euvoc
               languages: [el]
-        - name: француска заедница
+              value: Γαλλόφωνη Κοινότητα
+        - name: француска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: француска језичка заједница
+              value: француска заедница
+        - name: француска језичка
           sources:
             - name: euvoc
               languages: [sr]
-        - name: френскоговоряща общност
+              value: француска језичка заједница
+        - name: френскоговоряща
           sources:
             - name: euvoc
               languages: [bg]
+              value: френскоговоряща общност
     
 
-    # German-speaking Community
+    # German-speaking
     - codes:
         euvoc: http://eurovoc.europa.eu/5516
       names:
-        - name: Communauté germanophone
-          sources:
-            - name: euvoc
-              languages: [fr]
-        - name: Comunidad alemana Bélgica
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Comunidad alemana de Bélgica
         - name: Comunitatea vorbitorilor limbă germană
           sources:
             - name: euvoc
               languages: [ro]
               value: Comunitatea vorbitorilor de limbă germană
-        - name: Comunità germanofona
-          sources:
-            - name: euvoc
-              languages: [it]
-        - name: Duitstalige Gemeenschap
+        - name: Duitstalige
           sources:
             - name: euvoc
               languages: [nl]
-        - name: German-speaking Community
+              value: Duitstalige Gemeenschap
+        - name: German-speaking
           sources:
             - name: euvoc
               languages: [en]
+              value: German-speaking Community
         - name: Komuniteti gjermanishtfolës
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Komunità Ġermanofona
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Németajkú Közösség
+        - name: Németajkú
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Vācu kopiena
+              value: Németajkú Közösség
+        - name: Vācu
           sources:
             - name: euvoc
               languages: [lv]
-        - name: comunidade germanófona
+              value: Vācu kopiena
+        - name: alemana Bélgica
           sources:
             - name: euvoc
-              languages: [pt]
-        - name: deutschsprachige Gemeinschaft
+              languages: [es]
+              value: Comunidad alemana de Bélgica
+        - name: deutschsprachige
           sources:
             - name: euvoc
               languages: [de]
+              value: deutschsprachige Gemeinschaft
+        - name: germanofona
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: Comunità germanofona
+        - name: germanophone
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: Communauté germanophone
+        - name: germanófona
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: comunidade germanófona
         - name: nemecky hovoriaca komunita
           sources:
             - name: euvoc
@@ -1029,22 +1067,26 @@ regions:
           sources:
             - name: euvoc
               languages: [sl]
-        - name: njemačka zajednica
+        - name: njemačka
           sources:
             - name: euvoc
               languages: [hr]
-        - name: německá oblast
+              value: njemačka zajednica
+        - name: německá
           sources:
             - name: euvoc
               languages: [cs]
-        - name: saksakeelne kogukond
+              value: německá oblast
+        - name: saksakeelne
           sources:
             - name: euvoc
               languages: [et]
-        - name: saksankielinen yhteisö
+              value: saksakeelne kogukond
+        - name: saksankielinen
           sources:
             - name: euvoc
               languages: [fi]
+              value: saksankielinen yhteisö
         - name: tysktalande språkområde
           sources:
             - name: euvoc
@@ -1054,30 +1096,40 @@ regions:
             - name: euvoc
               languages: [da]
               value: det tysktalende sprogsamfund
-        - name: vokiečiakalbė bendruomenė
+        - name: vokiečiakalbė
           sources:
             - name: euvoc
               languages: [lt]
+              value: vokiečiakalbė bendruomenė
         - name: wspólnota niemieckojęzyczna
           sources:
             - name: euvoc
               languages: [pl]
-        - name: Γερμανόφωνη Κοινότητα
+        - name: Ġermanofona
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: Komunità Ġermanofona
+        - name: Γερμανόφωνη
           sources:
             - name: euvoc
               languages: [el]
-        - name: германска заедница
+              value: Γερμανόφωνη Κοινότητα
+        - name: германска
           sources:
             - name: euvoc
               languages: [mk]
-        - name: немачка језичка заједница
+              value: германска заедница
+        - name: немачка језичка
           sources:
             - name: euvoc
               languages: [sr]
-        - name: немскоговоряща общност
+              value: немачка језичка заједница
+        - name: немскоговоряща
           sources:
             - name: euvoc
               languages: [bg]
+              value: немскоговоряща общност
     
 
     # Hainault
@@ -1749,11 +1801,10 @@ regions:
             - name: iso3166-2
               languages: [fr]
               value: wallonne, Région
-        - name: Βαλλωνίας
+        - name: περιφέρεια Βαλλωνίας
           sources:
             - name: euvoc
               languages: [el]
-              value: περιφέρεια Βαλλωνίας
         - name: Валония
           sources:
             - name: euvoc

@@ -1576,7 +1576,7 @@ regions:
             - name: euvoc
               languages: [it]
               value: regione della Loira
-        - name: περιοχή Λίγηρα
+        - name: Λίγηρα
           sources:
             - name: euvoc
               languages: [el]

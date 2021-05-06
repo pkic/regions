@@ -43,24 +43,26 @@ regions:
               languages: [hy]
     
 
-    # Geġark'unik'
+    # Geġark'unik
     - codes:
         iso3166-2: AM-GR
       names:
-        - name: Geġark'unik'
+        - name: Geġark'unik
           sources:
             - name: iso3166-2
               languages: [hy]
+              value: Geġark'unik'
     
 
-    # Kotayk'
+    # Kotayk
     - codes:
         iso3166-2: AM-KT
       names:
-        - name: Kotayk'
+        - name: Kotayk
           sources:
             - name: iso3166-2
               languages: [hy]
+              value: Kotayk'
     
 
     # Loṙi
@@ -73,14 +75,15 @@ regions:
               languages: [hy]
     
 
-    # Syunik'
+    # Syunik
     - codes:
         iso3166-2: AM-SU
       names:
-        - name: Syunik'
+        - name: Syunik
           sources:
             - name: iso3166-2
               languages: [hy]
+              value: Syunik'
     
 
     # Tavuš

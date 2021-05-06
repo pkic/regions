@@ -25,11 +25,12 @@ regions:
               value: Federacija Bosne i Hercegovine
     
 
-    # Republika Srpska
+    # Srpska
     - codes:
         iso3166-2: BA-SRP
       names:
-        - name: Republika Srpska
+        - name: Srpska
           sources:
             - name: iso3166-2
               languages: [bs, hr, sr]
+              value: Republika Srpska

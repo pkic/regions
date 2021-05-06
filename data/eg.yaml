@@ -249,14 +249,15 @@ regions:
               languages: [ar]
     
 
-    # Janūb Sīnā'
+    # Janūb Sīnā
     - codes:
         iso3166-2: EG-JS
       names:
-        - name: Janūb Sīnā'
+        - name: Janūb Sīnā
           sources:
             - name: iso3166-2
               languages: [ar]
+              value: Janūb Sīnā'
         - name: South Sinai
           sources:
             - name: iso3166-2
@@ -301,10 +302,11 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-        - name: Shamāl Sīnā'
+        - name: Shamāl Sīnā
           sources:
             - name: iso3166-2
               languages: [ar]
+              value: Shamāl Sīnā'
     
 
     # Sohag

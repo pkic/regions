@@ -11,46 +11,52 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ky]
-        - name: Batkenskaja oblast'
+        - name: Batkenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Batkenskaya oblast'
+              value: Batkenskaja oblast'
+        - name: Batkenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Batkenskaya oblast'
     
 
-    # Chuyskaya oblast'
+    # Chuyskaya
     - codes:
         iso3166-2: KG-C
       names:
-        - name: Chuyskaya oblast'
+        - name: Chuyskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Chuyskaya oblast'
         - name: Chüy
           sources:
             - name: iso3166-2
               languages: [ky]
-        - name: Čujskaja oblast'
+        - name: Čujskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Čujskaja oblast'
     
 
-    # Dzhalal-Abadskaya oblast'
+    # Dzhalal-Abadskaya
     - codes:
         iso3166-2: KG-J
       names:
-        - name: Dzhalal-Abadskaya oblast'
+        - name: Dzhalal-Abadskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Džalal-Abadskaja oblast'
+              value: Dzhalal-Abadskaya oblast'
+        - name: Džalal-Abadskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Džalal-Abadskaja oblast'
         - name: Jalal-Abad
           sources:
             - name: iso3166-2
@@ -93,18 +99,20 @@ regions:
               languages: [ky]
     
 
-    # Issyk-Kul'skaja oblast'
+    # Issyk-Kul'skaja
     - codes:
         iso3166-2: KG-Y
       names:
-        - name: Issyk-Kul'skaja oblast'
+        - name: Issyk-Kul'skaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Issyk-Kul'skaya oblast'
+              value: Issyk-Kul'skaja oblast'
+        - name: Issyk-Kul'skaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Issyk-Kul'skaya oblast'
         - name: Ysyk-Köl
           sources:
             - name: iso3166-2
@@ -119,14 +127,16 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ky]
-        - name: Narynskaja oblast'
+        - name: Narynskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Narynskaya oblast'
+              value: Narynskaja oblast'
+        - name: Narynskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Narynskaya oblast'
     
 
     # Osh
@@ -137,14 +147,16 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ky]
-        - name: Oshskaya oblast'
+        - name: Oshskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Ošskaja oblast'
+              value: Oshskaya oblast'
+        - name: Ošskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Ošskaja oblast'
     
 
     # Talas
@@ -155,11 +167,13 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ky]
-        - name: Talasskaja oblast'
+        - name: Talasskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Talasskaya oblast'
+              value: Talasskaja oblast'
+        - name: Talasskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Talasskaya oblast'

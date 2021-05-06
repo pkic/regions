@@ -61,6 +61,16 @@ regions:
               languages: [ar]
     
 
+    # Az Zarqā’
+    - codes:
+        iso3166-2: JO-AZ
+      names:
+        - name: Az Zarqā’
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Aţ Ţafīlah
     - codes:
         iso3166-2: JO-AT
@@ -109,17 +119,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # Zarqā’
-    - codes:
-        iso3166-2: JO-AZ
-      names:
-        - name: Zarqā’
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Az Zarqā’
     
 
     # ‘Ajlūn

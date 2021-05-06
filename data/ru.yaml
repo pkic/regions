@@ -4,18 +4,20 @@ complete: false
 regions:
     
 
-    # Adygeja, Respublika
+    # Adygeja
     - codes:
         iso3166-2: RU-AD
       names:
-        - name: Adygeja, Respublika
+        - name: Adygeja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Adygeya, Respublika
+              value: Adygeja, Respublika
+        - name: Adygeya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Adygeya, Respublika
     
 
     # Altajskij
@@ -33,140 +35,159 @@ regions:
               languages: [ru]
     
 
-    # Altaj, Respublika
+    # Altaj
     - codes:
         iso3166-2: RU-AL
       names:
-        - name: Altaj, Respublika
+        - name: Altaj
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Altay, Respublika
+              value: Altaj, Respublika
+        - name: Altay
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Altay, Respublika
     
 
-    # Amurskaja oblast'
+    # Amurskaja
     - codes:
         iso3166-2: RU-AMU
       names:
-        - name: Amurskaja oblast'
+        - name: Amurskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Amurskaya oblast'
+              value: Amurskaja oblast'
+        - name: Amurskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Amurskaya oblast'
     
 
-    # Arhangel'skaja oblast'
+    # Arhangel'skaja
     - codes:
         iso3166-2: RU-ARK
       names:
-        - name: Arhangel'skaja oblast'
+        - name: Arhangel'skaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Arkhangel'skaya oblast'
+              value: Arhangel'skaja oblast'
+        - name: Arkhangel'skaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Arkhangel'skaya oblast'
     
 
-    # Astrahanskaja oblast'
+    # Astrahanskaja
     - codes:
         iso3166-2: RU-AST
       names:
-        - name: Astrahanskaja oblast'
+        - name: Astrahanskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Astrakhanskaya oblast'
+              value: Astrahanskaja oblast'
+        - name: Astrakhanskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Astrakhanskaya oblast'
     
 
-    # Bashkortostan, Respublika
+    # Bashkortostan
     - codes:
         iso3166-2: RU-BA
       names:
-        - name: Bashkortostan, Respublika
+        - name: Bashkortostan
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Baškortostan, Respublika
+              value: Bashkortostan, Respublika
+        - name: Baškortostan
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Baškortostan, Respublika
     
 
-    # Belgorodskaja oblast'
+    # Belgorodskaja
     - codes:
         iso3166-2: RU-BEL
       names:
-        - name: Belgorodskaja oblast'
+        - name: Belgorodskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Belgorodskaya oblast'
+              value: Belgorodskaja oblast'
+        - name: Belgorodskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Belgorodskaya oblast'
     
 
-    # Brjanskaja oblast'
+    # Brjanskaja
     - codes:
         iso3166-2: RU-BRY
       names:
-        - name: Brjanskaja oblast'
+        - name: Brjanskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Bryanskaya oblast'
+              value: Brjanskaja oblast'
+        - name: Bryanskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Bryanskaya oblast'
     
 
-    # Burjatija, Respublika
+    # Burjatija
     - codes:
         iso3166-2: RU-BU
       names:
-        - name: Burjatija, Respublika
+        - name: Burjatija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Buryatiya, Respublika
+              value: Burjatija, Respublika
+        - name: Buryatiya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Buryatiya, Respublika
     
 
-    # Chuvashskaya Respublika
+    # Chuvashskaya
     - codes:
         iso3166-2: RU-CU
       names:
-        - name: Chuvashskaya Respublika
+        - name: Chuvashskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Čuvašskaja Respublika
+              value: Chuvashskaya Respublika
+        - name: Čuvašskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Čuvašskaja Respublika
     
 
-    # Dagestan, Respublika
+    # Dagestan
     - codes:
         iso3166-2: RU-DA
       names:
-        - name: Dagestan, Respublika
+        - name: Dagestan
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Dagestan, Respublika
     
 
     # Hanty-Mansijskij avtonomnyj okrug
@@ -191,46 +212,52 @@ regions:
               languages: [ru]
     
 
-    # Ingushetiya, Respublika
+    # Ingushetiya
     - codes:
         iso3166-2: RU-IN
       names:
-        - name: Ingushetiya, Respublika
+        - name: Ingushetiya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Ingušetija, Respublika
+              value: Ingushetiya, Respublika
+        - name: Ingušetija
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Ingušetija, Respublika
     
 
-    # Irkutskaja oblast'
+    # Irkutskaja
     - codes:
         iso3166-2: RU-IRK
       names:
-        - name: Irkutskaja oblast'
+        - name: Irkutskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Irkutskaya oblast'
+              value: Irkutskaja oblast'
+        - name: Irkutskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Irkutskaya oblast'
     
 
-    # Ivanovskaja oblast'
+    # Ivanovskaja
     - codes:
         iso3166-2: RU-IVA
       names:
-        - name: Ivanovskaja oblast'
+        - name: Ivanovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Ivanovskaya oblast'
+              value: Ivanovskaja oblast'
+        - name: Ivanovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Ivanovskaya oblast'
     
 
     # Jamalo-Neneckij avtonomnyj okrug
@@ -247,74 +274,84 @@ regions:
               languages: [ru]
     
 
-    # Jaroslavskaja oblast'
+    # Jaroslavskaja
     - codes:
         iso3166-2: RU-YAR
       names:
-        - name: Jaroslavskaja oblast'
+        - name: Jaroslavskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Yaroslavskaya oblast'
+              value: Jaroslavskaja oblast'
+        - name: Yaroslavskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Yaroslavskaya oblast'
     
 
-    # Kabardino-Balkarskaja Respublika
+    # Kabardino-Balkarskaja
     - codes:
         iso3166-2: RU-KB
       names:
-        - name: Kabardino-Balkarskaja Respublika
+        - name: Kabardino-Balkarskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kabardino-Balkarskaya Respublika
+              value: Kabardino-Balkarskaja Respublika
+        - name: Kabardino-Balkarskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kabardino-Balkarskaya Respublika
     
 
-    # Kaliningradskaja oblast'
+    # Kaliningradskaja
     - codes:
         iso3166-2: RU-KGD
       names:
-        - name: Kaliningradskaja oblast'
+        - name: Kaliningradskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kaliningradskaya oblast'
+              value: Kaliningradskaja oblast'
+        - name: Kaliningradskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kaliningradskaya oblast'
     
 
-    # Kalmykija, Respublika
+    # Kalmykija
     - codes:
         iso3166-2: RU-KL
       names:
-        - name: Kalmykija, Respublika
+        - name: Kalmykija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kalmykiya, Respublika
+              value: Kalmykija, Respublika
+        - name: Kalmykiya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kalmykiya, Respublika
     
 
-    # Kaluzhskaya oblast'
+    # Kaluzhskaya
     - codes:
         iso3166-2: RU-KLU
       names:
-        - name: Kaluzhskaya oblast'
+        - name: Kaluzhskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kalužskaja oblast'
+              value: Kaluzhskaya oblast'
+        - name: Kalužskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kalužskaja oblast'
     
 
     # Kamchatskiy kray
@@ -332,46 +369,52 @@ regions:
               value: Kamčatskij kraj
     
 
-    # Karachayevo-Cherkesskaya Respublika
+    # Karachayevo-Cherkesskaya
     - codes:
         iso3166-2: RU-KC
       names:
-        - name: Karachayevo-Cherkesskaya Respublika
+        - name: Karachayevo-Cherkesskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Karačaevo-Čerkesskaja Respublika
+              value: Karachayevo-Cherkesskaya Respublika
+        - name: Karačaevo-Čerkesskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Karačaevo-Čerkesskaja Respublika
     
 
-    # Karelija, Respublika
+    # Karelija
     - codes:
         iso3166-2: RU-KR
       names:
-        - name: Karelija, Respublika
+        - name: Karelija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kareliya, Respublika
+              value: Karelija, Respublika
+        - name: Kareliya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kareliya, Respublika
     
 
-    # Kemerovskaja oblast'
+    # Kemerovskaja
     - codes:
         iso3166-2: RU-KEM
       names:
-        - name: Kemerovskaja oblast'
+        - name: Kemerovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kemerovskaya oblast'
+              value: Kemerovskaja oblast'
+        - name: Kemerovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kemerovskaya oblast'
     
 
     # Habarovskij
@@ -389,56 +432,63 @@ regions:
               languages: [ru]
     
 
-    # Hakasija, Respublika
+    # Hakasija
     - codes:
         iso3166-2: RU-KK
       names:
-        - name: Hakasija, Respublika
+        - name: Hakasija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Khakasiya, Respublika
+              value: Hakasija, Respublika
+        - name: Khakasiya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Khakasiya, Respublika
     
 
-    # Kirovskaja oblast'
+    # Kirovskaja
     - codes:
         iso3166-2: RU-KIR
       names:
-        - name: Kirovskaja oblast'
+        - name: Kirovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kirovskaya oblast'
+              value: Kirovskaja oblast'
+        - name: Kirovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kirovskaya oblast'
     
 
-    # Komi, Respublika
+    # Komi
     - codes:
         iso3166-2: RU-KO
       names:
-        - name: Komi, Respublika
+        - name: Komi
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Komi, Respublika
     
 
-    # Kostromskaja oblast'
+    # Kostromskaja
     - codes:
         iso3166-2: RU-KOS
       names:
-        - name: Kostromskaja oblast'
+        - name: Kostromskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kostromskaya oblast'
+              value: Kostromskaja oblast'
+        - name: Kostromskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kostromskaya oblast'
     
 
     # Krasnodarskij
@@ -471,116 +521,132 @@ regions:
               languages: [ru]
     
 
-    # Kurganskaja oblast'
+    # Kurganskaja
     - codes:
         iso3166-2: RU-KGN
       names:
-        - name: Kurganskaja oblast'
+        - name: Kurganskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kurganskaya oblast'
+              value: Kurganskaja oblast'
+        - name: Kurganskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kurganskaya oblast'
     
 
-    # Kurskaja oblast'
+    # Kurskaja
     - codes:
         iso3166-2: RU-KRS
       names:
-        - name: Kurskaja oblast'
+        - name: Kurskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Kurskaya oblast'
+              value: Kurskaja oblast'
+        - name: Kurskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Kurskaya oblast'
     
 
-    # Leningradskaja oblast'
+    # Leningradskaja
     - codes:
         iso3166-2: RU-LEN
       names:
-        - name: Leningradskaja oblast'
+        - name: Leningradskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Leningradskaya oblast'
+              value: Leningradskaja oblast'
+        - name: Leningradskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Leningradskaya oblast'
     
 
-    # Lipeckaja oblast'
+    # Lipeckaja
     - codes:
         iso3166-2: RU-LIP
       names:
-        - name: Lipeckaja oblast'
+        - name: Lipeckaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Lipetskaya oblast'
+              value: Lipeckaja oblast'
+        - name: Lipetskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Lipetskaya oblast'
     
 
-    # Magadanskaja oblast'
+    # Magadanskaja
     - codes:
         iso3166-2: RU-MAG
       names:
-        - name: Magadanskaja oblast'
+        - name: Magadanskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Magadanskaya oblast'
+              value: Magadanskaja oblast'
+        - name: Magadanskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Magadanskaya oblast'
     
 
-    # Marij Èl, Respublika
+    # Marij Èl
     - codes:
         iso3166-2: RU-ME
       names:
-        - name: Marij Èl, Respublika
+        - name: Marij Èl
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Mariy El, Respublika
+              value: Marij Èl, Respublika
+        - name: Mariy
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Mariy El, Respublika
     
 
-    # Mordovija, Respublika
+    # Mordovija
     - codes:
         iso3166-2: RU-MO
       names:
-        - name: Mordovija, Respublika
+        - name: Mordovija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Mordoviya, Respublika
+              value: Mordovija, Respublika
+        - name: Mordoviya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Mordoviya, Respublika
     
 
-    # Moskovskaja oblast'
+    # Moskovskaja
     - codes:
         iso3166-2: RU-MOS
       names:
-        - name: Moskovskaja oblast'
+        - name: Moskovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Moskovskaya oblast'
+              value: Moskovskaja oblast'
+        - name: Moskovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Moskovskaya oblast'
     
 
     # Moskva
@@ -593,18 +659,20 @@ regions:
               languages: [ru]
     
 
-    # Murmanskaja oblast'
+    # Murmanskaja
     - codes:
         iso3166-2: RU-MUR
       names:
-        - name: Murmanskaja oblast'
+        - name: Murmanskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Murmanskaya oblast'
+              value: Murmanskaja oblast'
+        - name: Murmanskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Murmanskaya oblast'
     
 
     # Neneckij avtonomnyj okrug
@@ -621,102 +689,116 @@ regions:
               languages: [ru]
     
 
-    # Nizhegorodskaya oblast'
+    # Nizhegorodskaya
     - codes:
         iso3166-2: RU-NIZ
       names:
-        - name: Nizhegorodskaya oblast'
+        - name: Nizhegorodskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Nižegorodskaja oblast'
+              value: Nizhegorodskaya oblast'
+        - name: Nižegorodskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Nižegorodskaja oblast'
     
 
-    # Novgorodskaja oblast'
+    # Novgorodskaja
     - codes:
         iso3166-2: RU-NGR
       names:
-        - name: Novgorodskaja oblast'
+        - name: Novgorodskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Novgorodskaya oblast'
+              value: Novgorodskaja oblast'
+        - name: Novgorodskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Novgorodskaya oblast'
     
 
-    # Novosibirskaja oblast'
+    # Novosibirskaja
     - codes:
         iso3166-2: RU-NVS
       names:
-        - name: Novosibirskaja oblast'
+        - name: Novosibirskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Novosibirskaya oblast'
+              value: Novosibirskaja oblast'
+        - name: Novosibirskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Novosibirskaya oblast'
     
 
-    # Omskaja oblast'
+    # Omskaja
     - codes:
         iso3166-2: RU-OMS
       names:
-        - name: Omskaja oblast'
+        - name: Omskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Omskaya oblast'
+              value: Omskaja oblast'
+        - name: Omskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Omskaya oblast'
     
 
-    # Orenburgskaja oblast'
+    # Orenburgskaja
     - codes:
         iso3166-2: RU-ORE
       names:
-        - name: Orenburgskaja oblast'
+        - name: Orenburgskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Orenburgskaya oblast'
+              value: Orenburgskaja oblast'
+        - name: Orenburgskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Orenburgskaya oblast'
     
 
-    # Orlovskaja oblast'
+    # Orlovskaja
     - codes:
         iso3166-2: RU-ORL
       names:
-        - name: Orlovskaja oblast'
+        - name: Orlovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Orlovskaya oblast'
+              value: Orlovskaja oblast'
+        - name: Orlovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Orlovskaya oblast'
     
 
-    # Penzenskaja oblast'
+    # Penzenskaja
     - codes:
         iso3166-2: RU-PNZ
       names:
-        - name: Penzenskaja oblast'
+        - name: Penzenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Penzenskaya oblast'
+              value: Penzenskaja oblast'
+        - name: Penzenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Penzenskaya oblast'
     
 
     # Permskij
@@ -749,60 +831,68 @@ regions:
               languages: [ru]
     
 
-    # Pskovskaja oblast'
+    # Pskovskaja
     - codes:
         iso3166-2: RU-PSK
       names:
-        - name: Pskovskaja oblast'
+        - name: Pskovskaja
           sources:
             - name: iso3166-2
               languages: [ur]
-        - name: Pskovskaya oblast'
+              value: Pskovskaja oblast'
+        - name: Pskovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Pskovskaya oblast'
     
 
-    # Rostovskaja oblast'
+    # Rostovskaja
     - codes:
         iso3166-2: RU-ROS
       names:
-        - name: Rostovskaja oblast'
+        - name: Rostovskaja
           sources:
             - name: iso3166-2
               languages: [ur]
-        - name: Rostovskaya oblast'
+              value: Rostovskaja oblast'
+        - name: Rostovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Rostovskaya oblast'
     
 
-    # Rjazanskaja oblast'
+    # Rjazanskaja
     - codes:
         iso3166-2: RU-RYA
       names:
-        - name: Rjazanskaja oblast'
+        - name: Rjazanskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Ryazanskaya oblast'
+              value: Rjazanskaja oblast'
+        - name: Ryazanskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Ryazanskaya oblast'
     
 
-    # Sahalinskaja oblast'
+    # Sahalinskaja
     - codes:
         iso3166-2: RU-SAK
       names:
-        - name: Sahalinskaja oblast'
+        - name: Sahalinskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Sakhalinskaya oblast'
+              value: Sahalinskaja oblast'
+        - name: Sakhalinskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Sakhalinskaya oblast'
     
 
     # Jakutija
@@ -813,32 +903,36 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Saha, Respublika
+        - name: Saha
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Sakha, Respublika
+              value: Saha, Respublika
+        - name: Sakha
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Sakha, Respublika
         - name: Yakutiya
           sources:
             - name: iso3166-2
               languages: [ru]
     
 
-    # Samarskaja oblast'
+    # Samarskaja
     - codes:
         iso3166-2: RU-SAM
       names:
-        - name: Samarskaja oblast'
+        - name: Samarskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Samarskaya oblast'
+              value: Samarskaja oblast'
+        - name: Samarskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Samarskaya oblast'
     
 
     # Sankt-Peterburg
@@ -851,18 +945,20 @@ regions:
               languages: [ru]
     
 
-    # Saratovskaja oblast'
+    # Saratovskaja
     - codes:
         iso3166-2: RU-SAR
       names:
-        - name: Saratovskaja oblast'
+        - name: Saratovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Saratovskaya oblast'
+              value: Saratovskaja oblast'
+        - name: Saratovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Saratovskaya oblast'
     
 
     # Alanija
@@ -879,28 +975,32 @@ regions:
             - name: iso3166-2
               languages: [ru]
               value: Alaniya [Respublika Severnaya Osetiya Alaniya]
-        - name: Severnaja Osetija, Respublika
+        - name: Severnaja Osetija
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Severnaya Osetiya, Respublika
+              value: Severnaja Osetija, Respublika
+        - name: Severnaya Osetiya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Severnaya Osetiya, Respublika
     
 
-    # Smolenskaja oblast'
+    # Smolenskaja
     - codes:
         iso3166-2: RU-SMO
       names:
-        - name: Smolenskaja oblast'
+        - name: Smolenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Smolenskaya oblast'
+              value: Smolenskaja oblast'
+        - name: Smolenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Smolenskaya oblast'
     
 
     # Stavropol'skij
@@ -918,98 +1018,111 @@ regions:
               languages: [ru]
     
 
-    # Sverdlovskaja oblast'
+    # Sverdlovskaja
     - codes:
         iso3166-2: RU-SVE
       names:
-        - name: Sverdlovskaja oblast'
+        - name: Sverdlovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Sverdlovskaya oblast'
+              value: Sverdlovskaja oblast'
+        - name: Sverdlovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Sverdlovskaya oblast'
     
 
-    # Tambovskaja oblast'
+    # Tambovskaja
     - codes:
         iso3166-2: RU-TAM
       names:
-        - name: Tambovskaja oblast'
+        - name: Tambovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tambovskaya oblast'
+              value: Tambovskaja oblast'
+        - name: Tambovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tambovskaya oblast'
     
 
-    # Tatarstan, Respublika
+    # Tatarstan
     - codes:
         iso3166-2: RU-TA
       names:
-        - name: Tatarstan, Respublika
+        - name: Tatarstan
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tatarstan, Respublika
     
 
-    # Tomskaja oblast'
+    # Tomskaja
     - codes:
         iso3166-2: RU-TOM
       names:
-        - name: Tomskaja oblast'
+        - name: Tomskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tomskaya oblast'
+              value: Tomskaja oblast'
+        - name: Tomskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tomskaya oblast'
     
 
-    # Tul'skaja oblast'
+    # Tul'skaja
     - codes:
         iso3166-2: RU-TUL
       names:
-        - name: Tul'skaja oblast'
+        - name: Tul'skaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tul'skaya oblast'
+              value: Tul'skaja oblast'
+        - name: Tul'skaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tul'skaya oblast'
     
 
-    # Tverskaja oblast'
+    # Tverskaja
     - codes:
         iso3166-2: RU-TVE
       names:
-        - name: Tverskaja oblast'
+        - name: Tverskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tverskaya oblast'
+              value: Tverskaja oblast'
+        - name: Tverskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tverskaya oblast'
     
 
-    # Tjumenskaja oblast'
+    # Tjumenskaja
     - codes:
         iso3166-2: RU-TYU
       names:
-        - name: Tjumenskaja oblast'
+        - name: Tjumenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tyumenskaya oblast'
+              value: Tjumenskaja oblast'
+        - name: Tyumenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tyumenskaya oblast'
     
 
     # Tuva
@@ -1020,108 +1133,123 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Tyva, Respublika
+        - name: Tyva
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Tyva, Respublika
     
 
-    # Udmurtskaja Respublika
+    # Udmurtskaja
     - codes:
         iso3166-2: RU-UD
       names:
-        - name: Udmurtskaja Respublika
+        - name: Udmurtskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Udmurtskaya Respublika
+              value: Udmurtskaja Respublika
+        - name: Udmurtskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Udmurtskaya Respublika
     
 
-    # Ul'janovskaja oblast'
+    # Ul'janovskaja
     - codes:
         iso3166-2: RU-ULY
       names:
-        - name: Ul'janovskaja oblast'
+        - name: Ul'janovskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Ul'yanovskaya oblast'
+              value: Ul'janovskaja oblast'
+        - name: Ul'yanovskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Ul'yanovskaya oblast'
     
 
-    # Vladimirskaja oblast'
+    # Vladimirskaja
     - codes:
         iso3166-2: RU-VLA
       names:
-        - name: Vladimirskaja oblast'
+        - name: Vladimirskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Vladimirskaya oblast'
+              value: Vladimirskaja oblast'
+        - name: Vladimirskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Vladimirskaya oblast'
     
 
-    # Volgogradskaja oblast'
+    # Volgogradskaja
     - codes:
         iso3166-2: RU-VGG
       names:
-        - name: Volgogradskaja oblast'
+        - name: Volgogradskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Volgogradskaya oblast'
+              value: Volgogradskaja oblast'
+        - name: Volgogradskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Volgogradskaya oblast'
     
 
-    # Vologodskaja oblast'
+    # Vologodskaja
     - codes:
         iso3166-2: RU-VLG
       names:
-        - name: Vologodskaja oblast'
+        - name: Vologodskaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Vologodskaya oblast'
+              value: Vologodskaja oblast'
+        - name: Vologodskaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Vologodskaya oblast'
     
 
-    # Voronezhskaya oblast'
+    # Voronezhskaya
     - codes:
         iso3166-2: RU-VOR
       names:
-        - name: Voronezhskaya oblast'
+        - name: Voronezhskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Voronežskaja oblast'
+              value: Voronezhskaya oblast'
+        - name: Voronežskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Voronežskaja oblast'
     
 
-    # Evrejskaja avtonomnaja oblast'
+    # Evrejskaja avtonomnaja
     - codes:
         iso3166-2: RU-YEV
       names:
-        - name: Evrejskaja avtonomnaja oblast'
+        - name: Evrejskaja avtonomnaja
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Yevreyskaya avtonomnaya oblast'
+              value: Evrejskaja avtonomnaja oblast'
+        - name: Yevreyskaya avtonomnaya
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Yevreyskaya avtonomnaya oblast'
     
 
     # Zabajkal'skij
@@ -1139,32 +1267,36 @@ regions:
               languages: [ru]
     
 
-    # Chelyabinskaya oblast'
+    # Chelyabinskaya
     - codes:
         iso3166-2: RU-CHE
       names:
-        - name: Chelyabinskaya oblast'
+        - name: Chelyabinskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Čeljabinskaja oblast'
+              value: Chelyabinskaya oblast'
+        - name: Čeljabinskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Čeljabinskaja oblast'
     
 
-    # Chechenskaya Respublika
+    # Chechenskaya
     - codes:
         iso3166-2: RU-CE
       names:
-        - name: Chechenskaya Respublika
+        - name: Chechenskaya
           sources:
             - name: iso3166-2
               languages: [ru]
-        - name: Čečenskaja Respublika
+              value: Chechenskaya Respublika
+        - name: Čečenskaja
           sources:
             - name: iso3166-2
               languages: [ru]
+              value: Čečenskaja Respublika
     
 
     # Chukotskiy avtonomnyy okrug

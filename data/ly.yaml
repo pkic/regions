@@ -93,6 +93,16 @@ regions:
               languages: [ar]
     
 
+    # Az Zāwiyah
+    - codes:
+        iso3166-2: LY-ZA
+      names:
+        - name: Az Zāwiyah
+          sources:
+            - name: iso3166-2
+              languages: [ar]
+    
+
     # Banghāzī
     - codes:
         iso3166-2: LY-BA
@@ -202,17 +212,6 @@ regions:
           sources:
             - name: iso3166-2
               languages: [ar]
-    
-
-    # Zāwiyah
-    - codes:
-        iso3166-2: LY-ZA
-      names:
-        - name: Zāwiyah
-          sources:
-            - name: iso3166-2
-              languages: [ar]
-              value: Az Zāwiyah
     
 
     # Ţarābulus

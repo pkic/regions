@@ -92,10 +92,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Banská Bystrica
+        - name: της Banská Bystrica
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Banská Bystrica
         - name: Банксобистричка
           sources:
             - name: euvoc
@@ -200,10 +201,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή Μπρατισλάβας
+        - name: Μπρατισλάβας
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή Μπρατισλάβας
         - name: Братислава
           sources:
             - name: euvoc
@@ -309,10 +311,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Košice
+        - name: της Košice
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Košice
         - name: Кошице
           sources:
             - name: euvoc
@@ -418,10 +421,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Nitra
+        - name: της Nitra
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Nitra
         - name: Нитра
           sources:
             - name: euvoc
@@ -522,10 +526,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Prešov
+        - name: της Prešov
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Prešov
         - name: Прешов
           sources:
             - name: euvoc
@@ -633,10 +638,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Trenčín
+        - name: της Trenčín
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Trenčín
         - name: Тренчин
           sources:
             - name: euvoc
@@ -740,10 +746,11 @@ regions:
           sources:
             - name: euvoc
               languages: [ro]
-        - name: Περιοχή της Trnava
+        - name: της Trnava
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Trnava
         - name: Трнава
           sources:
             - name: euvoc
@@ -851,10 +858,11 @@ regions:
             - name: iso3166-2
               languages: [sk]
               value: Žilinský kraj
-        - name: Περιοχή της Žilina
+        - name: της Žilina
           sources:
             - name: euvoc
               languages: [el]
+              value: Περιοχή της Žilina
         - name: Жилинска
           sources:
             - name: euvoc

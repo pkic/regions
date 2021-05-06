@@ -188,7 +188,7 @@ regions:
         - name: Lebowa Bodikela
           sources:
             - name: iso3166-2
-        - name: Leboya  Bophirima
+        - name: Leboya Bophirima
           sources:
             - name: iso3166-2
               languages: [st]

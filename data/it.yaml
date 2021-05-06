@@ -194,260 +194,6 @@ regions:
               languages: [it]
     
 
-    # Autonomous Bolzano
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5246
-      names:
-        - name: Autonome Bolzano
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Autonome Provincie Bolzano
-            - name: euvoc
-              languages: [fr]
-              value: province autonome de Bolzano
-        - name: Autonomna Bolzano
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Autonomna pokrajina Bolzano
-        - name: Autonomous Bolzano
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Province of Bolzano
-        - name: Autonomă Bolzano
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Provincia Autonomă Bolzano
-        - name: Bolcāno autonomā
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Bolcāno autonomā province
-        - name: Bolzano autonominė
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Bolzano autonominė provincija
-        - name: Bolzano autonoomne
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Bolzano autonoomne provints
-        - name: Bolzano autonóm
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Bolzano autonóm tartomány
-        - name: Bolzanon itsehallintoalue
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Den Selvstændige Bolzano
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Den Selvstændige Provins Bolzano
-        - name: Krahina Autonome e Bolcanos
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: autonoma Bolzano
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia autonoma di Bolzano
-        - name: autonome Bozen
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: autonome Provinz Bozen
-        - name: autonomiczna Bolzano
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: autonomiczna prowincja Bolzano
-        - name: autonomní Bolzáno
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: autonomní provincie Bolzáno
-        - name: autonómna Bolzano
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: autonómna provincia Bolzano
-        - name: autónoma Bolzano
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia autónoma de Bolzano
-            - name: euvoc
-              languages: [pt]
-              value: província autónoma de Bolzano
-        - name: avtonomna Bolzano
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: avtonomna pokrajina Bolzano
-        - name: den självstyrande provinsen Bolzano
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: il-Provinċja awtonoma ta’ Bolzano
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Αυτόνομη του Μπολτζάνο
-          sources:
-            - name: euvoc
-              languages: [el]
-              value: Αυτόνομη Επαρχία του Μπολτζάνο
-        - name: Автономна Болцано
-          sources:
-            - name: euvoc
-              languages: [bg]
-              value: Автономна провинция на Болцано
-        - name: Автономна Покраина Болцано
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Аутономна покрајина Болцано
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
-    # Autonomous Trento
-    - codes:
-        euvoc: http://eurovoc.europa.eu/5247
-      names:
-        - name: Autonome Trento
-          sources:
-            - name: euvoc
-              languages: [nl]
-              value: Autonome Provincie Trento
-        - name: Autonomna Trento
-          sources:
-            - name: euvoc
-              languages: [hr]
-              value: Autonomna pokrajina Trento
-        - name: Autonomous Trento
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Province of Trento
-        - name: Autonomă Trento
-          sources:
-            - name: euvoc
-              languages: [ro]
-              value: Provincia Autonomă Trento
-        - name: Den Selvstændige Trento
-          sources:
-            - name: euvoc
-              languages: [da]
-              value: Den Selvstændige Provins Trento
-        - name: Krahina Autonome e Trentos
-          sources:
-            - name: euvoc
-              languages: [sq]
-        - name: Trento autonominė
-          sources:
-            - name: euvoc
-              languages: [lt]
-              value: Trento autonominė provincija
-        - name: Trento autonomā
-          sources:
-            - name: euvoc
-              languages: [lv]
-              value: Trento autonomā province
-        - name: Trento autonoomne
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Trento autonoomne provints
-        - name: Trento autonóm
-          sources:
-            - name: euvoc
-              languages: [hu]
-              value: Trento autonóm tartomány
-        - name: Trenton itsehallintoalue
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: autonoma Trento
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: provincia autonoma di Trento
-        - name: autonome Trente
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: province autonome de Trente
-        - name: autonome Trient
-          sources:
-            - name: euvoc
-              languages: [de]
-              value: autonome Provinz Trient
-        - name: autonomiczna Trydent
-          sources:
-            - name: euvoc
-              languages: [pl]
-              value: autonomiczna prowincja Trydent
-        - name: autonomní Trident
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: autonomní provincie Trident
-        - name: autonómna Trento
-          sources:
-            - name: euvoc
-              languages: [sk]
-              value: autonómna provincia Trento
-        - name: autónoma Trento
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: provincia autónoma de Trento
-            - name: euvoc
-              languages: [pt]
-              value: província autónoma de Trento
-        - name: avtonomna Trento
-          sources:
-            - name: euvoc
-              languages: [sl]
-              value: avtonomna pokrajina Trento
-        - name: den självstyrande provinsen Trento
-          sources:
-            - name: euvoc
-              languages: [sv]
-        - name: il-Provinċja awtonoma ta’ Trento
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Αυτόνομη του Τρέντο
-          sources:
-            - name: euvoc
-              languages: [el]
-              value: Αυτόνομη Επαρχία του Τρέντο
-        - name: Автономна Покраина Тренто
-          sources:
-            - name: euvoc
-              languages: [mk]
-        - name: Автономна Тренто
-          sources:
-            - name: euvoc
-              languages: [bg]
-              value: Автономна провинция на Тренто
-        - name: Аутономна покрајина Тренто
-          sources:
-            - name: euvoc
-              languages: [sr]
-    
-
     # Avellino
     - codes:
         iso3166-2: IT-AV
@@ -559,16 +305,128 @@ regions:
 
     # Bolzano
     - codes:
+        euvoc: http://eurovoc.europa.eu/5246
         iso3166-2: IT-BZ
       names:
+        - name: Autonomna Bolzano
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Autonomna pokrajina Bolzano
+        - name: Autonomă Bolzano
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Provincia Autonomă Bolzano
+        - name: Bolcāno autonomā
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Bolcāno autonomā province
         - name: Bolzano
           sources:
+            - name: euvoc
+              languages: [fr]
+              value: province autonome de Bolzano
+            - name: euvoc
+              languages: [sl]
+              value: avtonomna pokrajina Bolzano
+            - name: euvoc
+              languages: [et]
+              value: Bolzano autonoomne provints
+            - name: euvoc
+              languages: [hu]
+              value: Bolzano autonóm tartomány
+            - name: euvoc
+              languages: [nl]
+              value: Autonome Provincie Bolzano
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Province of Bolzano
             - name: iso3166-2
               languages: [it]
+        - name: Bolzano autonominė
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Bolzano autonominė provincija
+        - name: Bolzanon itsehallintoalue
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Bolzáno
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: autonomní provincie Bolzáno
         - name: Bozen
           sources:
+            - name: euvoc
+              languages: [de]
+              value: autonome Provinz Bozen
             - name: iso3166-2
               languages: [de]
+        - name: Den Selvstændige Bolzano
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: Den Selvstændige Provins Bolzano
+        - name: Krahina e Bolcanos
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Krahina Autonome e Bolcanos
+        - name: autonoma Bolzano
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia autonoma di Bolzano
+        - name: autonomiczna Bolzano
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: autonomiczna prowincja Bolzano
+        - name: autonómna Bolzano
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: autonómna provincia Bolzano
+        - name: autónoma Bolzano
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia autónoma de Bolzano
+            - name: euvoc
+              languages: [pt]
+              value: província autónoma de Bolzano
+        - name: den självstyrande provinsen Bolzano
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: il-Provinċja ta’ Bolzano
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: il-Provinċja awtonoma ta’ Bolzano
+        - name: Αυτόνομη Μπολτζάνο
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Αυτόνομη Επαρχία του Μπολτζάνο
+        - name: Аутономна покрајина Болцано
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Болцано
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Автономна провинция на Болцано
+        - name: Покраина Болцано
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Автономна Покраина Болцано
     
 
     # Brescia
@@ -2190,12 +2048,128 @@ regions:
 
     # Trento
     - codes:
+        euvoc: http://eurovoc.europa.eu/5247
         iso3166-2: IT-TN
       names:
+        - name: Autonomna Trento
+          sources:
+            - name: euvoc
+              languages: [hr]
+              value: Autonomna pokrajina Trento
+        - name: Autonomă Trento
+          sources:
+            - name: euvoc
+              languages: [ro]
+              value: Provincia Autonomă Trento
+        - name: Den Selvstændige Trento
+          sources:
+            - name: euvoc
+              languages: [da]
+              value: Den Selvstændige Provins Trento
+        - name: Krahina e Trentos
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Krahina Autonome e Trentos
+        - name: Trente
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: province autonome de Trente
         - name: Trento
           sources:
+            - name: euvoc
+              languages: [sl]
+              value: avtonomna pokrajina Trento
+            - name: euvoc
+              languages: [et]
+              value: Trento autonoomne provints
+            - name: euvoc
+              languages: [hu]
+              value: Trento autonóm tartomány
+            - name: euvoc
+              languages: [nl]
+              value: Autonome Provincie Trento
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Province of Trento
             - name: iso3166-2
               languages: [it]
+        - name: Trento autonominė
+          sources:
+            - name: euvoc
+              languages: [lt]
+              value: Trento autonominė provincija
+        - name: Trento autonomā
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Trento autonomā province
+        - name: Trenton itsehallintoalue
+          sources:
+            - name: euvoc
+              languages: [fi]
+        - name: Trident
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: autonomní provincie Trident
+        - name: Trient
+          sources:
+            - name: euvoc
+              languages: [de]
+              value: autonome Provinz Trient
+        - name: autonoma Trento
+          sources:
+            - name: euvoc
+              languages: [it]
+              value: provincia autonoma di Trento
+        - name: autonomiczna Trydent
+          sources:
+            - name: euvoc
+              languages: [pl]
+              value: autonomiczna prowincja Trydent
+        - name: autonómna Trento
+          sources:
+            - name: euvoc
+              languages: [sk]
+              value: autonómna provincia Trento
+        - name: autónoma Trento
+          sources:
+            - name: euvoc
+              languages: [es]
+              value: provincia autónoma de Trento
+            - name: euvoc
+              languages: [pt]
+              value: província autónoma de Trento
+        - name: den självstyrande provinsen Trento
+          sources:
+            - name: euvoc
+              languages: [sv]
+        - name: il-Provinċja ta’ Trento
+          sources:
+            - name: euvoc
+              languages: [mt]
+              value: il-Provinċja awtonoma ta’ Trento
+        - name: Αυτόνομη Τρέντο
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Αυτόνομη Επαρχία του Τρέντο
+        - name: Аутономна покрајина Тренто
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Покраина Тренто
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Автономна Покраина Тренто
+        - name: Тренто
+          sources:
+            - name: euvoc
+              languages: [bg]
+              value: Автономна провинция на Тренто
     
 
     # Treviso

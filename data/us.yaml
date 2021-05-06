@@ -519,11 +519,11 @@ regions:
               languages: [en]
     
 
-    # Virgin Islands, U.S.
+    # Virgin Islands
     - codes:
         iso3166-2: US-VI
       names:
-        - name: Virgin Islands, U.S.
+        - name: Virgin Islands
           sources:
             - name: iso3166-2
               languages: [en]

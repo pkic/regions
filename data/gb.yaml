@@ -65,14 +65,15 @@ regions:
               languages: [en]
     
 
-    # Armagh City, Banbridge and Craigavon
+    # Armagh Banbridge and Craigavon
     - codes:
         iso3166-2: GB-ABC
       names:
-        - name: Armagh City, Banbridge and Craigavon
+        - name: Armagh Banbridge and Craigavon
           sources:
             - name: iso3166-2
               languages: [en]
+              value: Armagh City, Banbridge and Craigavon
     
 
     # Barking and Dagenham

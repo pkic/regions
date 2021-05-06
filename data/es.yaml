@@ -94,12 +94,6 @@ regions:
           sources:
             - name: euvoc
               languages: [lt, lv]
-        - name: Autonomous Community Andalusia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Andalusia
-              type: alternative
         - name: Ανδαλουσία
           sources:
             - name: euvoc
@@ -136,6 +130,10 @@ regions:
       names:
         - name: Aragon
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Aragon
+              type: alternative
             - name: euvoc
               languages: [en, fr, hr, nl, ro]
         - name: Aragona
@@ -184,12 +182,6 @@ regions:
           sources:
             - name: euvoc
               languages: [sk]
-        - name: Autonomous Community Aragon
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Aragon
-              type: alternative
         - name: Αραγώνα
           sources:
             - name: euvoc
@@ -229,12 +221,6 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/3386
       names:
-        - name: Autonomous Community Balearic Islands
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of the Balearic Islands
-              type: alternative
         - name: Baleaarid
           sources:
             - name: euvoc
@@ -261,6 +247,10 @@ regions:
               languages: [sl]
         - name: Balearic Islands
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Balearic Islands
+              type: alternative
             - name: euvoc
               languages: [en]
         - name: Balearische Inseln
@@ -348,17 +338,11 @@ regions:
               value: Barcelona [Barcelona]
     
 
-    # Basque Country
+    # Basque country
     - codes:
         euvoc: http://eurovoc.europa.eu/2289
         iso3166-2: ES-PV
       names:
-        - name: Autonomous Community Basque country
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of the Basque country
-              type: alternative
         - name: Baskenland
           sources:
             - name: euvoc
@@ -396,8 +380,12 @@ regions:
             - name: euvoc
               languages: [pl]
               value: Kraj Basków
-        - name: Basque Country
+        - name: Basque country
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Basque country
+              type: alternative
             - name: euvoc
               languages: [en]
         - name: Baszkföld
@@ -487,12 +475,6 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/4172
       names:
-        - name: Autonomous Community Canary Islands
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of the Canary Islands
-              type: alternative
         - name: Canarie
           sources:
             - name: euvoc
@@ -507,6 +489,10 @@ regions:
               languages: [nl]
         - name: Canary Islands
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Canary Islands
+              type: alternative
             - name: euvoc
               languages: [en]
         - name: Gżejjer Kanarji
@@ -601,14 +587,12 @@ regions:
         euvoc: http://eurovoc.europa.eu/3385
         iso3166-2: ES-S
       names:
-        - name: Autonomous Community Cantabria
+        - name: Cantabria
           sources:
             - name: euvoc
               languages: [en]
               value: Autonomous Community of Cantabria
               type: alternative
-        - name: Cantabria
-          sources:
             - name: euvoc
               languages: [en, es, hr, it, mt, ro]
             - name: iso3166-2
@@ -687,12 +671,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/3384
         iso3166-2: ES-CM
       names:
-        - name: Autonomous Community Castile-La Mancha
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Castile-La Mancha
-              type: alternative
         - name: Castela e Mancha
           sources:
             - name: euvoc
@@ -704,8 +682,12 @@ regions:
         - name: Castile-La Mancha
           sources:
             - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Castile-La Mancha
+              type: alternative
+            - name: euvoc
               languages: [en, mt]
-        - name: Castilia Mancha
+        - name: Castilia - Mancha
           sources:
             - name: euvoc
               languages: [ro]
@@ -734,7 +716,7 @@ regions:
           sources:
             - name: euvoc
               languages: [sq]
-        - name: Kastilia Mancha
+        - name: Kastilia- Mancha
           sources:
             - name: euvoc
               languages: [fi]
@@ -803,12 +785,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/3382
         iso3166-2: ES-CL
       names:
-        - name: Autonomous Community Castile-Leon
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Castile-Leon
-              type: alternative
         - name: Castela e Leão
           sources:
             - name: euvoc
@@ -819,6 +795,10 @@ regions:
               languages: [it]
         - name: Castile-Leon
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Castile-Leon
+              type: alternative
             - name: euvoc
               languages: [en]
         - name: Castile-y-Léon
@@ -927,12 +907,6 @@ regions:
     - codes:
         euvoc: http://eurovoc.europa.eu/5273
       names:
-        - name: Autonomous Community Catalonia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Catalonia
-              type: alternative
         - name: Catalogna
           sources:
             - name: euvoc
@@ -943,6 +917,10 @@ regions:
               languages: [fr, ga]
         - name: Catalonia
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Catalonia
+              type: alternative
             - name: euvoc
               languages: [en, mt, ro]
         - name: Catalonien
@@ -1019,12 +997,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/6282
         iso3166-2: ES-CE
       names:
-        - name: Autonomous Ceuta
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous City of Ceuta
-              type: alternative
         - name: Ceuta
           sources:
             - name: euvoc
@@ -1047,224 +1019,6 @@ regions:
           sources:
             - name: euvoc
               languages: [bg, mk, sr]
-    
-
-    # Community Madrid
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3390
-        iso3166-2: ES-M
-      names:
-        - name: Autonomna zajednica Madrid
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Community Madrid
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Community of Madrid
-        - name: Comunidad Madrid
-          sources:
-            - name: euvoc
-              languages: [es]
-              value: Comunidad de Madrid
-        - name: Comunidade Madrid
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Comunidade de Madrid
-        - name: Comunitatea Madridului
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Comunità Madrid
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: Comunità di Madrid
-        - name: Komuniteti Madridit
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Komuniteti i Madridit
-        - name: Madrid
-          sources:
-            - name: euvoc
-              languages: [cs, mt, nl, sk, sv]
-            - name: iso3166-2
-              languages: [es]
-        - name: Madrid-regionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Madridas
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Madrides kopiena
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Madridi autonoomne
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Madridi autonoomne piirkond
-        - name: Madridin yhteisö
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Madryt
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: autonome Gemeinschaft Madrid
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: avtonomna skupnost Madrid
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: communauté Madrid
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: communauté de Madrid
-        - name: madridi közösség
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Κοινότητα της Μαδρίτης
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Мадрид
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Општина Мадрид
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Шпанска Автономна Покраина Мадрид
-          sources:
-            - name: euvoc
-              languages: [mk]
-    
-
-    # Community Valencia
-    - codes:
-        euvoc: http://eurovoc.europa.eu/3391
-      names:
-        - name: Autonomna zajednica Valencija
-          sources:
-            - name: euvoc
-              languages: [hr]
-        - name: Community Valencia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Community of Valencia
-        - name: Comunidad Valenciana
-          sources:
-            - name: euvoc
-              languages: [es]
-        - name: Comunidade Valença
-          sources:
-            - name: euvoc
-              languages: [pt]
-              value: Comunidade de Valença
-        - name: Comunitatea Valenciei
-          sources:
-            - name: euvoc
-              languages: [ro]
-        - name: Comunità Valencia
-          sources:
-            - name: euvoc
-              languages: [it]
-              value: Comunità di Valencia
-        - name: Komuniteti Valencias
-          sources:
-            - name: euvoc
-              languages: [sq]
-              value: Komuniteti i Valencias
-        - name: Valencia
-          sources:
-            - name: euvoc
-              languages: [nl, sk, sv]
-        - name: Valencia autonoomne
-          sources:
-            - name: euvoc
-              languages: [et]
-              value: Valencia autonoomne piirkond
-        - name: Valencia-regionen
-          sources:
-            - name: euvoc
-              languages: [da]
-        - name: Valencian Community
-          sources:
-            - name: euvoc
-              languages: [en]
-              type: alternative
-        - name: Valencian yhteisö
-          sources:
-            - name: euvoc
-              languages: [fi]
-        - name: Valencie
-          sources:
-            - name: euvoc
-              languages: [cs]
-              value: město Valencie
-        - name: Valensija
-          sources:
-            - name: euvoc
-              languages: [lt]
-        - name: Valensijas kopiena
-          sources:
-            - name: euvoc
-              languages: [lv]
-        - name: Valenzja
-          sources:
-            - name: euvoc
-              languages: [mt]
-        - name: Walencja
-          sources:
-            - name: euvoc
-              languages: [pl]
-        - name: autonome Gemeinschaft Valencia
-          sources:
-            - name: euvoc
-              languages: [de]
-        - name: avtonomna skupnost Valencia
-          sources:
-            - name: euvoc
-              languages: [sl]
-        - name: communauté Valence
-          sources:
-            - name: euvoc
-              languages: [fr]
-              value: communauté de Valence
-        - name: valenciai közösség
-          sources:
-            - name: euvoc
-              languages: [hu]
-        - name: Κοινότητα της Βαλέντσια
-          sources:
-            - name: euvoc
-              languages: [el]
-        - name: Валенсия
-          sources:
-            - name: euvoc
-              languages: [bg]
-        - name: Општина Валенсија
-          sources:
-            - name: euvoc
-              languages: [sr]
-        - name: Шпанска Автономна Покраина Валенсија
-          sources:
-            - name: euvoc
-              languages: [mk]
     
 
     # Coruña
@@ -1323,12 +1077,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/869
         iso3166-2: ES-EX
       names:
-        - name: Autonomous Community Extremadura
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Extremadura
-              type: alternative
         - name: Ekstremadura
           sources:
             - name: euvoc
@@ -1352,6 +1100,10 @@ regions:
         - name: Extremadura
           sources:
             - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Extremadura
+              type: alternative
+            - name: euvoc
               languages: [da, en, es, et, fi, hr, hu, mt, ro, sk, sv]
             - name: iso3166-2
               languages: [es]
@@ -1374,18 +1126,16 @@ regions:
         euvoc: http://eurovoc.europa.eu/1127
         iso3166-2: ES-GA
       names:
-        - name: Autonomous Community Galicia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Galicia
-              type: alternative
         - name: Galice
           sources:
             - name: euvoc
               languages: [fr]
         - name: Galicia
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Galicia
+              type: alternative
             - name: euvoc
               languages: [en, es, et, fi, mt, sq]
             - name: iso3166-2
@@ -1570,15 +1320,84 @@ regions:
               value: Lugo [Lugo]
     
 
-    # Madrid, Comunidad
+    # Madrid
     - codes:
+        euvoc: http://eurovoc.europa.eu/3390
         iso3166-2: ES-MD
       names:
-        - name: Madrid, Comunidad
+        - name: Autonomna Madrid
           sources:
+            - name: euvoc
+              languages: [hr]
+              value: Autonomna zajednica Madrid
+        - name: Comunitatea Madridului
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Komuniteti Madridit
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Komuniteti i Madridit
+        - name: Madrid
+          sources:
+            - name: euvoc
+              languages: [cs, de, en, es, fr, it, mt, nl, pt, sk, sv]
             - name: iso3166-2
               languages: [es]
-              value: Madrid, Comunidad de
+        - name: Madrid-regionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Madridas
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Madrides
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Madrides kopiena
+        - name: Madridi
+          sources:
+            - name: euvoc
+              languages: [et]
+              value: Madridi autonoomne piirkond
+            - name: euvoc
+              languages: [hu]
+              value: madridi közösség
+        - name: Madridin
+          sources:
+            - name: euvoc
+              languages: [fi]
+              value: Madridin yhteisö
+        - name: Madryt
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: skupnost Madrid
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: avtonomna skupnost Madrid
+        - name: της Μαδρίτης
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Κοινότητα της Μαδρίτης
+        - name: Мадрид
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Општина Мадрид
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Шпанска Покраина Мадрид
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Шпанска Автономна Покраина Мадрид
     
 
     # Melilla
@@ -1586,12 +1405,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/6283
         iso3166-2: ES-ML
       names:
-        - name: Autonomous Melilla
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous City of Melilla
-              type: alternative
         - name: Melila
           sources:
             - name: euvoc
@@ -1606,6 +1419,10 @@ regions:
               languages: [lt]
         - name: Melilla
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous City of Melilla
+              type: alternative
             - name: euvoc
               languages: [cs, da, de, en, es, et, fi, fr, hr, hu, it, mt, nl, pl, ro, sk, sl, sv]
             - name: iso3166-2
@@ -1633,12 +1450,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/3392
         iso3166-2: ES-MU
       names:
-        - name: Autonomous Community Murcia
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of the Region of Murcia
-              type: alternative
         - name: Murcia
           sources:
             - name: euvoc
@@ -1698,11 +1509,10 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: της Μούρθια
+        - name: Περιφέρεια της Μούρθια
           sources:
             - name: euvoc
               languages: [el]
-              value: Περιφέρεια της Μούρθια
         - name: Мурсия
           sources:
             - name: euvoc
@@ -1728,16 +1538,16 @@ regions:
               languages: [es]
     
 
-    # Nafarroako Foru Komunitatea
+    # Nafarroako Foru
     - codes:
         iso3166-2: ES-NC
       names:
-        - name: Nafarroako Foru Komunitatea
+        - name: Nafarroako Foru
           sources:
             - name: iso3166-2
               languages: [eu]
               value: Nafarroako Foru Komunitatea*
-        - name: Navarra, Comunidad Foral
+        - name: Navarra Foral
           sources:
             - name: iso3166-2
               languages: [es]
@@ -1749,13 +1559,7 @@ regions:
         euvoc: http://eurovoc.europa.eu/2038
         iso3166-2: ES-NA
       names:
-        - name: Autonomous Community Navarre
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of Navarre
-              type: alternative
-        - name: Foral Community Navarre
+        - name: Foral Navarre
           sources:
             - name: euvoc
               languages: [en]
@@ -1778,6 +1582,10 @@ regions:
               languages: [es]
         - name: Navarre
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of Navarre
+              type: alternative
             - name: euvoc
               languages: [en, fr, mt]
         - name: Nawarra
@@ -1874,12 +1682,6 @@ regions:
           sources:
             - name: euvoc
               languages: [hu]
-        - name: Autonomous Community Principality Asturias
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of the Principality of Asturias
-              type: alternative
         - name: Fürstentum Asturien
           sources:
             - name: euvoc
@@ -1900,6 +1702,10 @@ regions:
               value: Principado das Astúrias
         - name: Principality Asturias
           sources:
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of the Principality of Asturias
+              type: alternative
             - name: euvoc
               languages: [en]
               value: Principality of Asturias
@@ -1961,12 +1767,6 @@ regions:
         euvoc: http://eurovoc.europa.eu/3387
         iso3166-2: ES-RI
       names:
-        - name: Autonomous Community Rioja
-          sources:
-            - name: euvoc
-              languages: [en]
-              value: Autonomous Community of la Rioja
-              type: alternative
         - name: Larjoha
           sources:
             - name: euvoc
@@ -1980,6 +1780,10 @@ regions:
             - name: euvoc
               languages: [de, es, et, hr, it, nl, pt, sk]
               value: La Rioja
+            - name: euvoc
+              languages: [en]
+              value: Autonomous Community of la Rioja
+              type: alternative
             - name: euvoc
               languages: [cs, da, en, fi, fr, hu, lt, mt, pl, ro, sl, sv]
             - name: iso3166-2
@@ -2077,19 +1881,113 @@ regions:
               languages: [es]
     
 
-    # Valenciana, Comunidad
+    # Valencia
     - codes:
+        euvoc: http://eurovoc.europa.eu/3391
         iso3166-2: ES-VC
       names:
-        - name: Valenciana, Comunidad
+        - name: Autonomna Valencija
           sources:
-            - name: iso3166-2
+            - name: euvoc
+              languages: [hr]
+              value: Autonomna zajednica Valencija
+        - name: Comunitatea Valenciei
+          sources:
+            - name: euvoc
+              languages: [ro]
+        - name: Komuniteti Valencias
+          sources:
+            - name: euvoc
+              languages: [sq]
+              value: Komuniteti i Valencias
+        - name: Valence
+          sources:
+            - name: euvoc
+              languages: [fr]
+              value: communauté de Valence
+        - name: Valencia
+          sources:
+            - name: euvoc
+              languages: [de, en, et, it, nl, sk, sv]
+        - name: Valencia-regionen
+          sources:
+            - name: euvoc
+              languages: [da]
+        - name: Valencian
+          sources:
+            - name: euvoc
+              languages: [en]
+              value: Valencian Community
+              type: alternative
+            - name: euvoc
+              languages: [fi]
+              value: Valencian yhteisö
+        - name: Valenciana
+          sources:
+            - name: euvoc
               languages: [es]
-        - name: Valenciana, Comunitat
-          sources:
+              value: Comunidad Valenciana
             - name: iso3166-2
               languages: [ca]
               value: Valenciana, Comunitat*
+            - name: iso3166-2
+              languages: [es]
+              value: Valenciana, Comunidad
+        - name: Valencie
+          sources:
+            - name: euvoc
+              languages: [cs]
+              value: město Valencie
+        - name: Valensija
+          sources:
+            - name: euvoc
+              languages: [lt]
+        - name: Valensijas
+          sources:
+            - name: euvoc
+              languages: [lv]
+              value: Valensijas kopiena
+        - name: Valenzja
+          sources:
+            - name: euvoc
+              languages: [mt]
+        - name: Valença
+          sources:
+            - name: euvoc
+              languages: [pt]
+              value: Comunidade de Valença
+        - name: Walencja
+          sources:
+            - name: euvoc
+              languages: [pl]
+        - name: skupnost Valencia
+          sources:
+            - name: euvoc
+              languages: [sl]
+              value: avtonomna skupnost Valencia
+        - name: valenciai
+          sources:
+            - name: euvoc
+              languages: [hu]
+              value: valenciai közösség
+        - name: της Βαλέντσια
+          sources:
+            - name: euvoc
+              languages: [el]
+              value: Κοινότητα της Βαλέντσια
+        - name: Валенсия
+          sources:
+            - name: euvoc
+              languages: [bg]
+        - name: Општина Валенсија
+          sources:
+            - name: euvoc
+              languages: [sr]
+        - name: Шпанска Покраина Валенсија
+          sources:
+            - name: euvoc
+              languages: [mk]
+              value: Шпанска Автономна Покраина Валенсија
     
 
     # Valladolid
